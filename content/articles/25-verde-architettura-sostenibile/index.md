@@ -57,42 +57,52 @@ Voi cosa scegliereste fra un edificio come questo, adorno di centinaia di piante
 
 ### Qual è la consapevolezza di Torino nei confronti dell'ambiente, secondo Lei?
 
-> "Torino si è candidata ad essere una Smart City e sta facendo del suo meglio per diventare una città intelligente. 
-  
-   Purtroppo, anche in questo caso, ciò che conta sono gli investimenti concreti che si fanno, ed è un momento di fatica. Nonostante tutto, per fortuna, Torino aveva ed ha un grande patrimonio verde, dentro e fuori dalla città, che altre realtà non possiedono, e si è dotata, negli anni, di strumenti legislativi e regolamenti edilizi che spingono nella giusta direzione di rispetto e cura dell'ambiente. 
-  
-  Quello che deve ancora essere fatto, tuttavia, è un vero cambiamento di obiettivi per la salvaguardia ed il miglioramento della qualità ambientale. 
-  
-  La città vede ancora l'attività edilizia e, quindi, le nuove costruzioni, come un'occasione per incamerare denari. Bisogna cambiare registro ed imparare a *guadagnare dalla sottrazione del costruito*. 
-  
-  I nuovi piani di sviluppo di Torino vedono la creazione di altri densi quartieri abitati e ciò, a mio avviso, è una direzione che, ormai, si è rivelata sbagliata per una città che vuole essere Smart. 
-  
-  La qualità della nostra vita dipende anche dalla qualità dell'ambiente in cui viviamo: città o territori costruiti, che il pensiero comune ritiene essere esempi di contemporaneità e di innovazione, hanno rivelato di avere una qualità della vita e del loro ambiente costruito pessime. 
-  
-  Le città cresciute a dismisura sono diventate invivibili anche a causa dell'inquinamento, ed ora cercano di correre ai ripari. Torino, che ha ancora una dimensione umana in rapporto ad altre città del mondo, non deve rincorrere, a mio avviso, modelli di sviluppo che altra città hanno già abbandonato. 
-  
-  Credo che i recenti interventi di creazione di edifici alti siano stati negativi, ma, soprattutto, non siano ciò che Torino deve perseguire. 
-  
-  È sempre questione di obiettivi, di punti di vista e di visioni. La scelta di quale possa essere la strada giusta da percorrere è in funzione dell'obiettivo che si vuole raggiungere e, nel tempo, gli obiettivi cambiano: le strade che sembravano giuste, ora sembrano sbagliate".
+> "Torino si è candidata ad essere una Smart City e sta facendo del suo meglio per diventare una città intelligente.
+>
+> Purtroppo, anche in questo caso, ciò che conta sono gli investimenti concreti che si fanno, ed è un momento di fatica. Nonostante tutto, per fortuna, Torino aveva ed ha un grande patrimonio verde, dentro e fuori dalla città, che altre realtà non possiedono, e si è dotata, negli anni, di strumenti legislativi e regolamenti edilizi che spingono nella giusta direzione di rispetto e cura dell'ambiente. >
+> Quello che deve ancora essere fatto, tuttavia, è un vero cambiamento di obiettivi per la salvaguardia ed il miglioramento della qualità ambientale. 
+> 
+> La città vede ancora l'attività edilizia e, quindi, le nuove costruzioni, come un'occasione per incamerare denari. Bisogna cambiare registro ed imparare a *guadagnare dalla sottrazione del costruito*. 
+>
+> I nuovi piani di sviluppo di Torino vedono la creazione di altri densi quartieri abitati e ciò, a mio avviso, è una direzione che, ormai, si è rivelata sbagliata per una città che vuole essere Smart. 
+> 
+> La qualità della nostra vita dipende anche dalla qualità dell'ambiente in cui viviamo: città o territori costruiti, che il pensiero comune ritiene essere esempi di contemporaneità e di innovazione, hanno rivelato di avere una qualità della vita e del loro ambiente costruito pessime. 
+>
+> Le città cresciute a dismisura sono diventate invivibili anche a causa dell'inquinamento, ed ora cercano di correre ai ripari. Torino, che ha ancora una dimensione umana in rapporto ad altre città del mondo, non deve rincorrere, a mio avviso, modelli di sviluppo che altra città hanno già abbandonato. 
+> Credo che i recenti interventi di creazione di edifici alti siano stati negativi, ma, soprattutto, non siano ciò che Torino deve perseguire. 
+>
+> È sempre questione di obiettivi, di punti di vista e di visioni. La scelta di quale possa essere la strada giusta da percorrere è in funzione dell'obiettivo che si vuole raggiungere e, nel tempo, gli obiettivi cambiano: le strade che sembravano giuste, ora sembrano sbagliate".
 
 ![25 verde](./25-verde-017.jpg)
 
-## Da quali necessità nasce "25 verde" e quali obiettivi si prefigge?
+### Da quali necessità nasce "25 verde" e quali obiettivi si prefigge?
 
-"Tutti noi abbiamo sempre desiderato abitare in mezzo al verde ed in mezzo alla natura. 
-Noi umani siamo parte della natura e l'ambiente costruito in cui, spesso, siamo costretti a vivere, ci sta stretto. Da sempre cerchiamo il luogo ideale in cui il connubio uomo-natura si realizzi. 
-Purtroppo, però, dobbiamo fare i conti con la realtà ed il più delle volte dobbiamo abitare luoghi che sono molto lontani dalle nostre aspirazioni; le nostre città sono molto costruite e le porzioni metropolitane sorte dopo la seconda guerra sono diventate veramente invivibili. C'è la tendenza, tutta innaturale, a costruire in altezza, spinti solo da una speculazione economica anziché da un reale bisogno. 
-Tutti noi vorremmo abitare in mezzo al verde, alla natura, con grandi terrazze in cui prendere il sole e poter godere dello spazio esterno. Ma non sempre questo è possibile. 
-Molte volte dobbiamo costruire delle case, com'è capitato per il *25 verde*, in aree urbane già molto degradate e compromesse in cui gli affacci esterni sono deprimenti e non mettono la voglia di vivere. 
-L'area in cui è stato costruito il *25 verde* è proprio una di queste zone: una zona ex industriale della città (in questi quartieri è nata la prima fabbrica [FIAT](http://www.fiat.com)) dove gli affacci guardano su edifici industriali dismessi, retri di case che hanno l'affaccio sull'altro lato, ecc. 
-Questa area del *25 verde* è molto vicina al fiume, al [Parco del Valentino](http://www.comune.torino.it/verdepubblico/patrimonioverde/parchi-giardini/valentino/valentino.shtml), alla splendida collina torinese, ma in questo isolato urbano non c'è il parco, la collina, il fiume, il verde. Solo affacci su aree industriali e retri delle case. 
-Allora, anzichè costruire un edificio, si è cercato di realizzare un bosco con le case tra gli alberi. Dapprima sono giunti gli alberi e poi, dove questi lasciavano lo spazio, gli spazi per abitare. 
-È un progetto che vuole essere introverso, per negare il contesto che non ha nessun interesse: dove il verde è il padrone e serve come frontiera, quinta di transizione tra esterno ed interno, dove il verde è l'involucro dentro il quale ci si può sentire protetti ed immersi. 
-Ecco perchè gli alberi (200, tra piccoli e grandi!). E poi il verde cresce, cambia, si evolve, segue il ritmo delle stagioni, non è mai uguale, proprio come noi che facciamo parte della natura. 
-Il committente aveva questa area fabbricabile e non un'altra. Anche io, a primo acchito, ho trovato che la zona fosse un po' squallida, tuttavia ho colto la sfida, ed ora chi ci abita è contentissimo perché si sente parte di un organismo, perché è entrato in sintonia con il verde forte e massiccio di questo intervento e ne ha apprezzato il valore e le potenzialità. 
-È un progetto studiato in funzione del benessere degli abitanti, in modo che siano più vicini alla natura, avvolti in essa. 
-Torino, come Amburgo e Berlino, ha molti spazi verdi bellissimi e molto frequentati, ha la collina verde a ridosso della città proprio come Amburgo. 
-Dal momento che non tutti possono abitare in collina, possiamo fare qualcosa per migliorare la qualità della vita in città. Questa è una possibilità".
+> "Tutti noi abbiamo sempre desiderato abitare in mezzo al verde ed in mezzo alla natura. 
+>
+> Noi umani siamo parte della natura e l'ambiente costruito in cui, spesso, siamo costretti a vivere, ci sta stretto. Da sempre cerchiamo il luogo ideale in cui il connubio uomo-natura si realizzi. 
+>
+> Purtroppo, però, dobbiamo fare i conti con la realtà ed il più delle volte dobbiamo abitare luoghi che sono molto lontani dalle nostre aspirazioni; le nostre città sono molto costruite e le porzioni metropolitane sorte dopo la seconda guerra sono diventate veramente invivibili. C'è la tendenza, tutta innaturale, a costruire in altezza, spinti solo da una speculazione economica anziché da un reale bisogno. 
+>
+> Tutti noi vorremmo abitare in mezzo al verde, alla natura, con grandi terrazze in cui prendere il sole e poter godere dello spazio esterno. Ma non sempre questo è possibile.
+>
+> Molte volte dobbiamo costruire delle case, com'è capitato per il *25 verde*, in aree urbane già molto degradate e compromesse in cui gli affacci esterni sono deprimenti e non mettono la voglia di vivere.
+>
+> L'area in cui è stato costruito il *25 verde* è proprio una di queste zone: una zona ex industriale della città (in questi quartieri è nata la prima fabbrica [FIAT](http://www.fiat.com)) dove gli affacci guardano su edifici industriali dismessi, retri di case che hanno l'affaccio sull'altro lato, ecc.
+>
+> Questa area del *25 verde* è molto vicina al fiume, al [Parco del Valentino](http://www.comune.torino.it/verdepubblico/patrimonioverde/parchi-giardini/valentino/valentino.shtml), alla splendida collina torinese, ma in questo isolato urbano non c'è il parco, la collina, il fiume, il verde. Solo affacci su aree industriali e retri delle case. 
+>
+> Allora, anzichè costruire un edificio, si è cercato di realizzare un bosco con le case tra gli alberi. Dapprima sono giunti gli alberi e poi, dove questi lasciavano lo spazio, gli spazi per abitare. 
+>
+> È un progetto che vuole essere introverso, per negare il contesto che non ha nessun interesse: dove il verde è il padrone e serve come frontiera, quinta di transizione tra esterno ed interno, dove il verde è l'involucro dentro il quale ci si può sentire protetti ed immersi.
+>
+> Ecco perchè gli alberi (200, tra piccoli e grandi!). E poi il verde cresce, cambia, si evolve, segue il ritmo delle stagioni, non è mai uguale, proprio come noi che facciamo parte della natura.
+> 
+> Il committente aveva questa area fabbricabile e non un'altra. Anche io, a primo acchito, ho trovato che la zona fosse un po' squallida, tuttavia ho colto la sfida, ed ora chi ci abita è contentissimo perché si sente parte di un organismo, perché è entrato in sintonia con il verde forte e massiccio di questo intervento e ne ha apprezzato il valore e le potenzialità.
+>
+> È un progetto studiato in funzione del benessere degli abitanti, in modo che siano più vicini alla natura, avvolti in essa. 
+Torino, come Amburgo e Berlino, ha molti spazi verdi bellissimi e molto frequentati, ha la collina verde a ridosso della città proprio come Amburgo.
+>
+> Dal momento che non tutti possono abitare in collina, possiamo fare qualcosa per migliorare la qualità della vita in città. Questa è una possibilità".
 
 ![25 verde](./25-verde-096.jpg)
 
