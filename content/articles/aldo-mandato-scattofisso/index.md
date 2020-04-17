@@ -7,18 +7,13 @@ category:
     - Mobilità sostenibile
 tags:
     - Bicicletta
-    - bike
+    - Bike
     - Green lifestyle
     - Sostenibilità
-    - trasporti
-
-
-_yoast_wpseo_primary_category:
-    - '69'
+    - Trasporti
 ---
 
-
-<div class="wp-caption alignright" id="attachment_212" style="width: 310px">[![Aldo Mandato](../uploads/2014/11/aldo-iniziale-300x200.jpg)](https://myhumus.com/wp-content/uploads/2014/11/aldo-iniziale.jpg)Aldo Mandato.
+[![Aldo Mandato](../uploads/2014/11/aldo-iniziale-300x200.jpg)](https://myhumus.com/wp-content/uploads/2014/11/aldo-iniziale.jpg)Aldo Mandato.
 
 Dimmi che garage hai e ti dirò chi sei.
 
@@ -26,15 +21,17 @@ Diciamola come va detta: ognuno, del proprio garage, ne fa ciò che vuole.
 
 Mio padre, ad esempio, l'ha trasformato nella classica officina dell'allegro tuttofare; mio fratello, invece, l'ha reso una mini-palestra; Steve Jobs, insieme all'amico e socio Steve Wozniak, ne fece un laboratorio informatico in cui mettere a punto l'Apple I; Jack O'Neill, nel 1952, lo convertì in un surf shop della Great Highway di San Francisco.
 
-Pensate a quanti strumenti di uso quotidiano non ci sarebbero senza quei fantastici garage che ne hanno visto il loro concepimento...e a quanta musica non esisterebbe!
+Pensate a quanti strumenti di uso quotidiano non ci sarebbero senza quei fantastici garage che ne hanno visto il loro concepimento... e a quanta musica non esisterebbe!
 
 Il *garage rock* ne è un esempio: questa forma di rock'n roll divenne molto famosa negli USA e in Canada tra il 1963 e il 1967 e deve il suo nome ai molti gruppi dell'epoca che sfruttavano il garage come sala prove.
 
-<div class="wp-caption alignright" id="attachment_656" style="width: 310px">[![photo credit: mikecogh via photopin cc](../uploads/2014/11/tumblr_inline_negmmjomdP1sy6b45-300x183.jpg)](https://myhumus.com/wp-content/uploads/2014/11/tumblr_inline_negmmjomdP1sy6b45.jpg)photo credits: [mikecogh](https://www.flickr.com/photos/mikecogh/8865883592/) via [photopin cc](http://photopin.com).
+[![photo credit: mikecogh via photopin cc](../uploads/2014/11/tumblr_inline_negmmjomdP1sy6b45-300x183.jpg)](https://myhumus.com/wp-content/uploads/2014/11/tumblr_inline_negmmjomdP1sy6b45.jpg)photo credits: [mikecogh](https://www.flickr.com/photos/mikecogh/8865883592/) via [photopin cc](http://photopin.com).
 
 Qualora non ne foste al corrente sappiate che, in garage, o comunque in un contesto indoor, potreste anche allestire un piccolo orticello.
 
-Se siete scettici e non mi credete, vi consiglio di leggere quanto hanno ideato i quattro ragazzi della start up italiana Bulbo ([www.bulbolight.com](http://www.bulbolight.com/it/)). Sempre per restare in tema, vi suggerisco di documentarvi anche a proposito di Nicolas Barreau e di Jules Charbonnet, artefici del sistema Volet Végétal ([www.barreaucharbonnet.com](http://barreaucharbonnet.com/30502/382068/design/volet-vgtal)).
+Se siete scettici e non mi credete, vi consiglio di leggere quanto hanno ideato i quattro ragazzi della start up italiana Bulbo ([www.bulbolight.com](http://www.bulbolight.com/it/)).
+
+Sempre per restare in tema, vi suggerisco di documentarvi anche a proposito di Nicolas Barreau e di Jules Charbonnet, artefici del sistema Volet Végétal ([www.barreaucharbonnet.com](http://barreaucharbonnet.com/30502/382068/design/volet-vgtal)).
 
 Della serie, il mondo è bello perché è vario.
 
@@ -42,7 +39,7 @@ Anche il mio prossimo intervistato utilizza il proprio garage in modo alternativ
 
 So che siete curiosi di conoscerlo, quindi non vi faccio attendere un solo minuto di più: ladies and gentlemen, ecco a voi Aldo Mandato ([www.almancicli.com](http://almancicli.com)).
 
-***Ciao Aldo, grazie di aver accettato la mia intervista. Come nasce la tua avventura? Quando sei diventato un telaista?***
+### Ciao Aldo, grazie di aver accettato la mia intervista. Come nasce la tua avventura? Quando sei diventato un telaista?
 
 "Ciao Anna! Sono sempre stato appassionato di sport: pratico arti marziali a livello agonistico dall'età di 7 anni e, a livello amatoriale, mi sono cimentato anche in altri sport come, ad esempio, il calcio, lo skateboard, lo snowboard, il windsurf e la pallavolo.
 
