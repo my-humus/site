@@ -27,16 +27,16 @@ Siamo tutti d'accordo sul fatto che vivere in un contesto 100% naturale sia quan
 Tuttavia, esistono circostanze e momenti della vita in cui questo, purtroppo, risulterebbe un tantino complicato...
 Voi cosa scegliereste fra un edificio come questo, adorno di centinaia di piante e di piccoli arbusti, energeticamente efficiente e con un bel tetto verde su cui realizzare un orto urbano, ed il classico palazzo alto e grigio, privo di qualsiasi forma di vita?
 
-## Salve arch. Pia, benvenuto in MyHumus. Mi dica: cosa significa essere architetto al giorno d'oggi?
+### Salve arch. Pia, benvenuto in MyHumus. Mi dica: cosa significa essere architetto al giorno d'oggi?
 
-"Ciao Anna! Potrei offrire molte risposte a questa domanda, a seconda di chi si considera come architetto. 
-Certamente, oggi, moltissimi architetti soffrono una grande crisi lavorativa e, come dice qualcuno, molti di loro fanno i professionisti per non dire che sono disoccupati. 
-Dall'altra parte ci sono architetti che si sono inventati i lavori più disparati e questo è un grande pregio, forse, delle scuole di architettura, quello di creare figure adatte a tutte le stagioni, *open mind*. 
-Ci si chiede se sia logico e giusto continuare a formare delle figure, gli architetti, per l'appunto, senza nessuna possibilità reale di praticare la professione vera. 
-C'è un grande dibattito all'interno delle università sul ruolo della formazione universitaria oggi. Forse è meglio non illudere i giovani, che comunque non si illudono così facilmente, su un futuro di professionalità progettuale che quasi sicuramente non avranno. 
-Le università stanno formando giovani architetti che sognano mondi impossibili, progetti irrealizzabili in quanto privi di ogni fondamento reale e concreto. La facilità di reperire immagini di architetture e di oggetti dell'architettura in spettacolo icona distintiva ha spianato la strada all'uniformità progettuale indifferenziata ed alla "star" architettura. 
-I progetti sicuramente più interessanti non sono nell'architettura *spettacolistica*, ma nelle architetture "minori" di architetti che hanno ancora un legame con il territorio e con la propria cultura. 
-L'architetto è sempre stato un traduttore in forme teoricamente "abitabili" del sentire comune, ha sempre interpretato, come fanno tutte le altre forme di lavoro creativo, un bisogno della società, utilizzando i mezzi che questa ha a disposizione per soddisfare i bisogni indotti da essa stessa".
+> "Ciao Anna! Potrei offrire molte risposte a questa domanda, a seconda di chi si considera come architetto.
+> Certamente, oggi, moltissimi architetti soffrono una grande crisi lavorativa e, come dice qualcuno, molti di loro fanno i professionisti per non dire che sono disoccupati. 
+> Dall'altra parte ci sono architetti che si sono inventati i lavori più disparati e questo è un grande pregio, forse, delle scuole di architettura, quello di creare figure adatte a tutte le stagioni, *open mind*.
+> Ci si chiede se sia logico e giusto continuare a formare delle figure, gli architetti, per l'appunto, senza nessuna possibilità reale di praticare la professione vera. 
+> C'è un grande dibattito all'interno delle università sul ruolo della formazione universitaria oggi. Forse è meglio non illudere i giovani, che comunque non si illudono così facilmente, su un futuro di professionalità progettuale che quasi sicuramente non avranno. 
+> Le università stanno formando giovani architetti che sognano mondi impossibili, progetti irrealizzabili in quanto privi di ogni fondamento reale e concreto. La facilità di reperire immagini di architetture e di oggetti dell'architettura in spettacolo icona distintiva ha spianato la strada all'uniformità progettuale indifferenziata ed alla "star" architettura. 
+> I progetti sicuramente più interessanti non sono nell'architettura *spettacolistica*, ma nelle architetture "minori" di architetti che hanno ancora un legame con il territorio e con la propria cultura. 
+> L'architetto è sempre stato un traduttore in forme teoricamente "abitabili" del sentire comune, ha sempre interpretato, come fanno tutte le altre forme di lavoro creativo, un bisogno della società, utilizzando i mezzi che questa ha a disposizione per soddisfare i bisogni indotti da essa stessa".
 
 ## Qual è la consapevolezza di Torino nei confronti dell'ambiente, secondo Lei?
 
