@@ -33,9 +33,9 @@ Attualmente, questo marchio esporta i suoi prodotti in tutto il mondo, da San Pa
 
 Che dire, quella sera ci hanno visto davvero giusto...
 
-***Ciao, Stefano! Quando e come nasce Abici?***
+### Ciao, Stefano! Quando e come nasce Abici?
 
-"Ciao Anna! L'idea di Abici, come hai appena anticipato, nasce 10 anni fa da una serata in trattoria passata tra amici davanti ad un piatto di tortelli, una bottiglia di lambrusco e consultando vecchi cataloghi artigiani degli anni '50.
+"*Ciao Anna*! L'idea di Abici, come hai appena anticipato, nasce 10 anni fa da una serata in trattoria passata tra amici davanti ad un piatto di tortelli, una bottiglia di lambrusco e consultando vecchi cataloghi artigiani degli anni '50.
 
 Abici è, a tutti gli effetti, un'azienda di famiglia alla cui base c'è un legame forte e solido, creativo e sanguigno: oltre a me, infatti, gli altri 2 soci fondatori dell'azienda sono Dario Gozzi (cognato e amico d'infanzia) e suo fratello Cristiano".
 
