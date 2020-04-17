@@ -11,20 +11,30 @@ tags:
   - Sostenibilità
 ---
 
-Amici lettori, eccoci di ritorno dalle vacanze! 
+Amici lettori, eccoci di ritorno dalle vacanze!
+
 Prima di parlare dell'argomento di questa settimana, sento di volervi dire che mi siete mancati. Dico sul serio. 
-Un'altra cosa che voglio dirvi, è la seguente: MyHumus torna alla ribalta più carico che mai, ci sono tanti nuovi volti e progetti che attendono di "salire sul palco" per presentarsi e raccontarsi. 
-Siete curiosi? Non state più nella pelle, vero? Lo so. 
-Inauguro questo nuovo ciclo di articoli parlandovi di architettura e, nello specifico, di un particolarissimo edificio torinese che ha attirato la mia attenzione per la sua capacità di coniugare architettura e natura insieme. 
-Qualcosa di simile fu affrontato lo scorso dicembre in occasione dell'intervista all'architetto [Stefano Boeri](http://www.stefanoboeriarchitetti.net/) a proposito del suo *[Bosco Verticale](https://myhumus.com/bosco-verticale/)* a Milano, ricordate? 
+
+Un'altra cosa che voglio dirvi, è la seguente: MyHumus torna alla ribalta più carico che mai, ci sono tanti nuovi volti e progetti che attendono di "salire sul palco" per presentarsi e raccontarsi.
+
+Siete curiosi? Non state più nella pelle, vero? Lo so.
+
+Inauguro questo nuovo ciclo di articoli parlandovi di architettura e, nello specifico, di un particolarissimo edificio torinese che ha attirato la mia attenzione per la sua capacità di coniugare architettura e natura insieme.
+
+Qualcosa di simile fu affrontato lo scorso dicembre in occasione dell'intervista all'architetto [Stefano Boeri](http://www.stefanoboeriarchitetti.net/) a proposito del suo *[Bosco Verticale](https://myhumus.com/bosco-verticale/)* a Milano, ricordate?
+
 Questa settimana è la volta di *[25 verde](http://www.25verde.it)*, il progetto dell'architetto [Luciano Pia](http://www.lucianopia.it).
 
 ![Luciano Pia](./luciano-pia-2011-08.jpg)
 
-Questo edificio a più piani, in via Chiabrera 25 a Torino, ospita 63 appartamenti, tutti diversi fra loro, e rappresenta una bella sfida di riqualificazione di un ex quartiere industriale caratterizzato da affacci eterogenei. 
-Quando si vorrebbe uscire di casa e andare al lavoro in kayak anziché scendere gli scalini della metropolitana, quando si desidererebbe salire su una barchetta a remi al posto di fermare un taxi, quando si preferirebbe vedere sbuffare un piccolo e isolato geyser invece della fuoriuscita dei fumi dai tombini (*sì,* *questa fa molto "New York style"!*) e quando si snobberebbe volentieri l'ascensore in favore di una bella e salda liana, forse è giunto il momento di fare qualcosa. 
-Siamo tutti d'accordo sul fatto che vivere in un contesto 100% naturale sia quanto di meglio si possa desiderare per il proprio benessere psicofisico e per quello dei nostri cari, ed io, fidatevi, sono la prima che andrebbe a vivere in una casa sull'albero o sull'isola che non c'è! 
+Questo edificio a più piani, in via Chiabrera 25 a Torino, ospita 63 appartamenti, tutti diversi fra loro, e rappresenta una bella sfida di riqualificazione di un ex quartiere industriale caratterizzato da affacci eterogenei.
+
+Quando si vorrebbe uscire di casa e andare al lavoro in kayak anziché scendere gli scalini della metropolitana, quando si desidererebbe salire su una barchetta a remi al posto di fermare un taxi, quando si preferirebbe vedere sbuffare un piccolo e isolato geyser invece della fuoriuscita dei fumi dai tombini (*sì,* *questa fa molto "New York style"!*) e quando si snobberebbe volentieri l'ascensore in favore di una bella e salda liana, forse è giunto il momento di fare qualcosa.
+
+Siamo tutti d'accordo sul fatto che vivere in un contesto 100% naturale sia quanto di meglio si possa desiderare per il proprio benessere psicofisico e per quello dei nostri cari, ed io, fidatevi, sono la prima che andrebbe a vivere in una casa sull'albero o sull'isola che non c'è!
+
 Tuttavia, esistono circostanze e momenti della vita in cui questo, purtroppo, risulterebbe un tantino complicato...
+
 Voi cosa scegliereste fra un edificio come questo, adorno di centinaia di piante e di piccoli arbusti, energeticamente efficiente e con un bel tetto verde su cui realizzare un orto urbano, ed il classico palazzo alto e grigio, privo di qualsiasi forma di vita?
 
 ### Salve arch. Pia, benvenuto in MyHumus. Mi dica: cosa significa essere architetto al giorno d'oggi?
@@ -45,17 +55,25 @@ Voi cosa scegliereste fra un edificio come questo, adorno di centinaia di piante
 >
 > L'architetto è sempre stato un traduttore in forme teoricamente "abitabili" del sentire comune, ha sempre interpretato, come fanno tutte le altre forme di lavoro creativo, un bisogno della società, utilizzando i mezzi che questa ha a disposizione per soddisfare i bisogni indotti da essa stessa".
 
-## Qual è la consapevolezza di Torino nei confronti dell'ambiente, secondo Lei?
+### Qual è la consapevolezza di Torino nei confronti dell'ambiente, secondo Lei?
 
-"Torino si è candidata ad essere una Smart City e sta facendo del suo meglio per diventare una città intelligente. 
-Purtroppo, anche in questo caso, ciò che conta sono gli investimenti concreti che si fanno, ed è un momento di fatica. Nonostante tutto, per fortuna, Torino aveva ed ha un grande patrimonio verde, dentro e fuori dalla città, che altre realtà non possiedono, e si è dotata, negli anni, di strumenti legislativi e regolamenti edilizi che spingono nella giusta direzione di rispetto e cura dell'ambiente. 
-Quello che deve ancora essere fatto, tuttavia, è un vero cambiamento di obiettivi per la salvaguardia ed il miglioramento della qualità ambientale. 
-La città vede ancora l'attività edilizia e, quindi, le nuove costruzioni, come un'occasione per incamerare denari. Bisogna cambiare registro ed imparare a *guadagnare dalla sottrazione del costruito*. 
-I nuovi piani di sviluppo di Torino vedono la creazione di altri densi quartieri abitati e ciò, a mio avviso, è una direzione che, ormai, si è rivelata sbagliata per una città che vuole essere Smart. 
-La qualità della nostra vita dipende anche dalla qualità dell'ambiente in cui viviamo: città o territori costruiti, che il pensiero comune ritiene essere esempi di contemporaneità e di innovazione, hanno rivelato di avere una qualità della vita e del loro ambiente costruito pessime. 
-Le città cresciute a dismisura sono diventate invivibili anche a causa dell'inquinamento, ed ora cercano di correre ai ripari. Torino, che ha ancora una dimensione umana in rapporto ad altre città del mondo, non deve rincorrere, a mio avviso, modelli di sviluppo che altra città hanno già abbandonato. 
-Credo che i recenti interventi di creazione di edifici alti siano stati negativi, ma, soprattutto, non siano ciò che Torino deve perseguire. 
-È sempre questione di obiettivi, di punti di vista e di visioni. La scelta di quale possa essere la strada giusta da percorrere è in funzione dell'obiettivo che si vuole raggiungere e, nel tempo, gli obiettivi cambiano: le strade che sembravano giuste, ora sembrano sbagliate".
+> "Torino si è candidata ad essere una Smart City e sta facendo del suo meglio per diventare una città intelligente. 
+  
+   Purtroppo, anche in questo caso, ciò che conta sono gli investimenti concreti che si fanno, ed è un momento di fatica. Nonostante tutto, per fortuna, Torino aveva ed ha un grande patrimonio verde, dentro e fuori dalla città, che altre realtà non possiedono, e si è dotata, negli anni, di strumenti legislativi e regolamenti edilizi che spingono nella giusta direzione di rispetto e cura dell'ambiente. 
+  
+  Quello che deve ancora essere fatto, tuttavia, è un vero cambiamento di obiettivi per la salvaguardia ed il miglioramento della qualità ambientale. 
+  
+  La città vede ancora l'attività edilizia e, quindi, le nuove costruzioni, come un'occasione per incamerare denari. Bisogna cambiare registro ed imparare a *guadagnare dalla sottrazione del costruito*. 
+  
+  I nuovi piani di sviluppo di Torino vedono la creazione di altri densi quartieri abitati e ciò, a mio avviso, è una direzione che, ormai, si è rivelata sbagliata per una città che vuole essere Smart. 
+  
+  La qualità della nostra vita dipende anche dalla qualità dell'ambiente in cui viviamo: città o territori costruiti, che il pensiero comune ritiene essere esempi di contemporaneità e di innovazione, hanno rivelato di avere una qualità della vita e del loro ambiente costruito pessime. 
+  
+  Le città cresciute a dismisura sono diventate invivibili anche a causa dell'inquinamento, ed ora cercano di correre ai ripari. Torino, che ha ancora una dimensione umana in rapporto ad altre città del mondo, non deve rincorrere, a mio avviso, modelli di sviluppo che altra città hanno già abbandonato. 
+  
+  Credo che i recenti interventi di creazione di edifici alti siano stati negativi, ma, soprattutto, non siano ciò che Torino deve perseguire. 
+  
+  È sempre questione di obiettivi, di punti di vista e di visioni. La scelta di quale possa essere la strada giusta da percorrere è in funzione dell'obiettivo che si vuole raggiungere e, nel tempo, gli obiettivi cambiano: le strade che sembravano giuste, ora sembrano sbagliate".
 
 ![25 verde](./25-verde-017.jpg)
 
