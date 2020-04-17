@@ -19,7 +19,7 @@ Inauguro questo nuovo ciclo di articoli parlandovi di architettura e, nello spec
 Qualcosa di simile fu affrontato lo scorso dicembre in occasione dell'intervista all'architetto [Stefano Boeri](http://www.stefanoboeriarchitetti.net/) a proposito del suo *[Bosco Verticale](https://myhumus.com/bosco-verticale/)* a Milano, ricordate? 
 Questa settimana è la volta di *[25 verde](http://www.25verde.it)*, il progetto dell'architetto [Luciano Pia](http://www.lucianopia.it).
 
-![Luciano Pia](./luciano-pia-ottobre-2011.jpg)
+![Luciano Pia](./luciano-pia-2011-08.jpg)
 
 Questo edificio a più piani, in via Chiabrera 25 a Torino, ospita 63 appartamenti, tutti diversi fra loro, e rappresenta una bella sfida di riqualificazione di un ex quartiere industriale caratterizzato da affacci eterogenei. 
 Quando si vorrebbe uscire di casa e andare al lavoro in kayak anziché scendere gli scalini della metropolitana, quando si desidererebbe salire su una barchetta a remi al posto di fermare un taxi, quando si preferirebbe vedere sbuffare un piccolo e isolato geyser invece della fuoriuscita dei fumi dai tombini (*sì,* *questa fa molto "New York style"!*) e quando si snobberebbe volentieri l'ascensore in favore di una bella e salda liana, forse è giunto il momento di fare qualcosa. 
