@@ -90,7 +90,4 @@ Purtroppo ci sono casi in cui non è possibile ricorrere al km zero. Penso, ad e
 
 Già, non è affatto male. Brava Lucia!
 
-> Quanta voglia hai di leggere un altro articolo di MyHumus su una scala da 1 a 10? Se la tua risposta è 11, allora ti accontento subito: le scarpe artigianali di [Ragioniamo con i piedi](https://myhumus.com/scarpe-artigianali-made-in-italy/), l'istruzione infantile proposta dallo studio di architetti [aut- -aut](https://myhumus.com/istruzione-infantile-ecologia/) e l'[alveare a km zero](https://myhumus.com/alveare-che-dice-si-km-zero/) di Eugenio. Leggili tutti!
-> 
-> Foto di copertina: [Dominik Martin](https://unsplash.com/@dominikmartin) via [Unsplash](https://unsplash.com).
-
+Foto di copertina: [Dominik Martin](https://unsplash.com/@dominikmartin) via [Unsplash](https://unsplash.com).
