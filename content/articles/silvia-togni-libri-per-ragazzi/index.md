@@ -1,24 +1,17 @@
 ---
-title: 'A Ravenna una Pigna tira l&#8217;altra&#8230;'
+title: "A Ravenna una Pigna tira l'altra..."
 date: '2014-03-18T00:00:46+00:00'
 description: ''
-featuredImage: ../uploads/2014/11/silvia-iniziale-150x150.jpg
+featuredImage: ./silvia.jpg
 category:
     - Ecoprogetti
 tags:
-    - 'libri per ragazzi'
+    - Libri per ragazzi
     - Natura
-    - storia
-
-
-_yoast_wpseo_primary_category:
-    - '68'
+    - Storia
 ---
 
-
 La pigna.
-
-<div class="wp-caption alignright" id="attachment_93" style="width: 310px">[![Silvia Togni](../uploads/2014/11/silvia-iniziale-300x200.jpg)](https://myhumus.com/wp-content/uploads/2014/11/silvia-iniziale.jpg)Silvia Togni.
 
 Che cosa rappresenta? Ci avete mai pensato?
 
@@ -44,7 +37,9 @@ Forse qualcuno di voi l'avrà già intuito: la protagonista di questa nuova inte
 
 In collaborazione con l'illustratore, graphic designer e naturalista Enrico Rambaldi, Silvia ha scritto due piccole guide di Ravenna, entrambe pubblicate dalla [Casa Editrice Longo](http://www.longo-editore.it).
 
-<div class="wp-caption alignright" id="attachment_306" style="width: 310px">[![Da sinistra: Enrico Rambaldi, Silvia Togni, Sauro Mattarelli (Fondazione del Monte di Bologna e Ravenna) ed Alfio Longo, l'editore (Ph. Giampiero Corelli)](../uploads/2014/03/foto-di-gruppo-300x205.jpg)](https://myhumus.com/wp-content/uploads/2014/03/foto-di-gruppo.jpg)Da sinistra: Enrico Rambaldi, Silvia Togni, Sauro Mattarelli (Fondazione del Monte di Bologna e Ravenna) ed Alfio Longo, l'editore (Ph. Giampiero Corelli).
+![Da sinistra: Enrico Rambaldi, Silvia Togni, Sauro Mattarelli (Fondazione del Monte di Bologna e Ravenna) ed Alfio Longo, l'editore (Ph. Giampiero Corelli)](./foto-di-gruppo.jpg)
+
+Da sinistra: Enrico Rambaldi, Silvia Togni, Sauro Mattarelli (Fondazione del Monte di Bologna e Ravenna) ed Alfio Longo, l'editore (Ph. Giampiero Corelli).
 
 Nella prima, "Una Pigna per Ravenna", Silvia veste i panni di una pigna travestita da Sherlock Holmes che diventa cicerone all'interno delle mura cittadine per raccontarne la storia attraverso i simbolismi nascosti; nel secondo libricino-guida, "A Ravenna una Pigna tira l'altra", la nostra pigna-cicerone ci conduce per mano all'interno del patrimonio naturale ravennate.
 
@@ -54,7 +49,7 @@ Come dicevo prima, "A Ravenna una Pigna tira l'altra" è un viaggio all'interno 
 
 Ciò che mi ha colpita di più, oltre alle fantastiche illustrazioni di Rambaldi, sono le curiosità che trapelano dalla sua lettura.
 
-<div class="wp-caption alignleft" id="attachment_415" style="width: 310px">[![La copertina di "A Ravenna una pigna tira l'altra", Longo Editore](../uploads/2014/03/copertina-libro-300x300.jpg)](https://myhumus.com/wp-content/uploads/2014/03/copertina-libro.jpg)La copertina di "A Ravenna una pigna tira l'altra", Longo Editore.
+![La copertina di "A Ravenna una pigna tira l'altra", Longo Editore](./copertina-libro.jpg)
 
 Ad esempio, leggendo il capitolo dedicato alle valli ho scoperto da dove deriva il termine "piallassa": *pija* e *lassa*, ovvero due verbi veneti che rimandano al movimento delle maree - l'acqua che viene dapprima 'presa' e poi 'rilasciata'. Non so voi, ma io non lo sapevo.
 
@@ -62,7 +57,7 @@ Nel capitolo in cui si parla delle saline, invece, ho scoperto che il termine "s
 
 "A Ravenna una Pigna tira l'altra" è un libricino capace di stupirti all'improvviso.
 
-Lo dimostra il fatto che, un momento prima, ti parla di piante, di bacche e di funghi...e quello subito dopo ti spiega che, giustamente, i funghi non sono né animali, né vegetali, ma esseri viventi appartenenti al regno dei Miceti.
+Lo dimostra il fatto che, un momento prima, ti parla di piante, di bacche e di funghi... e quello subito dopo ti spiega che, giustamente, i funghi non sono né animali, né vegetali, ma esseri viventi appartenenti al regno dei Miceti.
 
 E da qui è un attimo leggere a proposito dell'eroe greco Perseo che, in seguito ad un lungo viaggio, sfinito e assetato, si salvò la pelle bevendo l'acqua contenuta all'interno del cappello di un fungo per poi fondare, proprio in quel luogo e in virtù di quell'episodio, la città di Micene (non per niente, in greco, *mýkes* significa 'fungo').
 
@@ -70,63 +65,63 @@ Insomma, vedete quante cose si possono scoprire leggendo un libro su Ravenna? Ch
 
 Ovviamente, non potevo farmi scappare un'intervista a Silvia, penserete voi. Avete ragione, vi rispondo io.
 
-***Ciao Silvia! Che piacere ospitarti in MyHumus. Dunque, cominciamo a raccontare la tua storia partendo dagli esordi: perché sei diventata una guida turistica?***
+### Ciao Silvia! Che piacere ospitarti in MyHumus. Dunque, cominciamo a raccontare la tua storia partendo dagli esordi: perché sei diventata una guida turistica?
 
-"Ciao Anna! L'idea di fare la guida turistica nasce alla scuola elementare, quando una maestra lungimirante mi fa conoscere la storia della mia città e del suo territorio, così io comincio a 'prendere in ostaggio' amici e parenti e a trascinarli per chiese e mosaici.
+> Ciao Anna! L'idea di fare la guida turistica nasce alla scuola elementare, quando una maestra lungimirante mi fa conoscere la storia della mia città e del suo territorio, così io comincio a "prendere in ostaggio" amici e parenti e a trascinarli per chiese e mosaici.
+> 
+> Ma la conoscenza delle bellezze artistiche di Ravenna nasce molto prima, quando sono piccola e mia madre ha bisogno di trovare un posto tranquillo per lasciarmi libera di correre e di giocare.
+> 
+> All'epoca (e non sto parlando di cent'anni fa, per fortuna!) ancora non esistevano ZTL, piste ciclabili e parchi giochi per bambini. Così, inconsapevolmente, i polli sultani di Sant'Apollinare Nuovo e le colombine del Mausoleo di Galla Placidia sono diventati i miei primi compagni di giochi.
 
-Ma la conoscenza delle bellezze artistiche di Ravenna nasce molto prima, quando sono piccola e mia madre ha bisogno di trovare un posto tranquillo per lasciarmi libera di correre e di giocare.
+### Che cosa ami di più della storia di Ravenna?
 
-All'epoca (e non sto parlando di cent'anni fa, per fortuna!) ancora non esistevano ZTL, piste ciclabili e parchi giochi per bambini. Così, inconsapevolmente, i polli sultani di Sant'Apollinare Nuovo e le colombine del Mausoleo di Galla Placidia sono diventati i miei primi compagni di giochi".
+> Ravenna è una città antichissima, le sue origini si perdono nella notte dei tempi, per questo è piena di misteri che forse non saranno mai svelati e che la rendono ancora più affascinante (da anni, in occasione della Notte d'Oro, faccio le cosiddette "Passeggiate del Mistero").
+> 
+> Il suo "isolamento cosmico" le è valso, nei secoli, miseria e fortuna, ma anche delle peculiarità che la rendono unica al mondo: basti pensare al patrimonio musivo dei secc. V e VI, il più vasto e meglio conservato a livello mondiale.
+> 
+> Ma la cosa che più m'intriga della storia di Ravenna è che va sempre controcorrente: diventa capitale di un impero quando tutta Europa è allo sfacelo, è sofferente quando le meraviglie del Rinascimento impazzano ovunque... è una 'città-pigna', come mi piace definirla, cioè chiusa, dura, severa. Tuttavia, al suo interno, coltiva sempre la vita e la voglia di rinascere, proprio come la pigna fa con i suoi pinoli.
 
-***Che cosa ami di più della storia di Ravenna?***
+### Ora una domanda legata alle vie del centro storico di Ravenna: da quali "celebrità" del remoto passato sono state percorse e quali avvenimenti degni di nota hanno ospitato?
 
-"Ravenna è una città antichissima, le sue origini si perdono nella notte dei tempi, per questo è piena di misteri che forse non saranno mai svelati e che la rendono ancora più affascinante (da anni, in occasione della Notte d'Oro, faccio le cosiddette "Passeggiate del Mistero").
+> Su questa domanda potrei scrivere un libro intero o, in alternativa, parlare per qualche decina di ore, ma annoierei te e i lettori di questo blog.
+> 
+> Allora faccio prima a rimandarvi ai miei due libricini, in cui ho citato anche personaggi legati a Ravenna, quasi ignoti e spesso ignorati dai classici libri di storia; sì perché a me, da sempre, piace la storia non convenzionale, quella dei barbari illuminati come Teodorico e Drogdone, quella delle donne pittrici come Barbara Longhi e quella degli arcivescovi dalle larghe vedute come Rinaldo da Concorezzo, amico di Dante. Anch'io, come la mia città, vado sempre controcorrente.
+> 
+> Ci vuole coraggio, come ne ha avuto Ravenna, a resistere, per secoli, incastrata tra la terra e il mare, in balia delle acque e della subsidenza, ma alla fine il risultato ci guadagna in qualità.
 
-Il suo 'isolamento cosmico' le è valso, nei secoli, miseria e fortuna, ma anche delle peculiarità che la rendono unica al mondo: basti pensare al patrimonio musivo dei secc. V e VI, il più vasto e meglio conservato a livello mondiale.
+### Com'è nata l'idea di scrivere queste due guide illustrate e per quale motivo ti sei identificata in una pigna?
 
-Ma la cosa che più m'intriga della storia di Ravenna è che va sempre controcorrente: diventa capitale di un impero quando tutta Europa è allo sfacelo, è sofferente quando le meraviglie del Rinascimento impazzano ovunque...è una 'città-pigna', come mi piace definirla, cioè chiusa, dura, severa. Tuttavia, al suo interno, coltiva sempre la vita e la voglia di rinascere, proprio come la pigna fa con i suoi pinoli".
+> La Pigna è un simbolo antichissimo: si trova a quasi tutte le latitudini del globo e, ovunque, simboleggia la rinascita dopo la morte. Una sorta di fenice, insomma.
+> 
+> Ravenna non fa eccezione e, solo in Piazza del Popolo, se ne possono trovare una quarantina... e non stiamo parlando di pigne "viventi", frutto dei numerosi pini domestici che abbelliscono i dintorni della nostra città, bensì di elementi architettonici altrettanto piacevoli alla vista.
+> 
+> L'idea che la Pigna, che compare in gran numero anche sul nostro stemma cittadino, fosse la protagonista dei miei tour e, di conseguenza, dei miei libri, mi è balenata in testa quando svolgevo a tempo pieno l'attività di guida turistica: volevo che Ravenna venisse vista non solo come una triste città piena di chiese e di tombe, ma anche come un luogo pieno di vita.
+> 
+> Così, la Pigna è corsa in mio aiuto e, da allora, siamo entrate in simbiosi.
+> 
+> Enrico Rambaldi, con le sue illustrazioni decisamente più efficaci di semplici e comuni fotografie, ha fatto il resto, dando vita ad una serie di pinoli curiosi che, come turisti al seguito della loro guida, vanno a caccia di novità gustose, in città e non solo.
 
-***Ora una domanda legata alle vie del centro storico di Ravenna: da quali "celebrità" del remoto passato sono state percorse e quali avvenimenti degni di nota hanno ospitato?***
+### Quale feedback hai avuto dal popolo dei ragazzi? E da quello degli adulti?
 
-"Su questa domanda potrei scrivere un libro intero o, in alternativa, parlare per qualche decina di ore, ma annoierei te e i lettori di questo blog.
+> I bambini sono sempre stati le mie "cavie" preferite nello sperimentare nuovi itinerari e nuove tematiche di visita, ma in senso assolutamente positivo!
+> 
+> Questo perché non hanno preconcetti, sono spontanei e si prestano al gioco. Oltretutto, in pochi sanno che ciò che piace ai bambini piace sicuramente anche agli adulti, mentre non è sempre vero il contrario, anzi, lo è molto raramente.
+> 
+> Infatti, la caccia alla pigna per le strade di Ravenna, "sdoganata" svariate volte con studenti delle scuole e bambini dai 5 ai 12 anni, è stata successivamente adattata ad un pubblico adulto con ottimi risultati. Tra i lettori dei miei libri ci sono, oltre ai più piccoli, anche tanti adulti e, con piacere, ho saputo che anche molti stranieri hanno scoperto le avventure della Pigna, trovando finalmente una lettura semplice e accessibile.
 
-Allora faccio prima a rimandarvi ai miei due libricini, in cui ho citato anche personaggi legati a Ravenna, quasi ignoti e spesso ignorati dai classici libri di storia; sì perché a me, da sempre, piace la storia non convenzionale, quella dei barbari illuminati come Teodorico e Drogdone, quella delle donne pittrici come Barbara Longhi e quella degli arcivescovi dalle larghe vedute come Rinaldo da Concorezzo, amico di Dante. Anch'io, come la mia città, vado sempre controcorrente.
+### Chi desideri ringraziare, in modo particolare?
 
-Ci vuole coraggio, come ne ha avuto Ravenna, a resistere, per secoli, incastrata tra la terra e il mare, in balia delle acque e della subsidenza, ma alla fine il risultato ci guadagna in qualità".
+> A parte te, che mi onori di questa intervista, ringrazio in modo particolare Ravenna e la Romagna, una terra bellissima che resta la mia massima fonte di ispirazione, nonostante i miei numerosi viaggi-avventura per tutto il globo.
+> 
+> Per esempio, prima di un'interrogazione, di una prova importante o nei momenti più difficili il miglior modo che ho di combattere lo stress è sempre stata e resta tuttora una lunga pedalata in valle, ad osservare il volo di un airone cinerino o una nidiata di folaghe, oppure in pineta perché, contrariamente a quel che tutti pensano, le pigne hanno molto da dire.
+> 
+> E se pensate che non sia vero, leggete i miei libricini e vi ricrederete.
 
-***Com'è nata l'idea di scrivere queste due guide illustrate e per quale motivo ti sei identificata in una pigna?***
+### Cosa riserva il 2014?
 
-"La Pigna è un simbolo antichissimo: si trova a quasi tutte le latitudini del globo e, ovunque, simboleggia la rinascita dopo la morte. Una sorta di fenice, insomma.
-
-Ravenna non fa eccezione e, solo in Piazza del Popolo, se ne possono trovare una quarantina...e non stiamo parlando di pigne 'viventi', frutto dei numerosi pini domestici che abbelliscono i dintorni della nostra città, bensì di elementi architettonici altrettanto piacevoli alla vista.
-
-L'idea che la Pigna, che compare in gran numero anche sul nostro stemma cittadino, fosse la protagonista dei miei tour e, di conseguenza, dei miei libri, mi è balenata in testa quando svolgevo a tempo pieno l'attività di guida turistica: volevo che Ravenna venisse vista non solo come una triste città piena di chiese e di tombe, ma anche come un luogo pieno di vita.
-
-Così, la Pigna è corsa in mio aiuto e, da allora, siamo entrate in simbiosi.
-
-Enrico Rambaldi, con le sue illustrazioni decisamente più efficaci di semplici e comuni fotografie, ha fatto il resto, dando vita ad una serie di pinoli curiosi che, come turisti al seguito della loro guida, vanno a caccia di novità gustose, in città e non solo".
-
-***Quale feedback hai avuto dal popolo dei ragazzi? E da quello degli adulti?***
-
-"I bambini sono sempre stati le mie 'cavie' preferite nello sperimentare nuovi itinerari e nuove tematiche di visita, ma in senso assolutamente positivo!
-
-Questo perché non hanno preconcetti, sono spontanei e si prestano al gioco. Oltretutto, in pochi sanno che ciò che piace ai bambini piace sicuramente anche agli adulti, mentre non è sempre vero il contrario, anzi, lo è molto raramente.
-
-Infatti, la caccia alla pigna per le strade di Ravenna, 'sdoganata' svariate volte con studenti delle scuole e bambini dai 5 ai 12 anni, è stata successivamente adattata ad un pubblico adulto con ottimi risultati. Tra i lettori dei miei libri ci sono, oltre ai più piccoli, anche tanti adulti e, con piacere, ho saputo che anche molti stranieri hanno scoperto le avventure della Pigna, trovando finalmente una lettura semplice e accessibile".
-
-***Chi desideri ringraziare, in modo particolare?***
-
-"A parte te, che mi onori di questa intervista, ringrazio in modo particolare Ravenna e la Romagna, una terra bellissima che resta la mia massima fonte di ispirazione, nonostante i miei numerosi viaggi-avventura per tutto il globo.
-
-Per esempio, prima di un'interrogazione, di una prova importante o nei momenti più difficili il miglior modo che ho di combattere lo stress è sempre stata e resta tuttora una lunga pedalata in valle, ad osservare il volo di un airone cinerino o una nidiata di folaghe, oppure in pineta perché, contrariamente a quel che tutti pensano, le pigne hanno molto da dire.
-
-E se pensate che non sia vero, leggete i miei libricini e vi ricrederete".
-
-***Cosa riserva il 2014?***
-
-"Il 2014, certamente, riserva nuove idee, nuovi racconti e nuove passeggiate da sviluppare a Ravenna e dintorni, a caccia di nuove cose da scoprire e da valorizzare.
-
-Ma, assolutamente, vedrà il completamento (ma probabilmente non la pubblicazione, causa mancanza di fondi) della "Trilogia della Pigna": una terza, fantasmagorica avventura della Pigna per Ravenna è già in cantiere e pronta a svelare qualche mistero in più di questa enigmatica città e dei personaggi che vi hanno abitato. Ormai ci sono affezionata al mio personaggio, al punto che la gente comincia a mandarmi foto di pigne da tutto il mondo.
-
-Alcuni mi chiamano proprio 'Pigna' quando mi incontrano per strada...segno che la Pigna sta facendo scuola e che sta aumentando il numero dei suoi ammiratori!".
+> Il 2014, certamente, riserva nuove idee, nuovi racconti e nuove passeggiate da sviluppare a Ravenna e dintorni, a caccia di nuove cose da scoprire e da valorizzare.
+> 
+> Ma, assolutamente, vedrà il completamento (ma probabilmente non la pubblicazione, causa mancanza di fondi) della "Trilogia della Pigna": una terza, fantasmagorica avventura della Pigna per Ravenna è già in cantiere e pronta a svelare qualche mistero in più di questa enigmatica città e dei personaggi che vi hanno abitato. Ormai ci sono affezionata al mio personaggio, al punto che la gente comincia a mandarmi foto di pigne da tutto il mondo.
+> 
+> Alcuni mi chiamano proprio 'Pigna' quando mi incontrano per strada...segno che la Pigna sta facendo scuola e che sta aumentando il numero dei suoi ammiratori!.
 
