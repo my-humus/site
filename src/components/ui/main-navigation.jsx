@@ -3,7 +3,7 @@ import { StaticQuery, graphql } from "gatsby"
 import { Link } from "gatsby"
 import classNames from "classnames"
 
-export default class Header extends Component {
+export default class MainNavigation extends Component {
   state = {
     isActive: false
   }

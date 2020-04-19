@@ -1,0 +1,21 @@
+@import "../variables";
+
+.footer-separator {
+    background-color: $primary-invert;
+    padding-top: $size-1;
+    img {
+        position: relative;
+        top: 20px;
+    }
+}
+.footer {
+    a {
+        color: $primary-invert;
+        font-weight: $weight-bold;
+    }
+    .footer-logo {
+        i {
+            font-size: $size-1 * 3;
+        }
+    }
+}

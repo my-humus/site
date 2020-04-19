@@ -1,33 +1,35 @@
 import React, { Component } from "react"
 import { Link } from "gatsby"
-import ArticleHeader from "./article-header"
+import Image from "gatsby-image"
+
+import "../../../scss/ui/_article-grid.scss"
 
 export default class ArticleGrid extends Component {
   render() {
     const node = this.props.node
-    const title = node.frontmatter.title || node.fields.slug;
+    const title = node.frontmatter.title || node.fields.slug
+    const image = node.frontmatter.featuredImage ? node.frontmatter.featuredImage.childImageSharp.fixed.src : null
 
     return (
       <article className="article-grid">
-        <ArticleHeader image={node.frontmatter.featuredImage ? node.frontmatter.featuredImage.childImageSharp.sizes.src : null} className="article-grid-header">
-          <h3 className="title">
-            <Link to={`${node.fields.slug}`}>
-              <span><strong>{title}</strong></span>
-            </Link>
-          </h3>
-          <Link to={`${node.fields.slug}`} className="date">
-            <small><i className="icon-myhumus-clock"></i> {node.frontmatter.date}</small>
+        {image && (
+          <Link to={node.fields.slug}>
+            <img src={image} title={title} alt={title} className="article-thumb" />
           </Link>
-        </ArticleHeader>
+        )}
+        <header>
+          <h3 className="title">
+            <Link to={node.fields.slug}>{title}</Link>
+          </h3>
+          <Link to={node.fields.slug} className="date">
+            <i className="icon-myhumus-clock"></i> {node.frontmatter.date}
+          </Link>
+        </header>
         <section>
-          <p
-            dangerouslySetInnerHTML={{
-              __html: node.frontmatter.description || node.excerpt,
-            }}
-          />
+          <p dangerouslySetInnerHTML={{ __html: node.frontmatter.description || node.excerpt }} />
         </section>
         <div className="readmore">
-          <Link to={`${node.fields.slug}`}>Leggi di più...</Link>
+          <Link to={node.fields.slug}>Leggi di più...</Link>
         </div>
       </article>
     )

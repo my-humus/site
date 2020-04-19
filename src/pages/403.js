@@ -1,6 +1,6 @@
 import React from "react"
 
-import ErrorLayout from "../components/error-layout"
+import ErrorLayout from "../components/layouts/error-layout"
 
 export default class ForbiddenPage extends React.Component {
   render() {

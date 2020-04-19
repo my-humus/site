@@ -4,3 +4,14 @@
 @import "fonts";
 
 @import "~bulma/bulma.sass";
+
+html {
+    height: 100%;
+}
+body {
+    height: 100%;
+    background-color: $primary;
+}
+main {
+    background-color: $primary-invert;
+}

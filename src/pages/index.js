@@ -2,7 +2,7 @@ import React from "react"
 import { graphql } from "gatsby"
 
 import Blog from "../components/sections/blog"
-import Layout from "../components/layout"
+import Layout from "../components/layouts/default"
 
 export default class BlogIndex extends React.Component {
   render() {
@@ -25,7 +25,7 @@ export const pageQuery = graphql`
       }
     }
     allMarkdownRemark(
-      limit: 3
+      limit: 9
       sort: { fields: [frontmatter___date], order: DESC }
       filter: { fields: { slug: { regex: "^\/blog\/" } } }
     ) {
@@ -41,8 +41,8 @@ export const pageQuery = graphql`
             description
             featuredImage {
               childImageSharp{
-                sizes(maxWidth: 630) {
-                  ...GatsbyImageSharpSizes
+                fixed(width: 320, height: 220, quality: 60) {
+                  ...GatsbyImageSharpFixed
                 }
               }
             }

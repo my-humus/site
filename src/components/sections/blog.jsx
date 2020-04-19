@@ -6,7 +6,7 @@ export default class Blog extends React.Component {
   render() {
     if (this.props.posts.length > 0) {
       return (
-        <Section title="Blog" subtitle="Il Blog di MyHumus" link="/blog">
+        <Section>
           <div className="columns is-multiline">
             {this.props.posts.map(({ node }) => {
               return (

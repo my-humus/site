@@ -15,24 +15,19 @@ module.exports = {
       facebook: {
         page: `myhumus`,
         app: ``
+      },
+      instagram: {
+        username: `myhumus`
       }
     },
     organization: {
       company: `Anna Zattoni`,
-      address: `Via Pavirani, 38`,
       url: `https://myhumus.com/`,
       logo: `https://myhumus.com/logo.png`,
-      zipCode: `48121`,
-      city: `Ravenna`,
-      province: `RA`,
-      country: `Italia`,
       email: `info@myhumus.com`,
-      taxId: ``,
-      vatId: ``,
-      registryId: ``
     },
     appearance: {
-      accent: `#cc151a`,
+      accent: `#75c594`,
       background: `#ffffff`,
       theme: `#1d1d1d`
     },

@@ -1,6 +1,6 @@
 import React from "react"
-import Layout from "../components/layout"
-import Hero from "../components/ui/hero"
+import Layout from "../layouts/default"
+import Hero from "../ui/hero"
 
 export default class ErrorLayout extends React.Component {
   render() {

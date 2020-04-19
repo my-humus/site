@@ -1,0 +1,10 @@
+@import "../variables";
+
+.social-follow {
+    text-align: right;
+    li {
+        display: inline-block;
+        font-size: $size-5;
+        margin: $size-7 / 2;
+    }
+}

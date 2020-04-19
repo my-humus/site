@@ -2,7 +2,7 @@
 title: 'Tutti pazzi per lo street food in Italia'
 date: '2017-04-27T15:21:23+00:00'
 description: 'Questa settimana MyHumus parla di street food insieme a Maurizio Cimmino, direttore di To Business Agency.'
-featuredImage: ./maurizio-cimmino.jpg
+featuredImage: ./street-food.jpg
 category:
     - Cucina naturale
 tags:
@@ -16,6 +16,8 @@ Sembra a me o lo street food sta prendendo sempre più piede?
 Soprattutto con l'arrivo della bella stagione, mercati, fiere e strade dei centri storici cittadini si trasformano sempre più spesso in punti di ristoro a cielo aperto in cui gli operatori, alcuni dei quali dotati di food truck davvero belli, cercano di soddisfare le esigenze gastronomiche di un pubblico sempre più curioso ed esigente.
 Lo spirito dello street food, tendenzialmente informale, è spesso legato alle tipicità regionali. Ora la domanda è: il cibo da strada è sinonimo di qualità? È o non è in grado di promuovere il made in Italy?
 Ne parliamo insieme a Maurizio Cimmino, direttore di [*To Business Agency*](http://www.tobusinessagency.it/), un'agenzia di eventi che sta promuovendo il cibo da strada nel Bel Paese.
+
+![Maurizio Cimmino](./maurizio-cimmino.jpg)
 
 #### Salve, Dott. Cimmino. Come prima cosa, mi dica: che cos'è To Business Agency e perché ha iniziato a interessarsi di street food?
 

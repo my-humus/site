@@ -1,7 +1,7 @@
 import React from "react"
 import { graphql } from "gatsby"
 
-import Layout from "../components/layout"
+import Layout from "../components/layouts/default"
 import Section from "../components/ui/section"
 import Article from "../components/ui/article/article-grid"
 
@@ -53,8 +53,8 @@ export const pageQuery = graphql`
             description
             featuredImage {
               childImageSharp{
-                sizes(maxWidth: 1280) {
-                  ...GatsbyImageSharpSizes
+                fixed(width: 320, height: 220, quality: 60) {
+                  ...GatsbyImageSharpFixed
                 }
               }
             }

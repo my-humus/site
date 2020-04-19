@@ -1,7 +1,7 @@
 import React from "react"
-import Header from "./header"
-import Footer from "./footer"
-import SEO from "../components/seo/seo"
+import MainNavigation from "../ui/main-navigation"
+import Footer from "../ui/footer"
+import SEO from "../seo/seo"
 
 export default class Layout extends React.Component {
   render() {
@@ -10,11 +10,9 @@ export default class Layout extends React.Component {
     return (
       <>
         <SEO title={title} path={location.pathname} />
-        <Header title={title} root={location.pathname === `${__PATH_PREFIX__}/`} />
+        <MainNavigation title={title} root={location.pathname === `${__PATH_PREFIX__}/`} />
         <main>
-          <div className="inner-page">
-            {children}
-          </div>
+          {children}
         </main>
         <Footer />
       </>
