@@ -1,7 +1,7 @@
 ---
-title: "L'arte di Carlo Pagani"
+title: "Il vivaismo ornamentale del maestro Carlo Pagani"
 date: '2014-07-04T00:00:11+00:00'
-description: ''
+description: 'Scopriamo insieme la passione di Carlo Pagani per l'architettura del paesaggio e il vivaismo ornamentale.'
 featuredImage: ./carlo-pagani.jpg
 category:
     - Green Mix
@@ -11,85 +11,64 @@ tags:
     - Natura
 ---
 
-***"Buttate pure via***
-
-***Ogni opera in versi o in prosa.***
-
-***Nessuno è mai riuscito a dire***
-
-***Cos'è, nella sua essenza, una rosa"***
+> Buttate pure via. Ogni opera in versi o in prosa. Nessuno è mai riuscito a dire cos'è, nella sua essenza, una rosa.
 
 Scriveva così, il poeta Giorgio Caproni.
 
-C'è chi in una rosa vede una semplice pianta ornamentale e chi, invece, vi vede una raffinata amante da curare e da proteggere. Come il maestro giardiniere Carlo Pagani, ad esempio.
+C'è chi, in una rosa, vede una semplice pianta ornamentale e chi, al contrario, vede una raffinata amante da proteggere. Come il maestro giardiniere Carlo Pagani, esperto in vivaismo ornamentale e in architettura del paesaggio.
 
-La passione di Carlo per i giardini nacque all'età di 6 anni, osservando la madre, appassionata di piante, lavorare in giardino.
+La passione di Carlo per i giardini è nata all'età di 6 anni, osservando la madre, appassionata di piante, lavorare in giardino.
+È lei ad avergli affidato un piccolo appezzamento di terra in cui seminare liberamente e dare libero sfogo alla fantasia.
+Carlo l'ha emulata, realizzando in poco tempo un orto incredibile che non aveva nulla da invidiare a quello dei genitori.
 
 ![Carlo Pagani](./redazione.jpg)
 
-Fu proprio lei, un bel giorno, ad affidargli un piccolo appezzamento di terra in cui poter seminare liberamente e dare libero sfogo alla fantasia.
-
-Carlo iniziò ad emularla, prendendoci molto gusto e realizzando un orto incredibile in pochissimo tempo, che non aveva nulla da invidiare a quello dei genitori.
-
-Trascorsi alcuni anni, decise di iscriversi alla scuola agraria, sempre guidato da un'incontenibile passione per le piante.
-
-Una volta terminati gli studi lavorò per tre anni come dipendente in un'azienda, diventando dapprima apprendista giardiniere e, in seguito, capo ufficio tecnico della progettazione di giardini.
+Trascorsi alcuni anni, Carlo ha deciso di iscriversi alla scuola agraria, sempre guidato da una passione sfrenata per le piante.
+Terminati gli studi, ha lavorato tre anni come dipendente in un'azienda. È divenuto prima apprendista giardiniere e poi capo ufficio tecnico della progettazione di giardini.
 
 ![Carlo Pagani](./mutabilis.jpg)
 
-Poi, nel 1969, la svolta: la decisione di mettersi in proprio e di fondare l'azienda "Flora 2000" ([www.flora2000.it](http://flora2000.it)), tutt'ora esistente.
+Nel 1969, la svolta: la decisione di mettersi in proprio per fondare [Flora 2000](http://flora2000.it) e dedicarsi al vivaismo ornamentale. Un vivaismo di qualità.
 
-Si tratta di un garden shop in via Zenzalino Sud 19, a Budrio (Bologna),con idee e soluzioni per l'esterno e per la casa, ospitante un vivaio con collezioni botaniche di rose antiche, inglesi e francesi, peonie, clematidi, lillà, ortensie, erbacee perenni, graminacee e frutti antichi.
+Si tratta di un garden shop con idee e soluzioni per l'esterno e per la casa. Al suo interno ospita un vivaio con collezioni botaniche di rose antiche, inglesi e francesi, peonie, clematidi, lillà, ortensie, erbacee perenni, graminacee e frutti dimenticati.
+Nel concept store si tengono attività didattiche, prima fra tutte l'alta scuola di giardinaggio, e viene anche offerto un servizio di consulenza fitosanitaria.
 
-All'interno del concept store vengono organizzate tutta una serie di attività didattiche, prima fra tutte l'alta scuola di giardinaggio, e viene addirittura offerto un servizio di consulenza fitosanitaria per tutti coloro che ne abbiano bisogno.
-
-A seguito dell'apertura di "Flora 2000", Carlo ha intrapreso tutta una serie di esperienze lavorative di alto livello che lo hanno portato a viaggiare in Italia e all'estero, soprattutto in Africa, in cui ha avuto la possibilità di realizzare giardini per sultani, per re e per diversi presidenti della repubblica.
+Ma torniamo a Carlo. Nella sua vita ha intrapreso esperienze lavorative di altissimo livello che lo hanno portato a viaggiare in Italia e all'estero, specie in Africa. Lì ha avuto la possibilità di realizzare giardini per sultani, re e diversi presidenti della repubblica.
 
 ![Carlo Pagani](./william.jpg)
 
-Nel 2000 l'azienda è passata in mano ai figli e Carlo ha deciso di dedicarsi all'attività divulgativa.
+Nel 2000 l'azienda è passata in mano ai figli e Carlo ha deciso di dedicarsi all'attività divulgativa. Articoli su riviste, libri, programmi televisivi, rubriche.
 
-Se per 40 anni aveva costruito giardini, ora intendeva raccontarli attraverso articoli su riviste, libri, programmi televisivi e rubriche incentrate sul tema della botanica e dell'arte del giardinaggio.
+E poi c'è stata la grande amicizia con Tonino Guerra. Dopo l'incontro col poeta, Carlo ha radicalmente cambiato il suo modo di fare vivaismo ornamentale.
+Era il momento di realizzare spazi in cui fosse la natura stessa ad essere un giardino, recintata e corretta nei suoi pochi difetti.
 
-E poi la grande amicizia con Tonino Guerra.
+![Carlo insieme a Tonino Guerra](./tonino-guerra.jpg)
 
-Dopo l'incontro con il poeta, Carlo ha radicalmente cambiato il suo modo di lavorare: se nei primi anni era stato un paesaggista che prendeva come modello il giardino inglese, ora intendeva dedicarsi alla realizzazione di spazi in cui fosse la natura stessa ad essere un giardino, recintata e corretta nei suoi pochi difetti.
+Il mio incontro con Carlo Pagani è avvenuto poco tempo fa a Flora 2000, ed è stato veramente molto piacevole. Carlo Pagani è una persona gioiosa, piena di vita, e i suoi occhi emanano un entusiasmo contagioso.
 
-![Carlo insieme al grande Tonino Guerra](./tonino-guerra.jpg)
+Merito di sua moglie, dice, che lo ha sempre sostenuto dandogli la possibilità di realizzare i suoi sogni in totale libertà.
+Quando si dice *vero amore*.
 
-Il mio incontro con il maestro giardiniere è avvenuto alcune settimane fa presso "Flora 2000" ed è stato veramente molto piacevole: Carlo Pagani è una persona gioiosa, piena di vita, e i suoi occhi emanano un entusiasmo ed una vitalità contagiosi.
+Carlo mi ha raccontato un sacco di aneddoti, come ad esempio quello riguardante Giuseppe Verdi.
+Forse non tutti sanno che non è stato solo un grandissimo compositore, ma anche un fervente agricoltore deciso a investire molti dei suoi beni in terra agricola. Amante anche del vivaismo ornamentale e del giardinaggio, in ogni luogo in cui ha suonato ha fatto scorta di piante. Le ha scelte personalmente.
 
-*"Tutto merito di mia moglie"*, mi rivela, *"che mi ha sempre sostenuto dandomi la possibilità di realizzare i miei sogni in totale serenità"*.
-
-Un chiaro esempio di vero amore.
-
-Durante le ore trascorse insieme, Carlo si è divertito a raccontarmi una serie di aneddoti, come ad esempio quello riguardante il grande Giuseppe Verdi. Forse non tutti sanno che non era solo un grandissimo compositore, ma anche un fervente agricoltore che decise di investire molti dei suoi beni in terra agricola (ne possedeva fino a mille ettari!). Amante anche del giardinaggio, in ogni luogo in cui suonava faceva rifornimento di piante che sceglieva personalmente.
-
-E poi il racconto dell'incontro con tanti artisti: Fellini, Antonioni, la Loren, il pittore Antonio Saliola e molti altri.
+E poi gli incontri con Fellini, Antonioni, la Loren e il pittore Antonio Saliola.
 
 ![Insieme al pittore Antonio Saliola](./saliola.jpg)
 
-Carlo e le sue incredibili collezioni di rose antiche: cammina lentamente fra le piante esposte, indicandomele con garbo; ogni tanto si ferma, ne descrive una, e poi prosegue.
+Carlo e le sue incredibili collezioni di rose antiche.
 
-Carlo e il suo giardino segreto.
+Carlo e il suo giardino segreto. Il maestro giardiniere, infatti, possiede una fetta di paradiso terrestre.
+Si tratta di 5 ettari di bosco, acquistati nel 1906 dal nonno e ceduti, 30 anni dopo, a un naturalista schivo e riservato che aveva deciso di viverci in totale solitudine.
+In questi anni, Carlo è riuscito a riappropriarsi di questo incanto. Un luogo che lo aveva visto giocare da bambino e che aveva offerto riparo a molte persone durante la Grande Guerra.
 
-Sì, avete letto bene. Il maestro giardiniere possiede una fetta di paradiso terrestre: cinque ettari di bosco, acquistati nel 1906 dal nonno e ceduti, 30 anni dopo, ad un naturalista schivo e riservato che aveva deciso di non coltivarci più niente e di viverci in completa solitudine.
-
-Solo successivamente Carlo riuscì a riappropriarsi di questo incanto, un luogo che lo aveva visto giocare da bambino e che aveva offerto riparo a molte persone durante gli anni dei bombardamenti.
-
-Alla morte del naturalista, Carlo cominciò a mettere mano al giardino, portando alla luce tanti piccoli "tesori" come, ad esempio, la moltitudine di monetine e di arnesi quali forcali, badili e vanghe che il precedente proprietario aveva accuratamente seppellito nel terreno con la convinzione che il loro costituente, il ferro, sarebbe tornato utile alle piante.
-
-Carlo ha ripulito quel luogo incantato mantenendone la condizione selvaggia e ricavandone dei piccoli sentieri che consentano di visitarlo per intero, inserendo anche alcune piante ricercate, in un'ottica di convivenza pacifica fra antico e recente.
-
-E dalla sua mente geniale nasce una suddivisione del bosco in quartieri.
+Alla morte del naturalista schivo, Carlo ha messo mano al giardino, portando alla luce tanti piccoli "tesori": monetine, forcali, badili, vanghe che il precedente proprietario aveva seppellito nel terreno, convinto che il ferro al loro interno sarebbe tornato utile alle piante.
 
 ![Carlo Pagani](./carlo-nel-bosco.jpg)
 
-Proprio così: c'è, ad esempio, il *"Giardino della musica"*, un luogo in cui Carlo ha immaginato che gli uccellini facciano festa. C'è perfino una programmazione musicale: il concerto del fringuello, quello del merlo e della merla, il balletto delle rondini e la civetta solista al pianoforte. Gli uccellini possono leggere la musica stando comodamente appollaiati su un leggio appositamente predisposto.
+Sulla strada di ritorno verso casa, mi è tornata in mente una citazione di Yann Martel:
 
-Poco più in là troviamo il *"Giardino dei sogni"*, e poi il fantastico *"Villaggio degli uccelli"*, con tanto di municipio, di giunta, di comune e di carcere per la gazza ladra. E ancora: la mecca per gli uccellini musulmani, la chiesa di San Merlo con tanto di confessionale, un ristorante, un centro sociale, il cinema Paradiso, un ospedale, le gabbie a schiera, le cosiddette "Terme di Falco Maggiore", un supermercato in cui gli uccellini comprano tre vermetti al prezzo di uno, le gabbie chiuse fatte a cuoricino per uccelline, come dire, un po' "lascive", e poi la bocciofila e l'ufficio postale.
-
-E mi torna alla mente una frase dello scrittore canadese Yann Martel (l'autore di *"Vita di Pi"*): *"La natura può allestire spettacoli straordinari. Il palcoscenico è immenso, le luci strabilianti, le comparse infinite e il budget per gli effetti speciali illimitato"*.
+> "La natura può allestire spettacoli straordinari. Il palcoscenico è immenso, le luci strabilianti, le comparse infinite. E il budget per gli effetti speciali, illimitato".
 
 Carlo Pagani e i suoi giardini: quando creatività umana e natura formano un connubio perfetto.
 
