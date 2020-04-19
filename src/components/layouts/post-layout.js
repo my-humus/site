@@ -1,5 +1,4 @@
 import React from "react"
-import Header from "../ui/header"
 import Footer from "../ui/footer"
 import SEO from "../seo/seo"
 
@@ -18,7 +17,6 @@ export default class PostLayout extends React.Component {
           postData={post}
           path={location.pathname}
         />
-        <Header title={title} root={location.pathname === `${__PATH_PREFIX__}/`} />
         <main>
           {children}
         </main>

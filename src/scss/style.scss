@@ -3,7 +3,7 @@
 @import "variables";
 @import "fonts";
 
-@import "~bulma/bulma.sass";
+@import "~bulma/bulma";
 
 html {
     height: 100%;
@@ -14,4 +14,28 @@ body {
 }
 main {
     background-color: $primary-invert;
+}
+h1 {
+    font-size: $size-1;
+    font-weight: $weight-bold;
+}
+h2 {
+    font-size: $size-2;
+    font-weight: $weight-bold;
+}
+h3 {
+    font-size: $size-3;
+    font-weight: $weight-bold;
+}
+h4 {
+    font-size: $size-4;
+    font-weight: $weight-bold;
+}
+h5 {
+    font-size: $size-5;
+    font-weight: $weight-bold;
+}
+h6 {
+    font-size: $size-6;
+    font-weight: $weight-bold;
 }

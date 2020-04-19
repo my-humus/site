@@ -1,0 +1,18 @@
+@import "../variables";
+
+@import "~bulma/sass/utilities/mixins";
+
+.post-nav {
+    max-width: $fullhd - ($gap * 2);
+    margin: 0 auto;
+    li {
+        display: inline-block;
+        width: 100%;
+        @include desktop {
+            width: 50%;
+        }
+        &:first-child {
+            text-align: right;
+        }
+    }
+}

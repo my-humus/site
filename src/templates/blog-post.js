@@ -1,9 +1,13 @@
 import React from "react"
-import { Link, graphql } from "gatsby"
+import { graphql } from "gatsby"
 
-import PostLayout from "../components/layouts/post-layout"
+import Footer from "../components/ui/footer"
 import TagLink from "../components/ui/link/tag-link"
 import CategoryLink from "../components/ui/link/category-link"
+import SEO from "../components/seo/seo"
+import PostNavigation from "../components/ui/post-navigation"
+
+import "../scss/templates/_blog-post.scss"
 
 class BlogPostTemplate extends React.Component {
   render() {
@@ -12,64 +16,57 @@ class BlogPostTemplate extends React.Component {
     const image = post.frontmatter.featuredImage ? post.frontmatter.featuredImage.childImageSharp.sizes.src : null
 
     return (
-      <PostLayout
-        title={post.frontmatter.title}
-        image={image}
-        post={post}
-        location={this.props.location}
-      >
-        <article className="blog-post">
-          <header image={image}>
-            <section className="hero">
-              <div className="hero-body">
-                <div className="container">
-                  <h1 className="title">
-                    {post.frontmatter.title}
-                  </h1>
-                  <h2 className="subtitle">
-                    <i className="icon-myhumus-clock"></i> {post.frontmatter.date}
-                  </h2>
-                  {post.frontmatter.category && (
-                    <h2 className="subtitle" title="Categoria">
-                      <CategoryLink category={post.frontmatter.category} />
-                    </h2>
-                  )}
+      <>
+        <SEO
+          title={post.frontmatter.title}
+          description={post.frontmatter.description || post.excerpt}
+          frontmatter={post.frontmatter}
+          isBlogPost={true}
+          image={image}
+          postData={post}
+          path={this.props.location.pathname}
+        />
+        <main>
+          <article className="blog-post">
+            <header image={image}>
+              <section className="hero">
+                <div className="hero-body">
+                  <div className="container">
+                    <h1 className="title">
+                      {post.frontmatter.title}
+                    </h1>
+                    {post.frontmatter.description && (
+                      <h2 className="subtitle">
+                        {post.frontmatter.description}
+                      </h2>
+                    )}
+                    <div>
+                      <i className="icon-myhumus-clock"></i> {post.frontmatter.date}
+                    </div>
+                  </div>
                 </div>
+              </section>
+            </header>
+            {post.frontmatter.category && (
+              <div className="container">
+                <CategoryLink category={post.frontmatter.category} />
               </div>
-            </section>
-          </header>
-          {post.frontmatter.tags && (
+            )}
+            {post.frontmatter.tags && (
+              <div className="container">
+                {post.frontmatter.tags.map((tag, index) => (
+                  <TagLink tag={tag} key={"tag" + index} />
+                ))}
+              </div>
+            )}
             <div className="container">
-              {post.frontmatter.tags.map((tag, index) => (
-                <TagLink tag={tag} key={"tag" + index} />
-              ))}
+              <section className="post-content" dangerouslySetInnerHTML={{ __html: post.html }} />
             </div>
-          )}
-          <div className="container">
-            <section className="post-content" dangerouslySetInnerHTML={{ __html: post.html }} />
-          </div>
-        </article>
-        {(previous || next) && (
-          <nav className="bottom-nav post-nav">
-            <ul>
-              <li>
-                {previous && (
-                  <Link to={previous.fields.slug} rel="prev">
-                    <i className="icon-myhumus-arrow-left"></i> {previous.frontmatter.title}
-                  </Link>
-                )}
-              </li>
-              <li>
-                {next && (
-                  <Link to={next.fields.slug} rel="next">
-                    {next.frontmatter.title} <i className="icon-myhumus-arrow-right"></i>
-                  </Link>
-                )}
-              </li>
-            </ul>
-          </nav>
-        )}
-      </PostLayout>
+          </article>
+          <PostNavigation previous={previous} next={next} />
+        </main>
+        <Footer />
+      </>
     )
   }
 }

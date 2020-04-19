@@ -77,7 +77,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: `UA-156974102-1`,
+        trackingId: `UA-48118924-1`,
         anonymize: true,
       },
     },
@@ -112,7 +112,7 @@ module.exports = {
             "textColor": "#fff",
             "backgroundColor": "#1d1d1d",
             "acceptButtonDisplay": true,
-            "acceptButtonColor": "#cc151a",
+            "acceptButtonColor": "#75c594",
             "acceptButtonCaptionColor": "#fff"
           }
         }
@@ -179,7 +179,7 @@ module.exports = {
         short_name: `MyHumus`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#cc151a`,
+        theme_color: `#75c594`,
         display: `minimal-ui`,
         icon: `content/assets/icon.png`,
       },
