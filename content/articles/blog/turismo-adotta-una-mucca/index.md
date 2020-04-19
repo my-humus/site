@@ -1,8 +1,8 @@
 ---
 title: 'Come ti promuovo il turismo'
 date: '2015-07-09T10:51:33+00:00'
-description: 'Il progetto "Adotta una mucca" promuove il turismo e propone un approccio educativo alla montagna, all'ambiente e alla tradizione casearia d''alta quota.'
-featuredImage: ../uploads/2015/07/adotta-mucca-banner-150x150.jpg
+description: 'Il progetto "Adotta una mucca" promuove il turismo e propone un approccio educativo alla montagna, all''ambiente e alla tradizione casearia d''alta quota.'
+featuredImage: ./adotta-mucca.jpg
 category:
     - Ecoprogetti
 tags:
@@ -12,14 +12,17 @@ tags:
     - Turismo
 ---
 
-
 Qualche tempo fa mi trovavo a Rovereto per partecipare ad una delle lezioni dell'Innovation Academy proposte da [Progetto Manifattura](http://www.progettomanifattura.it).
-Dopo aver parlato senza sosta per più di un'ora, il professore di "Business modelling" formò diversi gruppetti di 2-3 persone ciascuno e lanciò una proposta: "*Ok, ragazzi: ora avete 5 minuti di tempo per formulare un'idea imprenditoriale che, come protagonista, abbia una mucca. Siete pronti? Tre, due, uno...via!*".
+
+Dopo aver parlato senza sosta per più di un'ora, il professore di "Business modelling" formò diversi gruppetti di 2-3 persone ciascuno e lanciò una proposta: "*Ok, ragazzi: ora avete 5 minuti di tempo per formulare un'idea imprenditoriale che, come protagonista, abbia una mucca. Siete pronti? Tre, due, uno... via!*".
+
 Una mucca?! Dopo aver spremuto le meningi per qualche istante, io ed il mio compagno di squadra immaginammo la cosiddetta *mucca tagliaerba*, una sorta di super mucca bionica che scalza i classici macchinari per tagliare l'erba dei prati: niente più rumorosi e puzzolenti trattorini in cortile, solo pacifiche e silenziose mucche impegnate a brucare per mantenere l'ordine del vostro giardinetto. Felici loro, felici voi.
+
 Dopo aver messo a confronto i diversi progetti "mucca-centrici", quasi tutti piuttosto bizzarri e singolari, uno dei presenti pronunciò questa frase: "*A proposito di mucche, esiste un progetto che permette di adottarne una...*".
 Ok, addio lezione: eccomi estrarre il computer dalla borsa e iniziare subito le ricerche!
 
-E' proprio così che sono venuta a conoscenza di un progetto molto simpatico e interessante il cui nome, obiettivamente, dice tutto: [*Adotta una mucca*](http://www.visitvalsugana.it/it/vacanze-in-valsugana/adotta-una-mucca/).
+È proprio così che sono venuta a conoscenza di un progetto molto simpatico e interessante il cui nome, obiettivamente, dice tutto: [*Adotta una mucca*](http://www.visitvalsugana.it/it/vacanze-in-valsugana/adotta-una-mucca/).
+
 Se due settimane fa si parlava di adottare un albero insieme a [Treedom](http://www.treedom.net/it/tropicalpizza), questa settimana parliamo di mucche! Insomma, vi sto offrendo un sacco di spunti interessanti per i vostri prossimi regali.
 
 [![Ilaria Sordo](../uploads/2015/07/ilaria-sordo-foto-300x300.jpg)](https://myhumus.com/wp-content/uploads/2015/07/ilaria-sordo-foto.jpg)Ilaria Sordo.

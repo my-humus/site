@@ -1,31 +1,17 @@
 ---
 title: 'Green Pepper, il food truck delle meraviglie'
 date: '2017-03-22T10:14:23+00:00'
-description: 'Qualche tempo fa, insieme alle mie amiche Giorgia e Sara, mi trovavo a San Mauro Pascoli (FC) in occasione di Commonplaces, un market di design che promuove l''autoproduzione e tutto ciò che è handmade.'-
-
-featuredImage: ../uploads/2017/03/green_pepper_cover-150x150.jpg
+description: "Qualche tempo fa, insieme alle mie amiche Giorgia e Sara, mi trovavo a San Mauro Pascoli (FC) in occasione di Commonplaces, un market di design che promuove l'autoproduzione e tutto ciò che è handmade."
+featuredImage: ./green-pepper.jpg
 category:
     - Cucina naturale
 tags:
-    - 'finger food'
+    - Finger food
     - Food truck
     - Street food
-    - vegetariano
-
-_yoast_wpseo_focuskw:
-    - Food truck
-_yoast_wpseo_title:
-    - 'Green Pepper, il food truck delle meraviglie - MyHumus'
-_yoast_wpseo_linkdex:
-    - '81'
-_yoast_wpseo_metadesc:
-    - 'Green Pepper è il favoloso food truck capitanato dalla spumeggiante Federica Zammarchi.'
-_yoast_wpseo_content_score:
-    - '60'
-_yoast_wpseo_primary_category:
-    - '92'
+    - Vegetariano
+	
 ---
-\[et\_pb\_section bb\_built="1″ admin\_label="section"\]\[et\_pb\_row admin\_label="row" background\_position="top\_left" background\_repeat="repeat" background\_size="initial"\]\[et\_pb\_column type="4\_4″\]\[et\_pb\_text background\_layout="light" text\_orientation="left" border\_style="solid" background\_position="top\_left" background\_repeat="repeat" background\_size="initial" \_builder\_version="3.0.67″\]
 
 <div class="wp-caption alignright" id="attachment_3060" style="width: 210px">[![food truck, street food, vegetariano, finger food](../uploads/2017/03/green_pepper_federica-200x300.jpg)](https://myhumus.com/wp-content/uploads/2017/03/green_pepper_federica.jpg)Federica Zammarchi.
 
@@ -38,33 +24,31 @@ Il merito è tutto della spumeggiante Federica Zammarchi, giovane imprenditrice 
 Il giorno in cui l'ho vista all'opera, a San Mauro Pascoli, aveva creato un'isola felice fatta di colori, di profumi deliziosi e di tanti piccoli e preziosissimi dettagli che, oggi come oggi, fanno la vera differenza all'interno di un'offerta gastronomica sempre più competitiva.
 Siete pronti a conoscere questa ragazza (e ad innamorarvi del suo progetto)?
 
-#### Ciao Federica! Guarda, non so se te l'ho già detto ma Green Pepper è veramente, ma veramente fichissimo! Ehm...te lo avevo già detto, vero?
+### Ciao Federica! Guarda, non so se te l'ho già detto ma Green Pepper è veramente, ma veramente fichissimo! Ehm...te lo avevo già detto, vero?
 
 "Ciao Anna! Sì sì, confermo, me lo avevi già detto. Ahahah!".
 
-#### Dunque, diamo inizio alla nostra chiacchierata partendo come sempre dalle origini. Cos'è Green Pepper?
+### Dunque, diamo inizio alla nostra chiacchierata partendo come sempre dalle origini. Cos'è Green Pepper?
 
 "Green Pepper è un'idea che sta prendendo forma. È un progetto che non mira al famoso *tutto e subito*, si sta creando nel tempo. Diciamo che è il principio di un'idea più complessa".
 
-<div class="wp-caption aligncenter" id="attachment_3044" style="width: 550px">[![street food, food truck, vegetariano](../uploads/2017/03/green_pepper_cortile_2.jpg)](https://myhumus.com/wp-content/uploads/2017/03/green_pepper_cortile_2.jpg)Il Citroen di Federica.
+![Il Citroen di Federica](https://myhumus.com/wp-content/uploads/2017/03/green_pepper_cortile_2.jpg)
 
-####
-
-#### Come nasce la tua avventura?
+### Come nasce la tua avventura?
 
 "Dopo tanti anni passati dietro al bancone, ho lasciato il lavoro da dipendente nella ristorazione. Quello gastronomico è un settore che amo moltissimo, per cui ho deciso di aprire qualcosa di mio.
 Sai, mi è sempre piaciuto viaggiare e, dopo alcune stagioni all'estero, ho voluto importare un'idea che, in altri Paesi, è molto in voga. Tutto in un'ottica di **promozione del mio territorio**.
 Con Green Pepper ho voluto creare qualcosa che rispettasse e promuovesse la semplicità del prodotto di zona".
 
-#### Immagino che di Green Pepper s'innamorino tutti, o mi sbaglio?
+### Immagino che di Green Pepper s'innamorino tutti, o mi sbaglio?
 
 "Sì, il progetto sta piacendo molto e io sto lavorando a un percorso di fiducia a piccoli passi".
 
-#### Quindi dicevi che i food truck sono molto in voga all'estero?
+### Quindi dicevi che i food truck sono molto in voga all'estero?
 
 "Sì, **in Europa i furgoni per street food vanno moltissimo**, a Barcellona ce ne sono tanti. In Italia è un'idea che sta prendendo piede, forse perché li si collega al concetto di *junk food*. Eppure non è sempre così".
 
-#### Ma questo bellissimo furgoncino da dove salta fuori?
+### Ma questo bellissimo furgoncino da dove salta fuori?
 
 <div class="wp-caption alignright" id="attachment_3043" style="width: 310px">[![street food, food truck, vegetariano](../uploads/2017/03/green_pepper_cortile-300x261.jpg)](https://myhumus.com/wp-content/uploads/2017/03/green_pepper_cortile.jpg)Federica allestisce il suo Citroen in modo sempre diverso.
 
@@ -72,26 +56,26 @@ Con Green Pepper ho voluto creare qualcosa che rispettasse e promuovesse la semp
 La scelta del furgoncino vecchio ha a che fare con il messaggio di semplicità e di freschezza che voglio comunicare.
 Il mio food truck è dotato di una piccola cucina professionale, estremamente comoda e funzionale, in cui preparo tutto. Ovunque io vada cerco sempre di creare un piccolo ambiente piacevole e accogliente, con allestimenti che cambiano in base alla location in cui mi trovo".
 
-#### Qual è la tua proposta gastronomica?
+### Qual è la tua proposta gastronomica?
 
 "Innanzitutto **propongo sempre un prodotto fresco, selezionato e rigorosamente di stagione**. Scelgo personalmente la frutta e la verdura, ne conosco la provenienza.
 La mia proposta gastronomica prevede generalmente hamburger, chips fritte, tortillas, torte dolci, cheesecakes e, quando richiesti, carne e pesce selezionati. Il menù cambia in base al tipo di richiesta, ovviamente.
 Se l'occasione lo prevede, preparo anche una linea di dolci e di bevande (cocktail di benvenuto, estratti, caffè americani, infusi, tè, ecc.).
 Per gli eventi a domicilio, invece, propongo menù di diverso prezzo in cui la base comprende sempre un buffet che mette d'accordo vegetariani, vegani e onnivori (quindi, per darti un'idea: insalata di cereali, spaghetti con le zucchine, pollo al curry, pad thai, ecc.), poi la linea dei mini burger e così via".
 
-<div class="et_pb_slider et_pb_slider_fullwidth_off et_pb_gallery_post_type"><div class="et_pb_slides"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2017/03/green_pepper_7.jpg);"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2017/03/green_pepper_5.jpg);"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2017/03/green_pepper_8.jpg);"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2017/03/green_pepper_2.jpg);"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2017/03/green_pepper_4.jpg);"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2017/03/green_pepper_1.jpg);">  #### In questa fase iniziale dove lavori?
+<div class="et_pb_slider et_pb_slider_fullwidth_off et_pb_gallery_post_type"><div class="et_pb_slides"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2017/03/green_pepper_7.jpg);"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2017/03/green_pepper_5.jpg);"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2017/03/green_pepper_8.jpg);"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2017/03/green_pepper_2.jpg);"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2017/03/green_pepper_4.jpg);"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2017/03/green_pepper_1.jpg);">  ### In questa fase iniziale dove lavori?
 
 "**Per adesso ho deciso di restare in Romagna**, voglio spendermi sul mio territorio. Quando conoscerò meglio la base su cui muovermi, aumenterò il mio raggio d'azione. Il calendario estivo, ad ogni modo, sarà piuttosto fitto".
 
-#### Sei sempre da sola all'interno del food truck?
+### Sei sempre da sola all'interno del food truck?
 
 "No, a volte vengo affiancata da persone di fiducia che mi danno una mano. Fino a 40-50 persone, però, lavoro da sola".
 
-#### Ti piace il tuo lavoro, vero?
+### Ti piace il tuo lavoro, vero?
 
 "Altroché se mi piace! Lavoro sempre con il sorriso e questa è già di per sé una grandissima conquista! E poi, come ti dicevo, adoro il contatto con il pubblico, amo prendermi cura dei miei clienti e coccolarli come meritano. Credo che anche questo sia un aspetto fondamentale se si intende lavorare all'interno della ristorazione e dei catering".
 
-#### Sono assolutamente d'accordo con te, l'amore verso il proprio cliente è alla base di un buon servizio e di un rapporto di fiducia reciproca. Brava! Ho un'ultima domanda prima di salutarci: sei riuscita a ricevere qualche finanziamento per questa bella attività?
+### Sono assolutamente d'accordo con te, l'amore verso il proprio cliente è alla base di un buon servizio e di un rapporto di fiducia reciproca. Brava! Ho un'ultima domanda prima di salutarci: sei riuscita a ricevere qualche finanziamento per questa bella attività?
 
 "No, purtroppo per le attività itineranti non sono previsti finanziamenti. Ahimè, ho fatto tutto di tasca mia".
 

@@ -1,0 +1,21 @@
+@import "@pittica/scss-functions";
+
+@include font(myhumus);
+@include icon-family(myhumus);
+
+@include icon(myhumus, icon, "\e900");
+@include icon(myhumus, logo, "\e901");
+@include icon(myhumus, home, "\e902");
+@include icon(myhumus, envelop, "\e945");
+@include icon(myhumus, clock, "\e94e");
+@include icon(myhumus, user, "\e971");
+@include icon(myhumus, circle-up, "\ea41");
+@include icon(myhumus, circle-right, "\ea42");
+@include icon(myhumus, circle-down, "\ea43");
+@include icon(myhumus, circle-left, "\ea44");
+@include icon(myhumus, facebook, "\ea90");
+@include icon(myhumus, instagram, "\ea92");
+@include icon(myhumus, twitter, "\ea96");
+@include icon(myhumus, youtube, "\ea9d");
+@include icon(myhumus, github, "\eab0");
+@include icon(myhumus, linkedin, "\eaca");
