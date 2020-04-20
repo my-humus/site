@@ -23,14 +23,16 @@ class BlogPostTemplate extends React.Component {
           description={post.frontmatter.description || post.excerpt}
           frontmatter={post.frontmatter}
           isBlogPost={true}
-          image={image.src}
+          image={image ? image.src : null}
           postData={post}
           path={this.props.location.pathname}
         />
         <main>
           <article className="blog-post">
             <header>
-              <Img fixed={image} style={{ width: "100%" }} className="blog-post-image" />
+              {image && (
+                <Img fixed={image} style={{ width: "100%" }} className="blog-post-image" />
+              )}
               <section className="hero">
                 <div className="hero-body">
                   <div className="container">

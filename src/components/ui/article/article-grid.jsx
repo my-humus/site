@@ -1,6 +1,5 @@
 import React, { Component } from "react"
 import { Link } from "gatsby"
-import Image from "gatsby-image"
 
 import "../../../scss/ui/_article-grid.scss"
 

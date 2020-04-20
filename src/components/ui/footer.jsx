@@ -21,13 +21,13 @@ const Footer = () => {
         }
       `
   )
+
   const owner = site.siteMetadata.organization
-  const social = site.siteMetadata.social
 
   return (
     <>
       <div className="footer-separator">
-        <img src={separator} />
+        <img src={separator} alt="MyHumus" />
       </div>
       <footer className="footer">
         <div className="container">

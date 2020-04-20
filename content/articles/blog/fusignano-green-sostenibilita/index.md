@@ -1,5 +1,5 @@
 ---
-title: 'Fusignano Green: educare all&#8217;ambiente'
+title: "Fusignano Green: educare all'ambiente"
 date: '2014-02-04T00:00:01+00:00'
 description: ''
 featuredImage: ../uploads/2014/11/Mirco-iniziale-150x150.jpg
@@ -14,7 +14,7 @@ tags:
 ---
 
 
-<div class="wp-caption alignright" id="attachment_58" style="width: 310px">[![Mirco Bagnari, sindaco di Fusignano (Ravenna)](../uploads/2014/11/Mirco-iniziale-300x225.jpg)](https://myhumus.com/wp-content/uploads/2014/11/Mirco-iniziale.jpg)Mirco Bagnari, sindaco di Fusignano (Ravenna).
+[![Mirco Bagnari, sindaco di Fusignano (Ravenna)](../uploads/2014/11/Mirco-iniziale-300x225.jpg)](https://myhumus.com/wp-content/uploads/2014/11/Mirco-iniziale.jpg)Mirco Bagnari, sindaco di Fusignano (Ravenna).
 
 Situato in provincia di Ravenna, Fusignano rientra nei comuni della Bassa Romagna ed è il paese natio di mia madre.
 
@@ -30,7 +30,7 @@ Questo piccolo comune, infatti, ospita qualcuno che sta "osando" qualcosa. Qualc
 
 Il sindaco Mirco Bagnari, con il progetto Fusignano Green, ne è un esempio.
 
-<div class="wp-caption alignright" id="attachment_59" style="width: 310px">[![Il logo del progetto "Fusignano Green" (Ph. Massimo Morandi)](../uploads/2014/11/logo-Fusignano-Green-300x300.jpg)](https://myhumus.com/wp-content/uploads/2014/11/logo-Fusignano-Green.jpg)Il logo del progetto "Fusignano Green".
+[![Il logo del progetto "Fusignano Green" (Ph. Massimo Morandi)](../uploads/2014/11/logo-Fusignano-Green-300x300.jpg)](https://myhumus.com/wp-content/uploads/2014/11/logo-Fusignano-Green.jpg)Il logo del progetto "Fusignano Green".
 
 Questa iniziativa nasce all'incirca due anni fa, quando, grazie al supporto e al coordinamento di CNA e di ECIPAR, 12 imprenditori fusignanesi si incontrano per confrontarsi su temi quali la crisi, le pratiche ambientali, la sostenibilità e la tutela del territorio. Il tutto promuovendo una stretta collaborazione fra soggetti pubblici e privati, perciò fra amministrazione comunale, imprenditoria e cittadinanza.
 
