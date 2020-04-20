@@ -1,7 +1,7 @@
 ---
-title: 'Decrescita felice insieme a Mater Naturae'
+title: 'Mater Naturae coltiva verdure biologiche a Ravenna'
 date: '2015-07-16T09:16:31+00:00'
-description: "Mater Naturae è un'azienda agricola ravennate che produce secondo i metodi dell'agricoltura biologica. Il tutto all'insegna di una decrescita felice."
+description: "Mater Naturae è un'azienda agricola che produce verdure biologiche a Ravenna e che promuove i principi della decrescita felice."
 featuredImage: ./christian-grassi.jpg
 category:
     - Green Mix
@@ -12,66 +12,71 @@ tags:
     - Sostenibilità
 ---
 
-Kenneth Boulding affermava: "*Chi crede che una crescita esponenziale possa continuare all'infinito in un mondo finito è un folle, oppure un economista*". Voi cosa ne pensate?
+C'è una realtà che coltiva e vende verdure biologiche a Ravenna, e che s'ispira ai principi di decrescita felice.
+Ma facciamo un piccolo passo indietro e chiariamo due cose su questo tipo di decrescita.
 
-Se ritenete che la crescita economica ed il benessere delle persone non vadano necessariamente di pari passo, e che ad un incremento del PIL (Prodotto Interno Lordo) corrisponda, sempre più spesso, una diminuzione della qualità di vita, allora siete in perfetta sintonia con un movimento nato in Italia diversi anni fa, il [Movimento per la Decrescita Felice](http://decrescitafelice.it) (MDF), il cui fondatore è il saggista Maurizio Pallante, esperto di politica energetica e di tecnologie ambientali e impegnato nello studio delle relazioni esistenti fra ecologia, tecnologia ed economia.
-La decrescita a cui si riferisce il movimento non è da intendersi come una continua e cieca rinuncia a qualsiasi cosa, ma come un rifiuto di tutto ciò che può essere considerato superfluo, privilegiando il soddisfacimento dei bisogni veri ed effettivi per evitare gli sprechi.
-Il movimento incoraggia l'autoproduzione quando questa implica un miglioramento della qualità di vita ed una diminuzione dei livelli di inquinamento, del consumo di risorse, della quantità di rifiuti prodotti e dei relativi costi.
+Kenneth Boulding affermava: "*Chi crede che una crescita esponenziale possa continuare all'infinito in un mondo finito è un folle, oppure un economista*". Cosa ne pensate?
 
-![Amiche fedeli dell'azienda](./galline.jpg)
+Crescita economica e benessere delle persone non vanno necessariamente di pari passo?
+Un aumento del PIL corrisponde spesso una diminuzione della qualità di vita?
 
-Scrive Pallante sul [sito](http://decrescitafelice.it/la-decrescita-felice/): "*La decrescita è elogio dell'ozio, della lentezza e della durata; rispetto del passato; consapevolezza che non c'è progresso senza conservazione; indifferenza alle mode e all'effimero; attingere al sapere della tradizione; non identificare il nuovo col meglio, il vecchio col sorpassato, il progresso con una sequenza di cesure, la conservazione con la chiusura mentale; non chiamare consumatori gli acquirenti, perché lo scopo dell'acquistare non è il consumo ma l'uso; distinguere la qualità dalla quantità; desiderare la gioia e non il divertimento; valorizzare la dimensione spirituale e affettiva; collaborare invece di competere; sostituire il fare finalizzato a fare sempre di più con un fare bene finalizzato alla contemplazione. La decrescita è la possibilità di realizzare un nuovo Rinascimento che liberi le persone dal ruolo di strumenti della crescita economica e ri-collochi l'economia nel suo ruolo di gestione della casa comune a tutte le specie viventi in modo che tutti i suoi inquilini possano viverci al meglio*".
-Un discorso su cui riflettere, non credete anche voi?
+Se avete risposto "Sì" a entrambe le domande, allora siete in sintonia con un movimento nato in Italia diversi anni fa, il [Movimento per la Decrescita Felice](http://decrescitafelice.it) (MDF).
+Il fondatore è Maurizio Pallante, esperto di politica energetica e di tecnologie ambientali, impegnato nello studio delle relazioni fra ecologia, tecnologia ed economia.
+
+Questo tipo di decrescita non è da intendersi quale una cieca rinuncia a qualsiasi cosa.
+È un rifiuto di tutto ciò che può essere considerato superfluo, privilegiando il soddisfacimento dei bisogni veri ed effettivi per evitare gli sprechi.
+Il movimento incoraggia l'autoproduzione quando questa implichi un miglioramento della qualità di vita. Ma anche una diminuzione dei livelli di inquinamento, del consumo di risorse, della quantità di rifiuti prodotti e dei relativi costi.
 
 ![Christian Grassi](./christian-cassetta-1.jpg)
 
-I principi alla base della decrescita felice rappresentano il credo di Christian Grassi, l'intervistato di questa settimana.
-*[Mater Naturae](https://www.facebook.com/mater.naturae?fref=ts)*, l'azienda certificata [ICEA](http://www.icea.info/it/) che gestisce insieme ad Antonella Orselli, si trova in via Fiume Montone Abbandonato 481 a Borgo Montone, poco distante da Ravenna, e consegna settimanalmente frutta e verdura a più di 200 famiglie ravennati.
-Il lavoro di Christian e di Antonella non promuove solo l'agricoltura biologica e le colture locali, ma anche i rapporti diretti con le persone attraverso la consegna (a casa o sul luogo di lavoro) oppure il ritiro in azienda dei prodotti, vendendo ai mercati contadini locali e collaborando con i GAS (Gruppi di Acquisto Solidale).
+La decrescita felice è il credo di Christian Grassi.
+[Mater Naturae](https://www.facebook.com/mater.naturae?fref=ts), l'azienda certificata [ICEA](http://www.icea.info/it/) che gestisce insieme ad Antonella Orselli, è in via Fiume Montone Abbandonato 481 a Borgo Montone, poco distante da Ravenna.
+Ogni settimana consegna frutta e verdure biologiche a Ravenna a più di 200 famiglie.
+Il lavoro di Christian e di Antonella non promuove solo l'agricoltura biologica e le colture locali. Sostiene anche i rapporti diretti con le persone attraverso la consegna o il ritiro in azienda dei prodotti.
+Mater Naturae vende ai mercati contadini locali e collabora coi GAS (Gruppi di Acquisto Solidale).
 
 ![Christian Grassi](./christian-cassetta-2.jpg)
 
-***Ciao Christian! Da quanto tempo sei agricoltore?***
+### Ciao, Christian! Da quanto sei agricoltore?
 
-"Sono un contadino dal 2008. Precedentemente sono stato un tecnico, un controllore delle produzioni biologiche ed uno sperimentatore occupandomi sempre e solo di agricoltura biologica e di agroecologia".
+> "Ciao, Anna. Sono un **contadino dal 2008**. Prima sono stato un tecnico, un controllore delle produzioni biologiche e uno sperimentatore occupandomi sempre e solo di agricoltura biologica e di agroecologia".
 
-***La tua è stata una scelta?***
+### Quella di produrre frutta e verdure biologiche a Ravenna è stata una tua idea?
 
 ![Alcune serre di Christian](./serra-2.jpg)
 
-"Scelsi di occuparmi di agricoltura biologica in terza media, quando si trattò di decidere quale istituto superiore frequentare".
+> "Ho scelto di occuparmi di agricoltura biologica in terza media, quando ho deciso a quale istituto superiore iscrivermi".
 
-***Cosa ami del tuo lavoro?***
+### Cosa ami del tuo lavoro?
 
 ![La sottoscritta intenta a raccogliere...](./serra-1.jpg)
 
-"Ogni giorno è diverso e la capacità di risolvere qualche problema o di affrontare un imprevisto legato ai fenomeni naturali è sempre messa alla prova".
+> "Ogni giorno è diverso. La capacità di risolvere un problema, o di affrontare un imprevisto legato ai fenomeni naturali, è sempre messa alla prova".
 
-***Perché farsi promotore dell'agricoltura biologica?***
+### Perché farsi promotore dell'agricoltura biologica?
 
 ![Pomodori ciliegini e melanzane](./serra-3.jpg)
 
-"Credo che il biologico sia un metodo in grado di produrre cibo senza rapinare il pianeta, senza danneggiare il prossimo, me stesso e la mia famiglia. Se lavorassi nella chimica sarei il il primo a respirare porcherie.
-Credo che il biologico si sposi bene con i principi delle teorie economiche di decrescita felice alle quali, quotidianamente, cerco di ispirare il mio modo di vivere".
+> "Credo che il biologico possa **produrre cibo senza rapinare il pianeta**, **senza danneggiare il prossimo**, me stesso e la mia famiglia.
+>
+> Credo anche che il biologico si sposi bene coi principi delle teorie economiche di decrescita felice. Teorie alle quali, quotidianamente, cerco di ispirare il mio modo di vivere".
 
-***Che cosa coltivi e quali servizi offri?***
+### Che cosa coltivate e quali servizi offri?
 
 ![... ancora pomodori...](./serra-4.jpg)
 
-"Coltiviamo fino a 60 diverse specie di ortaggi e di frutta che vendiamo prevalentemente con il metodo della consegna a domicilio e, in parte, tramite mercatini e forniture a negozi e ristoranti".
+> "Coltiviamo fino a **60 diverse specie di ortaggi e di frutta** che vendiamo prevalentemente con il metodo della consegna a domicilio. In parte vendiamo anche tramite mercatini e forniture a negozi e ristoranti".
 
-***Quali strategie hai deciso di adottare per proteggere le tue colture?***
+### Quali strategie hai deciso di adottare per proteggere le tue colture?
 
 ![Verso il frutteto...](./frutteto.jpg)
 
-"Un'agricoltura biologica più restrittiva rispetto a quanto previsto dal regolamento CE che disciplina l'agricoltura biologica stessa".
+> "Un'agricoltura biologica più restrittiva rispetto a quanto previsto dal regolamento CE che disciplina l'agricoltura biologica stessa".
 
-***Hai in serbo qualcosa di interessante per i prossimi mesi?***
+### Hai in serbo qualcosa di interessante per i prossimi mesi?
 
 ![La pesca di Adamo ed Eva!](./pesca.jpg)
 
-"Stiamo cercando di mettere a punto un sistema di controllo delle infestanti, delle malattie delle piante e di concimazione basato sull'impiego di pecore e di galline al pascolo".
-
-> *Se l'articolo ti è piaciuto, leggi anche [Civiltà Contadina](https://myhumus.com/civilta-contadina-biodiversita/), [Adotta una mucca](https://myhumus.com/turismo-adotta-una-mucca/) e [Ravegan](https://myhumus.com/ravegan-vegan/)!*
+> "Sì. Diciamo che, ora come ora, vogliamo mettere a punto un nuovissimo sistema di controllo delle infestanti, delle malattie delle piante e di concimazione. È un sistema che si basa sull'impiego di pecore e di galline al pascolo. Mi sa che ne vedremo delle belle!"
 
 ![Le piccole prugne selvatiche](./prugne.jpg)
