@@ -5,6 +5,12 @@
 .post-nav {
     max-width: $fullhd - ($gap * 2);
     margin: 0 auto;
+    h1 {
+        margin: ($size-1 * 2) 0 $size-1 0;
+        text-align: center;
+        padding-top: $size-1 * 2;
+        border-top: $size-7 dotted $primary;
+    }
     li {
         display: inline-block;
         width: 100%;
@@ -13,6 +19,23 @@
         }
         &:first-child {
             text-align: right;
+        }
+        a {
+            display: inline-block;
+            background-color: $primary;
+            color: $primary-invert;
+            padding: $size-4;
+            margin: $size-6;
+            border: 1px solid $primary;
+            font-size: $size-5;
+            &:hover {
+                background-color: $primary-invert;
+                color: $primary;
+                border-color: $primary;
+            }
+            i {
+                margin: 0 $size-7;
+            }
         }
     }
 }

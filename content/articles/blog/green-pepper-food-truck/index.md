@@ -1,7 +1,7 @@
 ---
 title: 'Green Pepper, il food truck delle meraviglie'
 date: '2017-03-22T10:14:23+00:00'
-description: "Qualche tempo fa, insieme alle mie amiche Giorgia e Sara, mi trovavo a San Mauro Pascoli (FC) in occasione di Commonplaces, un market di design che promuove l'autoproduzione e tutto ciò che è handmade."
+description: "Green Pepper è il favoloso food truck capitanato dalla spumeggiante Federica Zammarchi."
 featuredImage: ./green-pepper.jpg
 category:
     - Cucina naturale

@@ -6,6 +6,7 @@ import TagLink from "../components/ui/link/tag-link"
 import CategoryLink from "../components/ui/link/category-link"
 import SEO from "../components/seo/seo"
 import PostNavigation from "../components/ui/post-navigation"
+import Img from "gatsby-image"
 
 import "../scss/templates/_blog-post.scss"
 
@@ -13,7 +14,7 @@ class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
     const { previous, next } = this.props.pageContext
-    const image = post.frontmatter.featuredImage ? post.frontmatter.featuredImage.childImageSharp.sizes.src : null
+    const image = post.frontmatter.featuredImage ? post.frontmatter.featuredImage.childImageSharp.fixed : null
 
     return (
       <>
@@ -22,13 +23,14 @@ class BlogPostTemplate extends React.Component {
           description={post.frontmatter.description || post.excerpt}
           frontmatter={post.frontmatter}
           isBlogPost={true}
-          image={image}
+          image={image.src}
           postData={post}
           path={this.props.location.pathname}
         />
         <main>
           <article className="blog-post">
-            <header image={image}>
+            <header>
+              <Img fixed={image} style={{ width: "100%" }} className="blog-post-image" />
               <section className="hero">
                 <div className="hero-body">
                   <div className="container">
@@ -92,7 +94,10 @@ export const pageQuery = graphql`
         category
         tags
         featuredImage {
-          childImageSharp {
+          childImageSharp{
+            fixed(width: 1280, height: 768, quality: 60) {
+              ...GatsbyImageSharpFixed
+            }
             sizes(maxWidth: 1280) {
               ...GatsbyImageSharpSizes
             }
