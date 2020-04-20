@@ -1,46 +1,36 @@
 ---
 title: 'Elogio dell'autoproduzione'
 date: '2016-05-05T11:33:55+00:00'
-description: 'L'autoproduzione come risposta efficace allo spreco e come scelta consapevole di un consumo più responsabile.'
-featuredImage: ../uploads/2016/05/ph-dominik-martin-150x150.jpg
+description: "L'autoproduzione come risposta efficace allo spreco e come scelta consapevole di un consumo più responsabile."
+featuredImage: ./ph-dominik-martin.jpg
 category:
     - Green Mix
 tags:
-    - autoproduzione
-    - 'autoproduzione alimentare'
-    - 'autoproduzione in cucina'
-    - 'cosmetici fai da te'
-
-_yoast_wpseo_focuskw:
-    - autoproduzione
-_yoast_wpseo_title:
-    - 'Elogio all''autoproduzione - MyHumus'
-_yoast_wpseo_metadesc:
-    - 'Intervista a Lucia Cuffaro, paladina dell''autoproduzione finalizzata ad uno stile di vite economico ed ecologico.'
-_yoast_wpseo_linkdex:
-    - '82'
-_yoast_wpseo_content_score:
-    - '60'
-_yoast_wpseo_primary_category:
-    - ''
+    - Autoproduzione
+    - Autoproduzione alimentare
+    - Autoproduzione in cucina
+    - Cosmetici fai da te
 ---
 
-
 **Autoproduzione**: che bella parola. Eppure, non è qualcosa di immediato.
+
 Ci sono volte in cui pigrizia e/o abitudine prendono il sopravvento. Acquistare un prodotto è indubbiamente più pratico e veloce rispetto all'autoprodurlo da zero.
+
 Spesso non è neanche una questione di tempo, quanto più una mancanza di voglia unita al timore di fallire nell'impresa e di buttare tutto nell'immondizia.
 
 Per tutti coloro che sono in cerca di speranza in questo senso, ecco una notizia rassicurante: **autoprodurre diventa un'impresa possibile** grazie alle dritte di **Lucia Cuffaro**.
+
 Come dire, la luce alla fine del tunnel!
 
-<div class="wp-caption alignright" id="attachment_2809" style="width: 310px">[![autoproduzione, fai da te, autoproduzione cosmetici, handmade](../uploads/2016/05/lucia-cuffaro1.jpg)](https://myhumus.com/wp-content/uploads/2016/05/lucia-cuffaro1.jpg)Lucia Cuffaro.
+![Lucia Cuffaro](./lucia-cuffaro.jpg)
 
 Lucia ha un'energia contagiosa. All'interno di [www.autoproduciamo.it](http://www.autoproduciamo.it), e nell'ambito di alcuni programmi televisivi, offre dritte inerenti l'**autoproduzione in cucina**, i **cosmetici fai da te**, i **saponi** e i **detersivi naturali**, l'**orto in appartamento**, le **compostiere fai da te**, gli **antiparassitari naturali** e molto altro.
+
 Che ne dite? Vogliamo conoscerla meglio?
 
 ### Cara Lucia, che piacere conoscerti! Raccontami: come nasce il tuo interesse verso l'autoproduzione?
 
-> "Ciao, Anna! Il mio attuale lavoro sull'autoproduzione è frutto di tutto l'attivismo che ho condotto in passato.
+> Ciao, Anna! Il mio attuale lavoro sull'autoproduzione è frutto di tutto l'attivismo che ho condotto in passato.
 >
 > Diversi anni fa ho preso parte al [Movimento per la Decrescita Felice](http://decrescitafelice.it) in qualità di socia. Poi, mentre lavoravo in RAI e, nello specifico, in Report, ho partecipato a tutti i corsi organizzati dall'[Università del Saper Fare](http://decrescitafelice.it/unisf/) di Roma.
 >
@@ -48,23 +38,23 @@ Che ne dite? Vogliamo conoscerla meglio?
 >
 > È stata la volta di [La Città dell'Utopia](http://www.cittadellutopia.it/CITTA_DELLUTOPIA/HOME.html), all'interno della quale sono stata assunta per coordinarne l'attività.
 >
-> Dopodiché sono diventata presidente del Circolo di Roma per la Decrescita Felice. È a quel punto che ho deciso di condurre una rubrica all'interno di [Unomattina in Famiglia](http://unomattinainfamiglia.blog.rai.it), ispirata al progetto dell'Università del Saper Fare del Movimento per la Decrescita Felice.
-
-<div class="wp-caption aligncenter" id="attachment_2814" style="width: 486px">[![autoproduzione in cucina, autoproduzione alimentare, autoproduzione](../uploads/2016/05/lucia-cuffaro-rai.jpg)](https://myhumus.com/wp-content/uploads/2016/05/lucia-cuffaro-rai.jpg)Lucia a "Uno Mattina in Famiglia".
-
+> Dopodiché sono diventata presidente del Circolo di Roma per la Decrescita Felice. È a quel punto che ho deciso di condurre una rubrica all'interno di [Uno Mattina In Famiglia](https://www.raiplay.it/programmi/unomattinainfamiglia), ispirata al progetto dell'Università del Saper Fare del Movimento per la Decrescita Felice.
+>
+> ![Lucia a "Uno Mattina in Famiglia"](./lucia-cuffaro-rai)
+>
 > Negli ultimi anni sono diventata vice presidente nazionale del Movimento per la Decrescita Felice. Fino a gennaio 2016, mi sono occupata di tematiche tecniche sui rifiuti all'interno della Camera dei Deputati.
 >
 > Ora lavoro come libera professionista, ho due contratti televisivi (uno con RAI e l'altro con TV2000), mi dedico ad alcuni corsi e seminari, sono un'attivista impegnata nelle tematiche connesse ai rifiuti e in attività di socializzazione.
 >
-> Amo alla follia la mia casa editrice, il [Gruppo Editoriale Macro](http://www.gruppomacro.com), con cui lavoro a nuovi progetti sull'ecologia. Gentilezza e professionalità sono le loro caratteristiche".
+> Amo alla follia la mia casa editrice, il [Gruppo Editoriale Macro](http://www.gruppomacro.com), con cui lavoro a nuovi progetti sull'ecologia. Gentilezza e professionalità sono le loro caratteristiche.
 
 ### Qual è il tuo impegno quotidiano?
 
-> "Punto a **semplificare l'autoproduzione**. Autoprodurre è un'impresa possibile".
+> Punto a **semplificare l'autoproduzione**. Autoprodurre è un'impresa possibile.
 
 ### Parliamo un secondo dei tuoi prodotti. Prendiamo come esempio le tue creme: sono destinate a tutti i tipi di pelle?
 
-> "Sì, perché gli ingredienti che utilizzo sono estremamente semplici. L'autoproduzione deve poter fare sempre rima con *semplicità*, affinché possa essere praticata da tutti.
+> Sì, perché gli ingredienti che utilizzo sono estremamente semplici. L'autoproduzione deve poter fare sempre rima con *semplicità*, affinché possa essere praticata da tutti.
 >
 > Prima di pubblicare le mie ricette, le testo per un certo periodo di tempo sulla mia pelle e su quella di amici. >
 >
@@ -72,13 +62,13 @@ Che ne dite? Vogliamo conoscerla meglio?
 >
 > Propongo dosaggi molto piccoli, perché non uso conservanti, e consiglio sempre l'uso di barattoli di vetro. Non amo gli emozionanti né tantomeno gli emulsionanti artificiali.
 >
->I miei procedimenti di autoproduzione sono molto semplici".
+> I miei procedimenti di autoproduzione sono molto semplici.
 
-[![autoproduzione in casa, autoproduzione cosmetici, autoproduzione alimentare](../uploads/2016/05/autoproduzione-lucia-cuffaro.jpg)](https://myhumus.com/wp-content/uploads/2016/05/autoproduzione-lucia-cuffaro.jpg)
+![autoproduzione in casa, autoproduzione cosmetici, autoproduzione alimentare](../autoproduzione-lucia-cuffaro.jpg)
 
 ### Quali e quanti ingredienti utilizzi?
 
-> "Gli ingredienti che uso sono al massimo trenta. Attraverso le loro combinazioni autoproduco detersivi, prodotti per la salute, articoli per la cosmesi e per l'igiene personale. Considera che ogni singolo prodotto contiene al massimo tre o quattro ingredienti.
+> Gli ingredienti che uso sono al massimo trenta. Attraverso le loro combinazioni autoproduco detersivi, prodotti per la salute, articoli per la cosmesi e per l'igiene personale. Considera che ogni singolo prodotto contiene al massimo tre o quattro ingredienti.
 >
 > **Non servono tanti elementi primari per l'autoproduzione di ciò che ci serve!**
 >
@@ -88,14 +78,14 @@ Che ne dite? Vogliamo conoscerla meglio?
 >
 > Dal momento che non amo lo spreco, propongo sempre **ricette con ingredienti riutilizzabili** per più prodotti. Promuovo anche la **facile reperibilità**: quando possibile, consiglio sempre **materie prime prodotte in Italia** in maniera semplice.
 >
-> Purtroppo ci sono casi in cui non è possibile ricorrere al Km Zero. Penso, ad esempio, all'olio di cocco, al burro di karité e all'olio di neem".
+> Purtroppo ci sono casi in cui non è possibile ricorrere al Km Zero. Penso, ad esempio, all'olio di cocco, al burro di karité e all'olio di neem.
 
 ### Una mia curiosità personale: quali sono i prodotti più difficili da autoprodurre?
 
-> "Indubbiamente le creme solari. Sono davvero molto complesse da realizzare".
+> Indubbiamente le creme solari. Sono davvero molto complesse da realizzare.
 
 #### Ciò che fai è davvero molto divertente e creativo. Brava! Prima di salutarci, dimmi: cosa pensi di te?
 
-> "Mi ritengo una persona molto fortunata, perché ho la possibilità di vivere facendo ciò che mi appassiona!"
+> Mi ritengo una persona molto fortunata, perché ho la possibilità di vivere facendo ciò che mi appassiona!
 
 Foto di copertina: [Dominik Martin](https://unsplash.com/@dominikmartin) via [Unsplash](https://unsplash.com).

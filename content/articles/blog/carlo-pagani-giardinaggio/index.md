@@ -1,7 +1,7 @@
 ---
 title: "Il vivaismo ornamentale del maestro Carlo Pagani"
 date: '2014-07-04T00:00:11+00:00'
-description: 'Scopriamo insieme la passione di Carlo Pagani per l'architettura del paesaggio e il vivaismo ornamentale.'
+description: "Scopriamo insieme la passione di Carlo Pagani per l'architettura del paesaggio e il vivaismo ornamentale."
 featuredImage: ./carlo-pagani.jpg
 category:
     - Green Mix
@@ -68,7 +68,7 @@ Alla morte del naturalista schivo, Carlo ha messo mano al giardino, portando all
 
 Sulla strada di ritorno verso casa, mi è tornata in mente una citazione di Yann Martel:
 
-> "La natura può allestire spettacoli straordinari. Il palcoscenico è immenso, le luci strabilianti, le comparse infinite. E il budget per gli effetti speciali, illimitato".
+> La natura può allestire spettacoli straordinari. Il palcoscenico è immenso, le luci strabilianti, le comparse infinite. E il budget per gli effetti speciali, illimitato.
 
 Carlo Pagani e i suoi giardini: quando creatività umana e natura formano un connubio perfetto.
 

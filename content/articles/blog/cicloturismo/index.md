@@ -1,7 +1,7 @@
 ---
 title: 'Il cicloturismo in Sicilia, quello bello!'
 date: '2015-07-23T10:39:28+00:00'
-description: 'Movimento Centrale è il bike café di Chiara e Alfonso, due ragazzi che promuovono il cicloturismo in Sicilia, la loro terra d'origine.'
+description: "Movimento Centrale è il bike café di Chiara e Alfonso, due ragazzi che promuovono il cicloturismo in Sicilia, la loro terra d'origine."
 featuredImage: ./chiara-e-alfonso.jpg
 category:
     - Mobilità sostenibile
@@ -32,7 +32,7 @@ L'hub si chiama [Movimento Centrale](http://www.movimentocentrale.net).
 
 ### Ciao ragazzi! Ditemi: quando nasce Movimento Centrale e il vostro interesse per il cicloturismo in Sicilia?
 
-> "Ciao, Anna! Abbiamo inaugurato Movimento Centrale lo scorso aprile, qui a Siracusa.
+> Ciao, Anna! Abbiamo inaugurato Movimento Centrale lo scorso aprile, qui a Siracusa.
 >
 > Avevamo bisogno di cambiare lavoro, stile di vita e luoghi. Desideravamo un po' di tempo libero e perseguire i nostri interessi.
 >
@@ -40,17 +40,17 @@ L'hub si chiama [Movimento Centrale](http://www.movimentocentrale.net).
 >
 > Dopo aver fatto un po' di conti, abbiamo progettato l'apertura di questo café. Abbiamo instaurato partnership relative ai servizi che noi non offriamo, quali, ad esempio, l'alloggio, l'affitto di grandi quantità di bici, l'organizzazione di tour e l'accompagnamento.
 >
-> Dall'idea iniziale alla realizzazione vera e propria dell'hub è trascorso un anno, siamo stati abbastanza veloci".
+> Dall'idea iniziale alla realizzazione vera e propria dell'hub è trascorso un anno, siamo stati abbastanza veloci.
 
 ### Tu, Chiara, di cosa ti occupavi prima di intraprendere questa avventura? E Alfonso?
 
 ![Insieme in questa avventura](./unnamed.jpg)
 
-> "Io lavoravo in uno studio legale internazionale nell'ambito della comunicazione e del marketing. Alfonso lavorava per [L'Espresso](http://espresso.repubblica.it) come web trafficker".
+> Io lavoravo in uno studio legale internazionale nell'ambito della comunicazione e del marketing. Alfonso lavorava per [L'Espresso](http://espresso.repubblica.it) come web trafficker.
 
 ### Cos'è Movimento Centrale? Quali servizi offre?
 
-> "Movimento Centrale è una **caffetteria-tavola fredda con ciclofficina annessa**. Ciò che facciamo, fondamentalmente, è **promuovere la bici e il cicloturismo in Sicilia**.
+> Movimento Centrale è una **caffetteria-tavola fredda con ciclofficina annessa**. Ciò che facciamo, fondamentalmente, è **promuovere la bici e il cicloturismo in Sicilia**.
 >
 > La nostra ristorazione è coerente coi principi del progetto. Sono **cibi a km zero**, biologici e sempre freschi. Vogliamo **promuovere le colture tipiche locali** e privilegiare tanto le piccole realtà a conduzione familiare quanto le tipicità del territorio.
 >
@@ -60,36 +60,36 @@ L'hub si chiama [Movimento Centrale](http://www.movimentocentrale.net).
 >
 > Offriamo il 10% di sconto a tutti coloro che arrivano alla caffetteria in sella alla bici. Noleggiamo biciclette e organizziamo tour cicloturistici mettendo a punto percorsi *ad hoc*.
 >
-> Movimento Centrale è un progetto che sta prendendo vita un po' alla volta. Desideriamo avvicinare coloro che hanno deciso di visitare la Sicilia cercando un **contatto diretto con le persone**".
+> Movimento Centrale è un progetto che sta prendendo vita un po' alla volta. Desideriamo avvicinare coloro che hanno deciso di visitare la Sicilia cercando un **contatto diretto con le persone**.
 
 ![Gli interni del café](./mc-1.jpg)
 
 ### Avete ricevuto finanziamenti o altri aiuti di tipo economico?
 
-> "Abbiamo ricevuto un finanziamento a tasso agevolato da [Banca Etica](http://www.bancaetica.it) e dal [Fondo Sociale Europeo"](http://ec.europa.eu/esf/home.jsp?langId=it).
+> Abbiamo ricevuto un finanziamento a tasso agevolato da [Banca Etica](http://www.bancaetica.it) e dal [Fondo Sociale Europeo](http://ec.europa.eu/esf/home.jsp?langId=it).
 
 ![Gli interni del café](./mc-2.jpg)
 
 ### Al di là del cibo che proponete, in che modo il vostro bike cafè può dirsi sostenibile?
 
-> "I nostri arredi sono interamente in legno e sono il frutto di una sana autocostruzione. I tavolini sono stati ottenuti dal riciclo di vecchi cerchioni di biciclette. Per l'illuminazione abbiamo scelto i LED, ma per il riscaldamento non abbiamo ancora deciso come comportarci. Valuteremo diverse soluzioni".
+> I nostri arredi sono interamente in legno e sono il frutto di una sana autocostruzione. I tavolini sono stati ottenuti dal riciclo di vecchi cerchioni di biciclette. Per l'illuminazione abbiamo scelto i LED, ma per il riscaldamento non abbiamo ancora deciso come comportarci. Valuteremo diverse soluzioni.
 
 ![La ciclofficina](./mc-3.jpg)
 
 ### Organizzate anche incontri culturali?
 
-> "Vogliamo organizzare **mostre**, **incontri culturali** con cicloturisti e viaggiatori.
+> Vogliamo organizzare **mostre**, **incontri culturali** con cicloturisti e viaggiatori.
 >
 > Poco tempo fa abbiamo intervistato un ragazzo brasiliano che sta attraversando le coste di tutto il mondo. Lo fa per contribuire a sensibilizzare le persone sul tema dei rifiuti negli oceani. Lo abbiamo invitato a raccontare la sua esperienza.
 >
 > Da ottobre vogliamo stringere rapporti più stretti con il cicloturismo in Sicilia, invitando persone e realizzando incontri.
 >
-> Lo spazio riservato alla ciclofficina è stato studiato per organizzare presentazioni, installazioni e mostre. Le sedute sono costituite da cubi modulari che consentono di creare ambienti diversi sulla base delle esigenze".
+> Lo spazio riservato alla ciclofficina è stato studiato per organizzare presentazioni, installazioni e mostre. Le sedute sono costituite da cubi modulari che consentono di creare ambienti diversi sulla base delle esigenze.
 
 ![Café](./mc-4.jpg)
 
 ### Come siete stati accolti da Siracusa?
 
-> "Le persone ci stanno ancora conoscendo. L'approccio è complessivamente positivo, c'è molta curiosità. Vogliamo agganciarci al cicloturismo su mountain bike per esplorare il territorio".
+> Le persone ci stanno ancora conoscendo. L'approccio è complessivamente positivo, c'è molta curiosità. Vogliamo agganciarci al cicloturismo su mountain bike per esplorare il territorio.
 
 ![L'esterno del locale e le bici a noleggio](./mc-5.jpg)
