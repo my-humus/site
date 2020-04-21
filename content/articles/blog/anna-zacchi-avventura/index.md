@@ -31,9 +31,9 @@ Nel 1980 decide di affrontare la sua prima avventura podistica, la 100 km del Pa
 
 A questo proposito, Anna dice:
 
-> "C'era uno sponsor per i migliori corridori di quella gara. Avevano deciso di sposorizzare anche me, solo che io volevo rimanere fedele alla Romagna.
+> C'era uno sponsor per i migliori corridori di quella gara. Avevano deciso di sposorizzare anche me, solo che io volevo rimanere fedele alla Romagna.
 >
-> Così ho deciso di affrontare la prima metà della gara con la pettorina dello sponsor ufficiale e la seconda metà con quella della mia società sportiva, la Caveja di Madonna dell'Albero. Perché io, all'arrivo, volevo arrivarci con indosso la Romagna".
+> Così ho deciso di affrontare la prima metà della gara con la pettorina dello sponsor ufficiale e la seconda metà con quella della mia società sportiva, la Caveja di Madonna dell'Albero. Perché io, all'arrivo, volevo arrivarci con indosso la Romagna.
 
 Capito, la Zacchi?
 
@@ -48,9 +48,9 @@ L'organizzazione marocchina offre solo la tenda e 9 litri di acqua al giorno.
 
 Anna mi racconta:
 
-> "Qualche mese prima di affrontare quell'avventura, cominciai a correre su terreni sabbiosi a piedi nudi per favorire lo sviluppo dei calli che avrebbero scongiurato le vesciche durante i giorni di gara. Quella in Marocco è stata una corsa in cui ho vissuto molte emozioni.
+> Qualche mese prima di affrontare quell'avventura, cominciai a correre su terreni sabbiosi a piedi nudi per favorire lo sviluppo dei calli che avrebbero scongiurato le vesciche durante i giorni di gara. Quella in Marocco è stata una corsa in cui ho vissuto molte emozioni.
 >
-> E sai qual è stata la cosa più bella? Eravamo tutti uguali, si era tutti sporchi allo stesso modo, l'ingegnere come il bottegaio. E si correva tutti insieme".
+> E sai qual è stata la cosa più bella? Eravamo tutti uguali, si era tutti sporchi allo stesso modo, l'ingegnere come il bottegaio. E si correva tutti insieme.
 
 Nel 1992, Anna si cimenta nell'Atene - Sparta, 236 km. Con una sottile amarezza, precisa di averne percorsi "solamente" 180 a causa di alcuni problemi fisici causati da una caduta in bici di qualche giorno prima.
 
@@ -66,7 +66,7 @@ Immagino sia la stessa delicatezza con cui ha affrontato le sfide della vita. Tu
 
 C'è un'affermazione di Stephen Littleword che, a mio parere, ben le si addice. Recita più o meno così:
 
-> "Ho affrontato le sfide della vita attingendo a un bacino di energia pura: la mia forza interiore. L'ho costruita a dispetto degli sberleffi della vita e grazie ai dolori quotidiani, l'ho scoperta credendo in me e nei miei valori".
+> Ho affrontato le sfide della vita attingendo a un bacino di energia pura: la mia forza interiore. L'ho costruita a dispetto degli sberleffi della vita e grazie ai dolori quotidiani, l'ho scoperta credendo in me e nei miei valori.
 
 Questa è Anna, un esempio di emancipazione femminile.
 

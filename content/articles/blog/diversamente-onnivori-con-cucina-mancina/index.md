@@ -44,17 +44,17 @@ Lorenza mi ha raccontato meglio il progetto CucinaMancina...
 
 ### Ciao, Lorenza. Perché avete dato il via a CucinaMancina?
 
-> "Ciao, Anna. CucinaMancina è nata dall'incontro fra me e Flavia durante un corso organizzato dalla regione Puglia nel 2012 per imparare ad avviare start-up basate su una tecnologia innovativa.
+> Ciao, Anna. CucinaMancina è nata dall'incontro fra me e Flavia durante un corso organizzato dalla regione Puglia nel 2012 per imparare ad avviare start-up basate su una tecnologia innovativa.
 >
 > Da una cena con i compagni di corso in cui, allo stesso tavolo, c'erano un'intollerante al lattosio, un vegetariano e un celiaco, è nata l'idea di una **food community dedicata ai diversamente onnivori**. Parliamo di vegetariani, vegani, intolleranti, allergici, curiosi alimentari e tutte quelle persone che seguono diete con pochi zuccheri, grassi e sodio.
 >
 > Flavia ha pensato al nome e alla grammatica attraverso la coniazione di un nuovo linguaggio inclusivo, a misura di *mancino*. Io, invece, ne ho disegnato l'identità, mescolando le forchette parlanti di Munari coi rebbi a forma di mani e la "c" rovesciata di "copyleft". Simbolo, questo, della massima condivisione ed elemento alla base di una community come la nostra.
 >
-> Volevamo **semplificare la vita delle persone** con problemi alimentari o semplicemente desiderose di variare la propria dieta. Desideravamo offrire loro la possibilità di mangiare in modo diverso e creativo, suggerendo anche i luoghi in cui comprare e mangiare questi prodotti".
+> Volevamo **semplificare la vita delle persone** con problemi alimentari o semplicemente desiderose di variare la propria dieta. Desideravamo offrire loro la possibilità di mangiare in modo diverso e creativo, suggerendo anche i luoghi in cui comprare e mangiare questi prodotti.
 
 ### In cosa consiste questo progetto per diversamente onnivori? Come funziona?
 
-> "È una **community che unisce ricette, persone, luoghi e prodotti** legati al mondo dell'alimentazione differente attraverso diversi strumenti.
+> È una **community che unisce ricette, persone, luoghi e prodotti** legati al mondo dell'alimentazione differente attraverso diversi strumenti.
 >
 Sul nostro sito proponiamo un **ricettario multifiltro** per scegliere e organizzare le ricette sulla base delle proprie mancinità.
 >
@@ -68,33 +68,33 @@ Sul nostro sito proponiamo un **ricettario multifiltro** per scegliere e organiz
 >
 > Al momento stiamo lavorando anche allo sviluppo del mercato mancino. Si tratta di **vetrine parlanti** che ospiteranno i prodotti delle aziende agroalimentari per diversamente onnivori raccontati e cucinati dagli chef e dai foodblogger della community.
 >
-> Il sito offre anche strumenti di *social fooding* che consentono ai diversamente onnivori di condividere e di salvare le ricette preferite, così come di interagire con esse".
+> Il sito offre anche strumenti di *social fooding* che consentono ai diversamente onnivori di condividere e di salvare le ricette preferite, così come di interagire con esse.
 
 ### Quanto è sentito il tema del mangiare differente in Italia? Un vegano o un vegetariano riescono a trovare un'ampia offerta di luoghi in cui mangiare?
 
-> "La situazione sta progressivamente migliorando. La consapevolezza delle diversità alimentari sta crescendo ed è sempre più alto il numero di persone alla ricerca di questi cibi. È il caso dei vegetariani che, secondo [Eurispes](http://www.eurispes.eu) sono arrivati a quasi 4 milioni, rendendo l'Italia il paese europeo più *veg*.
+> La situazione sta progressivamente migliorando. La consapevolezza delle diversità alimentari sta crescendo ed è sempre più alto il numero di persone alla ricerca di questi cibi. È il caso dei vegetariani che, secondo [Eurispes](http://www.eurispes.eu) sono arrivati a quasi 4 milioni, rendendo l'Italia il paese europeo più *veg*.
 >
 > CucinaMancina ha anticipato ciò che è diventato obbligatorio a fine 2014. Abbiamo reso evidenti gli allergeni presenti nei menu dei ristoranti e sulle etichette dei prodotti alimentari. Noi le chiamiamo *mancinità* e le segnaliamo da ormai 2 anni ai nostri diversamente onnivori.
 >
 > CucinaMancina offre ai ristoranti servizi di **mancinizzazione dei menu**. I nostri nutrizionisti analizzano le portate, suggerendo eventualmente lievi revisioni delle ricette.
 >
-> È giusto che chiunque abbia la possibilità di sentirsi a casa senza avere la sensazione di essere diverso qualora non possa mangiare un certo cibo".
+> È giusto che chiunque abbia la possibilità di sentirsi a casa senza avere la sensazione di essere diverso qualora non possa mangiare un certo cibo.
 
 ### Organizzate anche corsi ed eventi?
 
-> "Sì, sul nostro portale raccogliamo anche gli eventi mancini italiani. Chef, associazioni ed enti: sono loro stessi a raccontarsi in prima persona iscrivendosi al sito.
+> Sì, sul nostro portale raccogliamo anche gli eventi mancini italiani. Chef, associazioni ed enti: sono loro stessi a raccontarsi in prima persona iscrivendosi al sito.
 >
-> Lavoriamo con [Action Aid](http://www.actionaid.it/) o per conto di enti e aziende agroalimentari etiche nell'ambito di laboratori di cucina inclusiva a spreco zero".
+> Lavoriamo con [Action Aid](http://www.actionaid.it/) o per conto di enti e aziende agroalimentari etiche nell'ambito di laboratori di cucina inclusiva a spreco zero.
 
 ### A che punto del percorso siete?
 
-> "CucinaMancina ha fatto parlare molto di sé, ottenendo un finanziamento a fondo perduto pari a 70.000€ grazie al bando *Valore Assoluto*. Abbiamo vinto anche una borsa di studio per frequentare la Startup School di [Mind the Bridge](http://mindthebridge.org), in quel di San Francisco.
+> CucinaMancina ha fatto parlare molto di sé, ottenendo un finanziamento a fondo perduto pari a 70.000€ grazie al bando *Valore Assoluto*. Abbiamo vinto anche una borsa di studio per frequentare la Startup School di [Mind the Bridge](http://mindthebridge.org), in quel di San Francisco.
 >
 > [StartupItalia!](http://startupitalia.eu) ci ha incluse fra le 100 migliori startup del panorama italiano del 2014. Poi il riconoscimento di *Best Food Startup* a marzo 2014 durante *La Repubblica delle Idee*, con Riccardo Luna ed Ezio Mauro. In settembre 2014 siamo state a Re-Food di [3040 ReGeneration](http://www.3enta4anta.it), presso il pastificio Rana.
 >
 > [Vanity Fair](http://www.vanityfair.it) ha inserito il nostro portale tra i 10 migliori siti dedicati al cibo sulla scena internazionale.
 >
-> All'attivo abbiamo anche la pubblicazione di due volumi: [*Eat Different*](http://www.iodonna.it/casa/ricette-cucina/2014/eat-different-libro-ricette-chi-mangia-diversamente-401884973471.shtml), edito da Gribaudo-Feltrinelli, che ha registrato il tutto esaurito in 3 mesi vendendo 2500 copie in tutta Italia, e [*La Puglia che mangia differente*](http://www.cucinamancina.com/posts.php?id=68&titolo=la-puglia-che-mangia-differente), promosso da [Unioncamere Puglia](http://www.unioncamerepuglia.it), realizzato in italiano e in inglese sia nella versione cartacea che in ebook. Al suo interno ci sono le ricette della tradizione pugliese rivisitate in chiave mancina da 50 chef e blogger della nostra community. Sono ricette cucinate con i prodotti tipici pugliesi e gli ingredienti di 50 aziende agroalimentari del territorio dedicate ai diversamente onnivori".
+> All'attivo abbiamo anche la pubblicazione di due volumi: [*Eat Different*](http://www.iodonna.it/casa/ricette-cucina/2014/eat-different-libro-ricette-chi-mangia-diversamente-401884973471.shtml), edito da Gribaudo-Feltrinelli, che ha registrato il tutto esaurito in 3 mesi vendendo 2500 copie in tutta Italia, e [*La Puglia che mangia differente*](http://www.cucinamancina.com/posts.php?id=68&titolo=la-puglia-che-mangia-differente), promosso da [Unioncamere Puglia](http://www.unioncamerepuglia.it), realizzato in italiano e in inglese sia nella versione cartacea che in ebook. Al suo interno ci sono le ricette della tradizione pugliese rivisitate in chiave mancina da 50 chef e blogger della nostra community. Sono ricette cucinate con i prodotti tipici pugliesi e gli ingredienti di 50 aziende agroalimentari del territorio dedicate ai diversamente onnivori.
 
 ![](https://myhumus.com/nextgen-attach_to_post/preview/id--1200)
 

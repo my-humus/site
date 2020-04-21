@@ -27,13 +27,13 @@ Laura e Marco hanno deciso di mettersi in gioco senza temere di essere felici.
 
 ### Ragazzi, ciao! È davvero un grande piacere conoscervi. Ditemi, chi siete ora e chi eravate prima di decidere di avviare un'azienda agricola biologica?
 
-> "Oggi siamo due contadini con l'ambizione di cambiare il mondo a partire da ciò che facciamo ogni giorno, cioè produrre buon cibo e prenderci cura della Terra.
+> Oggi siamo due contadini con l'ambizione di cambiare il mondo a partire da ciò che facciamo ogni giorno, cioè produrre buon cibo e prenderci cura della Terra.
 >
-> Abbiamo sempre avuto voglia di contribuire a cambiare il mondo. Prima di iniziare questa avventura, eravamo due giovani laureati in Sociologia che si barcamenavano a Bologna in lavori precari".
+> Abbiamo sempre avuto voglia di contribuire a cambiare il mondo. Prima di iniziare questa avventura, eravamo due giovani laureati in Sociologia che si barcamenavano a Bologna in lavori precari.
 
 ### Cosa vi è mancato fino a due anni fa?
 
-> "**Vivevamo un profondo malessere personale legato alle condizioni lavorative e di vita**.
+> **Vivevamo un profondo malessere personale legato alle condizioni lavorative e di vita**.
 >
 > Abbiamo affrontato ritmi abbastanza snervanti e alti livelli di stress, soprattutto nell'ultimo anno, e i soldi non bastavano mai. Nonostante lavorassimo entrambi, non riuscivamo a fronteggiare tutte le spese. Per andare a lavoro eravamo costretti a muoverci in auto, ma non guadagnavamo abbastanza per poterla mantenere! Un paradosso che ci ha spinti a compiere alcune riflessioni.
 >
@@ -47,11 +47,11 @@ Laura e Marco hanno deciso di mettersi in gioco senza temere di essere felici.
 >
 > Ci teniamo a sottolineare che la decisione di andarcene da Bologna nell'autunno del 2013, per tornare a Rimini, non è stata presa a cuor leggero. È stato un piccolo trauma, per noi e per le persone che ci circondavano. Abbiamo lasciato una città che amavamo e che iniziavamo a sentire nostra.
 >
-> In quel momento, però, ci è sembrata la cosa migliore da fare. A distanza di due anni restiamo di quell'idea".
+> In quel momento, però, ci è sembrata la cosa migliore da fare. A distanza di due anni restiamo di quell'idea.
 
 ### Parlatemi della vostra politica agricola: quale agricoltura promuovete? C'è qualcuno a cui vi ispirate?
 
-> "Quando abbiamo deciso di avviare la nostra azienda agricola biologica abbiamo scelto l'**agricoltura contadina**. Si tratta di quella **diversificata** e **di piccola scala** che viene portata avanti da chi pensa che la terra non sia solo un semplice fattore produttivo.
+> Quando abbiamo deciso di avviare la nostra azienda agricola biologica abbiamo scelto l'**agricoltura contadina**. Si tratta di quella **diversificata** e **di piccola scala** che viene portata avanti da chi pensa che la terra non sia solo un semplice fattore produttivo.
 >
 > **Rifiutiamo l'utilizzo della chimica di sintesi** e pensiamo che la sostenibilità ecologica debba rappresentare il movente di ogni azione.
 >
@@ -73,15 +73,15 @@ Laura e Marco hanno deciso di mettersi in gioco senza temere di essere felici.
 >
 > Stiamo conoscendo agricoltori che provano a non disperdere questo patrimonio e stiamo frequentando corsi organizzati da piccole associazioni.
 >
-> Tutte queste cose, fino ad alcuni anni fa, erano banali e scontate, ma oggi è necessario riscoprirle e diffonderle".
+> Tutte queste cose, fino ad alcuni anni fa, erano banali e scontate, ma oggi è necessario riscoprirle e diffonderle.
 
 ### Mi piacerebbe conoscere la vostra giornata-tipo: a che ora suona la sveglia? E come si sviluppa la giornata?
 
-> "È il clima a decidere per noi. L'estate appena trascorsa, ad esempio, è stata caldissima e si poteva lavorare solo per poche ore al giorno, la mattina presto e la sera. Una volta sfamate le galline, quando il sole diventava troppo rovente, ci si riposava un po', oppure si sbrigavano i lavoretti in casa. Dopodiché si tornava in campo nel tardo pomeriggio.
+> È il clima a decidere per noi. L'estate appena trascorsa, ad esempio, è stata caldissima e si poteva lavorare solo per poche ore al giorno, la mattina presto e la sera. Una volta sfamate le galline, quando il sole diventava troppo rovente, ci si riposava un po', oppure si sbrigavano i lavoretti in casa. Dopodiché si tornava in campo nel tardo pomeriggio.
 >
 > In realtà le variabili di cui tenere conto, e i lavori da fare, sono tantissimi, quindi ogni giornata fa storia a sé.
 >
-> In autunno e in inverno i tempi sono più rilassati e le giornate più brevi, si può riposare, leggere e coltivare altri interessi".
+> In autunno e in inverno i tempi sono più rilassati e le giornate più brevi, si può riposare, leggere e coltivare altri interessi.
 
 (https://myhumus.com/wp-content/uploads/2015/10/aratura-del-terreno-affittato-un-anno-fa.jpg);">
 <div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2015/10/semine.jpg);">
@@ -89,7 +89,7 @@ Laura e Marco hanno deciso di mettersi in gioco senza temere di essere felici.
 
 ### Cosa e come producete? Dove possiamo acquistare i vostri prodotti?
 
-> "**La nostra attività principale è l'orto**, produciamo ortaggi e un po' di frutta, abbiamo un po' di ulivi e di vigne. E poi abbiamo alcune attività integrative.
+> **La nostra attività principale è l'orto**, produciamo ortaggi e un po' di frutta, abbiamo un po' di ulivi e di vigne. E poi abbiamo alcune attività integrative.
 >
 > Eventuali rimanenze di frutta e ortaggi le trasformiamo in marmellate e in conserve per evitare lo spreco.
 >
@@ -101,13 +101,13 @@ Laura e Marco hanno deciso di mettersi in gioco senza temere di essere felici.
 
 > In queste settimane abbiamo affittato ulteriore terra su cui ci sono altrae vigne, alberi da frutto e ulivi, per cui estenderemo la produzione di queste cose.
 >
-> **I nostri prodotti possono essere acquistati direttamente in azienda** oppure al mercato settimanale di produttori a cui partecipiamo a Cattolica".
+> **I nostri prodotti possono essere acquistati direttamente in azienda** oppure al mercato settimanale di produttori a cui partecipiamo a Cattolica.
 
 <div class="et_pb_slider et_pb_slider_fullwidth_off et_pb_gallery_post_type"><div class="et_pb_slides"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2015/10/verdura.jpg);"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2015/10/piantine-di-cavoli1.jpg);"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2015/10/raccolta-piselli.jpg);"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2015/10/aratura-terreno.jpg);"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2015/10/raccolta-scarti-di-potatura.jpg);"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2015/10/cavoli-e-radicchi.jpg);">  
 
 ### Una curiosità personale: avete ricevuto qualche contributo dall'Unione Europea?
 
-> "Questo è un tasto dolente. Quando abbiamo iniziato facevamo molto affidamento su quella possibilità per avviare l'azienda agricola biologica. Poi, però, ci siamo resi conto che era più complicato del previsto.
+> Questo è un tasto dolente. Quando abbiamo iniziato facevamo molto affidamento su quella possibilità per avviare l'azienda agricola biologica. Poi, però, ci siamo resi conto che era più complicato del previsto.
 >
 Per accedere ai finanziamenti devi avere un progetto di medio periodo. Meno risorse hai di partenza e meno possibilità hai di essere aiutato.
 >
@@ -115,14 +115,14 @@ Per accedere ai finanziamenti devi avere un progetto di medio periodo. Meno riso
 >
 > Abbiamo molte difficoltà finanziarie e, da due anni, lavoriamo nella nostra azienda agricola biologica con attrezzature insufficienti. E con un surplus di fatica a volte evitabile.
 >
-> **La nostra vera risorsa sono le persone che ci circondano e che credono in noi**. Acquistano i nostri prodotti e partecipano alle cene che organizziamo per autofinanziarci, oppure ci aiutano in alcuni lavori e a far funzionare le cose".
+> **La nostra vera risorsa sono le persone che ci circondano e che credono in noi**. Acquistano i nostri prodotti e partecipano alle cene che organizziamo per autofinanziarci, oppure ci aiutano in alcuni lavori e a far funzionare le cose.
 
 ### Cosa riserva il futuro?
 
-> "Vorremmo condividere la nostra esperienza insieme ad altri, la terra che abbiamo a disposizione ci consente di coinvolgere altre persone.
+> Vorremmo condividere la nostra esperienza insieme ad altri, la terra che abbiamo a disposizione ci consente di coinvolgere altre persone.
 >
 > Restiamo convinti che l'agricoltura contadina possa essere un'occasione per dare lavoro di qualità e reddito a molti, e noi vogliamo fare la nostra parte.
 >
 > In questi giorni, il nostro blog [Dalla Parte del Cavolo](https://dallapartedelcavolo.wordpress.com) è divenuta un'associazione.
 >
-> Vorremmo che diventasse un punto di riferimento per chi sta cercando di avviare un'azienda agricola biologica facendo. E un modo per dar vita a iniziative sociali e culturali capaci di rafforzare il senso di questo lavoro".
+> Vorremmo che diventasse un punto di riferimento per chi sta cercando di avviare un'azienda agricola biologica facendo. E un modo per dar vita a iniziative sociali e culturali capaci di rafforzare il senso di questo lavoro.

@@ -39,44 +39,44 @@ Mater Naturae vende ai mercati contadini locali e collabora coi GAS (Gruppi di A
 
 ### Ciao, Christian! Da quanto sei agricoltore?
 
-> "Ciao, Anna. Sono un **contadino dal 2008**. Prima sono stato un tecnico, un controllore delle produzioni biologiche e uno sperimentatore occupandomi sempre e solo di agricoltura biologica e di agroecologia".
+> Ciao, Anna. Sono un **contadino dal 2008**. Prima sono stato un tecnico, un controllore delle produzioni biologiche e uno sperimentatore occupandomi sempre e solo di agricoltura biologica e di agroecologia.
 
 ### Quella di produrre frutta e verdure biologiche a Ravenna è stata una tua idea?
 
 ![Alcune serre di Christian](./serra-2.jpg)
 
-> "Ho scelto di occuparmi di agricoltura biologica in terza media, quando ho deciso a quale istituto superiore iscrivermi".
+> Ho scelto di occuparmi di agricoltura biologica in terza media, quando ho deciso a quale istituto superiore iscrivermi.
 
 ### Cosa ami del tuo lavoro?
 
 ![La sottoscritta intenta a raccogliere...](./serra-1.jpg)
 
-> "Ogni giorno è diverso. La capacità di risolvere un problema, o di affrontare un imprevisto legato ai fenomeni naturali, è sempre messa alla prova".
+> Ogni giorno è diverso. La capacità di risolvere un problema, o di affrontare un imprevisto legato ai fenomeni naturali, è sempre messa alla prova.
 
 ### Perché farsi promotore dell'agricoltura biologica?
 
 ![Pomodori ciliegini e melanzane](./serra-3.jpg)
 
-> "Credo che il biologico possa **produrre cibo senza rapinare il pianeta**, **senza danneggiare il prossimo**, me stesso e la mia famiglia.
+> Credo che il biologico possa **produrre cibo senza rapinare il pianeta**, **senza danneggiare il prossimo**, me stesso e la mia famiglia.
 >
-> Credo anche che il biologico si sposi bene coi principi delle teorie economiche di decrescita felice. Teorie alle quali, quotidianamente, cerco di ispirare il mio modo di vivere".
+> Credo anche che il biologico si sposi bene coi principi delle teorie economiche di decrescita felice. Teorie alle quali, quotidianamente, cerco di ispirare il mio modo di vivere.
 
 ### Che cosa coltivate e quali servizi offri?
 
 ![... ancora pomodori...](./serra-4.jpg)
 
-> "Coltiviamo fino a **60 diverse specie di ortaggi e di frutta** che vendiamo prevalentemente con il metodo della consegna a domicilio. In parte vendiamo anche tramite mercatini e forniture a negozi e ristoranti".
+> Coltiviamo fino a **60 diverse specie di ortaggi e di frutta** che vendiamo prevalentemente con il metodo della consegna a domicilio. In parte vendiamo anche tramite mercatini e forniture a negozi e ristoranti.
 
 ### Quali strategie hai deciso di adottare per proteggere le tue colture?
 
 ![Verso il frutteto...](./frutteto.jpg)
 
-> "Un'agricoltura biologica più restrittiva rispetto a quanto previsto dal regolamento CE che disciplina l'agricoltura biologica stessa".
+> Un'agricoltura biologica più restrittiva rispetto a quanto previsto dal regolamento CE che disciplina l'agricoltura biologica stessa.
 
 ### Hai in serbo qualcosa di interessante per i prossimi mesi?
 
 ![La pesca di Adamo ed Eva!](./pesca.jpg)
 
-> "Sì. Diciamo che, ora come ora, vogliamo mettere a punto un nuovissimo sistema di controllo delle infestanti, delle malattie delle piante e di concimazione. È un sistema che si basa sull'impiego di pecore e di galline al pascolo. Mi sa che ne vedremo delle belle!"
+> Sì. Diciamo che, ora come ora, vogliamo mettere a punto un nuovissimo sistema di controllo delle infestanti, delle malattie delle piante e di concimazione. È un sistema che si basa sull'impiego di pecore e di galline al pascolo. Mi sa che ne vedremo delle belle!
 
 ![Le piccole prugne selvatiche](./prugne.jpg)

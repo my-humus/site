@@ -45,60 +45,60 @@ Il telaio di queste bici artigianali italiane viene successivamente saldato e ve
 
 ### Ciao, Massimo! Cominciamo dalle origini del tuo brand?
 
-> "Ciao, Anna. Certamente! Alla base di questo progetto ci sono la passione per il mondo della bici e la **sensibilità verso l'ambiente**.
+> Ciao, Anna. Certamente! Alla base di questo progetto ci sono la passione per il mondo della bici e la **sensibilità verso l'ambiente**.
 >
-> La bici è un mezzo meravigliosamente logico: si parla di risparmio economico, di sostenibilità ambientale e di benessere per la salute. Impossibile non innamorarsene. Mopbike marchia il telaio con la scritta *Ecologic* ed è un brand italiano che nasce da noi per voi".
+> La bici è un mezzo meravigliosamente logico: si parla di risparmio economico, di sostenibilità ambientale e di benessere per la salute. Impossibile non innamorarsene. Mopbike marchia il telaio con la scritta *Ecologic* ed è un brand italiano che nasce da noi per voi.
 
 ### Da quante persone è composto il team? E quando avete dato vita a questo progetto?
 
-> "Siamo io, Francesca e il mio migliore amico, Elvis, a supporto.
+> Siamo io, Francesca e il mio migliore amico, Elvis, a supporto.
 >
 > Mopbike nasce come società nel 2014 a Pordenone. Abbiamo debuttato nel settembre 2015 a [Cosmobike](http://www.cosmobikeshow.com) e adesso, a distanza di un anno, vogliamo far conoscere le nostre bici artigianali italiane.
 >
-> Il nostro marchio punta alla qualità ancora prima che all'estetica. Punta alla **scelta tecnologica**, al **montaggio di valore** e all'**abbassamento del livello di manutenzione**. Le nostre bici sono realizzate per durare nel tempo".
+> Il nostro marchio punta alla qualità ancora prima che all'estetica. Punta alla **scelta tecnologica**, al **montaggio di valore** e all'**abbassamento del livello di manutenzione**. Le nostre bici sono realizzate per durare nel tempo.
 
 ### Quali passaggi portano alla nascita delle vostre bici artigianali italiane?
 
-> "Siamo noi a realizzare le bici che vendiamo, sia quelle muscolari che quelle elettriche (queste ultime hanno l'innovativo sistema *Zehus* che ricarica pedalando!). **Ogni nostra bicicletta è un pezzo unico**.
+> Siamo noi a realizzare le bici che vendiamo, sia quelle muscolari che quelle elettriche (queste ultime hanno l'innovativo sistema *Zehus* che ricarica pedalando!). **Ogni nostra bicicletta è un pezzo unico**.
 >
 > Come prima cosa, desideriamo conoscere il cliente e ascoltare le sue esigenze. Vogliamo innanzitutto capire quale tipologia di bici sia meglio per lui e quale utilizzo debba farne.
 >
-> Poi **chiediamo le misure antropometriche** e iniziamo il progetto di creazione vera e propria della bici".
+> Poi **chiediamo le misure antropometriche** e iniziamo il progetto di creazione vera e propria della bici.
 
 ### Quanto tempo bisogna attendere per avere la propria Mopbike?
 
-> "Indicativamente, due mesi".
+> Indicativamente, due mesi.
 
 <div class="et_pb_slider et_pb_slider_fullwidth_off et_pb_gallery_post_type"><div class="et_pb_slides"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2016/10/bici-artigianali-italiane-2.jpg);"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2016/10/bici-artigianali-italiane-4.jpg);"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2016/10/bici-artigianali-italiane-5.jpg);">  
 
 ### Il vostro è un prodotto Made in Italy, quindi?
 
-> "Sì, abbiamo intrapreso un **percorso di certificazione attraverso il progetto Made in Italy di Amazon**. Dopo diversi mesi, siamo entrati nella piattaforma online garantendo il reale Made in Italy.
+> Sì, abbiamo intrapreso un **percorso di certificazione attraverso il progetto Made in Italy di Amazon**. Dopo diversi mesi, siamo entrati nella piattaforma online garantendo il reale Made in Italy.
 >
 > La nostra non è solo una lavorazione finale, sosteniamo e optiamo per il Made in Italy dall'inizio alla fine della nostra produzione. Per la realizzazione delle selle artigianali, ad esempio, scegliamo le pelli selezionate di Arzignano, in provincia di Vicenza.
 >
-> Laddove non possiamo ricorrere al prodotto italiano, ci rivolgiamo all'alta gamma giapponese".
+> Laddove non possiamo ricorrere al prodotto italiano, ci rivolgiamo all'alta gamma giapponese.
 
 ### Quali sono i punti forti di Mopbike?
 
-> "La **personalizzazione**, l'**unicità del mezzo** e la **qualità che dura nel tempo**.
+> La **personalizzazione**, l'**unicità del mezzo** e la **qualità che dura nel tempo**.
 >
-> I copertoni antiforatura ad alte prestazioni e la cinghia in carbonio, anziché una normale catena, sono solo alcune delle soluzioni che offriamo per garantire la qualità delle nostre bici artigianali italiane".
+> I copertoni antiforatura ad alte prestazioni e la cinghia in carbonio, anziché una normale catena, sono solo alcune delle soluzioni che offriamo per garantire la qualità delle nostre bici artigianali italiane.
 
 ### Avete più clienti in Italia o all'estero?
 
-> "Decisamente più all'estero. Vendiamo soprattutto in Svizzera, in Gran Bretagna, in Olanda e in Germania. Oggi, tuttavia, inizia a muoversi qualcosa anche in Italia".
+> Decisamente più all'estero. Vendiamo soprattutto in Svizzera, in Gran Bretagna, in Olanda e in Germania. Oggi, tuttavia, inizia a muoversi qualcosa anche in Italia.
 
 ### I vostri prodotti hanno una garanzia?
 
-> "Sì, hanno una **garanzia di due anni**. Ogni bici è dotata di un codice univoco e di un certificato di proprietà".
+> Sì, hanno una **garanzia di due anni**. Ogni bici è dotata di un codice univoco e di un certificato di proprietà.
 
 ### Quali sono le richieste più frequenti dei vostri clienti?
 
-> "In primis viene richiesta la qualità. Chi ci contatta ha le idee molto chiare sul nostro progetto. Sono in tanti a fidarsi di noi dopo aver consultato il nostro sito.
+> In primis viene richiesta la qualità. Chi ci contatta ha le idee molto chiare sul nostro progetto. Sono in tanti a fidarsi di noi dopo aver consultato il nostro sito.
 >
-> Se è vero che sono le aziende a fare le persone, fortunatamente noi riusciamo a trasmettere chi siamo".
+> Se è vero che sono le aziende a fare le persone, fortunatamente noi riusciamo a trasmettere chi siamo.
 
 ### Obiettivi attuali e futuri?
 
-> "Il nostro attuale obiettivo è la promozione del brand Mopbike, questo è sicuramente uno degli aspetti fondamentali. Il prodotto è maturo e stiamo lanciando due nuovi modelli. In futuro ci piacerebbe approdare al mercato giapponese".
+> Il nostro attuale obiettivo è la promozione del brand Mopbike, questo è sicuramente uno degli aspetti fondamentali. Il prodotto è maturo e stiamo lanciando due nuovi modelli. In futuro ci piacerebbe approdare al mercato giapponese.

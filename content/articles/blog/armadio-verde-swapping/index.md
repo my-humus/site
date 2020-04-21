@@ -44,7 +44,7 @@ Conosciamolo più nel dettaglio...
 
 ### Ciao, Eleonora! Sono molto curiosa di sapere com'è nata l'idea di fondare Armadio Verde. Mi racconti?
 
-> "Certo, Anna. Armadio Verde nasce come luogo di scambio e di vendita di abbigliamento per bambini.
+> Certo, Anna. Armadio Verde nasce come luogo di scambio e di vendita di abbigliamento per bambini.
 >
 Io e mio marito David, co-fondatore di questo progetto, vedevamo quanti regali e vestiti acquistati si accumulavano ogni mese.
 >
@@ -52,42 +52,42 @@ Io e mio marito David, co-fondatore di questo progetto, vedevamo quanti regali e
 >
 > Facendo alcune ricerche abbiamo conosciuto piccole realtà di swapping fra le mamme del nostro quartiere. Poi abbiamo notato che, nelle nazioni anglosassoni, c'erano realtà molto organizzate.[![Logo Rotondo](../uploads/2015/03/Logo-Rotondo.jpg)](https://myhumus.com/wp-content/uploads/2015/03/Logo-Rotondo.jpg)
 >
-> Da qui l'idea di creare un business capace di andare incontro a un'esigenza forte tra le mamme. Con Armadio Verde risparmi fino all'85%, non sprechi e vesti bene i tuoi bambini con vestiti selezionati e di qualità".
+> Da qui l'idea di creare un business capace di andare incontro a un'esigenza forte tra le mamme. Con Armadio Verde risparmi fino all'85%, non sprechi e vesti bene i tuoi bambini con vestiti selezionati e di qualità.
 
 ### Al momento siete una start-up?
 
-> "Sì, siamo una start-up innovativa. Questo riconoscimento è giunto proprio all'inizio di quest'anno quando siamo stati capitalizzati da un acceleratore d'impresa che, quest'anno, ci farà crescere in Italia.
+> Sì, siamo una start-up innovativa. Questo riconoscimento è giunto proprio all'inizio di quest'anno quando siamo stati capitalizzati da un acceleratore d'impresa che, quest'anno, ci farà crescere in Italia.
 >
-> Guardiamo all'estero già a partire dal 2016".
+> Guardiamo all'estero già a partire dal 2016.
 
 ### Quali sono le attuali esigenze dei genitori?
 
-> "Il *risparmio*. E poi il *non spreco*, perché scambiando i vestiti restituisci un valore agli acquisti fatti. C'è bisogno di *vestire bene i figli* senza spendere troppo e con capi di qualità. Infine, c'è bisogno di sfruttare al meglio l'*on-line*. Con Armadio Verde, le mamme scambiano da casa 24 ore su 24.
+> Il *risparmio*. E poi il *non spreco*, perché scambiando i vestiti restituisci un valore agli acquisti fatti. C'è bisogno di *vestire bene i figli* senza spendere troppo e con capi di qualità. Infine, c'è bisogno di sfruttare al meglio l'*online*. Con Armadio Verde, le mamme scambiano da casa 24 ore su 24.
 >
-> Consegnamo in tutta Italia in pochissimi giorni)".
+> Consegnamo in tutta Italia in pochissimi giorni.
 
 <div class="wp-caption alignright" id="attachment_1348" style="width: 310px">[![L'Armadio Verde: Eleonora Dellera, David Erba e Carlo Moro](../uploads/2015/03/MAV3790-300x243.jpg)](https://myhumus.com/wp-content/uploads/2015/03/MAV3790.jpg)Il team: Eleonora Dellera, David Erba e Carlo Moro.
 
 ### Come funziona la vostra vendita di abbigliamento online per bambini?
 
-> "[Iscrivendosi al sito](http://www.armadioverde.it/iscriviti/) e richiedendo una busta al profilo online, è possibile spedirci gratuitamente i vestiti che il bambino non usa più.
+> [Iscrivendosi al sito](http://www.armadioverde.it/iscriviti/) e richiedendo una busta al profilo online, è possibile spedirci gratuitamente i vestiti che il bambino non usa più.
 >
-> Una volta ricevuti, ne analizziamo la qualità e accreditiamo un punteggio in stelline col quale si possono scegliere altri vestiti dal nostro store online. Per il nostro servizio si paga 5€ per ogni vestito acquistato, indipendentemente dalla marca, dalla taglia o dalla categoria".
+> Una volta ricevuti, ne analizziamo la qualità e accreditiamo un punteggio in stelline col quale si possono scegliere altri vestiti dal nostro store online. Per il nostro servizio si paga 5€ per ogni vestito acquistato, indipendentemente dalla marca, dalla taglia o dalla categoria.
 
 ### Chi verifica la qualità dei capi?
 
-> "Abbiamo un team che seleziona i capi garantendo sempre la massima qualità, sono severissimi".
+> Abbiamo un team che seleziona i capi garantendo sempre la massima qualità, sono severissimi.
 
 ### E dimmi, Eleonora: cosa bisogna fare per iscriversi?
 
-> "Accedendo al nostro sito si compila la [scheda](http://www.armadioverde.it/iscriviti/) con i propri dati. Dopo aver ricevuto l'e-mail di conferma, e le proprie credenziali (email e password), si effettua il login e si inizia a scambiare".
+> Accedendo al nostro sito si compila la [scheda](http://www.armadioverde.it/iscriviti/) con i propri dati. Dopo aver ricevuto l'e-mail di conferma, e le proprie credenziali (email e password), si effettua il login e si inizia a scambiare.
 
 ### Quindi la merce è consultabile e reperibile solo online, giusto? Oppure è possibile recarsi presso qualche punto vendita?
 
-> "Ora non abbiamo punti vendita, siamo solo online. Ogni giorno riceviamo centinaia di nuovi vestiti e la nostra [collezione](http://www.armadioverde.it/collezione/) è sempre consultabile sul nostro sito".
+> Ora non abbiamo punti vendita, siamo solo online. Ogni giorno riceviamo centinaia di nuovi vestiti e la nostra [collezione](http://www.armadioverde.it/collezione/) è sempre consultabile sul nostro sito.
 
 ### Supponiamo che io mi penta dell'acquisto. Posso restituire l'articolo?
 
-> "Certo, ti ridiamo le stelline e il credito in euro per poter acquistare altri vestiti.
+> Certo, ti ridiamo le stelline e il credito in euro per poter acquistare altri vestiti.
 >
-> I capi che ci mandi, che non non superano il controllo di qualità, vengono restituiti insieme alla prima spedizione di vestiti scelti dal nostro store online".
+> I capi che ci mandi, che non non superano il controllo di qualità, vengono restituiti insieme alla prima spedizione di vestiti scelti dal nostro store online.

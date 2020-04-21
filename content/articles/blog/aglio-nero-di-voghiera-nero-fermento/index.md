@@ -112,4 +112,4 @@ Ecco come si presenta il Nero di Voghiera.
 
 ### Programmi per il futuro?
 
-> "Nero Fermento non nasce per produrre esclusivamente aglio nero, quello vorremmo che diventasse il nostro top di gamma. Vogliamo sviluppare anche altri prodotti. Siamo solo all'inizio!".
+> Nero Fermento non nasce per produrre esclusivamente aglio nero, quello vorremmo che diventasse il nostro top di gamma. Vogliamo sviluppare anche altri prodotti. Siamo solo all'inizio!.

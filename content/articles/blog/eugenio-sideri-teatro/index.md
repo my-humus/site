@@ -14,105 +14,49 @@ tags:
 
 [![Eugenio Sideri](../uploads/2014/11/euge-iniziale-300x224.jpg)](https://myhumus.com/wp-content/uploads/2014/11/euge-iniziale.jpg)Eugenio Sideri.
 
-***"Ma dove vai bellezza in bicicletta,***
-
-***così di fretta pedalando con ardor?***
-
-***Le gambe snelle tornite e belle***
-
-***m'hanno già messo la passione dentro al cuor!***
-
-***Ma dove vai con i capelli al vento***
-
-***col cuor contento e col sorriso incantator?***
-
-***Se tu lo vuoi o prima o poi***
-
-***arriveremo sul traguardo dell'amor!"***
-
-Recita così la famosa "Bellezza in bicicletta", risalente agli anni '50.
-
-Esiste anche un film del 1951, avente lo stesso titolo e diretto da Carlo Campogalliani, che vede come protagoniste due giovani ragazze romane (interpretate da Delia Scala e da Silvana Pampanini) desiderose di diventare ballerine della compagnia di Totò.
-
-Decise a sfondare, scappano verso Milano imbattendosi, però, in tutta una serie di peripezie che le conduce a Bologna, città nella quale apprendono dello scioglimento della compagnia di ballo di Totò. A quel punto, decidono di iscriversi ad una gara ciclistica femminile con arrivo a Milano, vincendola grazie al passaggio su un camion militare.
-
-Pellicola a parte, a quei tempi non era facile essere donne sportive.
-
-Agli inizi del secolo scorso, infatti, c'era tutto tranne l'emancipazione femminile, tantomeno quella sportiva.
-
-Fortunatamente esistono sempre le eccezioni che confermano la regola e, in questo caso, l'eccezione ha un nome e un cognome: Alfonsina Morini, classe 1891, originaria di Castelfranco Emilia ed unica donna iscritta al Giro d'Italia del 1924. Mai sentita nominare?
+Essere donna, ed essere anche sportiva. Oggi è qualcosa di ovvio, per fortuna, ma non è sempre stato così.
+**Alfonsina Morini**, classe 1891, originaria di Castelfranco Emilia e unica donna iscritta al Giro d'Italia del 1924, è un esempio di emancipazione femminile. Mai sentita nominare?
 
 <div class="wp-caption alignright" id="attachment_418" style="width: 196px">[![Alfonsina Strada](../uploads/2014/03/alfonsina-186x300.jpg)](https://myhumus.com/wp-content/uploads/2014/03/alfonsina.jpg)Alfonsina Strada.
 
-Alfonsina fu una ciclista di strada.
+Alfonsina è stata una ciclista di strada.
+Per l'esattezza, è stata la prima donna a competere in gare maschili come il Giro di Lombardia e il Giro d'Italia.
+Seconda di dieci fratelli, Alfonsina ha imparato a pedalare sulla bicicletta fatiscente del padre, ed è stato subito amore.
 
-Per l'esattezza, fu la prima donna a competere in gare maschili quali il Giro di Lombardia e, come appena citato, il Giro d'Italia. Insomma, un vero simbolo di emancipazione sportiva femminile.
+Se ne è appassionata al punto che, all'età di 14 anni, ha iniziato a partecipare a diverse gare ciclistiche. Di nascosto, mentendo ai genitori che la credevano alla messa domenicale.
+Quando la madre lo ha saputo, le ha intimato di sposarsi e di andarsene altrove. E così, sempre quattordicenne, Alfonsina è divenuta la moglie di Luigi Strada. E come regalo di nozze ha chiesto una bici.
 
-Seconda di dieci fratelli, Alfonsina imparò a pedalare sulla bicicletta fatiscente del padre...e fu subito amore.
+Dopo una vita ricca di avventure sportive, Alfonsina è morta a Milano nel 1959.
+Ma è stato solo una cinquantina d'anni dopo che qualcuno l'ha ripresa per mano per portarla a teatro. [Eugenio Sideri](http://www.eugeniosideri.com), drammaturgo e regista ravennate nonché fondatore, nel 2001, di Lady Godiva Teatro.
 
-Se ne appassionò a tal punto che, già all'età di 14 anni, iniziò a partecipare a diverse gare ciclistiche, di nascosto, mentendo ai genitori che la credevano alla Messa domenicale.
+**"Finisce per A"** è la sua opera teatrale che racconta di Alfonsina.
+Il titolo racconta di quando Alfonsina è andata a Milano per iscriversi al Giro del 1924. Il giorno della punzonatura, l'addetto l'ha iscritta come 'Alfonsin Strada'. Non si è mai saputo se sia stato un errore di dicitura o una dimenticanza voluta di fronte all'*imbarazzo* di iscrivere una donna.
 
-Quando la madre lo venne a sapere, le intimò di sposarsi e di cercare un'altra casa. E così, sempre quattordicenne, Alfonsina sposò Luigi Strada.
+Ecco, proprio partendo da questa 'A' mancante, Eugenio ha immaginato Alfonsina protestare per rivendicarla. Come a rivendicare non solo il proprio nome corretto, ma il suo essere donna, compiutamente donna, è anche ciclista.
 
-Cosa chiese come regalo di nozze? Semplice: una bicicletta.
-
-Perché Alfonsina era una tipa tosta, altroché, e la bici rappresentava tanto, per lei, se non tutto.
-
-Dopo una vita colma di avventure sportive, Alfonsina morì a Milano nel 1959.
-
-Una cinquantina d'anni dopo, qualcuno l'ha presa per mano per condurla a teatro: Eugenio Sideri, drammaturgo e regista ravennate nonché fondatore, nel 2001, di Lady Godiva Teatro ([www.eugeniosideri.com](http://www.eugeniosideri.com)).
-
-"Finisce per A" è la sua opera teatrale che racconta la storia di Alfonsina. Il titolo si riferisce ad un fatto realmente accaduto: quando Alfonsina si recò a Milano per iscriversi al Giro del 1924, il giorno della punzonatura l'addetto la iscrisse come 'Alfonsin Strada'. Non si è mai saputo se sia stato un errore grafico o una dimenticanza voluta, proprio dinanzi all'imbarazzo di iscrivere una donna.
-
-Ecco, proprio partendo da questa 'A' mancante, Eugenio ha immaginato Alfonsina protestare per rivendicarla, come a rivendicare non solo il proprio nome corretto, ma il suo essere donna, compiutamente donna, nonché ciclista.
-
-E allora Alfonsina, ad un certo punto dell'opera teatrale, grida al mondo che il suo nome, appunto, "finisce per A"!
-
-***Eugenio: sei drammaturgo, regista, docente di recitazione, autore di diverse pièces teatrali, fondatore di "Lady Godiva Teatro", sei stato perfino invitato a tenere alcune lezioni presso gli atenei di Urbino, Verona, Roma e Forlì. Finora, nella tua vita, hai fatto di tutto tranne che andare in bicicletta. Che cosa ti ha avvicinato a questo mondo?***
-
-"Ciao Anna, è una domanda bellissima e giustissima! In realtà, sono cresciuto abituato all'uso della bicicletta.
-
-In città è uno spostamento rapido, comodo e veloce. Non devi preoccuparti del parcheggio, del ticket, del traffico: la bicicletta vince sempre. Ed io, fino all'adolescenza compresa, l'ho adoperata, e parecchio, un po' come (credo) i miei concittadini e molti romagnoli della "bassa". Poi sono arrivate l'auto e la pigrizia e, successivamente, la moto, di cui sono appassionato. E allora la bici è rimasta in garage, credo di averla venduta.
-
-Dopo l'adolescenza c'è stata una lunga pausa di quasi 20 anni, finchè non è arrivato Napoleone, nome di battaglia di Umberto Ricci, partigiano. E' stato da quel nome che ho intrapreso, anni fa, una lunga ricerca sul periodo della Resistenza. Sono nati due testi e due spettacoli: "Napoleone" e "44 - Il coraggio della scelta".
-
-Incontrare quel tremendo periodo storico e sociale mi ha portato, inevitabilmente, alle biciclette. I partigiani romagnoli e, in particolare, le staffette, ne facevano grande uso (non dimentichiamoci che siamo tra il '43 e il '45). Ecco allora la bicicletta come "attore", non solo come strumento o oggetto di scena, che diventa co-protagonista accanto alle storie di uomini e di donne eroiche.
-
-Successivamente, nacque anche "Nome di battaglia", uno spettacolo di teatro-danza dedicato alle staffette partigiane. Era incredibile vedere la bicicletta, in scena, danzare e parlare: sì, era un vero e proprio deuteragonista, l'attore che compariva accanto al protagonista, il "secondo attore" nel dramma greco. Poi è arrivata Alfonsina...".
-
-***Come riportato nell'introduzione all'intervista, "Finisce per A" parla della storica ciclista Alfonsina Strada che, a tutti gli effetti, può essere considerata un esempio di emancipazione femminile. Come hai conosciuto questo personaggio sportivo e cosa ti ha colpito di questa donna?***
+### Ciao, Eugenio. *Finisce per A* racconta di Alfonsina Strada che, a tutti gli effetti, può essere considerata un esempio di emancipazione femminile. Come hai conosciuto questo personaggio sportivo e cosa ti ha colpito di questa donna?
 
 <div class="wp-caption alignright" id="attachment_419" style="width: 310px">[![Patrizia Bollini](../uploads/2014/03/patrizia-300x300.jpg)](https://myhumus.com/wp-content/uploads/2014/03/patrizia.jpg)Patrizia Bollini.
 
-"Conobbi Alfonsina attraverso Patrizia Bollini.
+> Ho conosciuto Alfonsina tramite l'attrice Patrizia Bollini. Ciò che mi ha colpito sono stati i suoi occhi: erano illuminati e la sua voce era diversa dal solito. Era luminosa.
+>
+> Ho letto la biografia di Alfonsina, curata da Paolo Facchinetti, e ho iniziato a scrivere le prime pagine. A dire la verità, dovevano rimanere cinque o sei, una specie di piccolo monologo che avevo intenzione di regalare a Patrizia.
+>
+> Così ho fatto, suggerendole di farne quello che volesse.
 
-In quel momento, quando lei me ne parlò per la prima volta, non potevo immaginare che ne avrei scritto la storia e nemmeno che Patrizia l'avrebbe interpretata.
+### E invece cos'è successo?
 
-La cosa fondamentale furono gli occhi di Patrizia: erano illuminati e la sua voce era diversa dal solito. Questo mi colpì, perché è sempre riservata, non facile a mostrare gli entusiasmi. Stavolta, invece, era luminosa.
-
-Ho pensato che qualcosa non tornava e occorreva vederci chiaro.
-
-Così ho letto la biografia di Alfonsina, curata da Paolo Facchinetti, ed ho iniziato a scrivere le prime pagine. A dire la verità, dovevano rimanere cinque o sei, una sorta di piccolo monologo che avevo intenzione di regalare a Patrizia.
-
-E così feci, dicendole di farne quello che voleva..."
-
-***...e invece che cosa accadde?***
-
-"E invece lei, dopo aver letto le pagine, mi chiamò subito, invitandomi a continuare. Ero dubbioso, ma Patrizia insisteva. E più insisteva, più io mi incuriosivo alla vita di Alfonsina.
-
-Allora presi la decisione definitiva di scrivere il copione per intero. Avevo bisogno, come spesso accade, di piccole storie per comporre il quadro generale.
-
-L'idea iniziale era di mostrare Alfonsina al Giro d'Italia del '24, ma anche di raccontare le vicende che seguirono, visto che lei dedicò tutta la vita alla bicicletta".
+> E invece, dopo aver letto le pagine, mi ha subito chiamato, invitandomi a continuare. Ero dubbioso, ma Patrizia ha insistito.
+>
+> Allora ho scelto di scrivere il copione per intero.
 
 ***Com'è proseguita l'avventura di Alfonsina verso il teatro?***
 
-"In breve tempo ho terminato la prima stesura del copione. Patrizia ed io abbiamo cominciato subito a dargli una forma teatrale, a provarlo.
-
-Io, in soffitta, avevo una vecchia Bianchi dei primi anni '70: in scena c'erano Patrizia e la Bianchi.
+> In poco tempo ho finito la prima stesura del copione. Insieme a Patrizia ho cominciato a dargli una forma teatrale, a testarlo.
 
 <div class="wp-caption alignright" id="attachment_420" style="width: 310px">[![Patrizia nei panni di Alfonsina (Ph. Achille Lepera)](../uploads/2014/03/patrizia-in-bici-300x300.jpg)](https://myhumus.com/wp-content/uploads/2014/03/patrizia-in-bici.jpg)Patrizia nei panni di Alfonsina (Ph. Achille Lepera).
 
-Da lì siamo partiti a raccontare il Giro del '24, per poi passare a Parigi, una delle città che, più volte, ha ospitato la ciclista che si esibiva nei teatri in numeri acrobatici con la bicicletta (alcuni esempi: il salto dal trampolino, il salto nel cerchio di fuoco, la ruota della morte).
+> Abbiamo raccontato il Giro del '24, per poi passare a Parigi, una delle città che, più volte, ha ospitato la ciclista che si esibiva nei teatri in numeri acrobatici con la bicicletta (alcuni esempi: il salto dal trampolino, il salto nel cerchio di fuoco, la ruota della morte).
 
 Mancava la parte conclusiva della sua vita e decidemmo di far parlare il marito dell'indomita "regina della pedivella", Luigi, rinchiuso per gravi problemi mentali nel manicomio di S. Colombano, nei pressi di Milano, per quasi 30 anni.
 
@@ -189,4 +133,3 @@ Ora Alfonsina viveva!"
 Inoltre, Alfonsina sarà in scena al [Teatro Rossini](http://www.teatrorossini.it) di Lugo (Ravenna) il 18 maggio 2014 alle ore 21:00, in occasione del passaggio del Giro d'Italia dalla città.
 
 Vogliamo portare Alfonsina anche fuori dall'Italia. Lo so, sto per dire un luogo comune, ma lo dico ugualmente: a volte c'è quasi più attenzione all'estero, per questa bellissima storia tutta italiana, che nel nostro Paese".
-

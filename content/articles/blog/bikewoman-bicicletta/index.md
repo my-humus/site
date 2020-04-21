@@ -34,23 +34,23 @@ Di recente, ho avuto modo di parlare di BikeWoman insieme a Nicoletta.
 
 ### Ciao, Nicoletta. BikeWoman nasce per promuovere il turismo in Italia. Dimmi un po', quando ti è venuta questa idea?
 
-> "Ciao, Anna! L'idea mi è venuta mentre ero a Roma Termini, qualche tempo fa.
+> Ciao, Anna! L'idea mi è venuta mentre ero a Roma Termini, qualche tempo fa.
 >
 > Pedalando su una bici a noleggio, scoprivo la bellezza dei monumenti, delle strade locali e dei costumi.
 >
-> E così ho pensato a quanto sarebbe potuto essere interessante proporre un format televisivo di tipo turistico e green. Tutto al femminile".
+> E così ho pensato a quanto sarebbe potuto essere interessante proporre un format televisivo di tipo turistico e green. Tutto al femminile.
 
 ### Quali realtà sono coinvolte nella produzione di questo format?
 
 [![Le bici Scott utilizzate](../uploads/2014/09/bici-scott-300x180.jpg)](https://myhumus.com/wp-content/uploads/2014/09/bici-scott.jpg)Le bici Scott utilizzate.
 
-> "Le realtà coinvolte sono state Bright Srl e le aziende che hanno fornito le bici, l'abbigliamento tecnico e le attrezzature (Scott e Garmin). Poi, chiaramente, anche l'Ufficio Turismo del Comune di Ravenna e Ravenna 2019.
+> Le realtà coinvolte sono state Bright Srl e le aziende che hanno fornito le bici, l'abbigliamento tecnico e le attrezzature (Scott e Garmin). Poi, chiaramente, anche l'Ufficio Turismo del Comune di Ravenna e Ravenna 2019.
 >
-> L'idea di ambientare il format in Emilia-Romagna risiede nel fatto che è dove sono nata. Le sono molto affezionata. E Ravenna è stata la scelta migliore per realizzare la puntata-pilota".
+> L'idea di ambientare il format in Emilia-Romagna risiede nel fatto che è dove sono nata. Le sono molto affezionata. E Ravenna è stata la scelta migliore per realizzare la puntata-pilota.
 
 ### Come sono state scelte le concorrenti?
 
-> "Le concorrenti della puntata-pilota sono state scelte tutte da me.
+> Le concorrenti della puntata-pilota sono state scelte tutte da me.
 >
 > Volevo persone con caratteristiche e personalità diverse. Ecco, quindi, la studentessa, la fotografa, la blogger, la poetessa, l'attrice di teatro, l'imprenditrice e la guida turistica.
 
@@ -59,11 +59,11 @@ Di recente, ho avuto modo di parlare di BikeWoman insieme a Nicoletta.
 > Sono riuscita a far partecipare anche la simpaticissima Laura Rampini, prima e unica paracadutista paraplegica al mondo. In occasione della puntata-pilota, si è unita al gruppo delle ragazze utilizzando una handbike.
 >
 > Le prossime partecipanti saranno selezionate attraverso casting appositamente organizzati in ogni città location. Le loro caratteristiche saranno vagliate da una giuria presidiata dal regista e dal direttore televisivo.
->
-> Si accettano cv corredati di foto o video all'indirizzo *bright@brightsrl.it*, specificando la città di appartenenza".
+
+> Si accettano cv corredati di foto o video all'indirizzo *bright@brightsrl.it*, specificando la città di appartenenza.
 
 ### Come svilupperete questo progetto?
 
-> "Sky ha dimostrato molto interesse, garantendo la messa in onda della puntata-pilota su Bike Channel, canale 214. Ha proposto una co-produzione in vista della prossima stagione.
+> Sky ha dimostrato molto interesse, garantendo la messa in onda della puntata-pilota su Bike Channel, canale 214. Ha proposto una co-produzione in vista della prossima stagione.
 >
-> Non resta che attendere gli sviluppi!"
+> Non resta che attendere gli sviluppi!
