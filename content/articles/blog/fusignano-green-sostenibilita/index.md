@@ -2,7 +2,7 @@
 title: "Fusignano Green e l'educazione ambientale"
 date: '2014-02-04T00:00:01+00:00'
 description: "L'educazione ambientale a Ravenna passa anche attraverso eventi specifici. Un esempio è Fusignano Green, l'iniziativa di un piccolo paese del territorio romagnolo."
-featuredImage: ../mirco.jpg
+featuredImage: ./mirco.jpg
 category:
     - Ecoprogetti
 tags:
