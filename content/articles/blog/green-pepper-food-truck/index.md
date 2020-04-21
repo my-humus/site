@@ -76,7 +76,7 @@ Siete pronti a conoscere questa ragazza (e a innamorarvi del suo furgone)?
 >
 > Se l'occasione lo prevede, preparo anche una linea di dolci e di bevande (cocktail di benvenuto, estratti, caffè americani, infusi, tè, ecc.).
 >
-> Per gli eventi a domicilio, invece, propongo menù di diverso prezzo in cui la base comprende sempre un buffet che mette d'accordo vegetariani, vegani e onnivori..
+> Per gli eventi a domicilio, invece, propongo menù di diverso prezzo in cui la base comprende sempre un buffet che mette d'accordo vegetariani, vegani e onnivori.
 
 ![Green Pepper](./green-pepper-f3.jpg)
 

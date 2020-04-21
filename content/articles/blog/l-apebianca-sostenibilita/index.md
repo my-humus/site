@@ -1,5 +1,5 @@
 ---
-title: 'L&#8217;Apebianca, oasi di sostenibilità'
+title: 'L'Apebianca, oasi di sostenibilità'
 date: '2014-05-22T00:00:06+00:00'
 description: ''
 featuredImage: ../uploads/2014/11/alice-iniziale-150x150.jpg
@@ -84,4 +84,3 @@ Ci piace pensare che un domani, nei diversi territori d'Italia, possano sorgere 
 ***Cosa bolle in pentola per il nuovo anno? Quali eventi e quali future collaborazioni?***
 
 "Siamo sempre in movimento e ogni giorno ci sono sempre delle novità. Ora come ora non vogliamo scoprire troppo le nostre carte ma, a breve, ci saranno dei cambiamenti nell'area commerciale grazie all'ingresso di nuovi partner. Inoltre, stiamo lavorando tanto su eventi legati all'arte e al design. Proseguiranno, inoltre, i tanti eventi dedicati ai bimbi, al cibo di qualità e alla cultura".
-
