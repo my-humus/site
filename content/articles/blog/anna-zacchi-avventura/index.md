@@ -2,7 +2,7 @@
 title: 'Anna Zacchi, pasionaria del deserto'
 date: '2014-05-06T00:00:11+00:00'
 description: ''
-featuredImage: ../uploads/2014/11/anna-iniziale-150x150.jpg
+featuredImage: ./anna.jpg
 category:
     - Mobilità sostenibile
 tags:
@@ -12,15 +12,14 @@ tags:
     - Sport
 ---
 
-
-<div class="wp-caption alignright" id="attachment_112" style="width: 310px">[![Anna Zacchi](../uploads/2014/11/anna-iniziale-300x225.jpg)](https://myhumus.com/wp-content/uploads/2014/11/anna-iniziale.jpg)Anna Zacchi.
-
 Quando dico che nel nostro territorio ci sono persone incredibili, lo penso veramente.
 
 Anna Zacchi ne è un esempio lampante. Classe 1951, è una signora di Madonna dell'Albero, una frazione in provincia di Ravenna, piccola e minuta.
+
 Il suo sguardo è simpatico e il suo è il sorriso di una persona che ne ha affrontate tante, nella sua vita. Anche a livello sportivo.
 
 Anna è una maratoneta. E quando l'ho conosciuta, qualche tempo fa, ho desiderato essere come lei.
+
 Vi racconto la sua storia...
 
 Anna si appassiona alla corsa da giovane, e lo annuncia alla sua famiglia. Ai genitori dice che vuole allenarsi per ore.
@@ -39,12 +38,14 @@ Capito, la Zacchi?
 
 Negli anni a seguire, Anna affronta altre avventure podistiche: Tayuta (73 km) nel 1990, una gara in Corsica (72 km. Unica donna a gareggiare, vince senza riscuotere alcun premio. Il motivo? Non avevano previsto che la gara fosse vinta da una donna) e diverse maratone sparse per l'Italia, fra le quali la 50 km romagnola con partenza e arrivo a Castel Bolognese, in provincia di Ravenna.
 
-[![Rosanna Pellizzari ed Anna festeggiano la fine della Maratona della Sabbia](../uploads/2014/11/con-rosanna-300x199.jpg)](https://myhumus.com/wp-content/uploads/2014/11/con-rosanna.jpg)Rosanna Pellizzari e Anna festeggiano la fine della Maratona della Sabbia.
+![Rosanna Pellizzari ed Anna festeggiano la fine della Maratona della Sabbia](./con-rosanna.jpg)
 
 L'avventura più bella, quella che Anna racconta con gli occhi lucidi, risale al 1997: è la Maratona della Sabbia, in Marocco. Ormai quarantaquattrenne, l'affronta per la prima volta all'interno di una squadra composta da un'altra podista, la veronese Rosanna Pellizzari, e da altri tre corridori uomini.
 
 Corrono per 230 km con 43°C di giorno e 6°C di notte, portando in spalla 8 kg di autosufficienza (un vero e proprio kit di sopravvivenza. C'è perfino il lanciafiamme da utilizzare in caso di smarrimento).
 L'organizzazione marocchina offre solo la tenda e 9 litri di acqua al giorno.
+
+![Anna Zacchi](./anna-corre-giornale.jpg)
 
 Anna mi racconta:
 
@@ -58,11 +59,15 @@ Nel 1992, Anna si cimenta nell'Atene - Sparta, 236 km. Con una sottile amarezza,
 
 In 18 giorni percorre 786 km, con partenza da Saint Pies des Portes e arrivo a Santiago de Compostela. Una media di 50 km al giorno. Perché Anna non ha paura di niente.
 
+![Anna Zacchi](./anna-corre-nel-deserto.jpg)
+
 E quando arriva a destinazione, stupisce tutti: non riescono a credere che a quell'età abbia percorso tutta quella strada da sola. E invece sì! E a testimoniarlo ci sono i timbri che ha collezionato lungo il cammino.
 
 C'è poco da fare, Anna è un'eroina a tutti gli effetti. E ciò che più mi piace di lei è l'umiltà, l'estrema umiltà con cui racconta di sé stessa e della sua vita dedicata alla corsa. C'è una profonda delicatezza, nel suo modo di fare e di parlare.
 
 Immagino sia la stessa delicatezza con cui ha affrontato le sfide della vita. Tutte, nessuna esclusa.
+
+![Anna Zacchi](./maratona-sabbia.jpg)
 
 C'è un'affermazione di Stephen Littleword che, a mio parere, ben le si addice. Recita più o meno così:
 
@@ -70,4 +75,4 @@ C'è un'affermazione di Stephen Littleword che, a mio parere, ben le si addice. 
 
 Questa è Anna, un esempio di emancipazione femminile.
 
- ![](https://myhumus.com/nextgen-attach_to_post/preview/id--463)
+![Anna Zacchi](./traguardo.jpg)
