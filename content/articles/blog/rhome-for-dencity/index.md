@@ -143,7 +143,7 @@ Sentiamo cosa ci racconta...
 > 
 > E non è tutto: siamo riusciti a mettere in campo nuovi brevetti e soluzioni innovative che ora sono prodotti commercializzati.
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="//www.youtube.com/embed/goMPUC59ppo" width="560"></iframe>
+`youtube: goMPUC59ppo`
 
 ### Il team RhOME è vincitore del Solar Decathlon Europe 2014: una bella soddisfazione, vero?
 
@@ -159,7 +159,7 @@ Sentiamo cosa ci racconta...
 > 
 > Vedere la "nostra" casa costruita era già una conquista, la vittoria a Versailles è stata la ciliegina sulla torta!".
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="//www.youtube.com/embed/5xx8EpwW1Ow" width="560"></iframe>
+`youtube: 5xx8EpwW1Ow`
 
 ### Cosa bolle in pentola per i mesi futuri?
 

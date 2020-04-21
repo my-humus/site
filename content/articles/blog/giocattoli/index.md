@@ -1,7 +1,7 @@
 ---
 title: "Renzo ama costruire giocattoli"
 date: '2015-04-30T10:00:51+00:00'
-description: 'Renzo Laporta vive a Ravenna e utilizza materiali riciclati per ideare e costruire giocattoli all'interno dei centri educativi.'
+description: "Renzo Laporta vive a Ravenna e utilizza materiali riciclati per ideare e costruire giocattoli all'interno dei centri educativi."
 featuredImage: ./grande-banner.jpg
 category:
     - Green Mix
@@ -11,7 +11,6 @@ tags:
     - Hand made
     - Sostenibilità
 ---
-
 
 ![Renzo Laporta](./renzo-laporta.jpg)
 
@@ -35,9 +34,9 @@ Renzo, in effetti, è un *toy maker* che vive a Ravenna e che costruisce giocatt
 > Propongo attività che si esprimono all'interno dei contesti educativi in generale come, ad esempio, le scuole.
 >
 > Diversi anni fa ho conosciuto il fondatore del centro [La Lucertola](http://www.lalucertola.org/italiano/introduzione.html) di Ravenna, Roberto Papetti, ora in pensione. È stato insieme a lui che ho riscoperto il **fascino del giocattolo fatto a mano**.
-
-![Uno dei giocattoli realizzati da Renzo: elogio alla creatività!](./5376.jpg)
-
+> 
+> ![Uno dei giocattoli realizzati da Renzo: elogio alla creatività!](./5376.jpg)
+> 
 > Un po' di tempo fa, a Londra, ho insegnato l'arte di **costruire giocattoli con materiali di scarto** in diverse scuole e centri. Ecco che subito si scopre una cultura del gioco secondo il punto di vista del bambino.
 
 ### Qual è il valore aggiunto dei tuoi giocattoli fatti a mano?

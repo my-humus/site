@@ -2,7 +2,7 @@
 title: 'Scopri il turismo responsabile in Italia'
 date: '2015-01-15T16:57:10+00:00'
 description: 'Il viaggio come strumento per conoscere meglio sé stessi e gli altri, ma sempre in armonia con la natura. Scegli un turismo responsabile in Italia!'
-featuredImage: ../uploads/2015/01/Cappuccini-3-Stefano-e-Paola_2-150x150.jpg
+featuredImage: ./in-viaggio-verso-gli-altri.jpg
 category:
     - Ecoprogetti
 tags:
@@ -13,7 +13,7 @@ tags:
 ---
 
 
-[![Silvia Salmeri](../uploads/2015/01/10469068_327825650702277_480197940241750412_o-300x238.jpg)](https://myhumus.com/wp-content/uploads/2015/01/10469068_327825650702277_480197940241750412_o.jpg)Silvia Salmeri.
+![Silvia Salmeri](./silvia-salmeri.jpg)
 
 Quanti modi ci sono per scegliere un turismo responsabile in Italia? Ma soprattutto, su cosa si basa la scelta di un viaggio?
 
@@ -21,13 +21,15 @@ Proviamo a pensarci: c'è chi viaggia per cercare delle risposte e chi per mette
 Si è soliti pensare di partire verso una destinazione. E se la destinazione, oltre a essere fisica, fosse anche *umana*?
 
 Qualche tempo fa mi sono imbattuta in un sito molto interessante, quello di [Destinazione Umana](http://destinazioneumana.it).
+
 Recita la Home
 
 > Voglio conoscere persone, non mete fini a sé stesse. Voglio incontrare, scambiare e saziare così la mia sete di conoscenza. Voglio essere pellegrino, curioso esploratore e nomade con lo zaino sulle spalle. Voglio essere accolto con sensibilità ed originalità, come fossi il primo ad arrivare. Voglio apprezzare il valore più profondo di una storia.
 
-[![](../uploads/2015/01/LogoDUsteso-2.png)](https://myhumus.com/wp-content/uploads/2015/01/LogoDUsteso-2.png)
+![Destinazione Umana](./logo-dusteso.png)
 
 In questi giorni ho avuto il piacere di intervistare **Silvia Salmeri**, co-founder di Destinazione Umana ed esperta di comunicazione e marketing.
+
 Scopriamo insieme a Silvia la storia e lo scopo di questo bel progetto?
 
 ### Ciao, Silvia. Perché questo progetto?
@@ -39,8 +41,6 @@ Scopriamo insieme a Silvia la storia e lo scopo di questo bel progetto?
 > Dalla prima intuizione è nato [ViviSostenibile](http://vivisostenibile.net)), dalla seconda Destinazione Umana.
 
 ### Il viaggio introspettivo, di crescita personale, e quello verso una meta: sono due aspetti che considerate nella stessa misura?
-
-[![](../uploads/2015/01/Cappuccini-3-Stefano-e-Paola-300x199.jpg)](https://myhumus.com/wp-content/uploads/2015/01/Cappuccini-3-Stefano-e-Paola.jpg)
 
 > I luoghi sono per noi molto importanti e, in particolare, abbiamo a cuore la promozione delle aree rurali, quelle che non conosce nessuno. Vogliamo promuovere un turismo responsabile in Italia, appunto.
 >
@@ -58,7 +58,7 @@ Scopriamo insieme a Silvia la storia e lo scopo di questo bel progetto?
 >
 > Si tratta, invece, di un approccio rispettoso della vita a 360 gradi. **Chi si avvicina ai nostri progetti è già in linea coi valori della sostenibilità ambientale**. È già di per sé un turista responsabile.
 
-<div class="wp-caption alignright" id="attachment_872" style="width: 310px">[![Destinazione Umana: luoghi, persone, esperienze](../uploads/2015/01/fede-du-300x300.jpg)](https://myhumus.com/wp-content/uploads/2015/01/fede-du.jpg)Destinazione Umana: luoghi, persone, esperienze.
+![Destinazione Umana: luoghi, persone, esperienze](./fede-du.jpg)
 
 ### Cosa pensi che stia ricercando il vostro cliente-tipo?
 
@@ -72,6 +72,6 @@ Scopriamo insieme a Silvia la storia e lo scopo di questo bel progetto?
 >
 > Ne sono testimoni tutte le storie che ci sono arrivate grazie al contest, e che abbiamo pubblicato sulla nostra [mappatura partecipata](http://umap.openstreetmap.fr/en/map/destinazione-umana-versione-1_11367#8/44.277/10.739). Il numero di destinazioni umane iscritte, oltretutto, è raddoppiato da giugno, data di lancio del progetto.
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="//www.youtube.com/embed/S8xEimR98HU" width="560"></iframe>
+`youtube: S8xEimR98HU`
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="//www.youtube.com/embed/OY_YHohBZUc" width="560"></iframe>
+`youtube: OY_YHohBZUc`

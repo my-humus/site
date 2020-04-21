@@ -116,6 +116,7 @@ Curiosi di saperne di più? E allora non aspettiamo nemmeno un minuto, scopriamo
 Che altro dire? Trovo che il progetto di Sara, Zeno, Lorenzo e Tommaso sia semplicemente fantastico. Mi auguro davvero che la loro idea possa avere sempre più successo.
 Forza, ragazzi, avanti tutta!
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="//www.youtube.com/embed/SbvGdyadmKQ" width="560"></iframe>
+`youtube: SbvGdyadmKQ`
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="//www.youtube.com/embed/0_bbMzVp3z4" width="560"></iframe>
+`youtube: 0_bbMzVp3z4`
+

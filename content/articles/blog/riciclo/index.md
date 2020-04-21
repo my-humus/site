@@ -20,7 +20,7 @@ Detto ciò, ho apprezzato l'interpretazione della Streep anche ne *Il Diavolo ve
 
 Proprio a questo proposito, sono molte le campagne condotte in tutto il mondo da [Greenpeace](http://www.greenpeace.org/international/en/) (e da molte altre realtà) per sensibilizzare le grandi case di moda sui temi legati all'ambiente, cercando di spronarle ad adottare approcci maggiormente etici e green; una delle recenti azioni intraprese in questo senso va sotto il nome di *[The Fashion Duel](http://www.greenpeace.org/international/en/System-templates/Search-results/?all=the%20fashion%20duel)* ed è una sfida internazionale al mondo dell'Alta Moda finalizzata alla tutela delle ultime foreste e all'eliminazione del pericolo di intossicazione del Pianeta con sostanze chimiche pericolose. L'attrice Valeria Golino è una testimonial.
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/6IDOUrH9mC8" width="560"></iframe>
+`youtube: 6IDOUrH9mC8`
 
 Ma che c'entra la moda con l'articolo di questa settimana?
 
@@ -67,8 +67,6 @@ Ora vi lascio alla carrellata di immagini sottostanti: quella che vedete sono io
 Gli articoli che ho indossato sono molto soffici al tatto, hanno tagli accattivanti e colori piuttosto sgargianti: sono perfetti se non volete passare inosservati ed essere, allo stesso tempo, originali promotori del riciclo!
 
 Per chiunque fosse interessato ai capi Vivilavì prodotti finora, potete recarvi presso il punto vendita *Maximilian*, in via Rialto n.44, a Rovereto.
-
-![](https://myhumus.com/nextgen-attach_to_post/preview/id--1100)
 
 > Segnalo anche un simpatico concorso: se entri da Maximilian, scatti un selfie con indosso un capo della collezione TNT Explosion e lo pubblichi (taggandoti) sulla pagina Facebook di [Vivilavì](https://www.facebook.com/officialvivilavi?fref=ts), partecipi all'estrazione di una borsa della collezione Recycle by Vivilavì!
 > 

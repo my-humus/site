@@ -1,29 +1,16 @@
 ---
 title: 'Un movimento italiano per il clima e la sostenibilità'
 date: '2015-10-15T10:19:14+00:00'
-description: 'Italian Climate Network è un movimento italiano per il clima che combatte il global warming in difesa di un futuro sostenibile.'
-featuredImage: ../uploads/2015/10/Joshua-Earle-banner-150x150.jpg
+description: "Italian Climate Network è un'associazione italiana che, ogni giorno, combatte i cambiamenti climatici cercando di garantire un futuro sostenibile."
+featuredImage: ./joshua-earle.jpg
 category:
     - Green Mix
 tags:
-    - 'cambiamenti climatici'
+    - Cambiamenti climatici
     - COP21
-    - 'global warming'
+    - Global warming
     - Sostenibilità
-
-_yoast_wpseo_focuskw:
-    - 'cambiamenti climatici'
-_yoast_wpseo_title:
-    - 'A proposito di cambiamenti climatici... - MyHumus'
-_yoast_wpseo_metadesc:
-    - 'Italian Climate Network è un''associazione italiana che, ogni giorno, combatte i cambiamenti climatici cercando di garantire un futuro sostenibile.'
-_yoast_wpseo_linkdex:
-    - '87'
-
-_yoast_wpseo_primary_category:
-    - '71'
 ---
-
 
 Il mondo in cui viviamo sta cambiando molto rapidamente e si avverte sempre più l'urgenza di un movimento italiano per il clima.
 
@@ -39,11 +26,11 @@ Se si parla tanto di COP21, un motivo c'è: nelle due settimane di negoziato, mi
 Ogni Paese è stato invitato a proporre **soluzioni per la riduzione del consumo di combustibili fossili**. Ma anche per il **contenimento delle emissioni di gas serra** e per il conseguente global warming.
 Quali accordi verranno raggiunti?
 
-<iframe allowfullscreen="true" class="youtube-player" height="608" src="https://www.youtube.com/embed/0n6hleA7M6o?version=3&rel=1&fs=1&autohide=2&showsearch=0&showinfo=1&iv_load_policy=1&wmode=transparent" style="border:0;" type="text/html" width="1080"></iframe>
+`youtube: 0n6hleA7M6o`
 
 Fra i presenti alla conferenza ci sarà anche un movimento italiano per i clima: [Italian Climate Network](http://www.italiaclima.org).
 
-<div class="wp-caption alignright" id="attachment_2406" style="width: 243px">[![Veronica Caciagli](../uploads/2015/10/Veronica-300x300.jpg)](https://myhumus.com/wp-content/uploads/2015/10/Veronica.jpg)Veronica Caciagli.
+![Veronica Caciagli](./veronica.jpg)
 
 Qualche giorno fa ho intervistato Veronica Caciagli, esperta di politiche riguardanti i cambiamenti climatici e l'energia, nonché co-founder e presidente dell'associazione.
 
@@ -75,7 +62,7 @@ Qualche giorno fa ho intervistato Veronica Caciagli, esperta di politiche riguar
 
 > Ora **ci stiamo preparando alla COP21 di Parigi**. Nel corso delle due settimane, la nostra delegazione porterà alla conferenza circa 20 persone. Condurremo un'attività intensiva di comunicazione, con un reporting giornaliero e diverse dirette in live streaming. Anche in questo caso, una parte consistente del gruppo sarà composta da ragazzi under 26.
 >
-Da poco tempo abbiamo una nuova sezione a cui teniamo molto, [Donne, Diritti e Clima](http://www.italiaclima.org/attivita/donne-diritti-e-clima/), che riguarda le questioni di genere femminile. **In Italia si parla poco dei cambiamenti climatici e delle questioni di genere rispetto ai cambiamenti del clima**.
+> Da poco tempo abbiamo una nuova sezione a cui teniamo molto, [Donne, Diritti e Clima](http://www.italiaclima.org/attivita/donne-diritti-e-clima/), che riguarda le questioni di genere femminile. **In Italia si parla poco dei cambiamenti climatici e delle questioni di genere rispetto ai cambiamenti del clima**.
 >
 > Le donne dei paesi in via di sviluppo sono le figure più vulnerabili ai cambiamenti climatici, quelle che hanno meno possibilità di adattamento e di difesa. Non si può pensare di applicare efficaci politiche di adattamento senza considerare la condizione femminile. In molte società, oltretutto, sono le donne a occuparsi maggiormente della gestione della casa e delle risorse, così come dell'educazione dei figli e dell'educazione ambientale.
 >
@@ -104,6 +91,7 @@ Da poco tempo abbiamo una nuova sezione a cui teniamo molto, [Donne, Diritti e C
 > Credo che a Parigi si potrà giungere a un accordo capace di mitigare l'aumento delle emissioni climalteranti. Credo anche che non sarà sufficiente a evitare il rischio di aumenti delle temperature non accettabili.
 >
 > Una volta conclusasi la COP21, non bisognerà far trascorrere troppo tempo per mettere in pratica i nuovi passi da seguire. E occorrerà un maggiore sforzo da parte della società civile.
-Incrociamo le dita e rimbocchiamoci le maniche tutti quanti.
+>
+> Incrociamo le dita e rimbocchiamoci le maniche tutti quanti.
 
 Foto di copertina: [Joshua Earle](http://www.joshuaearlephotography.com/?utm_source=Unsplash&utm_medium=website&utm_campaign=unsplash#home) via [Unsplash](https://unsplash.com).

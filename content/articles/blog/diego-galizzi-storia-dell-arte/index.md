@@ -1,8 +1,8 @@
 ---
-title: 'La natura nell'arte secondo Diego Galizzi'
+title: "La natura nell'arte secondo Diego Galizzi"
 date: '2014-06-20T00:00:10+00:00'
 description: 'Diego Galizzi è il conservatore del Museo Civico delle Cappuccine di Bagnacavallo. Insieme a lui ho discusso il connubio arte e natura.'
-featuredImage: ../uploads/2014/11/diego-iniziale-150x150.jpg
+featuredImage: ./diego-galizzi.jpg
 category:
     - Green Mix
 tags:
@@ -10,9 +10,6 @@ tags:
     - Natura
     - Storia dell'arte
 ---
-
-
-[![Diego Galizzi](../uploads/2014/11/diego-iniziale-300x213.jpg)](https://myhumus.com/wp-content/uploads/2014/11/diego-iniziale.jpg)Diego Galizzi.
 
 Quale legame esiste fra arte e natura? Non so voi, ma io me lo chiedo spesso.
 Penso ad artisti come Antonio Ligabue, folle e selvaggio, oppure ai paesaggi di Monet e di Vincent Van Gogh e alle opere di Frida Kahlo.
@@ -23,7 +20,7 @@ Siccome non sono ancora riuscita a dare una risposta sensata a questa domanda, m
 Storico dell'arte e museologo, Diego è laureato in Conservazione dei Beni Culturali e, da anni, si occupa di catalogazione, gestione, cura e valorizzazione di collezioni artistiche museali.
 Membro dell'[ICOM](http://www.icom-italia.org), ha conseguito una specializzazione in "Management dei Musei e delle Attività Culturali".
 
-[![Diego in visita alla Biennale di Disegno di Rimini](../uploads/2014/11/diego-300x169.jpg)](https://myhumus.com/wp-content/uploads/2014/11/diego.jpg)Diego in visita alla Biennale di Disegno di Rimini.
+![Diego in visita alla Biennale di Disegno di Rimini](./diego.jpg)
 
 Nel 2008 è stato funzionario alla cultura del [Comune di Gubbio](http://www.comune.gubbio.pg.it) e, dal 2009, è conservatore del [Museo Civico delle Cappuccine ](http://www.museocivicobagnacavallo.it) di Bagnacavallo.
 
@@ -57,7 +54,7 @@ Nel 2008 è stato funzionario alla cultura del [Comune di Gubbio](http://www.com
 
 > La prima cosa che mi viene in mente è quello strano meccanismo secondo cui, quando vediamo uno scenario particolarmente spettacolare della natura come, ad esempio, un paesaggio, un tramonto o uno scorcio notturno, spesso utilizziamo l'espressione 'Sembra un dipinto'. Questo è il meccanismo che sta alla base del concetto di *pittoresco*.
 
-[![Piero di Cosimo, "L'incendio nella foresta" (olio su tavola, 1500-1505)](../uploads/2014/11/cosimo-300x103.jpg)](https://myhumus.com/wp-content/uploads/2014/11/cosimo.jpg)Piero di Cosimo, "L'incendio nella foresta" (olio su tavola, 1500-1505).
+![Piero di Cosimo, "L'incendio nella foresta" (olio su tavola, 1500-1505)](./cosimo.jpg)
 
 > Al contrario, ci sono volte in cui, davanti a un'opera d'arte, crediamo che sembri vera o che la si possa toccare.
 >
@@ -69,6 +66,8 @@ Nel 2008 è stato funzionario alla cultura del [Comune di Gubbio](http://www.com
 >
 > Mi piace pensare a quella straordinaria rivoluzione nel mondo dell'arte tra Otto e Novecento, quella inaugurata da Cézanne e compiuta da Picasso, come a una storia di vendetta e di tradimento. Vendetta contro l'imitazione del dato naturale che da qualche decennio aveva tradito la pittura e trovato casa, con più soddisfazione, in un'arte ancora neonata: la fotografia. Ma questa è un'altra storia!
 
+![Diego Galizzi](./pistoletto.jpg)
+
 ### Arte ed ecologia: binomio vincente?
 
 > Non sempre. Alcune manifestazioni artistiche, nella loro esaltazione dell'Uomo e della sua supremazia sul mondo, hanno lasciato segni non proprio rispettosi dell'ambiente.
@@ -79,4 +78,4 @@ Nel 2008 è stato funzionario alla cultura del [Comune di Gubbio](http://www.com
 >
 > Oggi non abbiamo alternative: la forza creatrice e trasformatrice dell'Uomo non può non essere all'insegna di un **approccio sempre più ecologico col mondo che ci ospita**.
 
-![](https://myhumus.com/nextgen-attach_to_post/preview/id--506)
+![Diego Galizzi](./giambologna.jpg)

@@ -1,8 +1,8 @@
 ---
 title: "Fusignano Green e l'educazione ambientale"
 date: '2014-02-04T00:00:01+00:00'
-description: 'L'educazione ambientale a Ravenna passa anche attraverso eventi specifici. Un esempio è Fusignano Green, l'iniziativa di un piccolo paese del territorio romagnolo.'
-featuredImage: ../uploads/2014/11/Mirco-iniziale-150x150.jpg
+description: "L'educazione ambientale a Ravenna passa anche attraverso eventi specifici. Un esempio è Fusignano Green, l'iniziativa di un piccolo paese del territorio romagnolo."
+featuredImage: ../mirco.jpg
 category:
     - Ecoprogetti
 tags:
@@ -13,13 +13,10 @@ tags:
     - Sostenibilità
 ---
 
-
-[![Mirco Bagnari, sindaco di Fusignano (Ravenna)](../uploads/2014/11/Mirco-iniziale-300x225.jpg)](https://myhumus.com/wp-content/uploads/2014/11/Mirco-iniziale.jpg)Mirco Bagnari, sindaco di Fusignano (Ravenna).
-
 Fusignano è un piccolo Comune della Bassa Romagna che, da un po' di tempo a questa parte, ha iniziato a interessarsi di ambiente come mezzo per migliorare la vita dei propri cittadini, ma anche come mezzo innovativo di sviluppo.
 Mirco Bagnari, il sindaco di questo piccolo paese, sta "osando" qualcosa di innovativo. E lo sta facendo grazie al progetto *Fusignano Green*.
 
-!(../uploads/2014/11/logo-Fusignano-Green-300x300.jpg)](https://myhumus.com/wp-content/uploads/2014/11/logo-Fusignano-Green.jpg)
+![Fusignano Green](./fusignano-green.jpg)
 
 Questa iniziativa nasce circa due anni fa. Grazie al supporto e al coordinamento di CNA e di ECIPAR, 12 imprenditori fusignanesi si sono incontrati per confrontarsi su crisi, pratiche ambientali, sostenibilità e tutela del territorio. Il tutto promuovendo una stretta collaborazione fra amministrazione comunale, imprenditoria e cittadinanza.
 
@@ -56,7 +53,7 @@ Insomma, Fusignano c'è. Ed è viva più che mai! E il sindaco Mirco Bagnari pu�
 >
 > In tutto questo il ruolo del gruppo degli imprenditori è stato determinante, anche per incuriosire e sensibilizzare i propri colleghi e le altre aziende del territorio.
 
-<div class="wp-caption alignright" id="attachment_60" style="width: 348px">[![La Notte Green a Fusignano - Ravenna (Ph. 3PIX Studio)](../uploads/2014/11/La-Notte-Green-a-Fusignano-Ravenna-Ph.-3PIX-Studio-300x159.jpg)](https://myhumus.com/wp-content/uploads/2014/11/La-Notte-Green-a-Fusignano-Ravenna-Ph.-3PIX-Studio.jpg)La Notte Green a Fusignano - Ravenna (Ph. 3PIX Studio).
+![La Notte Green a Fusignano - Ravenna (Ph. 3PIX Studio)](./notte-green-1.jpg)
 
 ### Oltre alle azioni già sviluppate, quali sono, invece, le iniziative di educazione ambientale che attendono ancora di concretizzarsi?
 
@@ -65,10 +62,10 @@ Insomma, Fusignano c'è. Ed è viva più che mai! E il sindaco Mirco Bagnari pu�
 > Vista la riduzione continua di personale imposta ai Comuni dalle normative di oggi, la sinergia con l'Unione dei Comuni della Bassa Romagna è l'unica strada per realizzare un'iniziativa di questo tipo.
 >
 > Su questa lunghezza d'onda, nell'ambito di una "due giorni green" coincidente con l'iniziativa *M'illumino di meno* lanciata dalla trasmissione di Radio2 "Caterpillar", il 13 febbraio alle 20.30 presso l'auditorium Arcangelo Corelli, insieme a CNA, realizzeremo l'evento *M'illumino di verde: testimonianze e proposte per un presente sostenibile*.
-
-<div class="wp-caption alignright" id="attachment_61" style="width: 310px">[![La Notte Green a Fusignano - Ravenna (Ph. 3PIX STudio)](../uploads/2014/11/La-Notte-Green-a-Fusignano-Ravenna-Ph.-3PIX-STudio.-2-300x165.jpg)](https://myhumus.com/wp-content/uploads/2014/11/La-Notte-Green-a-Fusignano-Ravenna-Ph.-3PIX-STudio.-2.jpg)La Notte Green a Fusignano - Ravenna (Ph. 3PIX STudio).
-
+>
 > Un'occasione per avvicinarsi alla qualificazione energetica in edilizia. Illustreremo ai cittadini iniziative e interventi realizzati da aziende artigiane del territorio su edifici abitativi e su immobili produttivi. Ciò per far capire costi e vantaggi di questo tipo di operazioni e per stimolare la consapevolezza che qualificare il proprio immobile voglia dire guadagnare in vivibilità e in risparmio. Anche questa, se vogliamo è educazione all'ambiente.
+
+![La Notte Green a Fusignano - Ravenna (Ph. 3PIX Studio)](./notte-green-2.jpg)
 
 ### Ci parli dei Suoi collaboratori. In quanti stanno lavorando insieme a Lei nella realizzazione di questo ambizioso progetto? C'è qualcuno, in particolare, che vuole ringraziare?
 
