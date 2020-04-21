@@ -1,7 +1,7 @@
 ---
-title: 'L&#8217;orto e l&#8217;asilo: come ti rinnovo l&#8217;istruzione infantile'
+title: 'Coltivare all'asilo: come ti rinnovo l'istruzione infantile'
 date: '2016-03-17T11:01:29+00:00'
-description: ''
+description: 'Nursery Fields Forever vuole rinnovare l'istruzione infantile stimolando lo sviluppo di una coscienza ecologica. Coltivare all'asilo è solo un esempio'
 featuredImage: ../uploads/2016/03/aut-aut-banner-150x150.jpg
 category:
     - Ecoprogetti
@@ -83,4 +83,3 @@ Speriamo che questo interesse si traduca presto in qualcosa di concreto. Noi sia
 "Ognuno di noi sta portando avanti progetti indipendenti e insieme stiamo lavorando a nuove proposte per concorsi. Alcune di esse affrontano nuovamente il tema dell'educazione infantile".
 
 > Bambini e sostenibilità: missione possibile! Leggi anche l'intervista a [Renzo](https://myhumus.com/giocattoli/) - l'inventore di giocattoli - e quella ad [Armadio Verde](https://myhumus.com/armadio-verde-swapping/)!
-
