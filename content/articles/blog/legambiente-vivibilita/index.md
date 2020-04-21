@@ -91,6 +91,6 @@ Qualche giorno ne ho parlato insieme a Mirko Laurenti, direttamente coinvolto ne
 >
 > È anche per questo motivo che Legambiente intravede, nella green economy, un'opportunità sociale ed economica. Diversificare serve a diventare più sostenibili, ma anche a offrire lavoro.
 >
-> **Il cambiamento culturale implica quasi sempre un'opportunità economica**".
+> **Il cambiamento culturale implica quasi sempre un'opportunità economica**.
 
 Foto di copertina: [Rowan Heuvel](http://www.insolitus.nl/?utm_source=Unsplash&utm_medium=website&utm_campaign=unsplash) via [Unsplash](https://unsplash.com).
