@@ -2,6 +2,8 @@ import React from "react"
 import { Link } from "gatsby"
 import classNames from "classnames"
 
+import "../scss/utils/_paginator.scss"
+
 export const ellipsis = (upper) => {
   return (
     <li key={"page-" + (upper ? "ellipsis-upper" : "ellipsis-lower")}>
@@ -61,7 +63,7 @@ export const paginate = (context) => {
 export const navigator = (context) => {
   if (context.numPages > 1) {
     return (
-      <nav className="bottom-nav">
+      <nav className="paginator-nav">
         <ul>
           {paginate(context)}
         </ul>

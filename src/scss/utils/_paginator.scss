@@ -1,0 +1,12 @@
+@import "../variables";
+
+.paginator-nav {
+    margin: 0 auto;
+    text-align: center;
+    li {
+        display: inline-block;
+        font-size: $size-4;
+        font-weight: $weight-bold;
+        margin: $size-7 / 2;
+    }
+}
