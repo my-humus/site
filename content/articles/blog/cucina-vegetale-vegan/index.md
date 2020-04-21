@@ -2,7 +2,7 @@
 title: 'La meravigliosa cucina vegetale di Carla'
 date: '2015-09-17T13:26:20+00:00'
 description: "Carla Leni è l'autrice di un blog di cucina vegetale: La Cucina della Capra."
-featuredImage: ../uploads/2015/09/carla-leni-banner-150x150.jpg
+featuredImage: ./cucina-vegetale-vegan.jpg
 category:
     - Cucina naturale
 tags:
@@ -21,7 +21,7 @@ E insomma, dicevo che parlavo con Manuel e ascoltavo i suoi programmi per l'autu
 
 Carla Leni è l'autrice del blog [La Cucina della Capra](https://lacucinadellacapra.wordpress.com). Insieme a [EIFIS Editore](http://www.eifis.it/e-store/public/) sta per pubblicare il suo primo libro di ricette.
 
-<div class="wp-caption alignright" id="attachment_2285" style="width: 210px">[![Carla Leni](../uploads/2015/09/2013_10_25-Carla-Leni_8520_M1-200x300.jpg)](https://myhumus.com/wp-content/uploads/2015/09/2013_10_25-Carla-Leni_8520_M1.jpg)Carla Leni.
+![Carla Leni](./carla-leni.jpg)
 
 ### Ciao Carla, benvenuta a bordo di MyHumus! Cominciamo dall'inizio: perché hai scelto di promuovere una cucina vegetale?
 
@@ -39,6 +39,8 @@ Carla Leni è l'autrice del blog [La Cucina della Capra](https://lacucinadellaca
 >
 > Sono stata io la prima ad allontanarsi da questo modello. E devo dire che sono fortunata perché i miei genitori e mia sorella rispettano molto questa mia scelta. Fanno di tutto per mettermi a mio agio quando siamo assieme.
 
+![La Cucina della Capra](./cucina-vegetale-vegan-1.jpg)
+
 ### Quando e perché è nato La Cucina della Capra? E cosa c'entrano le capre?
 
 > Il mio blog è nato nel 2011, mentre stavo diventando vegana. È stato un incentivo per sperimentare cose nuove e mi ha permesso di conoscere tante persone da cui ho imparato moltissimo. Ero alle prime armi, avevo ancora tanto da apprendere.
@@ -46,6 +48,8 @@ Carla Leni è l'autrice del blog [La Cucina della Capra](https://lacucinadellaca
 > Il personaggio della capra è nato per sfatare la leggenda che la cucina vegan consenta di mangiare solo erba. Come le capre, appunto.
 >
 > Ho giocato sul fatto che anche le capre hanno tantissima scelta, utilizzando l'ironia. Una forma comunicativa molto efficace.
+
+![La Cucina della Capra](./cucina-vegetale-vegan-2.jpg)
 
 ### Cosa promuove La Cucina della Capra? A chi si rivolge?
 
@@ -57,7 +61,7 @@ Carla Leni è l'autrice del blog [La Cucina della Capra](https://lacucinadellaca
 >
 > Voglio dimostrare che avere uno stile di vita più etico non è impossibile, e che non è affatto triste! Si tratta solo di apportare piccoli cambiamenti e di cambiare ottica.
 
-<div class="et_pb_slider et_pb_slider_fullwidth_off et_pb_gallery_post_type"><div class="et_pb_slides"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2015/09/IMG_5336.jpg);"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2015/09/IMG_6139.jpg);"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2015/09/IMG_5136.jpg);">  
+![La Cucina della Capra](./cucina-vegetale-vegan-3.jpg)
 
 ### Le tue ricette sono una rivisitazione della tradizione culinaria italiana?
 
@@ -67,7 +71,7 @@ Carla Leni è l'autrice del blog [La Cucina della Capra](https://lacucinadellaca
 >
 > Mi piace molto preparare questi **piatti ricchi di storia**, ma adoro anche testare **ingredienti nuovi**. Mi piace inventare piatti di cucina vegetale originali, oppure spaziare verso cucine di altre nazioni.
 
-<div class="et_pb_slider et_pb_slider_fullwidth_off et_pb_gallery_post_type"><div class="et_pb_slides"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2015/09/IMG_8902.jpg);"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2015/09/IMG_4903.jpg);">  
+![La Cucina della Capra](./cucina-vegetale-vegan-4.jpg)
 
 ### Cosa ti attende nei prossimi mesi? Di cosa parlerà il tuo libro?
 
@@ -80,3 +84,5 @@ Carla Leni è l'autrice del blog [La Cucina della Capra](https://lacucinadellaca
 > **Non bisogna essere chef o avere tantissimo tempo a disposizione per cucinare in modo sano ed etico**. Cereali e legumi fanno parte della storia del nostro Paese, possiamo trovarli in qualsiasi supermercato. Non servono molti altri ingredienti per creare piatti saporiti di cucina vegetale!
 >
 > Spero che le mie ricette possano offrire qualche idea a chi già cucina così. Ma anche, e soprattutto, a coloro che si avvicinano per la prima volta a questo stile di vita.
+
+![La Cucina della Capra](./cucina-vegetale-vegan-5.jpg)

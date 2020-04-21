@@ -1,40 +1,34 @@
 ---
 title: 'Tre progetti green italiani che vanno bene'
 date: '2015-10-01T12:14:11+00:00'
-description: ''
-featuredImage: ../uploads/2015/10/progetti-green-italiani-banner-150x150.jpg
+description: '"The Barefoot Conservation Center", "Delfini Bizantini" ed "UNO Cookbook" sono tre progetti green italiani che stanno andando bene. Ecco alcune news...'
+featuredImage: ./progetti-green-italiani.jpg
 category:
     - Green Mix
 tags:
-    - 'progetti green italiani'
+    - Progetti green italiani
     - Sostenibilità
-
-_yoast_wpseo_focuskw:
-    - 'progetti green italiani'
-_yoast_wpseo_title:
-    - 'Tre progetti green italiani che vanno bene - MyHumus'
-_yoast_wpseo_metadesc:
-    - '"The Barefoot Conservation Center", "Delfini Bizantini" ed "UNO Cookbook" sono tre progetti green italiani che stanno andando bene. Ecco alcune news...'
-_yoast_wpseo_linkdex:
-    - '85'
-
-_yoast_wpseo_primary_category:
-    - ''
 ---
 
 
 Ci tengo a puntualizzare una cosa, cari amici lettori: MyHumus non abbandona mai i propri intervistati!
+
 Voglio dire, non è che dopo la pubblicazione dell'articolo ci si saluta e stop, *è stato bello, arrivederci e grazie*...eh no, io li tampino anche dopo!
+
 Scherzi a parte, l'articolo di questa settimana torna a parlare di tre progetti green italiani che sono stati particolarmente amati dai lettori di MyHumus: [The Barefoot Conservation Center](https://myhumus.com/natura/), [Delfini Bizantini](https://myhumus.com/delfini-tutela/) ed [UNO Cookbook](https://myhumus.com/uno-cookbook-cucina-vegana/).
+
 Che ne è stato di loro, dopo le interviste? Quali sviluppi ci sono stati? Che cosa stanno facendo adesso?
+
 Scopriamolo subito!
 
-#### - Flavio Sacco (The Barefoot Conservation Centre) -
+## Flavio Sacco (The Barefoot Conservation Centre)
 
-<div class="wp-caption alignright" id="attachment_1473" style="width: 310px">[![Flavio Sacco](../uploads/2015/04/Flavio-Barefoot1-300x200.jpg)](https://myhumus.com/wp-content/uploads/2015/04/Flavio-Barefoot1.jpg)Flavio Sacco
+![Flavio Sacco](./flavio-barefoot.jpg)
 
 Qualche settimana fa ho avuto uno scambio di mail con Flavio Sacco, il biologo marino italiano che sta conducendo attività di ricerca sull'isola di Hanimaadhoo, alle Maldive.
+
 [The Barefoot Conservation Center](http://www.thebarefoot.com/portfolio-normal-layout/maldives-conservation-center/) è un Centro di monitoraggio, di conservazione e di educazione ambientale situato all'interno della struttura turistica *The Barefoot Eco Hotel,* ed è proprio in questo Centro che Flavio, ogni giorno, porta avanti le sue attività di ricerca e di tutela ambientale insieme ai ricercatori con cui collabora.
+
 Le sue news sono tante e, soprattutto, estremamente positive:
 
 - insieme al suo team di lavoro, Flavio sta intensificando i rapporti con le scuole maldiviane per condurre brevi corsi di educazione ambientale;
@@ -49,19 +43,24 @@ Le sue news sono tante e, soprattutto, estremamente positive:
 - a partire da questo inverno, il Centro ospiterà neolaureati in biologia marina per brevi periodi (1-3 mesi) per insegnare loro a lavorare in contesti turistici sviluppando progetti di conservazione ambientale. Dovranno solo pagare il biglietto aereo, dopodiché saranno ospiti spesati per tutto il periodo di permanenza e potranno lavorare al nostro fianco. Ovviamente, ciò offrirà loro l'occasione di imparare a lavorare con i turisti ed entrare in contatto la rete dei resort alle Maldive per trovare una posizione retribuita.
   
 
-#### - Delfini Bizantini -
+## Delfini Bizantini
 
-<div class="wp-caption alignright" id="attachment_1789" style="width: 310px">[![Il team di "Delfini bizantini"](../uploads/2015/06/team-delfini-300x200.jpg)](https://myhumus.com/wp-content/uploads/2015/06/team-delfini.jpg)Il team di "Delfini bizantini"
+![Il team di "Delfini bizantini"](./team-delfini.jpg)
 
 Rebecca Andreini, Nicola Aurier, Michela Spreafico e Carlo Pezzi: sono loro i quattro componenti della squadra di [Delfini Bizantini](https://myhumus.com/delfini-tutela/), ve li ricordate? Questa associazione, nata da pochissimi mesi, monitora e tutela i delfini dell'Alto Adriatico.
+
 Sono felice di dirvi che anche questo progetto sta procedendo bene, negli ultimi mesi i ragazzi hanno avuto molta visibilità su diversi giornali e reti televisive, sono riusciti ad organizzare piuttosto bene la fase di ricerca sul campo e hanno proseguito le loro attività di monitoraggio attraverso la foto-identificazione e la raccolta dei dati comportamentali e clinici dei soggetti.
+
 Durante l'estate, inoltre, i ragazzi hanno proposto alcuni laboratori tematici dedicati ai più piccoli ed una serie di lezioni presso il circolo velico ravennate. Il gruppo ha intenzione di intraprendere attività aperte ai soci.
 
-#### - Manuel Marcuccio (UNO Cookbook) -
+## Manuel Marcuccio (UNO Cookbook)
 
 Dal momento che questa intervista risale al mese di marzo, credo sia opportuno rinfrescarvi un poco la memoria: Manuel Marcuccio, food blogger che vive a Milano nonché autore del blog di cucina vegana [UNO Cookbook](http://www.unocookbook.com), dice di essere una persona che fa da mangiare per chi ama avendo cura delle materie prime.
+
 I suoi followers saranno contenti di sapere che ha appena iniziato a collaborare con un nuovo juice bar di Milano che propone trattamenti detox personalizzati di varie durate; per questo locale ha realizzato dieci hummus che saranno serviti all'interno di un barattolo di vetro con il brand "UNO Cookbook".
+
 Insieme ad una delle titolari del juice bar milanese, inoltre, Manuel lavorerà ad un nuovo libro completamente dedicato a succhi, estratti e smoothies rientranti nei programmi detox.
+
 Di recente, il nostro food blogger di fiducia è stato il curatore del libro di [Carla Leni](https://myhumus.com/cucina-vegetale-vegan/), recentemente intervistata da MyHumus.
 
 > *Foto di copertina: [Alfie Ianni](http://www.flickr.com/photos/90325628@N00/2599394171) via [Photopin](http://photopin.com).*

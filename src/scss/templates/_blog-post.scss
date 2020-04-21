@@ -46,6 +46,18 @@
                 width: 100%;
             }
         }
+        ul {
+            li {
+                margin: $size-7 0 $size-7 $size-2;
+                &::before {
+                    content: "\e900";
+                    font-family: "myhumus";
+                    position: relative;
+                    left: -$size-7;
+                    color: $primary;
+                }
+            }
+        }
         .gatsby-resp-image-wrapper {
             margin: $size-1 0;
         }

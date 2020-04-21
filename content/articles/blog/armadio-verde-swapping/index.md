@@ -1,27 +1,15 @@
 ---
 title: 'La vendita di abbigliamento usato online è verde!'
 date: '2015-04-02T10:23:16+00:00'
-description: 'Armadio Verde è un marketplace italiano finalizzato alla vendita di abbigliamento usato online'
-featuredImage: ../uploads/2015/04/armadio-verde-banner-150x150.jpg
+description: "L'Armadio Verde è una nuovissima start up che promuove le attività di swapping per andare incontro alle esigenze dei genitori di tutta Italia."
+featuredImage: ./armadio-verde.jpg
 category:
     - Ecoprogetti
 tags:
-    - etica
+    - Etica
     - Riciclo
     - Riutilizzo
-    - swapping
-
-_yoast_wpseo_focuskw:
-    - swapping
-_yoast_wpseo_linkdex:
-    - '79'
-_yoast_wpseo_title:
-    - 'Keep calm and go swapping! - MyHumus'
-_yoast_wpseo_metadesc:
-    - 'L''Armadio Verde è una nuovissima start up che promuove le attività di swapping per andare incontro alle esigenze dei genitori di tutta Italia.'
-
-_yoast_wpseo_primary_category:
-    - '68'
+    - Swapping
 ---
 
 
@@ -34,7 +22,7 @@ Perché non diventare consumatori più responsabili partendo, ad esempio, dall'a
 
 **Eleonora Dellera** questo ragionamento lo ha fatto. E lo ha fatto insieme al marito, col quale ha dato vita ad [Armadio Verde](http://www.armadioverde.it), un progetto che promuove il cosiddetto *swapping*.
 
-<div class="wp-caption alignright" id="attachment_1341" style="width: 310px">[![Eleonora Dellera](../uploads/2015/03/LArmadio_Verde_fashion_moda_bimbo-300x220.jpg)](https://myhumus.com/wp-content/uploads/2015/03/LArmadio_Verde_fashion_moda_bimbo.jpg)Eleonora Dellera insieme alla figlia.
+![Eleonora Dellera](./eleonora-dellera.jpg)
 
 Questo primo marketplace italiano punta allo scambio e alla vendita di abbigliamento usato online uomo, donna e bambino. Oggi, però, è soprattutto alle madri che si rivolge, focalizzandosi sull'abbigliamento dei più piccoli.
 
@@ -46,11 +34,13 @@ Conosciamolo più nel dettaglio...
 
 > Certo, Anna. Armadio Verde nasce come luogo di scambio e di vendita di abbigliamento per bambini.
 >
-Io e mio marito David, co-fondatore di questo progetto, vedevamo quanti regali e vestiti acquistati si accumulavano ogni mese.
+> Io e mio marito David, co-fondatore di questo progetto, vedevamo quanti regali e vestiti acquistati si accumulavano ogni mese.
 >
 > Da qui l'idea di capire come ovviare a questo spreco restituendo un valore agli acquisti fatti. La vendita di abbigliamento usato online come metodo per andare incontro alle mamme di tutta Italia, in altre parole.
 >
-> Facendo alcune ricerche abbiamo conosciuto piccole realtà di swapping fra le mamme del nostro quartiere. Poi abbiamo notato che, nelle nazioni anglosassoni, c'erano realtà molto organizzate.[![Logo Rotondo](../uploads/2015/03/Logo-Rotondo.jpg)](https://myhumus.com/wp-content/uploads/2015/03/Logo-Rotondo.jpg)
+> Facendo alcune ricerche abbiamo conosciuto piccole realtà di swapping fra le mamme del nostro quartiere. Poi abbiamo notato che, nelle nazioni anglosassoni, c'erano realtà molto organizzate.
+> 
+> ![Logo Rotondo](./logo-rotondo.jpg)
 >
 > Da qui l'idea di creare un business capace di andare incontro a un'esigenza forte tra le mamme. Con Armadio Verde risparmi fino all'85%, non sprechi e vesti bene i tuoi bambini con vestiti selezionati e di qualità.
 
@@ -66,7 +56,7 @@ Io e mio marito David, co-fondatore di questo progetto, vedevamo quanti regali e
 >
 > Consegnamo in tutta Italia in pochissimi giorni.
 
-<div class="wp-caption alignright" id="attachment_1348" style="width: 310px">[![L'Armadio Verde: Eleonora Dellera, David Erba e Carlo Moro](../uploads/2015/03/MAV3790-300x243.jpg)](https://myhumus.com/wp-content/uploads/2015/03/MAV3790.jpg)Il team: Eleonora Dellera, David Erba e Carlo Moro.
+![L'Armadio Verde: Eleonora Dellera, David Erba e Carlo Moro](./team.jpg)
 
 ### Come funziona la vostra vendita di abbigliamento online per bambini?
 

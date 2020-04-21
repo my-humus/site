@@ -2,7 +2,7 @@
 title: 'Le soluzioni green di Friggitorio'
 date: '2014-07-22T00:00:02+00:00'
 description: ''
-featuredImage: ../uploads/2014/07/soluzioni-green-friggitorio-150x150.jpg
+featuredImage: ./daniele-belleffi.jpg
 category:
     - Green Mix
 tags:
@@ -10,9 +10,6 @@ tags:
     - Ristorazione
     - Sostenibilità
 ---
-
-
-<div class="wp-caption alignright" id="attachment_133" style="width: 310px">[![Daniele Belleffi](../uploads/2014/11/dan-iniziale-300x226.jpg)](https://myhumus.com/wp-content/uploads/2014/11/dan-iniziale.jpg)Daniele Belleffi.
 
 C'è un localino, in Viale dei Lombardi 72 a Lido di Classe, che è una chicca per il palato: si chiama [FriggitoRìo](http://www.friggitorio.com/Friggitorio/Friggitorio_LIDO_DI_CLASSE.html) ed è uno dei primi ristoranti sorti a Lido di Classe.
 Gestito dalla famiglia Belleffi, è una gastronomia da asporto aperta tutto l'anno che propone piatti a base di pesce: dalle fritture alle grigliate fino ai primi piatti di mare.
@@ -24,7 +21,7 @@ Gli attuali titolari sono due giovani fratelli che hanno avviato la nuova attivi
 FriggitoRìo, nato per dare rispondere a una clientela giovane e attenta all'ambiente, si sta impegnando ad essere sempre più *ecofriendly*, coniugando il senso di responsabilità verso l'ambiente con le esigenze di risparmio economico ed energetico.
 Ne ho parlato con Daniele Belleffi.
 
-[![](../uploads/2014/11/logo-300x75.jpg)](https://myhumus.com/wp-content/uploads/2014/11/logo.jpg)
+![FriggitoRìo](./logo.jpg)
 
 ### Ciao, Daniele! Come mai hai deciso di dare importanza all'aspetto ambientale nella tua attività commerciale?
 
@@ -34,7 +31,7 @@ Ne ho parlato con Daniele Belleffi.
 
 ### Quali soluzioni green avete adottato finora?
 
-[![](../uploads/2014/11/bidoncini-1-300x225.jpg)](https://myhumus.com/wp-content/uploads/2014/11/bidoncini-1.jpg)***
+![Bidoncini](./bidoncini-1.jpg)
 
 > Innanzitutto, abbiamo puntato sulla qualità dei prodotti utilizzando materie prime che, per la maggior parte, provengono dal nostro **territorio**. Ne sono un esempio le cozze di Cervia e il pesce dell'Adriatico.
 >
@@ -43,9 +40,9 @@ Ne ho parlato con Daniele Belleffi.
 > Siamo impegnati anche sul fronte del riutilizzo dei rifiuti prodotti. Al momento, l'olio utilizzato per la frittura viene venduto a un'azienda che lo riutilizza nella produzione di saponi e di altri materiali.
 >
 > È ancora in definizione lo **smaltimento dell'alluminio di rifiuto dei contenitori per gli alimenti** utilizzati dalla gastronomia. Oggi, infatti, siamo in ricerca di aziende interessate a riutilizzarlo per la loro produzione.
-
-[![](../uploads/2014/11/bidoncini-2-300x225.jpg)](https://myhumus.com/wp-content/uploads/2014/11/bidoncini-2.jpg)
-
+>
+> ![Bidoncini](./bidoncini-2.jpg)
+>
 > Al FriggitoRìo curiamo anche l'aspetto energetico.
 >
 > Per quanto riguarda l'utilizzo di nuove fonti di energia per il riscaldamento, è attiva una stufa a pellet che garantisce risparmio energetico, calore pulito e comfort per i clienti.
@@ -62,7 +59,7 @@ Ne ho parlato con Daniele Belleffi.
 
 ### Che percentuale di risparmio energetico avete riscontrato con l'adozione della stufa a pellet per i mesi invernali e dei ventilatori per quelli estivi?
 
-<div class="wp-caption alignright" id="attachment_532" style="width: 310px">[![La stufa a pellet](../uploads/2014/11/stufa-300x225.jpg)](https://myhumus.com/wp-content/uploads/2014/11/stufa.jpg)La stufa a pellet.
+![La stufa a pellet](./stufa.jpg)
 
 > Il risparmio energetico è notevole, specie nell'utilizzo di gas, grazie alla stufa a pellet in inverno. In questo caso, abbiamo abbattuto i consumi e i costi fin quasi al 70%.
 >
@@ -74,10 +71,12 @@ Ne ho parlato con Daniele Belleffi.
 >
 > Alcuni ci danno consigli su come evitare sprechi e si complimentano per le scelte che abbiamo adottato.
 
+![Daniele Belleffi](./dan.jpg)
+
 ### Avete in mente altre misure di questo tipo per il futuro?
 
 > Continueremo a potenziare la nostra raccolta differenziata e lo smaltimento dei rifiuti che produciamo. Anche un locale come il nostro ne produce parecchi.
 >
 > Abbiamo dato in concessione a un'azienda tedesca il nostro olio di frittura: verrà usato per la produzione di saponi. Attiveremo inoltre una convenzione con un'azienda per il riciclo dell'alluminio che utilizziamo per i nostri contenitori per l'asporto.
 
-![](https://myhumus.com/nextgen-attach_to_post/preview/id--540)
+![Locale](./locale.jpg)

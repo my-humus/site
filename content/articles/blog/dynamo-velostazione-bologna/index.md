@@ -2,29 +2,33 @@
 title: 'Il parcheggio e noleggio di bici a Bologna secondo Dynamo'
 date: '2015-09-03T09:15:40+00:00'
 description: "Sta per essere inaugurata Dynamo, la prima velostazione d'Italia per il parcheggio e il noleggio di bici a Bologna."
-featuredImage: ../uploads/2015/09/Dynamo-Bologna-banner-150x150.jpg
+featuredImage: ./dynamo-bologna.jpg
 category:
     - Mobilità sostenibile
 tags:
     - Bike friendly
     - Mobilità sostenibile
     - Sostenibilità
-    - velostazione
+    - Velostazione
 ---
 
-
 Un servizio di parcheggio e noleggio di bici a Bologna: in quanti lo stanno cercando?
+
 Quanti concepiscono la propria biciletta come un figlio, anziché un semplice mezzo di trasporto?
 
 A nome dei miei amici ciclisti, voglio chiarire un concetto: il ciclista vive il furto della propria bici come un lutto.
+
 Anch'io possiedo due bici, una da corsa e una da turismo. Entrambe hanno un nome e tanti chilometri impressi sul telaio, e con entrambe ho condiviso una serie infinita di emozioni su strada.
+
 Se un giorno dovessero rubarmele, credo che mi ritirerei su un eremo chissà dove a piangere e a meditare vendetta.
+
 Sì perché io odio i ladri di biciclette.
 
 Detto ciò, MyHumus torna a parlare di bici, e lo fa presentandovi un progetto molto particolare: [Dynamo](http://www.dynamo.bo.it), la prima velostazione d'Italia per il parcheggio e noleggio di bici a Bologna.
+
 Questo nuovo spazio urbano sorgerà di fronte alla Stazione Centrale e inaugurerà il 25 settembre 2015.
 
-[![Simona Larghetti (ph. Francesca Cervellati)](../uploads/2015/09/Simona-ridotta-200x300.jpg)](https://myhumus.com/wp-content/uploads/2015/09/Simona-ridotta.jpg)Simona Larghetti (ph. Francesca Cervellati).
+![Simona Larghetti (ph. Francesca Cervellati)](./simona.jpg)
 
 Ho scambiato due chiacchiere con Simona Larghetti, presidente dell'[Associazione Salvaiciclisti](http://salvaiciclisti.bologna.it) di Bologna, il gruppo ideatore del progetto.
 
@@ -38,6 +42,8 @@ Ho scambiato due chiacchiere con Simona Larghetti, presidente dell'[Associazione
 >
 > Se vogliamo intenderla in quest'ultimo modo, allora **è necessario consentire l'accesso a chiunque**. Bisogna focalizzare l'attenzione sulla persona e creare **spazi altamente accessibili**. Bisogna avere spazi per il parcheggio e noleggio di bici a Bologna, così come in tutta Italia.
 
+![Lo spazio in cui sorgerà Dynamo (ph. Stefano Scheda)](./20-sab-03.jpg)
+
 ### Quando avete deciso di dar vita a Dynamo? Quali sono state le vostre ragioni?
 
 > Serviva un luogo in cui **educare al ciclismo urbano**, in cui **diffondere cultura e sensibilità sull'argomento**.
@@ -50,7 +56,7 @@ Ho scambiato due chiacchiere con Simona Larghetti, presidente dell'[Associazione
 
 ### Perché *Dynamo*?
 
-[![Dynamo Bologna (ph. Stefano Scheda)](../uploads/2015/09/20-sab-02-ridotta-300x200.jpg)](https://myhumus.com/wp-content/uploads/2015/09/20-sab-02-ridotta.jpg)Lo spazio in cui sorgerà Dynamo (ph. Stefano Scheda).
+![Lo spazio in cui sorgerà Dynamo (ph. Stefano Scheda)](./20-sab-02.jpg)
 
 > Perché pensiamo che la capacità di metter in movimento le energie sia un processo virtuoso. Ci muoviamo producendo energia e la raccogliamo senza lasciarla disperdere.
 
@@ -65,6 +71,7 @@ Ho scambiato due chiacchiere con Simona Larghetti, presidente dell'[Associazione
 > Sì, ci commuove ogni giorno. **Le persone sono entusiaste di questo progetto**, ci stanno offrendo moltissima generosità e sostegno.
 >
 > Qualche tempo fa, in occasione delle giornate di pulizia degli spazi di Dynamo, abbiamo creato l'evento su Facebook invitando i bolognesi a partecipare: si sono presentati in 40!
+
 Tutto questo è a dir poco fantastico!
 
-<div class="et_pb_slider et_pb_slider_fullwidth_off et_pb_gallery_post_type"><div class="et_pb_slides"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2015/09/20-sab-03-ridotta.jpg);"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2015/09/21-dom-06-ridotta.jpg);">
+![Lo spazio in cui sorgerà Dynamo (ph. Stefano Scheda)](./21-dom-06.jpg)

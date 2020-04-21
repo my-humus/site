@@ -1,27 +1,15 @@
 ---
 title: 'Le bici artigianali italiane di Mopbike'
 date: '2016-10-07T13:09:02+00:00'
-description: 'Intervista a Massimo Ottavio Pavan di Mopbike, un brand di bici artigianali italiane nato alcuni anni fa in quel di Pordenone.'
-featuredImage: ../uploads/2016/10/bici-artigianali-italiane-6-150x150.jpg
+description: 'Intervista a Massimo Ottavio Pavan del marchio Mopbike, un brand di bici artigianali italiane nato due anni fa in quel di Pordenone.'
+featuredImage: ./bici-artigianali-italiane-6.jpg
 category:
     - Mobilità sostenibile
 tags:
-    - 'bici artigianali italiane'
-    - 'bici scatto fisso'
-    - 'bici vintage'
+    - Bici artigianali italiane
+    - Bici scatto fisso
+    - Bici vintage
     - Made in Italy
-
-_yoast_wpseo_focuskw:
-    - 'bici artigianali italiane'
-_yoast_wpseo_title:
-    - 'Le bici artigianali italiane di Mopbike - MyHumus'
-_yoast_wpseo_metadesc:
-    - 'Intervista a Massimo Ottavio Pavan del marchio Mopbike, un brand di bici artigianali italiane nato due anni fa in quel di Pordenone.'
-_yoast_wpseo_linkdex:
-    - '85'
-
-_yoast_wpseo_primary_category:
-    - '69'
 ---
 
 
@@ -39,7 +27,7 @@ Alcuni componenti portanti del telaio sono realizzati attraverso la **tecnologia
 Tutto inizia da un disegno CAD 3D di proprietà Mopbike che, successivamente, viene inviato alla stampante. Dopodiché c'è un laser che fissa la polvere metallica di alluminio realizzando il componente. È la stessa tecnologia usata in campo aerospaziale.
 Il telaio di queste bici artigianali italiane viene successivamente saldato e verniciato rigorosamente a mano. Come? Attraverso cinque strati di vernice a liquido senza alcun processo industriale.
 
-<div class="wp-caption alignright" id="attachment_2881" style="width: 310px">[![bici artigianali italiane, bici scatto fisso, made in Italy](../uploads/2016/10/bici-artigianali-italiane-300x200.jpg)](https://myhumus.com/wp-content/uploads/2016/10/bici-artigianali-italiane.jpg)Massimo Ottavio Pavan.
+![Massimo Ottavio Pavan](./bici-artigianali-italiane.jpg)
 
 **Massimo Ottavio Pavan** è uno dei soci fondatori di Mopbike. Parli con lui e capisci subito quanto ami il suo lavoro.
 
@@ -57,6 +45,8 @@ Il telaio di queste bici artigianali italiane viene successivamente saldato e ve
 >
 > Il nostro marchio punta alla qualità ancora prima che all'estetica. Punta alla **scelta tecnologica**, al **montaggio di valore** e all'**abbassamento del livello di manutenzione**. Le nostre bici sono realizzate per durare nel tempo.
 
+![Massimo Ottavio Pavan](./bici-artigianali-italiane-2.jpg)
+
 ### Quali passaggi portano alla nascita delle vostre bici artigianali italiane?
 
 > Siamo noi a realizzare le bici che vendiamo, sia quelle muscolari che quelle elettriche (queste ultime hanno l'innovativo sistema *Zehus* che ricarica pedalando!). **Ogni nostra bicicletta è un pezzo unico**.
@@ -69,7 +59,7 @@ Il telaio di queste bici artigianali italiane viene successivamente saldato e ve
 
 > Indicativamente, due mesi.
 
-<div class="et_pb_slider et_pb_slider_fullwidth_off et_pb_gallery_post_type"><div class="et_pb_slides"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2016/10/bici-artigianali-italiane-2.jpg);"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2016/10/bici-artigianali-italiane-4.jpg);"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2016/10/bici-artigianali-italiane-5.jpg);">  
+![Massimo Ottavio Pavan](./bici-artigianali-italiane-4.jpg)
 
 ### Il vostro è un prodotto Made in Italy, quindi?
 
@@ -84,6 +74,8 @@ Il telaio di queste bici artigianali italiane viene successivamente saldato e ve
 > La **personalizzazione**, l'**unicità del mezzo** e la **qualità che dura nel tempo**.
 >
 > I copertoni antiforatura ad alte prestazioni e la cinghia in carbonio, anziché una normale catena, sono solo alcune delle soluzioni che offriamo per garantire la qualità delle nostre bici artigianali italiane.
+
+![Massimo Ottavio Pavan](./bici-artigianali-italiane-5.jpg)
 
 ### Avete più clienti in Italia o all'estero?
 

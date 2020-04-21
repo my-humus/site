@@ -1,8 +1,8 @@
 ---
-title: 'L&#8217;isola del Lupo, profumo di natura'
+title: "L'isola del Lupo, profumo di natura"
 date: '2015-05-07T12:08:52+00:00'
-description: ''
-featuredImage: ../uploads/2015/05/2603975983_25e14ee6f1_o-150x150.jpg
+description: 'Questa settimana parliamo della signora Rossana e della sua bellissima avventura in difesa della natura e della biodiversità.'
+featuredImage: ./isola-del-lupo.jpg
 category:
     - Green Mix
 tags:
@@ -10,21 +10,8 @@ tags:
     - Educazione ambientale
     - Green
     - Sostenibilità
-    - 'turismo verde'
-
-_yoast_wpseo_focuskw:
-    - Natura
-_yoast_wpseo_linkdex:
-    - '74'
-_yoast_wpseo_title:
-    - 'L''isola del Lupo, dove la natura è di casa - MyHumus'
-_yoast_wpseo_metadesc:
-    - 'Questa settimana parliamo della signora Rossana e della sua bellissima avventura in difesa della natura e della biodiversità.'
-
-_yoast_wpseo_primary_category:
-    - ''
+    - Turismo verde
 ---
-
 
 *Le cose belle vanno ricercate.*
 
@@ -40,7 +27,7 @@ Basta: tutto questo è troppo per voi, non ce la fate più. Cominciano a mancarv
 
 Beh, molto semplice: si salutano i colleghi, si saluta il capo...e si esce dall'ufficio per andare in collina!
 
-<div class="wp-caption alignright" id="attachment_1551" style="width: 298px">[![Io nelle vesti di "Assaggiatrice ufficiale di erbette"](../uploads/2015/05/11076998_812483645499345_6302623707805212475_n-300x300.jpg)](https://myhumus.com/wp-content/uploads/2015/05/11076998_812483645499345_6302623707805212475_n.jpg)Io, nelle vesti di "Assaggiatrice ufficiale di erbette", insieme alla guida Gabriele Ferrini.
+![Io, nelle vesti di "Assaggiatrice ufficiale di erbette", insieme alla guida Gabriele Ferrini.](./io.jpg)
 
 Dovete sapere che la scorsa domenica ho visitato un luogo bellissimo che ospita un agriturismo didattico-culturale meraviglioso: la località è Villaggio Montefreddo, a 9 km da Tredozio, in provincia di Forlì-Cesena. L'Agriturismo ha un nome intrigante, *L'isola del Lupo*, sorge all'interno dell'Azienda Agricola *La Rosa Canina* ed è gestito da Rossana Bertozzi, una signora adorabile e piena di energia (visitate il sito [www.larosacanina.fc.it](http://www.larosacanina.fc.it) e la [pagina Facebook](https://www.facebook.com/IsolaLupo)).
 
@@ -48,19 +35,25 @@ Ed è proprio in questo luogo che mi sono immolata alla scienza assaggiando le e
 
 Ma torniamo alla signora Rossana. La sua avventura comincia nel 2005 quando decide di partecipare ad un'asta per acquistare 84 ettari di terreno nella località di Montefreddo. Per salvarli dal disboscamento intensivo e dalla caccia, Rossana fa ricorso a tutti i suoi risparmi, riuscendo ad acquistare un quinto dei quasi 300 ettari totali della proprietà (uno dei cinque lotti in cui, inizialmente, era stata suddivisa la proprietà).
 
+![La cucina](./agriturismo-1.jpg)
+
 Per la ristrutturazione dell'agriturismo *L'Isola del Lupo*, Rossana riesce a ricevere 300.000 € a fondo perduto dalla Comunità Europea (cifra che è riuscita a coprire solo una parte delle spese sostenute a tale scopo).
+
+![La sala da pranzo dell'agriturismo](./agriturismo-2.jpg)
 
 E ora, all'interno di questa bella struttura, oltre alla possibilità di alloggiare in stanze super accoglienti, si ha l'opportunità di acquistare prodotti artigianali e di assaggiare una cucina casalinga in cui tutto è fatto a mano da Rossana e dalla sua famiglia.
 
-![](https://myhumus.com/nextgen-attach_to_post/preview/id--1563)
+![Una delle camere da letto a disposizione](./agriturismo-3.jpg)
 
 Fidatevi: se un giorno avrete voglia di ritagliarvi un po' di tempo per andare alla ricerca di pace o di voi stessi (o, meglio ancora, di entrambe le cose) partite alla volta di questo luogo fantastico, su un altopiano che assicura un panorama mozzafiato ma, soprattutto, incontaminato. Ed è ad un'ora sola di cammino dal [Parco Nazionale delle Foreste Casentinesi](http://www.parcoforestecasentinesi.it/pfc/index.php?option=com_inclusore_homepage&lang=it&jos_change_template=pfc_homepage)! Cosa volete di più? *(Vietato rispondere "Un amaro Lucano!", che ormai è una battuta vecchia come il Commodore 64).*
 
-<div class="wp-caption alignright" id="attachment_1565" style="width: 310px">[![L'agriturismo visto da lontano](../uploads/2015/05/IMG_5657-300x225.jpg)](https://myhumus.com/wp-content/uploads/2015/05/IMG_5657.jpg)L'agriturismo visto da lontano.
+![L'agriturismo visto da lontano](./agriturismo-4.jpg)
 
 Presso *La Rosa Canina* non esistono infrastrutture, nessun ripetitore telefonico. Solo aria pura, piante autoctone e curative, alberi da frutto selvatici, un commovente (quanto insolito) silenzio e, di notte, un cielo le cui stelle potrebbero sembrarvi tanto vicine da poter essere afferrate.
 
 Fidatevi della vostra blogger di fiducia che, ogni tanto, ci azzecca: portate in visita i vostri figli per mostrare loro le meraviglie della natura come, ad esempio, le tante orchidee selvatiche che popolano i margini dei sentieri, oppure i maestosi castagneti. E' importante far conoscere ai vostri bambini le scienze naturali, offrendo loro la possibilità di entrare in contatto con i delicati equilibri alla base del pianeta in cui vivono.
+
+![L'orticello bio](./agriturismo-6.jpg)
 
 Solo così potranno essere cittadini consapevoli di questo mondo assetato di rispetto: attraverso la conoscenza. Se conosci, tuteli.
 
@@ -70,17 +63,19 @@ Nelle vicinanze del Centro sorge l'orticello per la produzione di frutta e verdu
 
 A pochi passi dall'orticello si producono, raccolgono ed essiccano le erbe aromatiche.
 
-![](https://myhumus.com/nextgen-attach_to_post/preview/id--1575)
+![Ph. Chiara Bolzonello](./agriturismo-7.jpg)
 
 Sono convinta che gli amanti dello yoga, della lettura, della scrittura, della quiete in generale e dell'introspezione silenziosa, in luoghi come questo, potrebbero trovare infinite risorse.
 
 Rossana e i suoi collaboratori propongono anche percorsi didattici, visite guidate, concerti di musica all'aperto, feste della natura e della tradizione. E poi corsi di cucina, meditazione, danza creativa...e molto altro!
 
+![Ph. Chiara Bolzonello](./agriturismo-8.jpg)
+
 Ergo? State ancora leggendo l'articolo?
 
 Non aspettate un minuto di più, correte a Montefreddo!
 
-![](https://myhumus.com/nextgen-attach_to_post/preview/id--1592)
+![Ph. Chiara Bolzonello](./agriturismo-9.jpg)
 
 *\[Vuoi leggere altri articoli di Natura e di eco vacanze? Allora non perdere l'intervista a [Flavio Sacco](https://myhumus.com/natura/), a [Silvia Ombellini](https://myhumus.com/turismo-sostenibile/) di Viaggi Verdi e a [Silvia Salmeri](https://myhumus.com/in-viaggio-verso-gli-altri/) di Destinazione Umana!\].*
 

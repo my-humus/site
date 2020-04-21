@@ -3,6 +3,7 @@
 @include font(myhumus);
 @include icon-family(myhumus);
 
+@include icon(myhumus, dot, "\e900");
 @include icon(myhumus, icon, "\e900");
 @include icon(myhumus, logo, "\e901");
 @include icon(myhumus, home, "\e902");
