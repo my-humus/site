@@ -78,6 +78,6 @@ Ne ho parlato con Daniele Belleffi.
 
 > Continueremo a potenziare la nostra raccolta differenziata e lo smaltimento dei rifiuti che produciamo. Anche un locale come il nostro ne produce parecchi.
 >
-> Abbiamo dato in concessione a un'azienda tedesca il nostro olio di frittura: verrà usato per la produzione di saponi. Attiveremo inoltre una convenzione con un'azienda per il riciclo dell'alluminio che utilizziamo per i nostri contenitori per l'asporto".
+> Abbiamo dato in concessione a un'azienda tedesca il nostro olio di frittura: verrà usato per la produzione di saponi. Attiveremo inoltre una convenzione con un'azienda per il riciclo dell'alluminio che utilizziamo per i nostri contenitori per l'asporto.
 
 ![](https://myhumus.com/nextgen-attach_to_post/preview/id--540)
