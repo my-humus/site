@@ -142,7 +142,7 @@ Qualche giorno fa ho chiesto a Paolo di raccontarmi la loro storia...
 
 ![Asparagi con crema di jogurt di soia](./asparagi-con-crema-di-jogurt-di-soia.jpg)
 
-### Cosa vi augurate per il futuro?** **Avete in serbo qualche progetto top secret?
+### Cosa vi augurate per il futuro? Avete in serbo qualche progetto top secret?
 
 > Per il futuro ci auguriamo di continuare a lavorare con serenità e di vedere sempre il sorriso sui volti delle persone che vengono a mangiare da noi. E per quanto riguarda la seconda domanda... è top secret!.
 
