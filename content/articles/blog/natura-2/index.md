@@ -51,7 +51,7 @@ Fidatevi: se un giorno avrete voglia di ritagliarvi un po' di tempo per andare a
 
 Presso *La Rosa Canina* non esistono infrastrutture, nessun ripetitore telefonico. Solo aria pura, piante autoctone e curative, alberi da frutto selvatici, un commovente (quanto insolito) silenzio e, di notte, un cielo le cui stelle potrebbero sembrarvi tanto vicine da poter essere afferrate.
 
-Fidatevi della vostra blogger di fiducia che, ogni tanto, ci azzecca: portate in visita i vostri figli per mostrare loro le meraviglie della natura come, ad esempio, le tante orchidee selvatiche che popolano i margini dei sentieri, oppure i maestosi castagneti. E' importante far conoscere ai vostri bambini le scienze naturali, offrendo loro la possibilità di entrare in contatto con i delicati equilibri alla base del pianeta in cui vivono.
+Fidatevi della vostra blogger di fiducia che, ogni tanto, ci azzecca: portate in visita i vostri figli per mostrare loro le meraviglie della natura come, ad esempio, le tante orchidee selvatiche che popolano i margini dei sentieri, oppure i maestosi castagneti. È importante far conoscere ai vostri bambini le scienze naturali, offrendo loro la possibilità di entrare in contatto con i delicati equilibri alla base del pianeta in cui vivono.
 
 ![L'orticello bio](./agriturismo-6.jpg)
 

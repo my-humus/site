@@ -14,7 +14,7 @@ tags:
 
 Apprezzo molto Meryl Streep.
 
-Alcune delle pellicole in cui l'ho amata di più sono, ad esempio, *La mia Africa* (il film di Pollack tratto dal romanzo di Karen Blixen), *Kramer contro Kramer*, *La stanza di Marvin* e l'ironico *La morte ti fa bella* (in cui l'accoppiata con Goldie Hawn è davvero azzeccata). E' protagonista anche del languido *I ponti di Madison County* (di cui consiglio la visione solo se siete di buon umore ed affettivamente appagati) in cui s'innamora di un affascinante (e ancora abbastanza chiomato!) Clint Eastwood, attore nonché regista del film.
+Alcune delle pellicole in cui l'ho amata di più sono, ad esempio, *La mia Africa* (il film di Pollack tratto dal romanzo di Karen Blixen), *Kramer contro Kramer*, *La stanza di Marvin* e l'ironico *La morte ti fa bella* (in cui l'accoppiata con Goldie Hawn è davvero azzeccata). È protagonista anche del languido *I ponti di Madison County* (di cui consiglio la visione solo se siete di buon umore ed affettivamente appagati) in cui s'innamora di un affascinante (e ancora abbastanza chiomato!) Clint Eastwood, attore nonché regista del film.
 
 Detto ciò, ho apprezzato l'interpretazione della Streep anche ne *Il Diavolo veste Prada* di David Frankel, in cui l'attrice interpreta la temutissima Miranda Priestly, personaggio ispirato ad Anna Wintour. La Priestly altri non è che la direttrice di un'importantissima rivista che parla di Alta Moda, un mondo non sempre amico dell'ambiente, anzi.
 

@@ -12,10 +12,7 @@ tags:
     - Sostenibilità
 ---
 
-
-![Gianluca Sada](./sada.jpg)
-
-E' agosto, finalmente è il momento di andare in vacanza.
+È agosto, finalmente è il momento di andare in vacanza.
 
 Siamo a casa e il momento è cruciale: dobbiamo preparare la valigia.
 
@@ -24,6 +21,8 @@ Questo passaggio è alquanto ostico per tutti coloro che, come me, tendono a (o 
 Insomma, il concetto mi sembra chiaro: per i comuni mortali, fare la valigia è stressante.
 
 C'è una cosa che, in tutti i viaggi che ho affrontato finora, mi è sempre dispiaciuto lasciare a casa: la bicicletta.
+
+![Gianluca Sada](./sada.jpg)
 
 Melbourne, Sidney, Valencia, Parigi, Londra e Monaco di Baviera sono solo alcune delle città che avrei voluto visitare in sella alla mia bici.
 

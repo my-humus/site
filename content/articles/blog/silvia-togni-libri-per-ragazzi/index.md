@@ -43,7 +43,7 @@ Da sinistra: Enrico Rambaldi, Silvia Togni, Sauro Mattarelli (Fondazione del Mon
 
 Nella prima, "Una Pigna per Ravenna", Silvia veste i panni di una pigna travestita da Sherlock Holmes che diventa cicerone all'interno delle mura cittadine per raccontarne la storia attraverso i simbolismi nascosti; nel secondo libricino-guida, "A Ravenna una Pigna tira l'altra", la nostra pigna-cicerone ci conduce per mano all'interno del patrimonio naturale ravennate.
 
-Ai fini della pubblicazione e della distribuzione di queste due guide all'interno delle scuole, Silvia ha potuto contare sui finanziamenti offerti dalla [Fondazione del Monte di Bologna e Ravenna](http://www.fondazionedelmonte.it). E' bene ricordare che, da tutto ciò, Silvia non percepisce alcun ricavo economico.
+Ai fini della pubblicazione e della distribuzione di queste due guide all'interno delle scuole, Silvia ha potuto contare sui finanziamenti offerti dalla [Fondazione del Monte di Bologna e Ravenna](http://www.fondazionedelmonte.it). È bene ricordare che, da tutto ciò, Silvia non percepisce alcun ricavo economico.
 
 Come dicevo prima, "A Ravenna una Pigna tira l'altra" è un viaggio all'interno del nostro patrimonio naturale.
 
