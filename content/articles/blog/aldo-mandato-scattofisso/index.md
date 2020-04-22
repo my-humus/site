@@ -2,7 +2,7 @@
 title: 'Aldo Mandato e la mobilità alternativa'
 date: '2014-11-11T00:00:06+00:00'
 description: 'Aldo mandato è un telaista e si occupa di biciclette. Ogni giorno, col suo lavoro, contribuisce alla mobilità alternativa.'
-featuredImage: ../uploads/2014/11/tumblr_inline_negmmjomdP1sy6b451-150x150.jpg
+featuredImage: ./aldo-mandato-scattofisso.jpg
 category:
     - Mobilità sostenibile
 tags:
@@ -13,7 +13,7 @@ tags:
     - Trasporti
 ---
 
-[![Aldo Mandato](../uploads/2014/11/aldo-iniziale-300x200.jpg)](https://myhumus.com/wp-content/uploads/2014/11/aldo-iniziale.jpg)Aldo Mandato.
+![Aldo Mandato](./aldo-mandato.jpg)
 
 *Dimmi che garage hai e ti dirò chi sei*.
 
@@ -39,13 +39,15 @@ Ladies and gentlemen, ecco a voi [Aldo Mandato](http://almancicli.com).
 >
 > Ho continuato a realizzare telai per la mobilità alternativa grazie alla fiducia che alcuni miei amici hanno riposto in me. Il fatto che me ne abbiano commissionati alcuni mi ha permesso di fare ulteriore esperienza.
 
+![Bici](./bici-aldo-2.jpg)
+
 ### Quali caratteristiche hanno le tue biciclette e quali modelli produci?
 
 > I miei lavori sono artigianali e su misura. Cerco di curare i dettagli e le rifiniture, e studio soluzioni che rendano i miei telai unici attraverso particolari customizzazioni.
 >
 > Finora ho realizzato soprattutto telai da pista, poi un paio di MTB. Mi piacerebbe realizzare anche un telaio da corsa, da ciclocross e una cargobike.
 
-![](https://myhumus.com/nextgen-attach_to_post/preview/id--667)
+![Bici](./bici-aldo-1.jpg)
 
 ### Dove compri i componenti che ti servono?
 
@@ -57,9 +59,11 @@ Ladies and gentlemen, ecco a voi [Aldo Mandato](http://almancicli.com).
 >
 > Altri componenti vengono prodotti da una ditta locale su mie specifiche richieste.
 
+![Bici](./bici-aldo-3.jpg)
+
 ### Dove si trova il tuo laboratorio? Lavori da solo o collabori con qualcuno?
 
-<div class="wp-caption alignright" id="attachment_657" style="width: 310px">[![Aldo all'opera nel suo garage](../uploads/2014/11/aldo-in-garage-300x199.jpg)](https://myhumus.com/wp-content/uploads/2014/11/aldo-in-garage.jpg)Aldo all'opera nel suo garage.
+![Aldo all'opera nel suo garage](./aldo-in-garage.jpg)
 
 > Ora lavoro nel mio garage e non ho collaboratori, perché lo spazio non lo consente. Se le cose andranno bene, affitterò un locale più ampio e, magari, cercherò un collaboratore.
 >
