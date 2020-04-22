@@ -56,17 +56,21 @@ class BlogPostTemplate extends React.Component {
                 <CategoryLink category={post.frontmatter.category} />
               </div>
             )}
-            {post.frontmatter.tags && (
-              <div className="container">
-                {post.frontmatter.tags.map((tag, index) => (
-                  <TagLink tag={tag} key={"tag" + index} />
-                ))}
-              </div>
-            )}
             <div className="container">
               <section className="post-content" dangerouslySetInnerHTML={{ __html: post.html }} />
             </div>
           </article>
+          {post.frontmatter.tags && (
+            <section className="hero">
+              <div className="hero-body">
+                <div className="container">
+                  {post.frontmatter.tags.map((tag, index) => (
+                    <TagLink tag={tag} key={"tag" + index} />
+                  ))}
+                </div>
+              </div>
+            </section>
+          )}
           <PostNavigation previous={previous} next={next} />
         </main>
         <Footer />
