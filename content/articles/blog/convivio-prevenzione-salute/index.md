@@ -1,31 +1,16 @@
 ---
-title: 'Convivio e l'umanizzazione delle cure oncologiche'
+title: "Convivio e l'umanizzazione delle cure oncologiche"
 date: '2017-03-09T11:05:53+00:00'
-description: 'Il progetto Convivio, attivo in Veneto, si occupa ogni giorno di umanizzazione delle cure oncologiche. E lo fa attraverso una moltitudine di attività.'-
-
-featuredImage: ../uploads/2017/03/toa_heftiba-150x150.jpg
+description: "Convivio è un progetto di umanizzazione delle cure proposto dall'Oncologia di Verona diretta dal Prof. Giampaolo Tortora."
+featuredImage: ./toa-heftiba.jpg
 category:
     - Cucina naturale
 tags:
-    - prevenzione
+    - Prevenzione
     - Ricerca
     - Ricerca scientifica
     - Salute
-
-_yoast_wpseo_focuskw:
-    - prevenzione
-_yoast_wpseo_title:
-    - 'Convivio: che sapore ha la prevenzione? - MyHumus'
-_yoast_wpseo_metadesc:
-    - 'Convivio è un progetto di umanizzazione delle cure proposto dall''Oncologia di Verona diretta dal Prof. Giampaolo Tortora.'
-_yoast_wpseo_linkdex:
-    - '84'
-_yoast_wpseo_content_score:
-    - '60'
-_yoast_wpseo_primary_category:
-    - '92'
 ---
-\[et\_pb\_section bb\_built="1″ admin\_label="section"\]\[et\_pb\_row admin\_label="row" background\_position="top\_left" background\_repeat="repeat" background\_size="initial"\]\[et\_pb\_column type="4\_4″\]\[et\_pb\_text background\_layout="light" text\_orientation="left" border\_style="solid" background\_position="top\_left" background\_repeat="repeat" background\_size="initial" \_builder\_version="3.0.67″\]
 
 Qualche tempo fa ho avuto il piacere di conoscere [Convivio](https://www.facebook.com/pg/ProgettoConvivio/about/?ref=page_internal), un progetto che ha portato il tema dell'umanizzazione delle cure oncologiche e della prevenzione a tavola anche nel contesto ospedaliero.
 
@@ -33,7 +18,7 @@ Si tratta di un progetto destinato ai pazienti e agli accompagnatori che si rivo
 
 Il team di questa sezione è composto da Clelia Bonaiuto e Ilaria Trestini, entrambe dietiste. Insieme a loro ci sono Daniela Cafaro, project manager, Martina Cerpelloni, responsabile della comunicazione, e tanti volontari e stagisti desiderosi di offrire il loro contributo.
 
-<div class="wp-caption alignright" id="attachment_3017" style="width: 160px">[![prevenzione, salute, ricerca, ricerca scientifica](../uploads/2017/03/convivio_verona_bonaiuto-150x150.jpg)](https://myhumus.com/wp-content/uploads/2017/03/convivio_verona_bonaiuto.jpg)La Dott.ssa Clelia Bonaiuto.
+![La Dott.ssa Clelia Bonaiuto](./convivio-verona-bonaiuto.jpg)
 
 Oltre a svolgere le sue normali mansioni presso il servizio di nutrizione oncologica, Clelia Bonaiuto si dedica alle tante attività di umanizzazione delle cure oncologiche del reparto.
 È a lei che ho chiesto qualche informazione in più su Convivio.
@@ -42,15 +27,15 @@ Oltre a svolgere le sue normali mansioni presso il servizio di nutrizione oncolo
 
 > Ciao, Anna. Certamente! Convivio nasce circa 5 anni fa. La Dott.ssa Cingarlini mi aveva chiesto di organizzare merende alternative con assaggi di cioccolato. Questo per invogliare i nostri pazienti alla diversificazione alimentare.
 >
-Da anni, a Verona, è attivo il Centro Pancreas che raggruppa diversi reparti che collaborano per seguire al meglio questo tipo di pazienti. Ovviamente, ci occupiamo di tutti i tipi di tumori, tanto che siamo diventati Cancer Center per il Veneto.
+> Da anni, a Verona, è attivo il Centro Pancreas che raggruppa diversi reparti che collaborano per seguire al meglio questo tipo di pazienti. Ovviamente, ci occupiamo di tutti i tipi di tumori, tanto che siamo diventati Cancer Center per il Veneto.
 >
-Per alcune tipologie tumorali, parlando di nutrizione, abbiamo bisogno di mantenere o di aumentare il peso dei nostri pazienti. È necessario farlo diversificando il loro modo di alimentarsi.
+> Per alcune tipologie tumorali, parlando di nutrizione, abbiamo bisogno di mantenere o di aumentare il peso dei nostri pazienti. È necessario farlo diversificando il loro modo di alimentarsi.
 >
 > Le motivazioni che stanno dietro a questa esigenza sono diverse. Un paziente non sottopeso risponde meglio alle terapie. Inoltre, possiamo somministrargli più farmaco ottenendo una più alta efficacia.
 
 ### Potrebbe spiegarsi meglio, per favore?
 
-<div class="wp-caption alignright" id="attachment_3002" style="width: 283px">[![prevenzione, salute, ricerca, ricerca scientifica](../uploads/2017/03/progetto_convivio_verona_4-273x300.png)](https://myhumus.com/wp-content/uploads/2017/03/progetto_convivio_verona_4.png)Convivio: progetto di umanizzazione delle cure oncologiche.
+![Convivio: progetto di umanizzazione delle cure oncologiche.](./progetto-convivio-verona-4.png)
 
 > Certo. La **chemioterapia modifica il modo di alimentarsi**. In molti casi, **altera il gusto dei cibi** inducendo il paziente a diminuire l'introito calorico, e non solo.
 >
@@ -83,7 +68,7 @@ La nostra umanizzazione delle cure oncologiche risiede anche in alcune specifich
 > Daniela e Miriam ci stanno dando una mano attraverso il servizio civile. Siamo tante.
 Nel solo 2016, da gennaio a dicembre, abbiamo effettuato più di 1.700 consulenze. C'è sempre tanto lavoro da fare e dividersi i compiti è fondamentale.
 
-<div class="wp-caption alignright" id="attachment_3004" style="width: 310px">[![prevenzione, salute, ricerca, ricerca scientifica](../uploads/2017/03/progetto_convivio_verona_2-300x235.jpg)](https://myhumus.com/wp-content/uploads/2017/03/progetto_convivio_verona_2.jpg)Una volontaria all'incontro di giardinaggio.
+![Una volontaria all'incontro di giardinaggio.](./progetto-convivio-verona-2.jpg)
 
 ### Convivio è rivolto sia ai pazienti, sia alle persone esterne?
 
