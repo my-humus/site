@@ -1,20 +1,19 @@
 ---
-title: 'L'architettura olistica di Gabriele Poggiali'
+title: "L'architettura olistica di Gabriele Poggiali"
 date: '2016-04-15T15:59:48+00:00'
-description: 'Gabriele Poggiali, l'architetto ravennate appassionato di Feng Shui, di arti marziali e di architettura olistica'
-featuredImage: ../uploads/2016/04/alvin-engler-150x150.jpg
+description: "Gabriele Poggiali, l'architetto ravennate appassionato di Feng Shui, di arti marziali e di architettura olistica"
+featuredImage: ./alvin-engler.jpg
 category:
     - Ecoprogetti
 tags:
-    - 'architettura olistica'
-    - 'feng shui'
+    - Architettura olistica
+    - Feng shui
 
 ---
 
 Non è trascorso molto tempo dal giorno in cui ho parlato di architettura olistica insieme a Giorgia, una delle mie migliori amiche.
 
-[![architettura olistica, feng shui](../uploads/2016/04/gabriele-poggiali-300x300.jpg)](https://myhumus.com/wp-content/uploads/2016/04/gabriele-poggiali.jpg)
-Gabriele Poggiali
+![Gabriele Poggiali](./gabriele-poggiali.jpg)
 
 È tramite lei che ho conosciuto [Gabriele Poggiali](http://www.gabrielepoggiali.com), architetto libero professionista appassionato di Feng Shui, di arti marziali e di tutto ciò che riguarda il benessere interiore.
 Un paio di domeniche fa, a Cesena, ho partecipato a una sua conferenza sull'**equilibrio casa-persona**. Gabriele è una persona molto gentile, e quando è stato il momento di rispondere ad alcune mie domande, non si è tirato indietro.
@@ -49,8 +48,7 @@ Un paio di domeniche fa, a Cesena, ho partecipato a una sua conferenza sull'**eq
 >
 > All'interno dello stesso ambiente posso effettuare analisi geobiologiche e studi col Ba Gua e con i cinque elementi.
 
-[![architettura olistica, feng shui](../uploads/2016/04/gabriele-poggiali-2.jpg)](https://myhumus.com/wp-content/uploads/2016/04/gabriele-poggiali-2.jpg)
-Avere il controllo di tutte le vie di entrata e di uscita di una stanza è uno degli insegnamenti del Feng Shui.
+![Avere il controllo di tutte le vie di entrata e di uscita di una stanza è uno degli insegnamenti del Feng Shui.](./gabriele-poggiali-2.jpg)
 
 ### Che cosa manca nelle case delle persone, secondo te?
 
@@ -70,8 +68,7 @@ Avere il controllo di tutte le vie di entrata e di uscita di una stanza è uno d
 >
 > Unendo questi e altri elementi, cerco di armonizzare l'abitazione per dare la risposta migliore alla domanda iniziale. È anche di questo che l'architettura olistica si occupa.
 
-[![architettura olistica, feng shui](../uploads/2016/04/gabriele-poggiali-1.jpg)](https://myhumus.com/wp-content/uploads/2016/04/gabriele-poggiali-1.jpg)
-Interni in armonia con la persona.
+![Interni in armonia con la persona.](./gabriele-poggiali-1.jpg)
 
 ### C'è qualche consiglio che vorresti dare ai lettori di MyHumus?
 
