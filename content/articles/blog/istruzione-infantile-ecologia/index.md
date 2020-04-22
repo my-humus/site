@@ -80,8 +80,6 @@ Ecco la mia intervista a Jonathan Lazar.
 >
 > Speriamo che questo interesse si traduca presto in qualcosa di concreto. Noi siamo pronti a sviluppare l'idea iniziale che abbiamo proposto.
 
-### Cosa vi attende nei prossimi mesi?
+### Un'ultima domanda prima di salutarci: cosa vi attende nei prossimi mesi?
 
 > Ognuno di noi sta portando avanti progetti indipendenti e, insieme, stiamo lavorando a nuove proposte per concorsi. Alcune di esse affrontano ancora il tema dell'educazione infantile.
-
-Bambini e sostenibilità: missione possibile! Leggi anche l'intervista a [Renzo](https://myhumus.com/giocattoli/) - l'inventore di giocattoli - e quella ad [Armadio Verde](https://myhumus.com/armadio-verde-swapping/)!
