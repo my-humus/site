@@ -109,6 +109,6 @@ L'ho intervistato davanti ad una bella fetta di torta in occasione della present
 
 ![Crackers al sesamo e pepe rosso.](./crackers-al-sesamo-e-pepe-rosso.jpg)
 
-> Foto di copertina: [Brunifia](http://www.flickr.com/photos/23769126@N07/5860057607) via [Photopin](http://photopin.com).
-> *Consulta gli altri [articoli di cucina](https://myhumus.com/category/cucina-2/ "MyHumus Cucina") di MyHumus!*
+Foto di copertina: [Brunifia](http://www.flickr.com/photos/23769126@N07/5860057607) via [Photopin](http://photopin.com).
+*Consulta gli altri [articoli di cucina](https://myhumus.com/category/cucina-2/ "MyHumus Cucina") di MyHumus!*
 
