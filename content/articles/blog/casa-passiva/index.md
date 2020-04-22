@@ -2,7 +2,7 @@
 title: 'Voglio una casa passiva!'
 date: '2016-02-25T12:38:59+00:00'
 description: 'Anna e Alberto hanno deciso di vivere in una casa passiva. La loro scelta, a giudicare dalle loro parole, è decisamente positiva.'
-featuredImage: ../uploads/2016/02/casa-passiva-150x150.jpg
+featuredImage: ./casa-passiva.jpg
 category:
     - Ecoprogetti
 tags:
