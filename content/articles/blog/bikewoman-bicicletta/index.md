@@ -2,7 +2,7 @@
 title: 'Promuovere il turismo in Italia con Bikewoman'
 date: '2014-09-11T00:00:01+00:00'
 description: 'Ci sono tanti modi per promuovere il turismo in Italia. Uno di questi è BikeWoman, un format la cui puntata-pilota è stata realizzata a Ravenna.'
-featuredImage: ../uploads/2014/11/nicoletta-iniziale-150x150.jpg
+featuredImage: ./nicoletta-mongardi.jpg
 category:
     - Mobilità sostenibile
 tags:
@@ -10,8 +10,6 @@ tags:
     - Green lifestyle
     - Sport
 ---
-
-[![Nicoletta Mongardi](../uploads/2014/11/nicoletta-iniziale-300x225.jpg)](https://myhumus.com/wp-content/uploads/2014/11/nicoletta-iniziale.jpg)Nicoletta Mongardi.
 
 La mia passione per la bici mi ha permesso di promuovere il turismo in Italia. Non lo avrei mai detto!
 
@@ -28,7 +26,9 @@ Scopo di ciascuna partecipante è di **promuovere il turismo in Italia illustran
 Come dicevo, a [Ravenna](http://www.turismo.ra.it/ita/) la troupe di Bright Srl ha girato la puntata-zero.
 Nei suoi quindici minuti di durata compaiono splendori storici come il [mausoleo di Teodorico](http://www.turismo.ra.it/ita/Scopri-il-territorio/Arte-e-cultura/Patrimonio-Unesco/Mausoleo-di-Teoderico) e quello di [Galla Placidia](http://www.turismo.ra.it/ita/Scopri-il-territorio/Arte-e-cultura/Patrimonio-Unesco/Mausoleo-di-Galla-Placidia), la [Basilica di San Vitale](http://www.turismo.ra.it/ita/Scopri-il-territorio/Arte-e-cultura/Patrimonio-Unesco/Basilica-di-San-Vitale), [Sant'Apollinare Nuovo](http://www.turismo.ra.it/ita/Scopri-il-territorio/Arte-e-cultura/Patrimonio-Unesco/Basilica-di-Sant'Apollinare-Nuovo), [Sant'Apollinare in Classe](http://www.turismo.ra.it/ita/Scopri-il-territorio/Arte-e-cultura/Patrimonio-Unesco/Basilica-di-Sant'Apollinare-in-Classe), la [tomba di Dante](http://www.turismo.ra.it/ita/Scopri-il-territorio/Arte-e-cultura/Monumenti-alla-memoria/Tomba-di-Dante-e-Quadrarco-di-Braccioforte), [Tamo](http://www.tamoravenna.it) e il Museo d'Arte della città di Ravenna ([Mar](http://www.mar.ra.it/ita/)).
 
-E poi ci siamo noi, baldanzose fanciulle in bicicletta.[![teodorico](../uploads/2014/09/teodorico-300x158.jpg)](https://myhumus.com/wp-content/uploads/2014/09/teodorico.jpg)
+E poi ci siamo noi, baldanzose fanciulle in bicicletta.
+
+![Teodorico](./teodorico.jpg)
 
 Di recente, ho avuto modo di parlare di BikeWoman insieme a Nicoletta.
 
@@ -42,7 +42,7 @@ Di recente, ho avuto modo di parlare di BikeWoman insieme a Nicoletta.
 
 ### Quali realtà sono coinvolte nella produzione di questo format?
 
-[![Le bici Scott utilizzate](../uploads/2014/09/bici-scott-300x180.jpg)](https://myhumus.com/wp-content/uploads/2014/09/bici-scott.jpg)Le bici Scott utilizzate.
+![Le bici Scott utilizzate](./bici-scott.jpg)
 
 > Le realtà coinvolte sono state Bright Srl e le aziende che hanno fornito le bici, l'abbigliamento tecnico e le attrezzature (Scott e Garmin). Poi, chiaramente, anche l'Ufficio Turismo del Comune di Ravenna e Ravenna 2019.
 >
@@ -54,7 +54,7 @@ Di recente, ho avuto modo di parlare di BikeWoman insieme a Nicoletta.
 >
 > Volevo persone con caratteristiche e personalità diverse. Ecco, quindi, la studentessa, la fotografa, la blogger, la poetessa, l'attrice di teatro, l'imprenditrice e la guida turistica.
 
-[![L'incontro con Laura Rampini, su hand bike](../uploads/2014/09/hand-bike-300x160.jpg)](https://myhumus.com/wp-content/uploads/2014/09/hand-bike.jpg)L'incontro con Laura Rampini su handbike.
+![L'incontro con Laura Rampini, su hand bike](./hand-bike.jpg)
 
 > Sono riuscita a far partecipare anche la simpaticissima Laura Rampini, prima e unica paracadutista paraplegica al mondo. In occasione della puntata-pilota, si è unita al gruppo delle ragazze utilizzando una handbike.
 >
