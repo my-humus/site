@@ -2,8 +2,7 @@
 title: 'LoveThePlanet: la rete per la sostenibilità'
 date: '2015-02-19T13:30:26+00:00'
 description: "LoveThePlanet è la prima rete di imprese italiana per l'implementazione e lo sviluppo di nuovi modelli decisionali a sostegno dell'ambiente."
-
-featuredImage: ../uploads/2015/02/LoveThePlanet-150x150.jpg
+featuredImage: ./love-the-planet-rete.jpg
 category:
     - Ecoprogetti
 tags:
@@ -19,7 +18,7 @@ Una rete di imprese sostenibili capace di avviare e di promuovere una moltitudin
 L'intervistato di questa settimana si chiama **Lorenzo Orlandi**, membro di LoveThePlanet e Amministratore di Locom, una società di Project Management coinvolta in green marketing e comunicazione strategica.
 LoveThePlanet, come MyHumus, è una realtà insediata a [Progetto Manifattura](http://www.progettomanifattura.it).
 
-![Lorenzo Orlandi](https://myhumus.com/wp-content/uploads/2015/02/dott_Lorenzo_Orlandi_web.jpg)
+![Lorenzo Orlandi](./lorenzo-orlandi.jpg)
 
 ### Dott. Orlandi, mi dica: quanto viene presa in considerazione la sostenibilità nel nostro Paese? C'è attenzione verso l'ambiente?
 
@@ -35,7 +34,7 @@ LoveThePlanet, come MyHumus, è una realtà insediata a [Progetto Manifattura](h
 >
 > Affianchiamo i clienti nell'operatività dei progetti offrendo loro un supporto con il minimo impiego di risorse interne dei clienti.
 
-![Il team di LoveThePlanet](https://myhumus.com/wp-content/uploads/2015/02/love-modif.jpg)
+![Il team di LoveThePlanet](./love.jpg)
 
 ### In che modo lavora LoveThePlanet? Lo definite una rete di imprese sostenibili: di cosa si tratta, esattamente?
 
