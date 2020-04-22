@@ -1,7 +1,7 @@
 ---
-title: 'Our Design Concept: Your Dream, Our Design.'
+title: 'Our Design Concept: restauro e riciclo creativo.'
 date: '2015-03-12T12:06:16+00:00'
-description: "Our Design Concept è una realtà che opera all'insegna del design, del restauro e del riciclo creativo."
+description: "Our Design Concept è una realtà che si occupa di restauro e riciclo creativo. Francesca e Angelo progettano e trasformano gli spazi grazie a un nuovo sguardo."
 featuredImage: ./our-design-concept.jpg
 category:
     - Ecoprogetti
@@ -12,64 +12,40 @@ tags:
     - Riciclo creativo
 ---
 
-Se c'è una cosa che mi è sempre mancata, quella è la manualità. Intendo dire che ho diversi oggetti in casa che mi piacerebbe risistemare e rimettere a nuovo, dando loro un aspetto ed un'energia differenti, ma ammetto che mi lascio facilmente scoraggiare dall'ardua impresa.
-
-Guardando i tutorial sembra sempre tutto molto semplice, ma nella realtà? YouTube pullula di creativi che hanno la capacità di realizzare oggetti incredibili utilizzando semplici bottiglie di plastica, centrini, tappi e vestiti.
-
-Per quanto mi riguarda, al momento ho riversato tutta la mia vena creativa su una povera scatola di cioccolatini: non che abbia creato chissà quale opera d'arte, diciamo che ho semplicemente ritagliato dei frammenti di giornale che ho poi provveduto ad appiccicare alla bell'e meglio sopra alla scatola (il tutto utilizzando qualche litro di Vinavil...).
-
-C'è da dire che questo "sporcarsi le mani" ha aumentato enormemente la mia autostima, donandomi una nuova consapevolezza: se credo in me stessa, anch'io posso ridare nuova vita alle cose! Con dubbi risultati, ok, ma sempre meglio di niente...
-
-Anche da piccina non ero una "paladina del fai da te". Amavo molto disegnare, cantare e correre (a piedi nudi) nel parco vicino a casa, ma nemmeno a quei tempi me la cavavo bene con forbici, cartoncini e quant'altro. Ricordo solo la mia passione per le mani impastate di Vinavil (che poi, una volta seccatosi, si levava via come una sorta di pellicola con impresse le impronte digitali).
-
-Bei tempi, quelli del Vinavil sulle dita!
+**Francesca Andreone** e **Angelo Perna** hanno un chiodo fisso: il restauro e riciclo creativo.
+Gli intervistati di questa settimana amano l'arte, la grafica e il design. Insieme formano il team di Our Design Concept, una realtà che opera nel mondo del restauro e riciclo, ma con stile.
 
 ![Angelo e Francesca](./angelo-francesca.jpg)
 
-Ma torniamo a noi e vediamo di fare il punto della situazione. Questa settimana parliamo di Francesca Andreone e di Angelo Perna, le due menti amanti dell'arte, della grafica e del design che costituiscono il team di Our Design Concept ([www.ourdesignconcept.com](http://www.ourdesignconcept.com/odc/)), una realtà che opera nel mondo del restauro e del riciclo creativo, ma con stile.
+Pensate che il design dei vostri arredi e oggetti di casa non rispecchi del tutto il vostro modo di essere? E allora *no panic*, personalizzatelo!
+Francesca e Angelo progettano da zero e trasformano gli spazi. Ecco che gli oggetti di casa, magicamente, assumono nuove funzionalità!
 
-Pensate che il design dei vostri arredi e oggetti di casa non rispecchi totalmente il vostro modo di essere? E allora *no panic*, personalizzatelo!
+### Ciao, ragazzi! Perché dar vita a una realtà di restauro e riciclo creativo?
 
-I ragazzi di Our Design Concept progettano da zero e trasformano i tuoi spazi. E gli oggetti di casa, magicamente, assumono nuove funzionalità.
+> Ciao, Anna! *Our Design Concept* nasce dalla passione per l'arte, per la creatività e per il fai da te. Sono questi gli elementi che hanno dato vita a questo progetto.
 
-### Ciao ragazzi! Com'è nata l'idea di dar vita ad Our Design Concept?
+### Il vostro motto è *Your Dream: Our Design*: in cosa consiste il vostro lavoro, e secondo quali fasi di sviluppo?
 
-> Ciao Anna! *Our Design Concept* è punto di arrivo e punto di partenza di un'idea nata per caso da un'amicizia mossa dalla passione per l'arte, per la creatività e per il fai da te. Sono questi gli elementi che hanno dato vita a questo progetto.
+> Vogliamo trasformare un'idea o un desiderio in realtà. Non vuole essere lo spot di una banca, è davvero il modo di rendere concreto quello che è solo un pensiero.
 
-### Il vostro motto è: "Your Dream: Our Design": in cosa consiste il vostro lavoro e in quali fasi si sviluppa?
+![Our Design Concept](./our-design-concept-1.jpg)
 
-> Questo motto parte dalla volontà di trasformare un'idea o desiderio in realtà.
-> 
-> ![Our Design Concept](./our-design-concept-1.jpg)
-> 
-> Non è lo spot di una banca, è davvero il modo di rendere concreto ciò che è solo un pensiero. Ciò avviene valutando i vecchi mobili con un occhio differente, pensandoli in una veste nuova o ricollocandoli in un ambiente diverso rispetto a quello originale.
-> 
-> Dalla progettazione alla realizzazione, ogni lavoro che ci viene commissionato si sviluppa in più fasi successive al sopralluogo: la prima è la fase di studio per comprendere quali siano i materiali e le tecniche migliori da utilizzare.
-> 
-> La seconda è la fase di elaborazione grafica per valutare la migliore tra le diverse possibiltà di realizzazione.
-> 
-> La terza è la fase di preparazione dei materiali e la quarta, infine, è quella di realizzazione del progetto. In ultimo, ma non certo in fatto di importanza, troviamo la messa in opera.
-> 
-> Questo modo di concepire ogni singolo progetto, realizzato sempre a mano, rende il nostro prodotto finale unico ed originale ogni volta.
+> **Valutiamo i vecchi mobili con un occhio differente**, pensandoli in una veste nuova o ricollocandoli in un ambiente diverso rispetto a quello originale. Ci occupiamo, per l'appunto, di restauro e riciclo creativo.
+>
+> Dalla progettazione alla realizzazione, ogni lavoro si sviluppa in più fasi successive al sopralluogo. C'è una fase di **studio** per comprendere i materiali e le tecniche migliori da utilizzare. Poi subentra la seconda fase, quella di **elaborazione grafica**, che valuta la miglior possibiltà di realizzazione. La terza è la fase di **preparazione dei materiali** e la quarta, infine, è quella di **realizzazione del progetto**. In ultimo, ma non certo in fatto di importanza, troviamo la **messa in opera**.
+>
+> Questo modo di concepire ogni progetto, realizzato sempre a mano, rende il nostro prodotto finale unico e originale.
 
-### Qual è il lato green di Our Design Concept? In che modo può essere definito eco-friendly?
+### Qual è il lato green del vostro restauro e riciclo creativo? In che modo può essere definito ecofriendly?
 
-> Il lato green riguarda sicuramente il restauro ed il riciclo di mobili fermi o abbandonati, inutilizzati o dimenticati. Usando legno già esistente e, quindi, non *ex novo*, si evitano grandi sprechi.
+> Il lato green riguarda sicuramente il restauro e riciclo creativo di **mobili fermi o abbandonati, inutilizzati o dimenticati**. Usando legno già esistente si evitano davvero molti sprechi.
 
 ### Su quali oggetti lavorate e in che modo li personalizzate?
 
 ![Our Design Concept](./our-design-concept-2.jpg)
 
-> Lavoriamo su qualsiasi tipo di oggetto che ci piace, personalizzandolo ogni volta in modi e con tecniche differenti in base alle esigenze o alle richieste.
+> **Lavoriamo su qualsiasi tipo di oggetto**, personalizzandolo ogni volta con tecniche diverse in base alle esigenze o alle richieste.
 
-### Visitando il vostro sito ho notato la cosiddetta "Porta magnetica": collaborate anche con l'artista francese Invader?
+### È giunto il momento di salutarci. Prima, però, vorrei conoscere i vostri programmi futuri. Quali saranno?
 
-> No, era un omaggio ad un artista all'avanguardia che a noi piace molto!.
-
-### Cosa bolle in pentola per il futuro?
-
-> Adesso puntiamo all'attivazione dello shopping on-line sul nostro sito internet, motivo per il quale stiamo lavorando molto su mobili e complementi di arredo.
-> 
-> Contestualmente stiamo portando avanti la progettazione e creazione di una nostra linea di prodotti di design. Incrociamo le dita!.
-
-*Interessato al tema del design e del riciclo? Allora leggi anche [AleDima Studio](https://myhumus.com/riciclo/), [RhOME for denCity](https://myhumus.com/rhome-for-dencity/), [RIUp](https://myhumus.com/riutilizzo-scarto/) e [Regenesi](https://myhumus.com/regenesi-green-design/)!*
+> Stiamo portando avanti la progettazione e la creazione di **una nostra linea di prodotti di design**. Incrociamo le dita!
