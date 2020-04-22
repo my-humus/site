@@ -1,9 +1,8 @@
 ---
-title: 'Uomo e paesaggio: l'arte di Giorgia Severi'
+title: "Uomo e paesaggio: l'arte di Giorgia Severi"
 date: '2017-02-09T12:55:18+00:00'
 description: 'Con le sue opere, Giorgia Severi mira alla cura e alla conservazione della natura, indagando Uomo e paesaggio.'
-
-featuredImage: ../uploads/2017/02/joshua_hibbert-150x150.jpg
+featuredImage: ./joshua-hibbert.jpg
 category:
     - Ecoprogetti
 tags:
@@ -23,7 +22,7 @@ C'è chi è andato dall'altra parte del globo, si è avventurato in mezzo alla n
 
 Attraverso questa nuova intervista, vi presento [Giorgia Severi](http://www.giorgiaseveri.com).
 
-<div class="wp-caption alignright" id="attachment_2943" style="width: 234px">[![australia, arte, giorgia severi](../uploads/2017/02/giorgia_severi_australia-224x300.jpg)](https://myhumus.com/wp-content/uploads/2017/02/giorgia_severi_australia.jpg)Giorgia sul West McDonald Range in Australia, 2016 (ph. Joanna Foster).
+![Giorgia sul West McDonald Range in Australia, 2016 (ph. Joanna Foster).](./giorgia-severi-australia.jpg)
 
 Nata nel 1984 a Ravenna, Giorgia ha iniziato la propria formazione iscrivendosi all'Istituto d'Arte per il Mosaico. Successivamente, all'[Accademia di Belle Arti](http://www.accademiabellearti.ra.it) ravennate.
 
@@ -53,12 +52,13 @@ Vale davvero la pena conoscerla.
 > Insieme al [Kayili Art Centre](http://kayili.com.au) abbiamo affrontato il tema della donna e del simbolo universale che la rappresenta. Lo abbiamo fatto grazie all'installazione di culle sospese fluttuanti realizzate dalle due diverse culture.
 >
 > Le artiste aborigene hanno lavorato alla forma del colomoon, io a quella della culla in vimini.
-
-<div class="wp-caption aligncenter" id="attachment_2926" style="width: 1010px">[![imprinting del paesaggio, archiviazione del paesaggio, arte, conservazione](../uploads/2017/02/giorgia_severi_art.jpg)](https://myhumus.com/wp-content/uploads/2017/02/giorgia_severi_art.jpg)Kaparliku, installazione, 56. Biennale di Venezia, Padiglione "Country", Kayili Art Centre e Giorgia Severi, 2015.
-
+>
+> ![Kaparliku, installazione, 56. Biennale di Venezia, Padiglione "Country", Kayili Art Centre e Giorgia Severi, 2015.](./giorgia-severi-art.jpg)
+>
 > A ciò si sono aggiunte 57 calcografie di piante arse che rappresentano il territorio antropico del deserto del Gipson Ngaanyatjarra. In quella zona, come in altre d'Australia, vengono ancora praticati gli incendi controllati per la rigenerazione del suolo. Quello è un paesaggio raro che va scomparendo, per questo ho voluto immortalarlo.
 
-<div class="et_pb_slider et_pb_slider_fullwidth_off et_pb_gallery_post_type"><div class="et_pb_slides"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2017/02/tjampi15.jpg);"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2017/02/tjampi2.jpg);">  
+https://myhumus.com/wp-content/uploads/2017/02/tjampi15.jpg
+https://myhumus.com/wp-content/uploads/2017/02/tjampi2.jpg 
 
 ### Uomo e paesaggio: quanto ti piace coinvolgere lo spettatore?
 
@@ -82,7 +82,7 @@ Vale davvero la pena conoscerla.
 >
 > Credo che questa **storia scritta nella roccia** debba essere portata all'attenzione di tutti noi che, ora, viviamo nel cosiddetto *Antropocene"*.
 
-<div class="wp-caption aligncenter" id="attachment_2930" style="width: 1110px">[![imprinting del paesaggio, archiviazione del paesaggio, arte, conservazione](../uploads/2017/02/ghiacciaio_presena_rilievo.jpg)](https://myhumus.com/wp-content/uploads/2017/02/ghiacciaio_presena_rilievo.jpg)Giorgia Severi, Ghiacciaio Presena (Blocco Presanella / Adamello), dittico, calcografia del ritiro del ghiacciaio, 2016, grafite, carbone e pigmenti su carta, 1×3 mt. Courtesy e foto credits dell'artista e Renata Fabbri Gallery Milano.
+![Giorgia Severi, Ghiacciaio Presena (Blocco Presanella / Adamello), dittico, calcografia del ritiro del ghiacciaio, 2016, grafite, carbone e pigmenti su carta, 1x3 mt. Courtesy e foto credits dell'artista e Renata Fabbri Gallery Milano.](./ghiacciaio-presena-rilievo.jpg)
 
 ### Vorrei che mi spiegassi meglio il concetto: che cosa si archivia di un paesaggio?
 
@@ -100,7 +100,7 @@ Vale davvero la pena conoscerla.
 
 ### È stata un'esperienza emozionante?
 
-[![Giorgia Severi, "Albedo", installazione, 2016, tessuto geotessile, 5x2 mt. Courtesy e foto credits dell'artista e Renata Fabbri Gallery Milano. Particolare della mostra "Beyond Landscape", Galleria Renata Fabbri, Milano.](../uploads/2017/02/imprinting-300x275.jpg)](https://myhumus.com/wp-content/uploads/2017/02/imprinting.jpg)Giorgia Severi, "Albedo", installazione, 2016, tessuto geotessile, 5×2 mt. Courtesy e foto credits dell'artista e Renata Fabbri Gallery Milano. Particolare della mostra "Beyond Landscape", Galleria Renata Fabbri, Milano.
+[![Giorgia Severi, "Albedo", installazione, 2016, tessuto geotessile, 5x2 mt. Courtesy e foto credits dell'artista e Renata Fabbri Gallery Milano. Particolare della mostra "Beyond Landscape", Galleria Renata Fabbri, Milano.](./imprinting.jpg)
 
 > Sì, molto. Sul ghiacciaio c'è la controversa corsa ai ripari. La lingua bianca è ricoperta di telone geotessile per rallentare il discioglimento del ghiaccio. Questo è stato un altro fattore antropico al quale ho dovuto prestare molta attenzione.
 >
