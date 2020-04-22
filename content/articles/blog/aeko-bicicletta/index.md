@@ -12,7 +12,7 @@ tags:
     - Made in Italy
 ---
 
-> "Anna, ho conosciuto un artigiano di biciclette Made in Italy che ti devo assolutamente presentare!
+> Anna, ho conosciuto un artigiano di biciclette Made in Italy che ti devo assolutamente presentare!
 
 Ha esoridito così, qualche tempo fa, un mio carissimo amico.
 
