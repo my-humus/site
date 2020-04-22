@@ -43,7 +43,7 @@ E allora viiiiiiaaaa, alla volta di via Carlo Pisacane 2 a Lugo di Romagna, in p
 >
 > Anch'io, in sella alla mia bici, sento di vincere lo spazio e il tempo!
 
-![Vecchie bici che tornano a vivere...](../vecchie-bici.jpg)
+![Vecchie bici che tornano a vivere...](./vecchie-bici.jpg)
 
 ### Perché hai deciso di aprire un'officina e di realizzare bici fatte a mano in Romagna?
 

@@ -67,7 +67,7 @@ Ecco come si presenta il Nero di Voghiera.
 >
 > In linea di massima, impieghiamo due mesi di lavoro per ultimare il prodotto. Lo lasciamo maturare all'interno del fermentatore saggiandolo solo ogni tanto.
 
-![Nero Fermento - Aglio Nero DOP](../nero-fermento-aglio-nero-dop.jpg)
+![Nero Fermento - Aglio Nero DOP](./nero-fermento-aglio-nero-dop.jpg)
 
 
 ### Cosa si ottiene dopo due mesi?

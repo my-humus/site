@@ -64,7 +64,7 @@ Che ne dite? Vogliamo conoscerla meglio?
 >
 > I miei procedimenti di autoproduzione sono molto semplici.
 
-![autoproduzione in casa, autoproduzione cosmetici, autoproduzione alimentare](../autoproduzione-lucia-cuffaro.jpg)
+![autoproduzione in casa, autoproduzione cosmetici, autoproduzione alimentare](./autoproduzione-lucia-cuffaro.jpg)
 
 ### Quali e quanti ingredienti utilizzi?
 

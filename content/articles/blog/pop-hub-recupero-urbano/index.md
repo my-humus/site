@@ -23,7 +23,9 @@ Bene, la risposta a questa domanda è "Sì". E adesso vi spiego in che modo.
 
 Prima, però, facciamo un piccolo passo indietro per acquisire alcune informazioni importanti: dovete sapere che il consumo giornaliero di suolo previsto per i prossimi 20 anni, in Italia, è di oltre 75 ettari al giorno e l'urbanizzazione pro-capite è pari a 230 mq per abitante. Nel nostro Paese, mediamente, non si può tracciare un cerchio del diametro di 10 km senza intercettare un nucleo urbano (fonte: [WWF Campagna RiutilizziAMO l'Italia](http://www.wwf.it/404error.cfm)).
 
-Nel 2012, in 15 regioni italiane è stato superato il 5% di suolo consumato, con le percentuali più elevate in Lombardia e in Veneto (oltre il 10%) e in Emilia Romagna, Lazio, Campania, Puglia e Sicilia dove i valori sono compresi tra l'8% e il 10% (fonte: ISPRA, 2014).[![](../uploads/2014/11/logo-pop.jpg)](https://myhumus.com/wp-content/uploads/2014/11/logo-pop.jpg)
+Nel 2012, in 15 regioni italiane è stato superato il 5% di suolo consumato, con le percentuali più elevate in Lombardia e in Veneto (oltre il 10%) e in Emilia Romagna, Lazio, Campania, Puglia e Sicilia dove i valori sono compresi tra l'8% e il 10% (fonte: ISPRA, 2014).
+
+![Pop Hub](./logo-pop.jpg)
 
 E qui subentra [Pop Hub](http://www.pophub.it), uno strumento tecnico che focalizza l'attenzione sugli spazi abbandonati e sottoutilizzati per favorire il loro recupero.
 

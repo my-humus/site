@@ -24,7 +24,7 @@ E da questa romantica immagine del buratello scaturisce l'intenzione di produrre
 
 E invece no: in *anglo-romagnolo*. Che è ben diverso.
 
-![Stefano Triossi](../stefano-triossi.jpg)
+![Stefano Triossi](./stefano-triossi.jpg)
 
 L'anglo-romagnolo è un inglese maccheronico semplice da capire, diretto e spiritoso. Il marchio stesso, Missaid, in inglese significa "detto male" e anticipa il concetto.
 
