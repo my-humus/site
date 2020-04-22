@@ -68,14 +68,14 @@ Qualche giorno fa ho visitato il laboratorio di Paolo insieme al mio amico Andre
 >
 > Potrà sembrare strano ma ancora oggi, in nazioni come gli Stati Uniti o il Giappone, esistono piccole realtà che realizzano a mano degli ottimi prodotti. Certo, bisogna saper cercare, e in questo la tecnologia aiuta parecchio!
 >
-Per quanto riguarda il tempo che impiego per realizzare una delle mie biciclette Made in Italy, beh, ti dirò che è una bella domanda.
+> Per quanto riguarda il tempo che impiego per realizzare una delle mie biciclette Made in Italy, beh, ti dirò che è una bella domanda.
 
 ### In che senso, Paolo? Quanto tempo ci metti a realizzarne una?
 
 > Se non potrò essere breve, cercherò almeno di essere chiaro.
-
-![Bici](./bici-2.jpg)
-
+>
+> ![Bici](./bici-2.jpg)
+>
 > Tutto dipende da cosa voglia il cliente e dal fatto che scelga qualcosa che somigli o meno a realizzazioni già fatte. O al fatto che desideri, invece, qualcosa di completamente nuovo.
 >
 > Il mio portfolio raccoglie alcuni esempi significativi. Il mio sito, inoltre, offre una panoramica allargata: se si parte da un prodotto già realizzato, possono servire anche tre o quattro settimane per mettere in strada quanto desiderato del cliente.
