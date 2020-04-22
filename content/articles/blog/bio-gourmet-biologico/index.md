@@ -2,7 +2,7 @@
 title: 'Promuovere il biologico in Emilia-Romagna: Bio Gourmet!'
 date: '2015-03-19T09:49:40+00:00'
 description: "Una rete di locali punta a promuovere il biologico in Emilia-Romagna proponendo un menu certificato."
-featuredImage: ../uploads/2015/03/bio-gourmet-foto-banner-150x150.jpg
+featuredImage: ./bio-gourmet.jpg
 category:
     - Cucina naturale
 tags:
@@ -13,9 +13,10 @@ tags:
 
 
 Promuovere il biologico in Emilia-Romagna attraverso una proposta basata su ingredienti certificati: non male, come idea!
+
 A questo proposito, in Emilia-Romagna ha preso il via un'iniziativa che vuole avvicinare le persone all'alimentazione di qualità e al rispetto per l'ambiente.
 
-[![Marco Pasi](../uploads/2015/02/IMG_1246-225x300.jpg)](https://myhumus.com/wp-content/uploads/2015/02/IMG_1246.jpg)Marco Pasi.
+![Marco Pasi](./marco-pasi.jpg)
 
 Questa settimana ne ho parlato insieme al Dott. Marco Pasi, responsabile del progetto [Bio Gourmet](http://www.tipicoatavola.it/content/biogourmet).
 
@@ -33,7 +34,7 @@ Io sono curiosa di saperne di più, e voi?
 >
 > Nell'enogastronomia, il biologico rappresenta un fenomeno economico e sociale di grande rilevanza. È importante avere una buona offerta di prodotti, ma anche di luoghi in cui conoscerli e apprezzarli.
 
-[![Logo Bio Gourmet](../uploads/2015/02/biogourmet_logo-2-300x232.jpg)](https://myhumus.com/wp-content/uploads/2015/02/biogourmet_logo-2.jpg)
+![Bio Gourmet](./biogourmet-logo.jpg)
 
 ### Come funziona Bio Gourmet e in che modo un locale può aderire al progetto per promuovere il biologico in Emilia-Romagna?
 
@@ -41,7 +42,7 @@ Io sono curiosa di saperne di più, e voi?
 >
 > Il progetto vuole **contribuire allo sviluppo di comportamenti virtuosi e consapevoli delle imprese**, facendo attenzione tanto ai prodotti quanto alle procedure. Intende promuovere il biologico in Emilia-Romagna.
 >
-Nel disciplinare che gli aderenti devono sottoscrivere e rispettare, infatti, sono previste le modalità da utilizzare per la gestione dei prodotti, sia nella fase di immagazzinamento e di lavorazione dei piatti e delle ricette che in quella di comunicazione alla clientela, compreso l'obbligo di mettere a disposizione della clientela gli elenchi dei fornitori o dei prodotti biologici.
+> Nel disciplinare che gli aderenti devono sottoscrivere e rispettare, infatti, sono previste le modalità da utilizzare per la gestione dei prodotti, sia nella fase di immagazzinamento e di lavorazione dei piatti e delle ricette che in quella di comunicazione alla clientela, compreso l'obbligo di mettere a disposizione della clientela gli elenchi dei fornitori o dei prodotti biologici.
 >
 > Le imprese interessate a Bio Gourmet possono contattare direttamente i responsabili [Fiepet Confesercenti](http://www.fiepet.it) della propria provincia. Riceveranno tutte le informazioni necessarie. In alternativa, possono scrivere a *redazione@catconfesercenti.it* o *redazione@ecobio.bo.it*.
 
@@ -51,11 +52,11 @@ Nel disciplinare che gli aderenti devono sottoscrivere e rispettare, infatti, so
 
 ### Bio Gourmet fa riferimento solo all'Emilia-Romagna?
 
-> "Sì, al momento è un progetto che riguarda solo l'Emilia-Romagna.
+> Sì, al momento è un progetto che riguarda solo l'Emilia-Romagna.
 
 ### Che cosa manca, secondo Lei, nel panorama gastronomico locale? Trova che l'offerta legata al bio sia ancora scarsa?
 
-<div class="wp-caption alignright" id="attachment_1211" style="width: 314px">[![Il Ristorante Bistrot "Zenzero"](../uploads/2015/02/Ristorante-Bistrot-Zenzero-300x261.jpg)](https://myhumus.com/wp-content/uploads/2015/02/Ristorante-Bistrot-Zenzero.jpg)Il Ristorante Bistrot "Zenzero" a Bologna, uno dei locali che hanno aderito al progetto.
+![Il Ristorante Bistrot "Zenzero" a Bologna, uno dei locali che hanno aderito al progetto.](./zenzero.jpg)
 
 > Sono ancora poche le aziende in grado di rispettare i criteri rigidi che l'utilizzo del prodotto bio prevede. Ma il numero delle imprese che vuole cimentarcisi, e promuovere il biologico in Emilia-Romagna, è in crescita.
 
