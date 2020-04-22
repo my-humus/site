@@ -2,7 +2,7 @@
 title: 'Sada Bike: la bici che si piega'
 date: '2014-11-26T00:00:42+00:00'
 description: 'La Sada Bike è un inno alla riduzione dei pesi e degli ingombri.'
-featuredImage: ../uploads/2014/11/la-bici-che-si-piega-sadabike-150x150.jpg
+featuredImage: ./la-bici-che-si-piega-sadabike.jpg
 category:
     - Mobilità sostenibile
 tags:
@@ -13,7 +13,7 @@ tags:
 ---
 
 
-[![Gianluca Sada](../uploads/2014/12/sada-300x217.jpg)](https://myhumus.com/wp-content/uploads/2014/12/sada.jpg)Gianluca Sada.
+![Gianluca Sada](./sada.jpg)
 
 E' agosto, finalmente è il momento di andare in vacanza.
 
@@ -41,13 +41,13 @@ Nato a Battipaglia, in provincia di Salerno, Gianluca si è laureato in Ingegner
 
 In questi anni, Gianluca ha impiegato le proprie forze per mettere a punto il prototipo di una bicicletta pieghevole, priva di raggi e super leggera.
 
-[![La Sadabike (Ph. R.Bucchino - Studio Frozenlight)](../uploads/2014/12/sadabike-300x199.jpg)](https://myhumus.com/wp-content/uploads/2014/12/sadabike.jpg)La Sadabike (Ph. R.Bucchino - Studio Frozenlight).
+![La Sadabike (Ph. R.Bucchino - Studio Frozenlight)](./sadabike.jpg)
 
 Il suo progetto si chiama "Sada Bike" ed è un inno alla riduzione dei pesi e degli ingombri (visita il sito [www.sadabike.com](http://www.sadabike.it/en)).
 
 Questa bicicletta dal design innovativo ha il comfort e l'ergonomia di seduta di una normale citybike con ruote da 26", ma presenta il meraviglioso valore aggiunto del potersi piegare: il sistema di piegatura presenta un fulcro centrale attorno al quale ruotano le parti anteriori e posteriori della struttura, consentendo di chiudere l'intero telaio fino a giungere ad un ingombro pari a quello di un normalissimo ombrello.
 
-[![Minimo ingombro (Ph. R.Bucchino - Studio Frozenlight)](../uploads/2014/12/ombrello-200x300.jpg)](https://myhumus.com/wp-content/uploads/2014/12/ombrello.jpg)Minimo ingombro (Ph. R.Bucchino - Studio Frozenlight).
+![Minimo ingombro (Ph. R.Bucchino - Studio Frozenlight)](./ombrello.jpg)
 
 La bici si piega senza problemi dopo aver divincolato il cerchio anteriore attraverso un solo movimento: portando in avanti l'asse del sellino, la bici si piega in pochi secondi con un sistema di guide e di ruote dentate.
 
@@ -63,7 +63,7 @@ A marzo usciranno i prototipi pre-serie e, nell'estate 2015, si darà il via all
 
 La maggior percentuale di vendite sarà effettuata attraverso il web.
 
-[![Ph. R.Bucchino (Studio Frozenlight)](../uploads/2014/12/stanga-300x200.jpg)](https://myhumus.com/wp-content/uploads/2014/12/stanga.jpg)Ph. R.Bucchino (Studio Frozenlight).
+![Ph. R.Bucchino (Studio Frozenlight)](./stanga.jpg)
 
 Gianluca ha un socio, l'ingegnere Giovanni Tonno, titolare della [Fomt Spa](http://www.fomt.it): questa azienda meccanica torinese opera nel settore dell'automotive, è alla terza generazione e, fra i propri clienti, vanta diversi noti brand automobilistici.
 
