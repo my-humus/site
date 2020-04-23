@@ -38,12 +38,12 @@ A marzo usciranno i prototipi pre-serie. In futuro, invece, inizierà la vendita
 
 ![Ph. R.Bucchino (Studio Frozenlight)](./stanga.jpg)
 
-Gianluca, in tutto ciò, ha un socio: l'ingegnere **Giovanni Tonno**, titolare della [Fomt Spa](http://www.fomt.it).
+Gianluca, in tutto ciò, ha un socio: è l'ingegnere **Giovanni Tonno**, titolare della [Fomt Spa](http://www.fomt.it).
 Questa azienda meccanica torinese opera nel settore dell'automotive, è alla terza generazione e, fra i propri clienti, vanta diversi noti marchi automobilistici.
 
-La società che Gianluca sta aprendo per la sua bici pieghevole leggera sarà una start-up innovativa che verrà incubata in [I3P](http://www.i3p.it).
+La società che Gianluca sta aprendo per la sua bici pieghevole leggera sarà una start-up innovativa inserita all'interno di [I3P](http://www.i3p.it).
 
-Che Gianluca, in tutto ciò, ci abbia visto giusto lo dimostrano i fatti: il progetto di questa bici pieghevole leggera è stato insignito del *Premio Idea-To 2010*. È stato anche selezionato fra le 10 migliori start-up del 2014.
-Gianluca, oltretutto, è stato scelto fra i 200 giovani talenti d'Italia al *Festival Giovani Talenti*.
+Che Gianluca, in tutto ciò, ci abbia visto giusto, lo dimostrano i fatti: il progetto di questa bici pieghevole leggera è stato insignito del *Premio Idea-To 2010*. È stato anche selezionato fra le 10 migliori start-up del 2014.
+Gianluca, oltretutto, rientra fra i 200 giovani talenti d'Italia secondo il *Festival Giovani Talenti*.
 
-Siete d'accordo con me sul fatto che in Italia ci siano menti straordinarie?
+Che altro dire, in Italia ci sono giovani innovatori straordinari! Siete d'accordo con me, vero?
