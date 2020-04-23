@@ -1,7 +1,7 @@
 ---
-title: 'Regenesi, promotore del green design'
+title: 'La moda ecosostenibile di Regenesi'
 date: '2014-10-02T00:00:58+00:00'
-description: ''
+description: 'Regenesi è un brand di moda ecosostenibile che produce accessori per la casa, per l'ufficio e per la persona. Riutilizza materiali senza escludere il gusto.'
 featuredImage: ./maria-silvia-pazzi.jpg
 category:
     - Ecoprogetti
@@ -13,91 +13,61 @@ tags:
     - Sostenibilità
 ---
 
-*"Una donna in carriera"* è una commedia del 1988 che narra l'ascesa al successo della bionda segretaria Tess McGill, interpretata da una giovane Melanie Griffith dai capelli piuttosto vistosi.
+A Ravenna c'è un fashion brand di moda ecosostenibile che, non ho dubbi, farà molta strada: [Regenesi](http://regenesi.com).
+Il team di questo marchio è composto da persone lungimiranti che perseverano, sperimentano senza paura e osano.
+E se *osare* va di pari passo con parole come *coscienza ecologica*, *non convenzionalità* e *aggregazione*, il top è veramente garantito.
+Regenesi è un marchio di accessori per la casa, per l'ufficio e per la persona con un'anima eco. Perché riutilizzare non significa per forza escludere gusto e bellezza!
 
-È una di quelle pellicole evergreen (tanto per stare in tema con il blog) che, ogni anno, vengono proposte dai canali televisivi insieme ad altri intramontabili film come, ad esempio, *"Una poltrona per due"* e l'italianissimo *"Bianco, rosso e Verdone"*.
+Il sito di Regenesi riporta una citazione bellissima del proprio CEO:
 
-La giovane Tess incarna l'ideale di donna intraprendente dai sani principi, con tutte le carte in regola per sfondare e focalizzata su una realizzazione personale basata su leggi meritocratiche.
-
-Ho sempre ammirato tantissimo le persone *"che ce la fanno"*: sono quelle che devono il loro successo esclusivamente alle proprie capacità personali, alle proprie competenze, e che, semmai un giorno dovessero alzare le braccia in segno di vittoria, non dovrebbero ringraziare nessuno se non loro stesse.
-
-Amo chi persevera, chi osa, chi sperimenta senza avere paura di fallire, chi sa mettersi in gioco, chi non teme il giudizio e chi sa trasformare le invidie altrui in una feroce spinta a crederci ancora di più; amo i sognatori incalliti, i "pazzi" che hanno cervello, i coraggiosi, i temerari, i lungimiranti.
-
-E quando il saper osare va di pari passo con parole quali "coscienza ecologica", "non convenzionalità" ed "aggregazione"...beh, come va di moda dire adesso, è il top.
-
-*"Ho avuto un sogno ed ho aggregato un gruppo di persone in grado di aiutarmi a realizzarlo. Ho unito varie competenze e creato un luogo ed il contesto per farle incontrare. È nata, così, un'azienda non convenzionale capace di dare nuova vita ai materiali, creando prodotti unici grazie al network di eccellenze creative e produttive"*.
+*"Ho avuto un sogno e ho aggregato un gruppo di persone in grado di aiutarmi a realizzarlo. Ho unito varie competenze e creato un luogo e il contesto in cui farle incontrare. È nata un'azienda non convenzionale capace di dare nuova vita ai materiali, creando prodotti unici grazie al network di eccellenze creative e produttive."*
 
 ![Regenesi](./logo-regenesi.jpg)
 
-Metti un bel caschetto di capelli neri, una buona dose di determinazione e tanto talento, poi aggiungi la frase che hai appena letto: molto bene, abbiamo già un'idea piuttosto precisa di Maria Silvia Pazzi, uno dei soci fondatori di Regenesi ([www.regenesi.com](http://regenesi.com)).
+Metti un bel caschetto di capelli neri, aggiungi tanta determinazione e altrettanto talento: ecco un primo identikit di Maria Silvia Pazzi, CEO di Regenesi.
 
-Regenesi è un marchio di accessori per la casa, per l'ufficio e per la persona con un'anima eco: perché riutilizzare non significa per forza escludere gusto e bellezza.
+### Ciao, Maria Silvia! Com'è nata l'idea di Regenesi e di una moda ecosostenibile?
 
-E questo, Maria Silvia, lo sa molto bene.
+> Ciao, Anna! Regenesi è nata da un percorso tutto mio. Sebbene volessi diventare architetto, mi sono iscritta a Economia e a un master in Gestione d'Impresa. Ho lavorato come consulente per alcune imprese sognando di essere un'imprenditrice in prima linea.
+>
+> Regenesi è nata da un'**evoluzione personale** e da una **passione per la moda**, per il **design** e per il **Made in Italy**.
+>
+> I sei soci che hanno investito in questo marchio sono professionisti con competenze differenti. Le altre figure offrono un insieme di consulenze e di professionalità indispensabili a rendere unico il nostro brand di moda ecosostenibile.
 
-### Ciao, Maria Silvia. Benvenuta in MyHumus! Quando e come nasce Regenesi?
+### Se dico *Regenesi*, di cosa sto parlando?
 
-> Ciao Anna! Dal notaio, ufficialmente, nasce nel 2008, ma il battesimo è in occasione del Fuorisalone del 2009.
-> 
-> Regenesi nasce da un percorso tutto mio: inizialmente, da ragazza, volevo studiare architettura, poi, però, mi sono iscritta ad economia e ad un master di gestione d'impresa. Dopo gli studi, ho lavorato in qualità di consulente per altre imprese...ma sognando sempre di essere un'imprenditrice in prima linea.
-> 
-> Regenesi nasce da un'evoluzione personale e da una passione di base per la moda, per il design, per il Made in Italy e per i prodotti italiani.
-> 
-> I 6 soci (me compresa) che hanno investito in questo marchio sono professionisti con competenze differenti (manager, imprenditori, avvocati e architetti), mentre le altre figure (più di 100 persone) compongono un vasto corollario di consulenze e di professionalità indispensabili a rendere unico Regenesi.
-
-### Se dico "Regenesi" parlo di...?
-
-> Regenesi è un'azienda che propone il Made in Italy secondo nuove codifiche, seguendo un approccio diverso rispetto a quello classico italiano. È un progetto ambizioso che punta ai mercati di tutto il mondo.
-> 
-> Abbiamo un sito che è anche un eCommerce, poi intratteniamo collaborazioni con diversi concept stores, nonché con show-room temporanei gestiti direttamente da noi, sia a Bologna che a Milano.
-> 
-> Per quanto riguarda la moda, esponiamo al [White Show](http://www.whiteshow.it) di Milano e presso [Maison&amp;Objet](http://www.maison-objet.com) di Parigi.
+> Regenesi propone il **Made in Italy secondo nuove codifiche**, seguendo un approccio diverso rispetto a quello classico italiano. È un progetto ambizioso che **punta ai mercati di tutto il mondo**.
+>
+> Abbiamo un sito che è anche un **e-commerce**. Intratteniamo collaborazioni con diversi **concept stores** e con **showroom temporanei** gestiti direttamente da noi, a Bologna e a Milano.
+>
+> Per quanto riguarda la nostra moda ecosostenibile, esponiamo al [White Show](http://www.whiteshow.it) di Milano e alla [Maison&Objet](http://www.maison-objet.com) di Parigi.
 
 ![Bag](./bag.jpg)
 
-### Su quali settori verte la vostra creatività?
+### Su quali settori verte la creatività di Regenesi?
 
-> Ci interessiamo agli accessori per la casa, per l'ufficio e per la persona.
-> 
-> Molti dei nostri prodotti sono flessibili, nel senso che sono "intelligenti" perché possono avere diverse funzionalità ed adattabilità.
-> 
-> Trovo che ciò sia un forte valore aggiunto.
+> Ci interessiamo agli accessori per la casa, per l'ufficio e per la persona. Molti dei nostri prodotti sono flessibili, nel senso che sono 'intelligenti' perché possono avere diverse funzionalità e adattabilità. Trovo che questo sia un forte valore aggiunto.
 
 ![Bag](./bag.jpg)
 
-### Da dove provengono le materie prime? E quali materiali privilegiate?
+### Da dove provengono le materie prime? E quali materiali privilegi per la tua moda ecosostenibile?
 
-> Utilizziamo una moltitudine di materiali: due tipologie di plastica, poi l'alluminio, la carta, il cartone, il vetro e molti altri materiali in fase di sperimentazione che stimolano continuamente l'interesse e la creatività dei nostri designer, i quali, in questo modo, imparano a conoscere materiali nuovi con cui non hanno mai lavorato. E questo, per noi, è un aspetto importante: la sperimentazione è al vertice delle attività di Regenesi.
-> 
-> Lavoriamo anche la pelle: acquistata in Germania per via delle maggiori certezze sulla provenienza e sulle metodologie di riciclo e di rigenerazione, proviene da una concia vegetale, a differenza di Paesi come il nostro nei quali, invece, è a base di cromo, ed in cui i processi di colorazione utilizzano pigmenti chimici anziché naturali.
-> 
-> La pelle viene reimpastata con caucciù proveniente da piantagioni controllate, poi viene colorata con farina di castagne.
-> 
-> Il colore, infine, viene fissato attraverso sali minerali naturali.
+> Utilizziamo moltissimi materiali: plastica, alluminio, arta, cartone, vetro e molti altri materiali in fase di sperimentazione che stimolano l'interesse e la creatività dei nostri designer. La sperimentazione è al vertice delle attività di Regenesi.
+>
+> Lavoriamo anche la pelle: acquistata in Germania per via delle maggiori certezze sulla provenienza e sulle modalità di riciclo e di rigenerazione, proviene da una concia vegetale. In Italia, invece, è a base di cromo, e i processi di colorazione usano pigmenti chimici anziché naturali. La pelle viene reimpastata con caucciù proveniente da piantagioni controllate, poi viene colorata con farina di castagne. Il colore viene fissato grazie a sali minerali naturali.
 
 ### Quali nomi importanti collaborano con Regenesi?
 
-> Abbiamo diversi designer che lavorano con noi da sempre: alcuni sono italiani (Denis Santachiara, Giulio Iacchetti e Marco Ferreri), mentre altri sono creativi stranieri che vivono o che si sono formati nel nostro Paese (Matali Crasset, Setsu&Shinobu Ito e Kaisli Kiuru).
-
-### Dove si trova la vostra sede?
-
-> Diciamo che la nostra vera sede è il sito: l'unico luogo in cui, virtualmente, ci incontriamo tutti.
-> 
-> Poi abbiamo la sede direzionale a Bologna, quella operativa a Ravenna e quella logistica a Faenza.
+> Abbiamo diversi designer che lavorano alla nostra moda ecosostenibile. Alcuni, come Denis Santachiara, Giulio Iacchetti e Marco Ferreri, sono italiani. Altri, invece, sono creativi stranieri che vivono o che si sono formati nel nostro Paese. Mi riferisco, ad esempio, a Matali Crasset, Setsu&Shinobu Ito e Kaisli Kiuru.
 
 ![Lampshade](./lampshade.jpg)
 
-### Cosa bolle in pentola per il futuro?
+### Prima di passare ai saluti, ti chiedo: cosa bolle in pentola per il futuro dell'azienda?
 
 > Bolle sempre qualcosa in pentola, in Regenesi!
-> 
-> In occasione del Fuorisalone dello scorso aprile, abbiamo presentato la partnership con il marchio [Dainese](http://www.dainese.com/it_it/): nei rispettivi cataloghi, a partire da novembre, avremo una serie di nuovi prodotti, recuperati e totalmente reinventati, che sono stati realizzati dalle tute dei piloti di MotoGP.
-> 
-> Questi articoli saranno in vendita nei prossimi mesi presso i nostri e i loro canali.
-> 
-> Il bello di questa partnership è che le persone capiscono la storia e l'anima di questi prodotti che, uno ad uno, comunicano la loro storia precedente.
-> 
-> Sono tutti oggetti di uso comune come, ad esempio, cover per i cellulari e portachiavi, ma impreziositi dalla passione e dall'unicità.
-> 
+>
+> In occasione del Fuorisalone dello scorso aprile, abbiamo presentato la partnership con [Dainese](http://www.dainese.com/it_it/). Sui rispettivi cataloghi avremo nuovi prodotti, recuperati e totalmente reinventati, realizzati dalle tute dei piloti di MotoGP. Questi articoli saranno in vendita nei prossimi mesi sui nostri e i loro canali.
+>
+> Il bello di questa partnership è che le persone capiscono la storia e l'anima di questi prodotti. Tutti comunicano la loro storia precedente. Sono oggetti di uso comune come, ad esempio, cover per i cellulari e portachiavi, ma impreziositi dalla passione e dall'unicità di una moda ecosostenibile.
+>
 > Stiamo anche valutando il Nord Europa attraverso una possibile partnership con base a Copenaghen.
-
