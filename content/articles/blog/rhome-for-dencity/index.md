@@ -51,7 +51,7 @@ L'intervistato di questa settimana si chiama Nicola Moscheni, ha 26 anni studia 
 
 > Per la sperimentazione progettuale è stata scelta la zona di **Tor Fiscale**, che è uno dei poli del grande parco dell'Appia. Al suo interno accoglie importanti pre-esistenze storiche come i resti di due acquedotti di epoca romana e rinascimentale.
 >
-> Su queste presenze monumentali insistono edificazioni abusive che vorremmo eliminare. Vorremmo restituire al luogo la sua bellezza e offrire agli abitanti condizioni abitative più sicure e confortevoli. L'architettura sostenibile può apportare un enorme contributo.
+> Su queste presenze monumentali insistono edificazioni abusive che vorremmo eliminare. Vorremmo restituire al luogo la sua bellezza e offrire agli abitanti condizioni abitative più sicure e confortevoli. L'architettura sostenibile può apportare un enorme contributo!
 
 ![Casa-RhOME (Ph. Lorenzo-Procaccini)](./casa-rhome-10.jpg)
 
