@@ -1,7 +1,7 @@
 ---
 title: "Le guide illustrate di Ravenna...con le pigne!"
 date: '2014-03-18T00:00:46+00:00'
-description: 'Silvia Togni è l'autrice di due piccole guide illustrate di Ravenna che, in modo colorato e giocoso, raccontano il patrimonio naturale e culturale della città.'
+description: 'Silvia Togni è l'autrice di due guide illustrate di Ravenna che, in modo divertente, raccontano il patrimonio naturale e culturale della città.'
 featuredImage: ./silvia.jpg
 category:
     - Ecoprogetti
@@ -18,8 +18,8 @@ Fin dai tempi dell'Antica Roma, la pigna è associata alla rinascita, all'immort
 Effettivamente, la pigna, per quanto esternamente risulti secca, in realtà racchiude la vita: i pinoli. Ci sta che venga considerata come simbolo di continuità.
 
 A Ravenna se ne contano tante, ce ne sono anche nella stessa Piazza del Popolo e vicino alla Tomba di Dante.
-Silvia Togni, come dicevo, l'ha resa protagonista di una serie di libri illustrati.
-Presidente del Sindacato Guide Turistiche Confcommercio Ravenna, insieme al graphic designer e naturalista Enrico Rambaldi, Silvia ha pubblicato questi due libricini per [Longo Editore](http://www.longo-editore.it).
+**Silvia Togni** l'ha resa protagonista di una serie di libri illustrati.
+Presidente del Sindacato Guide Turistiche Confcommercio Ravenna, insieme al graphic designer e naturalista Enrico Rambaldi, Silvia ha pubblicato questi due libricini per conto di [Longo Editore](http://www.longo-editore.it).
 
 ![Da sinistra: Enrico Rambaldi, Silvia Togni, Sauro Mattarelli (Fondazione del Monte di Bologna e Ravenna) e Alfio Longo, l'editore (Ph. Giampiero Corelli)](./foto-di-gruppo.jpg)
 
