@@ -1,7 +1,7 @@
 ---
-title: 'UBM Bologna, il servizio di bike messenging'
+title: 'Il servizio di corrieri in bici a Bologna'
 date: '2014-01-29T14:29:13+00:00'
-description: ''
+description: 'C'è un servizio di corrieri in bici a Bologna che trasporta moltissimi tipi di prodotti. Scegliere UBM Bologna significa avere il minimo impatto sull'ambiente.'
 featuredImage: ./pierpaolo-sartori.jpg
 category:
     - Mobilità sostenibile
@@ -12,61 +12,52 @@ tags:
     - Tutela ambientale
 ---
 
-UBM sta per "Urban Bike Messenger" ed è la prima compagnia italiana di corrieri in bici.
+[UBM Bologna](http://www.ubmbologna.it) è la prima compagnia italiana di corrieri in bici a Bologna. UBM, nello specifico, sta per *urban bike messenger*.
+Ogni giorno effettua le consegne utilizzando unicamente la bicicletta. Ed è proprio questo, a mio parere, il suo punto di forza: riuscire a muoversi agilmente in città accedendo a qualsiasi zona urbana.
 
-Nata a Milano nel 2008 da un gruppo di appassionati di ciclismo urbano, effettua le consegne utilizzando unicamente la bicicletta. Ed è proprio questo, a mio parere, il suo punto di forza: riuscire a muoversi agilmente per le strade del centro città accedendo senza problemi a qualsiasi zona del centro urbano.
+Questa compagnia di corrieri in bici (detti *bike messengers*) opera all'insegna dell'**ecologia**, dell'**affidabilità** e della **velocità di consegna**, e si rivolge a **qualsiasi utenza**. Non solo privati, ma anche aziende, professionisti e negozi.
 
-Questa compagnia di corrieri in bici (chiamati "bike messengers"), opera all'insegna dell'ecologia, dell'affidabilità e della velocità di consegna e si rivolge un po' ad ogni tipologia di utenza: dai privati alle aziende, dai professionisti ai negozi.
-
-I corrieri in bici trasportano tutto ciò che arriva ad un massimo di 10 kg e che riesce ad essere contenuto dentro alle loro borse. Per i carichi di peso maggiore (fino a 50 kg) ricorrono alla cosiddetta "bici cargo", una bici appositamente studiata per permettere il trasporto dei pacchi più ingombranti e voluminosi.
-
-Trasportare con UBM, pertanto, non comporta alcun tipo di inquinamento urbano.
-
-La parola d'ordine per tutti coloro che la contattano è "Ecologia". Interessante. E parecchio intelligente.
+Questi corrieri in bici a Bologna trasportano tutto ciò che pesi al massimo 10 kg e che riesca ad essere contenuto all'interno delle loro borse.
+Per i carichi di peso maggiore c'è la *bici cargo*, appositamente studiata per permettere il trasporto dei pacchi più ingombranti e voluminosi.
+Gioite: trasportare con UBM non comporta alcun tipo di inquinamento urbano!
 
 ![Bike messenger (Ph. Gianni Mazzotta)](./bike-messenger.jpg)
 
-Per chi non lo sapesse, UBM è presente anche in Emilia Romagna e, più precisamente, a Bologna: di fatto, UBM Bologna ([www.ubmbologna.it](http://www.ubmbologna.it)) è una delle cinque aziende bolognesi ad aver ricevuto il premio "Giovani Imprese 2012" di CNA Giovani Imprenditori.
+UBM Bologna ha perfino ricevuto il *Premio Giovani Imprese 2012* di CNA Giovani Imprenditori ed è la prima impresa di corrieri in bici della Regione.
+Pierpaolo Sartori, classe 1980, ne è il titolare.
 
-Nata nel capoluogo nel 2010, UBM Bologna è la prima impresa di corrieri in bici della regione.
+### Ciao, Pierpaolo. Com'è arrivata la bici nella tua vita?
 
-Pierpaolo Sartori, classe 1980, ne è il titolare...
+> Ciao, Anna! La bici è sempre stata una mia grande passione, fin da bambino. Il vero amore è nato nel 2008, quando ho convertito una bici da corsa a scatto fisso e ne ho fatto il mio unico mezzo di trasporto.
+>
+> La bici mi dà un forte senso di libertà, mi rende veloce e libero di muovermi con naturalezza. In continuo movimento, allontanando lo stress, osservo la città e la vedo sempre nuova.
 
-### Ciao Pierpaolo. Oltre ad essere un perito grafico, sei anche un tecnico della comunicazione audiovisiva e multimediale. Com'è arrivata la bici nella tua vita?
+### Prima di fondare UBM Bologna, eri un educatore. Perché hai deciso di diventare un bike messenger di professione?
 
-> La bici è sempre stata una grande passione, fin da quando ero bambino. Ma il vero amore nasce nel 2008 quando, per la prima volta, ho convertito una bici da corsa a scatto fisso, diventata il mio mezzo di spostamento in città. Da lì la passione per il ciclismo a 360 gradi.
-> 
-> La biciletta mi dà un forte senso di libertà, mi rende veloce e libero di muovermi, con naturalezza. In continuo movimento, allontanando lo stress, guardo la città in velocità, scorgendola sempre nuova.
-
-### Prima di fondare UBM Bologna eri un educatore. Perché hai deciso di essere un bike messenger di professione?
-
-> Da semplice passione a lavoro il passaggio è stato breve. L'interesse per il ciclismo urbano mi ha fatto conoscere il mondo del "bike messenging". Ne ho percepito subito le potenzialità, la forza, l'innovazione. In America e nel resto del mondo non solo è attivo da anni, ma funziona con successo.
-> 
-> Volevo provarci anch'io. Volevo unire una passione, la bicicletta, a un desiderio, contribuire a uno sviluppo più sostenibile della città in cui vivo.
-> 
-> A Bologna le consegne leggere possono essere effettuate con la bicicletta, ottimizzando i tempi di consegna (siamo decisamente più veloci degli altri mezzi a motore) e apportando beneficio all'ambiente.
-> 
-> Nel 2010 ho lasciato il mio lavoro di educatore per diventare un bike messenger e, da due anni, sono manager e corriere di UBM Bologna, la prima e unica compagnia di corrieri in bici della città.
+> Da semplice passione a lavoro, il passaggio è stato breve. L'interesse per il ciclismo urbano mi ha fatto conoscere il mondo del *bike messenging*. Ne ho percepito subito le potenzialità, la forza, l'innovazione. In America, e nel resto del mondo, non solo è attivo da anni, ma funziona con successo.
+>
+> **A Bologna le consegne leggere possono essere effettuate con la bicicletta**, ottimizzando i tempi di consegna e apportando beneficio all'ambiente.
+>
+> Nel 2010 ho lasciato il mio lavoro di educatore per diventare un bike messenger. Da due anni sono manager e corriere di UBM Bologna, la prima e unica compagnia di corrieri in bici a Bologna.
 
 ![La bici cargo utilizzata da UBM Bologna (Ph. Gianni Mazzotta)](./bici-cargo.jpg)
 
-### Quanti corrieri lavorano, attualmente, per UBM Bologna?
+### Quanti corrieri lavorano insieme a te, oggi?
 
-> UBM Bologna, ad oggi, si avvale di cinque corrieri in bici.
+> Oggi i corrieri in bici a Bologna sono cinque.
 
-### Quale feedback avete avuto, finora, dalla cittadinanza? E se dovessi definire la fascia di età media delle persone che ricorrono ad UBM Bologna per le loro consegne urbane, quale indicheresti?
+### Quale feedback avete ricevuto dalla cittadinanza? Se dovessi definire la fascia di età media delle persone che ricorrono ai corrieri in bici, quale indicheresti?
 
-> Bologna, fortunatamente, è una città a misura di bicicletta, anche se inizialmente il riscontro non è stato immediato. Oggi, dopo tre anni di attività, il feedback è molto positivo. I cittadini ci riconoscono per strada, si complimentano con noi entusiasti, ci scattano foto. E sempre più privati si affidano ai nostri corrieri per le consegne.
-> 
-> Ad oggi i nostri clienti sono soprattutto aziende ed enti, per tale ragione è difficile definire una fascia di età media.
+> Bologna, fortunatamente, è una città a misura di bicicletta, anche se inizialmente il riscontro non è stato immediato. Dopo tre anni di attività, **il feedback è molto positivo**. I cittadini ci riconoscono per strada, si complimentano con noi, entusiasti, e ci scattano foto. E **sempre più privati si affidano ai nostri corrieri in bici a Bologna per le consegne**.
+>
+> Ad oggi i nostri clienti sono soprattutto aziende ed enti, per questo è difficile definire una fascia di età media.
 
 ### Cosa ti auguri per il futuro di UBM Bologna?
 
-> Lunga vita ad UBM Bologna! Mi auguro che l'impresa cresca, che si posizioni come la più valida alternativa per consegnare in città, al pari delle compagnie di bike messenging del mondo.
+> Mi auguro che l'impresa cresca, che si posizioni come la più valida alternativa per consegnare in città, al pari delle compagnie di bike messenging del mondo.
 
 ### Quanto è popolare, secondo te, la figura professionale del bike messenger nel nostro Paese?
 
-> La figura del bike messenger in Italia è meno popolare di quello che sembri, nonostante siano già molte le compagnie di corrieri in bici attive con successo in varie città italiane.
-> 
-> Non c'è dubbio, siamo molto popolari nell'ambiente del ciclismo urbano e tra le realtà della green economy. Ma il bike messenger è una figura ancora tutta da scoprire: non siamo semplici pony e non siamo postini, siamo corrieri in bicicletta.
-
+> In Italia è meno popolare di quello che sembri. E questo nonostante siano già molte le compagnie di corrieri in bici attive con successo in varie città italiane.
+>
+> Siamo molto popolari nell'ambiente del ciclismo urbano e tra le realtà della green economy. Il bike messenger, però, è una figura ancora tutta da scoprire: **non siamo semplici pony e non siamo postini**, siamo corrieri in bicicletta!
