@@ -58,7 +58,7 @@ Questo edificio di 63 appartamenti, tutti diversi fra loro, è un esempio di **r
 >
 > L'iter burocratico è stato lungo e complesso e la città, in questo, non ci ha particolarmente aiutati.
 >
-> **Ancora oggi, non saprei definire in quale modo l'amministrazione pubblica veda questo intervento**. Torino è una città riservata e, a volte, è molto difficile comprenderla.
+> Ancora oggi, **non saprei definire come l'amministrazione pubblica veda questo intervento**. Torino è una città riservata e, a volte, è molto difficile comprenderla.
 
 ![25 verde](./25-verde-150.jpg)
 
