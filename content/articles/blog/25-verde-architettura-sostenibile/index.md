@@ -13,12 +13,12 @@ tags:
 
 [25 verde](http://www.25verde.it) è il palazzo foresta di Torino concepito dall'architetto [Luciano Pia](http://www.lucianopia.it).
 
-Questo edificio ospita 63 appartamenti, tutti diversi fra loro, ed è un esempio di **riqualificazione urbana di un ex quartiere industriale** con affacci eterogenei.
-È un *condominio green* ricco di piante e di piccoli arbusti, energeticamente efficiente e con un tetto verde su cui poter coltivare.
+Questo edificio di 63 appartamenti, tutti diversi fra loro, è un esempio di **riqualificazione urbana di un ex quartiere industriale** con affacci eterogenei.
+È un *condominio green* ricco di piante e di piccoli arbusti, energeticamente efficiente e con un bel 'tetto verde' su cui coltivare ortaggi.
 
 ![Luciano Pia](./luciano-pia-2011-08.jpg)
 
-### Salve, arch. Pia. Mi dica, da quali necessità nasce questa sorta di palazzo foresta di Torino?
+### Salve, arch. Pia. Mi dica, da quali necessità nasce il palazzo foresta di Torino?
 
 > Spesso siamo costretti ad abitare luoghi molto distanti dalle nostre aspirazioni. Molti di noi vorrebbero abitare in mezzo al verde, nella natura, in abitazioni con grandi terrazze. Ma non sempre, questo, è possibile.
 >
@@ -26,21 +26,21 @@ Questo edificio ospita 63 appartamenti, tutti diversi fra loro, ed è un esempio
 
 ![25 verde](./25-verde-017.jpg)
 
-> Spesso dobbiamo costruire case, com'è stato per 25 Verde, in aree urbane degradate e compromesse.
+> Molte volte è richiesto di costruire case, com'è stato per 25 Verde, in aree urbane degradate e compromesse.
 >
-> Quella di 25 Verde è una **zona ex industriale di Torino**. In questi quartieri è sorta la prima fabbrica FIAT. L'area è molto vicina al fiume, al Parco del Valentino e alla collina torinese. Eppure, in questo isolato urbano, non ci sono il parco, la collina, il fiume e il verde. Ci sono solo affacci su aree industriali e retri delle case.
+> Quella del Condominio 25 Verde è una **zona ex industriale di Torino**. In questi quartieri è sorta la prima fabbrica FIAT. L'area è molto vicina al fiume, al Parco del Valentino e alla collina torinese. Eppure, in questo isolato urbano, non ci sono il parco, la collina, il fiume e il verde. Ci sono solo affacci su aree industriali e retri delle case.
 >
 > Ecco perché, anziché costruire un edificio, si è realizzato il primo palazzo foresta di Torino. **Un bosco con le case tra gli alberi**. Nei punti lasciati liberi dagli alberi, abbiamo posizionato gli spazi abitabili.
 
-### Come si sentono gli abitanti del Condominio 25 Verde?
+### Come si sentono gli abitanti del Condominio 25 Verde? Sono soddisfatti della loro scelta?
 
-> Chi vive in questo palazzo foresta di Torino è contentissimo, perché si sente parte di un **organismo vivente**. È entrato **in sintonia col verde forte e massiccio**, apprezzandone il valore e le potenzialità.
+> Chi vive in questo palazzo foresta di Torino è contentissimo, perché si sente parte di un **organismo vivente**. È entrato **in sintonia col verde forte e massiccio**, apprezzandone il valore e tutte le potenzialità.
 >
-> Dal momento che non tutti possono abitare in collina, possiamo fare qualcosa per migliorare la qualità della vita in città. Quella del palazzo foresta di Torino è una possibilità.
+> Dal momento che non tutti possono abitare in collina, possiamo fare qualcosa per **migliorare la qualità della vita in città**. Il palazzo foresta di Torino ha questo specifico obiettivo.
 
 ![25 verde](./25-verde-096.jpg)
 
-## Perché comprare casa all'interno di questo palazzo foresta di Torino?
+## Perché comprare casa all'interno del palazzo foresta di Torino?
 
 > Le persone che vivono in 25 Verde hanno compiuto una scelta consapevole. Hanno ritrovato una dimensione umana di comunità che, nelle città, non c'è quasi più. Non si sentono migliori, si sentono di condividere un modo di abitare e di vivere, e questo è importante. Vivere in questo palazzo foresta di Torino li fa sentire parte di qualcosa di speciale.
 >
