@@ -1,10 +1,10 @@
 ---
-title: "Convivio e l'umanizzazione delle cure oncologiche"
+title: 'Convivio e l'umanizzazione delle cure oncologiche'
 date: '2017-03-09T11:05:53+00:00'
-description: "Convivio è un progetto di umanizzazione delle cure proposto dall'Oncologia di Verona diretta dal Prof. Giampaolo Tortora."
+description: 'Convivio è un progetto di umanizzazione delle cure proposto dall'Oncologia di Verona diretta dal Prof. Giampaolo Tortora.'
 featuredImage: ./toa-heftiba.jpg
 category:
-    - Cucina naturale
+    - Ecoprogetti
 tags:
     - Prevenzione
     - Ricerca
@@ -23,7 +23,7 @@ Il team di questa sezione è composto da Clelia Bonaiuto e Ilaria Trestini, entr
 Oltre a svolgere le sue normali mansioni presso il servizio di nutrizione oncologica, Clelia Bonaiuto si dedica alle tante attività di umanizzazione delle cure oncologiche del reparto.
 È a lei che ho chiesto qualche informazione in più su Convivio.
 
-### Dott.ssa Bonaiuto, grazie per aver accettato l'intervista. Come sempre, mi piacerebbe cominciare dalle origini: potrebbe dirmi quando e com'è nato il progetto Convivio?
+### Dott.ssa Bonaiuto, grazie per aver accettato l'intervista. Come sempre, mi piacerebbe cominciare dalle origini: potrebbe dirmi quando e com'è nato Convivio?
 
 > Ciao, Anna. Certamente! Convivio nasce circa 5 anni fa. La Dott.ssa Cingarlini mi aveva chiesto di organizzare merende alternative con assaggi di cioccolato. Questo per invogliare i nostri pazienti alla diversificazione alimentare.
 >

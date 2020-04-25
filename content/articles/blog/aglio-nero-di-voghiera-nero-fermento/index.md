@@ -1,10 +1,10 @@
 ---
-title: "Nero Fermento, l'aglio nero di Voghiera"
+title: 'Nero Fermento, l'aglio nero di Voghiera'
 date: '2017-07-13T10:30:42+00:00'
-description: "Nero Fermento è una giovanissima realtà aziendale ravennate che produce aglio nero di Voghiera. Ne ho parlato insieme a Tommaso Pavani."
+description: 'Nero Fermento è una giovanissima realtà aziendale ravennate che produce aglio nero di Voghiera. Ne ho parlato insieme a Tommaso Pavani.'
 featuredImage: ./nero-fermento-aglio-nero-dop.jpg
 category:
-    - Green Mix
+    - Cucina
 tags:
     - Aglio nero
     - Aglio nero fermentato

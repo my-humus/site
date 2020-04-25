@@ -1,7 +1,7 @@
 ---
 title: 'Alan Zanardi: amore per la bici a scatto fisso'
 date: '2014-04-24T00:00:24+00:00'
-description: 'La passione di Alan Zanardi sta tutta nella vita all'aria aperta, nello sport e, soprattutto, nella bici a scatto fisso'
+description: 'La passione di Alan Zanardi sta tutta nella vita all'aria aperta, nello sport e, soprattutto, nella bici a scatto fisso.'
 featuredImage: ./alan-zanardi.jpg
 category:
     - Mobilità sostenibile

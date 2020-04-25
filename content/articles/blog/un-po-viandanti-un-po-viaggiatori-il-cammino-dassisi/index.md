@@ -1,5 +1,5 @@
 ---
-title: "Viandanti e viaggiatori: il Cammino d'Assisi"
+title: 'Viandanti e viaggiatori: il Cammino d'Assisi'
 date: '2014-09-01T00:00:56+00:00'
 description: ''
 featuredImage: ./noi.jpg

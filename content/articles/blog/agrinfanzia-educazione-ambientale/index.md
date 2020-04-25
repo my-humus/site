@@ -1,5 +1,5 @@
 ---
-title: "L'agrinido a Ravenna che insegna la natura"
+title: 'L'agrinido a Ravenna che insegna la natura
 date: '2014-09-22T00:00:17+00:00'
 description: 'Patrizia Fanara è la titolare di un bellissimo agrinido a Ravenna che coniuga natura e innovazione.'
 featuredImage: ./patrizia-fanara.jpg
@@ -90,9 +90,9 @@ A capo di questo agrinido a Ravenna troviamo **Patrizia Fanara**, una persona de
 > Mi auguro che l'entusiasmo, la grinta, la voglia di offrire servizi utili e innovativi per le famiglie non si spenga mai.
 >
 > Spero di poter presto lavorare insieme ad altre strutture e di replicare il modello educativo che abbiamo sposato. Perché no, anche in altre province del territorio!
-> 
+>
 > ![Anche la piccola Adele impara giocando](./adele.jpg)
-> 
+>
 > **Cerchiamo privati e imprenditori agricoli romagnoli** che apprezzino il nostro progetto e che vogliano mettere a disposizione degli spazi in cui replicare l'agrinido a Ravenna.
 >
 > La strada è lunga e siamo solo all'inizio. La motivazione e la determinazione ci aiuterà in questa complessa, ma stimolante, impresa.

@@ -1,7 +1,7 @@
 ---
 title: 'Mai pensato di coltivare in casa?'
 date: '2014-12-04T00:00:25+00:00'
-description: "Grazie alle lampade LED di Bulbo, concepite per l'indoor gardening, coltivare in casa diventa un'operazione semplicissima!"
+description: 'Grazie alle lampade LED di Bulbo, concepite per l'indoor gardening, coltivare in casa diventa un'operazione semplicissima!'
 featuredImage: ./bulbo-lampade-ecologiche-home-gardening.jpg
 category:
     - Ecoprogetti
@@ -40,7 +40,7 @@ Curiosi di saperne di più? E allora non aspettiamo nemmeno un minuto, scopriamo
 > I risultati delle sperimentazioni scientifiche su piante di lattuga e basilico hanno dimostrato esiti decisamente positivi. Grazie allo spettro luminoso riprodotto, i loro parametri di salute e di crescita sono rimasti inalterati. Addirittura, sono risultati essere migliori.
 >
 > È nata allora l'idea di indagare possibili sbocchi commerciali. Grazie a questa intuizione, nel 2012, Lorenzo ha vinto [Spinner](http://www.spinner.it/index.php). Un concorso, questo, che finanzia giovani imprenditori nello sviluppo della ricerca e nell'innovazione tecnologica. Insieme a noi tre, Lorenzo ha fondato Bulbo.
-> 
+>
 > In aprile 2013, al Salone del Mobile di Milano, abbiamo presentato i primi prototipi e ad ottobre dello stesso anno eravamo già sul mercato".
 
 ![Ph. Ottavio Montanari](./piantine-in-lampada.jpg)
@@ -62,9 +62,9 @@ Curiosi di saperne di più? E allora non aspettiamo nemmeno un minuto, scopriamo
 > La luce emessa dalle nostre lampade è colorata, perché è un mix di frequenze luminose selezionate blu e rosse. Questo spettro luminoso è quello che le piante "leggono" e assorbono per attivare la fotosintesi e crescere.
 >
 > Tre anni di sperimentazione scientifica con l'Università di Bologna hanno permesso di sviluppare una luce sicura, che non danneggia le piante. È una luce che le fa crescere in modo naturale. Le piante crescono sane e presentano alti contenuti di clorofilla, acqua, antiossidanti, polifenoli, olii essenziali e bassi contenuti di nitrati.
-> 
+>
 > ![Fasi di sperimentazione delle lampade Bulbo (courtesy Bulbo)](./piantine-sperim.jpg)
-> 
+>
 > Grazie al LED, che è una luce fredda e colorata, possiamo seguire l'intera crescita delle piante, dal seme al frutto.
 >
 > Le lampade Bulbo sono strumenti professionali e semplicissimi da usare. Fanno sì che la tecnologia usata nelle serre sia alla portata di tutti. Per usare una Bulbo e coltivare in casa non c'è niente da sapere, serve solo accendere la luce.
@@ -82,9 +82,9 @@ Curiosi di saperne di più? E allora non aspettiamo nemmeno un minuto, scopriamo
 ### Quanto interesse avete riscontrato, finora, nei confronti della vostra start-up?
 
 > Moltissimo, da parte di tutti, italiani e stranieri. Ogni volta che presentiamo il progetto, le persone si lasciano scappare un sorriso quando capiscono che la luce porta vita. E che può permettere di coltivare in casa.
-> 
+>
 > ![Ph. Ottavio Montanari](./bambino.jpg)
-> 
+>
 > E questo capita ovunque, in Italia e all'estero. Gli anziani sono i più scettici, perché ancorati a una coltivazione tradizionale. I bambini, al contrario, se ne innamorano all'istante. Tanti genitori comprano le lampade per i propri figli.
 
 ### Visitando il vostro sito, ho letto a proposito di un'App e di un'iniziativa di crowdfunding. Di cosa si tratta, esattamente?
@@ -100,9 +100,9 @@ Curiosi di saperne di più? E allora non aspettiamo nemmeno un minuto, scopriamo
 > Abbiamo lanciato **#smartbulbo** su una nuova piattaforma crowdfunding aperta da [TIM #WCAP](http://www.wcap.tim.it), dove idee, progetti e imprese possono ricevere finanziamenti dalla community.
 >
 > Le campagne di raccolta fondi sono un ottimo sistema per avviare processi di coinvolgimento e di scambio attorno a nuovi progetti. Il nostro obiettivo è di raccogliere 20.000€ in 3 mesi.
-> 
+>
 > ![(Courtesy Bulbo)](./peperoncino.jpg)
-> 
+>
 > I sostenitori riceveranno in anteprima i prototipi del nuovo dispositivo elettronico. E saranno i primi a poter testare l'App in primavera 2015 per aiutarci a migliorarla prima di andare sul mercato.
 
 ### Programmi per il futuro?
@@ -119,4 +119,3 @@ Forza, ragazzi, avanti tutta!
 `youtube: SbvGdyadmKQ`
 
 `youtube: 0_bbMzVp3z4`
-

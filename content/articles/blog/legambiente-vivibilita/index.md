@@ -1,11 +1,10 @@
 ---
-title: "Vivibilità in Italia: parliamone!"
+title: 'Vivibilità in Italia: parliamone'
 date: '2015-11-26T11:25:07+00:00'
 description: 'Italia: vivibilità sì o vivibilità no? Il dossier di Legambiente "Ecosistema Urbano" cerca di dare una risposta.'
 featuredImage: ./rowan-heuvel.jpg
 category:
     - Green Mix
-    - Mobilità sostenibile
 tags:
     - Ecosistema urbano
     - Salute

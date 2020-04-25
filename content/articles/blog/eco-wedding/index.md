@@ -1,7 +1,7 @@
 ---
 title: 'Mai pensato a un matrimonio sostenibile?'
 date: '2015-10-29T09:49:01+00:00'
-description: "Stefania e Fabrizio hanno optato per un matrimonio sostenibile: hanno contenuto l'impatto sull'ambiente, hanno speso meno e si sono divertiti il doppio!"
+description: 'Stefania e Fabrizio hanno optato per un matrimonio sostenibile: hanno contenuto l'impatto sull'ambiente, hanno speso meno e si sono divertiti il doppio!'
 featuredImage: ./ecowedding.jpg
 category:
     - Green Mix
@@ -80,7 +80,7 @@ Ma iniziamo dal principio...
 ![Fabrizio e Stefania](./ecowedding-10.jpg)
 
 > Per la realizzazione del mio vestito da sposa ho attivato una campagna di sensibilizzazione. Insieme a un'amica modellista ho studiato la sua realizzazione a partire da rimanenze di tessuto.
-> 
+>
 > Ne è venuta fuori una tunica a kimono lunga fino ai piedi e decorata con alcuni pizzi di famiglia. Indossare il mio vestito da sposa è stato come avere addosso dei "pezzi di cuore". Lo strascico è stato allacciato al vestito tramite un elastico. A un certo punto della cerimonia, ho potuto toglierlo senza problemi e rendere più pratico l'intero abito.
 >
 > Alla fine dei festeggiamenti ho tagliato il mio abito da sposa per trasformarlo in un secondo abito, che ho indossato in Comune il giorno dopo per le firme ufficiali.

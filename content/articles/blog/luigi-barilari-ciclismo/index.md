@@ -1,5 +1,5 @@
 ---
-title: 'Luigi: storie di ciclismo e di batticuori'
+title: 'Storie di ciclismo al cardiopalma'
 date: '2015-09-24T10:25:26+00:00'
 description: 'Tre anni fa, Luigi Barilari ha percorso 4.870 km in 11 giorni e 22 ore. Le sue sono storie di ciclismo, di amicizia e di sfide con sé stessi.'
 featuredImage: ./luigi-barilari.jpg

@@ -1,7 +1,7 @@
 ---
 title: 'Un centro di ecologia applicata in Romagna'
 date: '2016-05-20T09:54:29+00:00'
-description: "Francesco Rosso, direttore generale di Macrolibrarsi, il suo centro di ecologia applicata in Romagna, un progetto dedicato all'ecologia e alla permacultura."
+description: 'Francesco Rosso, direttore generale di Macrolibrarsi, il suo centro di ecologia applicata in Romagna, un progetto dedicato all'ecologia e alla permacultura.'
 featuredImage: ./fattoria-autosufficienza.jpg
 category:
     - Ecoprogetti

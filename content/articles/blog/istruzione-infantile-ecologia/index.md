@@ -1,5 +1,5 @@
 ---
-title: "Coltivare all'asilo: come ti rinnovo l'istruzione infantile"
+title: 'Coltivare all'asilo: come ti rinnovo l'istruzione infantile'
 date: '2016-03-17T11:01:29+00:00'
 description: "Nursery Fields Forever vuole rinnovare l'istruzione infantile stimolando lo sviluppo di una coscienza ecologica. Coltivare all'asilo è solo un esempio"
 featuredImage: ./istruzione-infantile-ecologia.jpg

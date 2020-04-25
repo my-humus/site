@@ -1,7 +1,7 @@
 ---
 title: 'Mater Naturae coltiva verdure biologiche a Ravenna'
 date: '2015-07-16T09:16:31+00:00'
-description: "Mater Naturae è un'azienda agricola che produce verdure biologiche a Ravenna e che promuove i principi della decrescita felice."
+description: 'Mater Naturae è un'azienda agricola che produce verdure biologiche a Ravenna e che promuove i principi della decrescita felice.'
 featuredImage: ./christian-grassi.jpg
 category:
     - Green Mix

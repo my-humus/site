@@ -1,7 +1,7 @@
 ---
 title: 'Un movimento italiano per il clima e la sostenibilità'
 date: '2015-10-15T10:19:14+00:00'
-description: "Italian Climate Network è un'associazione italiana che, ogni giorno, combatte i cambiamenti climatici cercando di garantire un futuro sostenibile."
+description: 'Italian Climate Network è un'associazione italiana che, ogni giorno, combatte i cambiamenti climatici cercando di garantire un futuro sostenibile.'
 featuredImage: ./joshua-earle.jpg
 category:
     - Green Mix

@@ -4,7 +4,7 @@ date: '2017-04-27T15:21:23+00:00'
 description: 'Si parla di cibo di strada in Italia insieme a Maurizio Cimmino, direttore di To Business Agency.'
 featuredImage: ./street-food.jpg
 category:
-    - Cucina naturale
+    - Cucina
 tags:
     - Food truck
     - Made in Italy

@@ -1,5 +1,5 @@
 ---
-title: 'Treedom: vuoi regalare un albero?'
+title: 'Che ne dici di regalare un albero?'
 date: '2015-06-25T13:16:33+00:00'
 description: 'Treedom è un bellissimo progetto italiano che permette a chiunque di fare una cosa bellissima nei confronti dell'ambiente: regalare un albero. '
 featuredImage: ./treedom.jpg

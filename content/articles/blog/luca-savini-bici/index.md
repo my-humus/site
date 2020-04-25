@@ -1,5 +1,5 @@
 ---
-title: "Cerchi bici fatte a mano in Romagna?"
+title: 'Cerchi bici fatte a mano in Romagna?''
 date: '2015-06-11T09:26:52+00:00'
 description: 'Luca Savini è un ragazzo di Lugo che ha deciso di fare della sua passione un hobby retribuito: realizza bici fatte a mano in Romagna.'
 featuredImage: ./luca-savini.jpg

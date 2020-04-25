@@ -1,5 +1,5 @@
 ---
-title: 'Our Design Concept: restauro e riciclo creativo.'
+title: 'Our Design Concept: restauro e riciclo creativo'
 date: '2015-03-12T12:06:16+00:00'
 description: "Our Design Concept è una realtà che si occupa di restauro e riciclo creativo. Francesca e Angelo progettano e trasformano gli spazi grazie a un nuovo sguardo."
 featuredImage: ./our-design-concept.jpg

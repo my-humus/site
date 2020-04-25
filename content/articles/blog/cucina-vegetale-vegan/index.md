@@ -1,10 +1,10 @@
 ---
 title: 'La meravigliosa cucina vegetale di Carla'
 date: '2015-09-17T13:26:20+00:00'
-description: "Carla Leni è l'autrice di un blog di cucina vegetale: La Cucina della Capra."
+description: 'Carla Leni è la dolcissima autrice di un blog di cucina vegetale: La Cucina della Capra. Ai suoi lettori, Carla propone solo ricette 100% cruelty-free.'
 featuredImage: ./cucina-vegetale-vegan.jpg
 category:
-    - Cucina naturale
+    - Cucina
 tags:
     - Cucina
     - Cucina vegana

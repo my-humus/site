@@ -1,7 +1,7 @@
 ---
 title: 'La conservazione della biodiversità contadina'
 date: '2015-07-02T10:46:31+00:00'
-description: "Civiltà Contadina è un'associazione nata per garantire la conservazione della biodiversità connessa al mondo contadino di una volta."
+description: 'Civiltà Contadina è un'associazione nata per garantire la conservazione della biodiversità connessa al mondo contadino di una volta.'
 featuredImage: ./seed-savers.jpg
 category:
     - Green Mix

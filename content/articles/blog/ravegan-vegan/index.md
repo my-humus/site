@@ -4,7 +4,7 @@ date: '2015-05-28T10:51:04+00:00'
 description: 'Paolo, Paola e Andrea sono i titolari di Ravegan, la gastronomia vegana a Ravenna che, ogni giorno, prepara meraviglie cruelty-free di ogni tipo.'
 featuredImage: ./ravegan-vegan.jpg
 category:
-    - Cucina naturale
+    - Cucina
 tags:
     - Cucina
     - Cucina vegana

@@ -4,7 +4,7 @@ date: '2016-12-07T11:11:12+00:00'
 description: 'Stefano Tanesini e Cristina Sangiorgi rappresentano Simplycris, marchio italiano di abbigliamento intimo di estrema qualità.'
 featuredImage: ./simplycris.jpg
 category:
-    - Ecoprogetti
+    - Green Mix
 tags:
     - Abbigliamento intimo
     - Intimo donna

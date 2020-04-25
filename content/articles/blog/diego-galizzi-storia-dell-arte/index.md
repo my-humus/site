@@ -1,5 +1,5 @@
 ---
-title: "La natura nell'arte secondo Diego Galizzi"
+title: 'La natura nell'arte secondo Diego Galizzi'
 date: '2014-06-20T00:00:10+00:00'
 description: 'Diego Galizzi è il conservatore del Museo Civico delle Cappuccine di Bagnacavallo. Insieme a lui ho discusso il connubio arte e natura.'
 featuredImage: ./diego-galizzi.jpg

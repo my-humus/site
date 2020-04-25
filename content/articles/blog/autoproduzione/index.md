@@ -1,7 +1,7 @@
 ---
-title: "Elogio dell'autoproduzione"
+title: 'Elogio dell'autoproduzione'
 date: '2016-05-05T11:33:55+00:00'
-description: "L'autoproduzione come risposta efficace allo spreco e come scelta consapevole di un consumo più responsabile."
+description: 'L'autoproduzione come risposta efficace allo spreco e come scelta consapevole di un consumo più responsabile, a tutela del futuro di tutti.'
 featuredImage: ./ph-dominik-martin.jpg
 category:
     - Green Mix
