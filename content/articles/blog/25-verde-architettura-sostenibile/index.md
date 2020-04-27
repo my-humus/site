@@ -1,7 +1,7 @@
 ---
 title: '25 Verde, il palazzo foresta di Torino'
 date: '2015-08-27T11:25:54+00:00'
-description: 'L'architetto Luciano Pia ha progettato il primo palazzo foresta di Torino: si chiama 25 Verde e riqualifica un ex quartiere industriale.'
+description: "L'architetto Luciano Pia ha progettato il primo palazzo foresta di Torino: si chiama 25 Verde e riqualifica un ex quartiere industriale."
 featuredImage: ./25-verde.jpg
 category:
   - Ecoprogetti
