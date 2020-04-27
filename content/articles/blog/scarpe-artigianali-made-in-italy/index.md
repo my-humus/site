@@ -1,26 +1,25 @@
 ---
-title: 'Scegli scarpe artigianali in vera pelle'
-date: '2016-03-25T11:34:50+00:00'
-description: 'Ragioniamo con i piedi è un progetto ribelle che propone scarpe artigianali in vera pelle, sane, durevoli nel tempo e amiche dell''ambiente.'
+title: "Scegli scarpe artigianali in vera pelle"
+date: "2016-03-25T11:34:50+00:00"
+description: "Ragioniamo con i piedi è un progetto ribelle che propone scarpe artigianali in vera pelle, sane, durevoli nel tempo e amiche dell'ambiente."
 featuredImage: ./gigi-perinello.jpg
 category:
-    - Ecoprogetti
+  - Ecoprogetti
 tags:
-    - Artigianato
-    - Scarpe
-    - Scarpe artigianali
-    - Sostenibilità
+  - Artigianato
+  - Scarpe
+  - Scarpe artigianali
+  - Sostenibilità
 ---
 
-
-**Gigi Perinello** è un produttore di scarpe artigianali in vera pelle. Oltre a ciò, è una persona molto alla mano e dai modi estremamente gentili che ama definirsi *ribelle per natura*.
+**Gigi Perinello** è un produttore di scarpe artigianali in vera pelle. Oltre a ciò, è una persona molto alla mano e dai modi estremamente gentili che ama definirsi _ribelle per natura_.
 Dopo anni trascorsi a vendere materie prime ai grandi marchi di calzature italiani e stranieri, ha scelto di avviare un progetto dal nome accattivante: [Ragioniamo con i piedi](http://www.ragioniamoconipiedi.it/it).
 Bisogno di ritrovare l'entusiasmo di un tempo e voglia di dimostrare che oggi è ancora possibile parlare di **qualità**, di **filiera corta**, di **sostenibilità autentica**, di **fiducia** e di **valorizzazione del lavoro**.
 
-Insieme a Maria Grazia, Francesca, Dimitri e Antonella, Gigi ha dato vita a una sorta di *boutique errante* che promuove scarpe artigianali in vera pelle, sostenibili e resistenti.
+Insieme a Maria Grazia, Francesca, Dimitri e Antonella, Gigi ha dato vita a una sorta di _boutique errante_ che promuove scarpe artigianali in vera pelle, sostenibili e resistenti.
 L'altro giorno ho fatto due chiacchiere insieme a Gigi.
 
-### Ciao, Gigi. Di cosa ti occupavi prima di fondare *Ragioniamo con i piedi*?
+### Ciao, Gigi. Di cosa ti occupavi prima di fondare _Ragioniamo con i piedi_?
 
 > Ciao, Anna! Per 35 anni ho lavorato nel mondo della scarpa convenzionale vendendo materie prime. In quel lungo periodo ho notato che ai grandi marchi non importava della nostra salute e dei nostri portafogli. Aaffidavano le produzioni a Paesi con manodopera a basso costo e sceglievano materiali scadenti. Stanco di lavorare così, ho dato il via a questo progetto.
 >
@@ -50,7 +49,7 @@ L'altro giorno ho fatto due chiacchiere insieme a Gigi.
 
 > Ragioniamo con i piedi è nato per gioco nel 2008 insieme a un cliente, Astorflex, che aveva difficoltà a vendere le proprie calzature. Sono stato io a proporre la produzione di una scarpa per i gruppi di acquisto che fosse costituita da **materiali non comuni**.
 >
-> Dopo poco tempo abbiamo avuto un grandissimo riscontro, vendendo 600 paia di scarpe artigianali in vera pelle in pochissimo tempo. Nel 2009 la Gabanelli ci ha chiesto di poter realizzare un servizio su *Ragioniamo* e noi, ovviamente, abbiamo accettato.
+> Dopo poco tempo abbiamo avuto un grandissimo riscontro, vendendo 600 paia di scarpe artigianali in vera pelle in pochissimo tempo. Nel 2009 la Gabanelli ci ha chiesto di poter realizzare un servizio su _Ragioniamo_ e noi, ovviamente, abbiamo accettato.
 >
 > Col tempo si sono aggiunti alcuni calzaturieri, ognuno specializzato in un tipo di scarpa.
 

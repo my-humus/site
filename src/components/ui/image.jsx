@@ -34,7 +34,12 @@ class Image extends Component {
     }
 
     return (
-      <img src={this.props.src} alt={this.props.title} title={this.props.title} className={classNames(className)} />
+      <img
+        src={this.props.src}
+        alt={this.props.title}
+        title={this.props.title}
+        className={classNames(className)}
+      />
     )
   }
 }

@@ -1,7 +1,7 @@
 ---
 title: 'Il parcheggio e noleggio di bici a Bologna secondo Dynamo'
 date: '2015-09-03T09:15:40+00:00'
-description: 'Sta per essere inaugurata Dynamo, la prima velostazione d'Italia per il parcheggio e il noleggio di bici a Bologna.'
+description: "Sta per essere inaugurata Dynamo, la prima velostazione d'Italia per il parcheggio e il noleggio di bici a Bologna."
 featuredImage: ./dynamo-bologna.jpg
 category:
     - Mobilità sostenibile
@@ -36,7 +36,7 @@ Ho scambiato due chiacchiere con Simona Larghetti, presidente dell'[Associazione
 
 > Ciao, Anna. Beh, sono diversi. Molti cittadini, ad esempio, non usano la bici perché non sanno dove depositarla in sicurezza. Il numero dei furti in città è molto alto.
 >
-> Bologna, ogni 5 anni, rinnova il 30% dei propri residenti. Con un flusso simile è difficile rafforzare la cultura del *non acquistare una bici rubata*.
+> Bologna, ogni 5 anni, rinnova il 30% dei propri residenti. Con un flusso simile è difficile rafforzare la cultura del _non acquistare una bici rubata_.
 >
 > La mobilità sostenibile è un aspetto per cui l'Associazione si è sempre battuta. **Quale funzione ha la strada?** Vogliamo considerarla solo un luogo di transito per auto e scooter? Oppure è uno spazio pubblico, utilizzabile da tutti, che consente anche altre funzioni oltre a quella del normale transito dei veicoli a motore?
 >
@@ -54,7 +54,7 @@ Ho scambiato due chiacchiere con Simona Larghetti, presidente dell'[Associazione
 >
 > L'arrivo di Dynamo contribuirà a riqualificare la zona. E offrirà finalmente un parcheggio e noleggio di bici a Bologna, a due passi dalla stazione.
 
-### Perché *Dynamo*?
+### Perché _Dynamo_?
 
 ![Lo spazio in cui sorgerà Dynamo (ph. Stefano Scheda)](./20-sab-02.jpg)
 
@@ -62,7 +62,7 @@ Ho scambiato due chiacchiere con Simona Larghetti, presidente dell'[Associazione
 
 ### Quali servizi ci saranno all'interno della vostra velostazione a Bologna?
 
-> **Dynamo sarà un punto di incontro**, una specie di *casa del ciclista urbano*. Le attività seguiranno l'attivazione della cittadinanza. Ogni pretesto sarà valido per creare un'occasione di scambio.
+> **Dynamo sarà un punto di incontro**, una specie di _casa del ciclista urbano_. Le attività seguiranno l'attivazione della cittadinanza. Ogni pretesto sarà valido per creare un'occasione di scambio.
 >
 > Dynamo sarà aperto dalle 06:00 alle 00:00 e offrirà **tanti servizi rivolti ai cittadini, ai turisti e ai pendolari**: un parcheggio custodito per le bici, uno spazio per l'autoriparazione gratuita e uno per la riparazione a pagamento; un bar con prodotti bio locali, un noleggio bici, wifi gratuito, eventi e corsi, una serie di ciclotour guidati per Bologna, il museo diffuso di [FRONTIER - La linea dello stile](http://www.frontier.bo.it) e un servizio di bike delivery insieme a [UBM Bologna](http://www.ubmbologna.it).
 

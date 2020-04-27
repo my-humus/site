@@ -1,19 +1,16 @@
 ---
-title: 'Green Pepper, il cibo di strada bio in Romagna'
-date: '2017-03-22T10:14:23+00:00'
+title: "Green Pepper, il cibo di strada bio in Romagna"
+date: "2017-03-22T10:14:23+00:00"
 description: "Green Pepper è il food truck della cesenate Federica Zammarchi che, con tutta la sua passione, porta il cibo di strada bio in Romagna."
 featuredImage: ./green-pepper.jpg
 category:
-    - Cucina
+  - Cucina
 tags:
-    - Finger food
-    - Food truck
-    - Street food
-    - Vegetariano
-
----
-
-Un foodtruck fichissimo (questo è il termine giusto, credetemi) che porta il cibo di strada bio in Romagna: sogno o son desta?
+  - Finger food
+  - Food truck
+  - Street food
+  - Vegetariano
+---Un foodtruck fichissimo (questo è il termine giusto, credetemi) che porta il cibo di strada bio in Romagna: sogno o son desta?
 Non sogno affatto! Esiste, ed è il favoloso Citroen del 1977 di Federica Zammarchi!
 Attenzione: non sto parlando di un furgoncino qualunque. Mi riferisco a **un food truck dalla bellezza incredibile**, poche volte ho visto tanta cura nei dettagli e nell'allestimento.
 
@@ -30,7 +27,7 @@ Siete pronti a conoscere questa ragazza (e a innamorarvi del suo furgone)?
 
 ### Ok, diamo inizio alla nostra chiacchierata partendo, come sempre, dall'inizio. Cos'è Green Pepper?
 
-> Green Pepper è un'idea che sta prendendo forma. È un progetto che non mira al famoso *tutto e subito*, si sta creando nel tempo. Diciamo che è il principio di un'idea più complessa.
+> Green Pepper è un'idea che sta prendendo forma. È un progetto che non mira al famoso _tutto e subito_, si sta creando nel tempo. Diciamo che è il principio di un'idea più complessa.
 
 ![Il Citroen di Federica](./green-pepper-2.jpg)
 
@@ -52,7 +49,7 @@ Siete pronti a conoscere questa ragazza (e a innamorarvi del suo furgone)?
 
 ### Quindi dicevi che i food truck sono molto in voga all'estero?
 
-> Sì, **in Europa i furgoni per street food vanno moltissimo**, a Barcellona ce ne sono tanti. In Italia è un'idea che sta prendendo piede, forse perché li si collega al concetto di *junk food*. Eppure non è sempre così.
+> Sì, **in Europa i furgoni per street food vanno moltissimo**, a Barcellona ce ne sono tanti. In Italia è un'idea che sta prendendo piede, forse perché li si collega al concetto di _junk food_. Eppure non è sempre così.
 
 ![Green Pepper](./green-pepper-f8.jpg)
 

@@ -1,7 +1,7 @@
 ---
 title: 'Anna Zacchi, pasionaria del deserto'
 date: '2014-05-06T00:00:11+00:00'
-description: 'A Ravenna abbiamo un'appassionata di podismo che, nel corso della sua vita, ha affrontato gare durissime in tante zone del mondo. Vi presento Anna Zacchi!'
+description: "A Ravenna abbiamo un'appassionata di podismo che, nel corso della sua vita, ha affrontato gare durissime in tante zone del mondo. Vi presento Anna Zacchi!"
 featuredImage: ./anna.jpg
 category:
     - Green Mix
@@ -55,7 +55,7 @@ Anna mi racconta:
 
 Nel 1992, Anna si cimenta nell'Atene - Sparta, 236 km. Con una sottile amarezza, precisa di averne percorsi "solamente" 180 a causa di alcuni problemi fisici causati da una caduta in bici di qualche giorno prima.
 
-*Dulcis in fundo*, nel 2006, affronta uno dei percorsi più noti al mondo: il Cammino di Santiago. Decide di peregrinare da sola con uno zaino in spalla da 16 kg.
+_Dulcis in fundo_, nel 2006, affronta uno dei percorsi più noti al mondo: il Cammino di Santiago. Decide di peregrinare da sola con uno zaino in spalla da 16 kg.
 
 In 18 giorni percorre 786 km, con partenza da Saint Pies des Portes e arrivo a Santiago de Compostela. Una media di 50 km al giorno. Perché Anna non ha paura di niente.
 

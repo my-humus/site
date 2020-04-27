@@ -1,18 +1,19 @@
 ---
-title: 'Che gli orti urbani a Ravenna siano per tutti!'
-date: '2017-08-10T12:14:29+00:00'
-description: 'Ra-dici è un progetto incentrato sulla pratica degli orti urbani a Ravenna e sui concetti di sostenibilità ambientale e partecipazione attiva.'
+title: "Che gli orti urbani a Ravenna siano per tutti!"
+date: "2017-08-10T12:14:29+00:00"
+description: "Ra-dici è un progetto incentrato sulla pratica degli orti urbani a Ravenna e sui concetti di sostenibilità ambientale e partecipazione attiva."
 featuredImage: ./ra-dici-orti-urbani.jpg
 category:
-    - Ecoprogetti
+  - Ecoprogetti
 tags:
-    - Agricoltura urbana
-    - Città sostenibile
-    - Mobilità sostenibile
-    - Orti urbani
-    - Orto in città
-    - Orto sociale
+  - Agricoltura urbana
+  - Città sostenibile
+  - Mobilità sostenibile
+  - Orti urbani
+  - Orto in città
+  - Orto sociale
 ---
+
 Gli orti urbani a Ravenna per realizzare aree coltivabili, per trasformare la coltivazione in un momento di condivisione sociale e per recuperare quartieri cittadini in cerca di riscatto.
 Gli orti urbani sono il cruccio di [Ra-dici](http://www.ra-dici.it), un gruppo ravennate che promuove la partecipazione della cittadinanza nella **gestione delle aree urbane per la rigenerazione dei contesti marginali**. Tutto in un'ottica di sostenibilità ambientale.
 
@@ -59,7 +60,7 @@ Qualche giorno fa ho incontrato **Riccardo Ricci Petitoni**, membro attivo di Ra
 
 #### Quali sono i vostri progetti per il prossimo futuro?
 
-> A settembre, in collaborazione con Forese Arte Festival e con Matteo Biserna, parteciperemo a [Talea](https://www.facebook.com/events/108845283102209/), la festa del forese di Castiglione di Ravenna. In quell'occasione proporremo il laboratorio di stampa e grafica per grandi e piccini *Ra-dici sotto-sopra: green-art dall'orto*.
+> A settembre, in collaborazione con Forese Arte Festival e con Matteo Biserna, parteciperemo a [Talea](https://www.facebook.com/events/108845283102209/), la festa del forese di Castiglione di Ravenna. In quell'occasione proporremo il laboratorio di stampa e grafica per grandi e piccini _Ra-dici sotto-sopra: green-art dall'orto_.
 >
 > Con CRE.S.CO organizzeremo la festa di quartiere, poi ci saranno le attività con l'associazione [Tra le Nuvole](https://www.facebook.com/tralenuvoleravenna/) che propone il C.R.E a Marina di Ravenna. Insieme daremo vita a un laboratorio volto all'installazione di un orto utilizzando cassette di legno riciclate.
 >

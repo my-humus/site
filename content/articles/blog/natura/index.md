@@ -1,23 +1,23 @@
 ---
-title: 'Un centro di educazione ambientale alle Maldive'
-date: '2015-04-23T00:00:32+00:00'
+title: "Un centro di educazione ambientale alle Maldive"
+date: "2015-04-23T00:00:32+00:00"
 description: "C'è un centro di educazione ambientale alle Maldive che conduce anche attività di conservazione e di monitoraggio di flora e fauna."
 featuredImage: ./flavio-barefoot.jpg
 category:
-    - Ecoprogetti
+  - Ecoprogetti
 tags:
-    - Conservazione
-    - Eco hotel
-    - Educazione ambientale
-    - Natura
-    - Ricerca scientifica
-    - Sostenibilità
+  - Conservazione
+  - Eco hotel
+  - Educazione ambientale
+  - Natura
+  - Ricerca scientifica
+  - Sostenibilità
 ---
 
-Sono sicura che un giorno mi sveglierò e griderò al mondo: *"Basta! Mollo tutto e scappo in un centro di educazione ambientale alle Maldive!"*. Mica male, come piano.
-Lasciare tutto e tutti, alla ricerca della fantomatica *isola che non c'è*.
+Sono sicura che un giorno mi sveglierò e griderò al mondo: _"Basta! Mollo tutto e scappo in un centro di educazione ambientale alle Maldive!"_. Mica male, come piano.
+Lasciare tutto e tutti, alla ricerca della fantomatica _isola che non c'è_.
 
-Qualcuno è partito per davvero, verso l'*isola che non c'è* che, però, *c'è*! Ha messo in valigia gli strumenti necessari per la ricerca scientifica e ha salutato tutti.
+Qualcuno è partito per davvero, verso l'_isola che non c'è_ che, però, _c'è_! Ha messo in valigia gli strumenti necessari per la ricerca scientifica e ha salutato tutti.
 
 ![Flavio Sacco](./flavio-barefoot.jpg)
 
@@ -34,7 +34,7 @@ State per leggere una storia meravigliosa.
 >
 > Un giorno, un imprenditore svizzero di nome Christophe Groh mi ha contattato per ricevere informazioni. Aveva sentito parlare del mio progetto da una biologa marina devota alla causa ambientale delle Maldive, la Dott.ssa Enrica Burioli.
 >
-> Christophe voleva sviluppare un centro di educazione ambientale alle Maldive, una specie di *eco hotel*. Così, dopo un paio di incontri a Milano e dopo aver discusso i particolari, nel 2014 ho dato il via a questo progetto sperimentale. Con Christophe ho sviluppato un centro di educazione ambientale alle Maldive usando i **servizi offerti agli ospiti per fare monitoraggio e per sviluppare una consapevolezza ambientale nei partecipanti**.
+> Christophe voleva sviluppare un centro di educazione ambientale alle Maldive, una specie di _eco hotel_. Così, dopo un paio di incontri a Milano e dopo aver discusso i particolari, nel 2014 ho dato il via a questo progetto sperimentale. Con Christophe ho sviluppato un centro di educazione ambientale alle Maldive usando i **servizi offerti agli ospiti per fare monitoraggio e per sviluppare una consapevolezza ambientale nei partecipanti**.
 >
 > Cerchiamo di abbracciare tutti i principi dell'ecoturismo: **conservazione**, **sostenibilità** e **coinvolgimento della comunità locale**, sia dal punto di vista economico che culturale.
 
@@ -53,7 +53,7 @@ State per leggere una storia meravigliosa.
 ![Iguana](./P1030484.jpg)
 
 > Ciò che facciamo lo raccontiamo ogni giorno alle persone ospitate nella struttura.
-> Nella mia esperienza, troppo poco di quello che si fa in ambito scientifico viene diffuso al grande pubblico. Probabilmente è proprio per questo che stanno nascendo sempre più progetti *citizen-based*, e credo che anche il nostro si possa definire così.
+> Nella mia esperienza, troppo poco di quello che si fa in ambito scientifico viene diffuso al grande pubblico. Probabilmente è proprio per questo che stanno nascendo sempre più progetti _citizen-based_, e credo che anche il nostro si possa definire così.
 >
 > Portiamo **la ricerca in un contesto comune** facendovi partecipare i cittadini che, nel nostro caso, sono gli ospiti della struttura.
 

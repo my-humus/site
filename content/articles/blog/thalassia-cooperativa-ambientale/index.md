@@ -1,7 +1,7 @@
 ---
 title: 'Un centro di educazione ambientale a Brindisi'
 date: '2014-12-12T00:00:26+00:00'
-description: 'C'è un centro di educazione ambientale a Brindisi che proprone attività che spaziano dall'educazione ambientale alle attività escursionistiche, dal teatro all'ecoturismo.'
+description: "C'è un centro di educazione ambientale a Brindisi che proprone attività che spaziano dall'educazione ambientale alle attività escursionistiche, dal teatro all'ecoturismo."
 featuredImage: ./mano.jpg
 category:
     - Ecoprogetti
@@ -11,7 +11,7 @@ tags:
     - Sostenibilità
 ---
 
-Qualche tempo fa, *googlando* in cerca di nuove mete da visitare, sono venuta a conoscenza di un centro di educazione ambientale a Brindisi: [Thalassia](http://www.cooperativa-thalassia.it).
+Qualche tempo fa, _googlando_ in cerca di nuove mete da visitare, sono venuta a conoscenza di un centro di educazione ambientale a Brindisi: [Thalassia](http://www.cooperativa-thalassia.it).
 Nata come società di attività e servizi per il parco brindisino, collabora con musicisti, attori, compagnie teatrali, maestri, guide naturalistiche, animatori, astrofili e tecnici ambientali. E lo fa per dar vita ad attività che spaziano dall'educazione ambientale alle attività escursionistiche, dal teatro all'ecoturismo.
 
 La combo arte&ambiente m'intriga parecchio. Ecco perché ho intervistato **Antonio Fiume**, amministratore unico di Thalassia, fotografo naturalista ed esperto di gestione aziendale e conduzione d'impresa.
@@ -53,4 +53,4 @@ Scopriamola più nel dettaglio, questa cooperativa!
 
 > Ora siamo impegnati al [Teatro Comunale di Mesagne](http://www.teatropubblicopugliese.it/teatro/teatro-comunale_38.html) con la rassegna [Rapimenti](http://www.cooperativa-thalassia.it/Home/tabid/88/aid/64/Default.aspx). Al termine di ogni spettacolo, 'rapiamo' letteralmente 16 persone del pubblico per far vivere loro un'esperienza di bellezza e resistenza. Serve a sperimentare un nuovo modo di essere e a non essere spettatori passivi.
 >
-> Inoltre, porteremo il nostro progetto teatrale *La Grande Foresta* in Cile.
+> Inoltre, porteremo il nostro progetto teatrale _La Grande Foresta_ in Cile.

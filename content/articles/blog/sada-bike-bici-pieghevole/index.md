@@ -1,15 +1,15 @@
 ---
-title: 'Cerchi una bici pieghevole leggera?'
-date: '2014-11-26T00:00:42+00:00'
-description: 'La bici pieghevole leggera Sada Bike è un inno alla mobilità sostenibile e intelligente, così come alla riduzione del peso e degli ingombri.'
+title: "Cerchi una bici pieghevole leggera?"
+date: "2014-11-26T00:00:42+00:00"
+description: "La bici pieghevole leggera Sada Bike è un inno alla mobilità sostenibile e intelligente, così come alla riduzione del peso e degli ingombri."
 featuredImage: ./la-bici-che-si-piega-sadabike.jpg
 category:
-    - Mobilità sostenibile
+  - Mobilità sostenibile
 tags:
-    - Bicicletta
-    - Green innovation
-    - Innovazione
-    - Sostenibilità
+  - Bicicletta
+  - Green innovation
+  - Innovazione
+  - Sostenibilità
 ---
 
 In tutti i viaggi che ho fatto, in Italia e all'estero, avrei tanto voluto avere con me una bici pieghevole leggera. Qualcosa di comodo, di estremamente pratico e di qualità.
@@ -43,7 +43,7 @@ Questa azienda meccanica torinese opera nel settore dell'automotive, è alla ter
 
 La società che Gianluca sta aprendo per la sua bici pieghevole leggera sarà una start-up innovativa inserita all'interno di [I3P](http://www.i3p.it).
 
-Che Gianluca, in tutto ciò, ci abbia visto giusto, lo dimostrano i fatti: il progetto di questa bici pieghevole leggera è stato insignito del *Premio Idea-To 2010*. È stato anche selezionato fra le 10 migliori start-up del 2014.
-Gianluca, oltretutto, rientra fra i 200 giovani talenti d'Italia secondo il *Festival Giovani Talenti*.
+Che Gianluca, in tutto ciò, ci abbia visto giusto, lo dimostrano i fatti: il progetto di questa bici pieghevole leggera è stato insignito del _Premio Idea-To 2010_. È stato anche selezionato fra le 10 migliori start-up del 2014.
+Gianluca, oltretutto, rientra fra i 200 giovani talenti d'Italia secondo il _Festival Giovani Talenti_.
 
 Che altro dire, in Italia ci sono giovani innovatori straordinari! Siete d'accordo con me, vero?

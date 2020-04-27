@@ -1,14 +1,14 @@
 ---
-title: 'Abici per la mobilità sostenibile'
-date: '2014-10-20T00:00:12+00:00'
-description: 'Con il brand Abici, la mobilità sostenibile diventa artigianale ed essenziale.'
+title: "Abici per la mobilità sostenibile"
+date: "2014-10-20T00:00:12+00:00"
+description: "Con il brand Abici, la mobilità sostenibile diventa artigianale ed essenziale."
 featuredImage: ./abici.jpg
 category:
-    - Mobilità sostenibile
+  - Mobilità sostenibile
 tags:
-    - Bicicletta
-    - Sostenibilità
-    - Trasporti
+  - Bicicletta
+  - Sostenibilità
+  - Trasporti
 ---
 
 Cibo e **mobilità sostenibile**: che legame esiste fra queste parole?
@@ -35,12 +35,12 @@ A quanto pare, quella sera ci hanno visto giusto...
 
 > Se dovessi racchiudere la nostra filosofia in tre parole, sicuramente sarebbero **estetica**, **essenzialità** e **artigianato**.
 >
-> *Estetica* perché, in ogni modello Abici, c'è la continua ricerca della bellezza. Mescoliamo linee retrò a dettagli hi-tech, creando un prodotto senza tempo.
+> _Estetica_ perché, in ogni modello Abici, c'è la continua ricerca della bellezza. Mescoliamo linee retrò a dettagli hi-tech, creando un prodotto senza tempo.
 >
-> *Essenzialità* perché Abici porta le forme al massimo dell'essenziale.
+> _Essenzialità_ perché Abici porta le forme al massimo dell'essenziale.
 > L'assenza di fili e di sovrastrutture esalta la sensualità delle forme e mostra la bicicletta nella sua nudità.
 >
-> *Artigianato* perché ogni bicicletta viene fatta a mano in Italia, compreso il telaio. Viene assemblata dalla stessa persona, che firma un cartellino garantendo l'artigianalità del prodotto.
+> _Artigianato_ perché ogni bicicletta viene fatta a mano in Italia, compreso il telaio. Viene assemblata dalla stessa persona, che firma un cartellino garantendo l'artigianalità del prodotto.
 >
 > Questo è un metodo di produzione sicuramente inusuale, ma ci permette di aver cura del prodotto e dei suoi particolari come nessun altro.
 

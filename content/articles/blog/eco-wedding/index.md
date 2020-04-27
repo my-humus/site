@@ -1,7 +1,7 @@
 ---
 title: 'Mai pensato a un matrimonio sostenibile?'
 date: '2015-10-29T09:49:01+00:00'
-description: 'Stefania e Fabrizio hanno optato per un matrimonio sostenibile: hanno contenuto l'impatto sull'ambiente, hanno speso meno e si sono divertiti il doppio!'
+description: "Stefania e Fabrizio hanno optato per un matrimonio sostenibile: hanno contenuto l'impatto sull'ambiente, hanno speso meno e si sono divertiti il doppio!"
 featuredImage: ./ecowedding.jpg
 category:
     - Green Mix
@@ -15,21 +15,21 @@ tags:
 
 Questa settimana voglio parlarvi dei vantaggi di un matrimonio sostenibile. Sì, avete letto bene: sostenibile!
 
-Quando pensiamo a questa cerimonia, in realtà, è più facile pensare al termine *insostenibile*. Spesso, ad essere tali, sono i suoi preparativi, così come i costi e gli sprechi annessi.
+Quando pensiamo a questa cerimonia, in realtà, è più facile pensare al termine _insostenibile_. Spesso, ad essere tali, sono i suoi preparativi, così come i costi e gli sprechi annessi.
 
 Una coppia di Ravenna ha deciso di uscire dai classici schemi, rendendo l'insostenibile decisamente più sostenibile.
 Stefania Pelloni e Fabrizio Bozzi hanno deciso di raccontare il giorno del loro matrimonio su MyHumus. Un matrimonio atipico ma divertente, non c'è che dire!
 Tutto è nato da una conversazione di questo tipo:
 
-Lei: "*Amore, facendo due conti mi sono accorta che conviviamo da 20 anni. Se ci sposassimo sarebbe chiedere troppo?*"
+Lei: "_Amore, facendo due conti mi sono accorta che conviviamo da 20 anni. Se ci sposassimo sarebbe chiedere troppo?_"
 
-Lui: "*Ok, ma a un patto: non dobbiamo spendere più di 100 €*".
+Lui: "_Ok, ma a un patto: non dobbiamo spendere più di 100 €_".
 
 È più o meno così che è andata fra Stefania e Fabrizio. Loro, di euro per il matrimonio, ne hanno spesi 110. Sì, avete letto bene: **110€ in tutto**!
 
 ![Fabrizio e Stefania](./ecowedding-9.jpg)
 
-L'articolo di questa settimana racconta di un matrimonio sostenibile che ha fatto di **etica**, **riutilizzo** e **riciclo** i suoi *must*.
+L'articolo di questa settimana racconta di un matrimonio sostenibile che ha fatto di **etica**, **riutilizzo** e **riciclo** i suoi _must_.
 Con l'aiuto di un esercito di amici, Stefania e Fabrizio sono riusciti a organizzare le loro nozze spendendo una sciocchezza.
 Ma iniziamo dal principio...
 

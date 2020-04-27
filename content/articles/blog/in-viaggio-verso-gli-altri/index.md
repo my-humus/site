@@ -1,24 +1,23 @@
 ---
-title: 'Scopri il turismo responsabile in Italia'
-date: '2015-01-15T16:57:10+00:00'
-description: 'Il viaggio come strumento per conoscere meglio sé stessi e gli altri, ma sempre in armonia con la natura. Scegli un turismo responsabile in Italia!'
+title: "Scopri il turismo responsabile in Italia"
+date: "2015-01-15T16:57:10+00:00"
+description: "Il viaggio come strumento per conoscere meglio sé stessi e gli altri, ma sempre in armonia con la natura. Scegli un turismo responsabile in Italia!"
 featuredImage: ./in-viaggio-verso-gli-altri.jpg
 category:
-    - Ecoprogetti
+  - Ecoprogetti
 tags:
-    - Avventura
-    - Sostenibilità
-    - Vacanze sostenibili
-    - Viaggi
+  - Avventura
+  - Sostenibilità
+  - Vacanze sostenibili
+  - Viaggi
 ---
-
 
 ![Silvia Salmeri](./silvia-salmeri.jpg)
 
 Quanti modi ci sono per scegliere un turismo responsabile in Italia? Ma soprattutto, su cosa si basa la scelta di un viaggio?
 
 Proviamo a pensarci: c'è chi viaggia per cercare delle risposte e chi per mettersi alla prova. C'è chi fugge il caos e chi parte per saziare la propria sete di conoscenza. C'è chi viaggia per non pensare a niente e chi desidera avere un po' di tempo per sé.
-Si è soliti pensare di partire verso una destinazione. E se la destinazione, oltre a essere fisica, fosse anche *umana*?
+Si è soliti pensare di partire verso una destinazione. E se la destinazione, oltre a essere fisica, fosse anche _umana_?
 
 Qualche tempo fa mi sono imbattuta in un sito molto interessante, quello di [Destinazione Umana](http://destinazioneumana.it).
 
@@ -36,7 +35,7 @@ Scopriamo insieme a Silvia la storia e lo scopo di questo bel progetto?
 
 > Ciao, Anna! La storia è lunga e nasce principalmente da me. Qualche tempo fa ho aperto un b&B sulle colline della Valsamoggia, il Comune in provincia di Bologna in cui abito.
 >
-> L'esperienza da *host* mi ha insegnato due cose: la prima è che per lavorare bene bisogna fare rete e affidarsi a chi di dovere. Questo se non si hanno il tempo e/o le competenze per promuovere adeguatamente la propria attività. La seconda è che gli ospiti erano sì interessati alla colazione e alle belle camere, ma erano soprattutto **alla ricerca di un contatto umano**. Cercavano un messaggio positivo.
+> L'esperienza da _host_ mi ha insegnato due cose: la prima è che per lavorare bene bisogna fare rete e affidarsi a chi di dovere. Questo se non si hanno il tempo e/o le competenze per promuovere adeguatamente la propria attività. La seconda è che gli ospiti erano sì interessati alla colazione e alle belle camere, ma erano soprattutto **alla ricerca di un contatto umano**. Cercavano un messaggio positivo.
 >
 > Dalla prima intuizione è nato [ViviSostenibile](http://vivisostenibile.net)), dalla seconda Destinazione Umana.
 
@@ -64,7 +63,7 @@ Scopriamo insieme a Silvia la storia e lo scopo di questo bel progetto?
 
 > Risposte, ispirazioni, approfondimenti che solo persone con interessi, esperienze e valori simili ai suoi possono dargli.
 >
-> C'è chi è più interessato ai temi della sostenibilità ambientale, o abita in città e vuole capire com'è la vita in campagna. C'è chi è in crisi, vuole mollare tutto e cambiare vita, ma non sa come fare. Sente quindi il bisogno di confrontarsi con chi già ha affrontato questo percorso. Poi ci sono le persone interessate al mondo della *social innovation* e delle start-up, che sceglieranno un host *innovatore sociale* per approfondire questi temi.
+> C'è chi è più interessato ai temi della sostenibilità ambientale, o abita in città e vuole capire com'è la vita in campagna. C'è chi è in crisi, vuole mollare tutto e cambiare vita, ma non sa come fare. Sente quindi il bisogno di confrontarsi con chi già ha affrontato questo percorso. Poi ci sono le persone interessate al mondo della _social innovation_ e delle start-up, che sceglieranno un host _innovatore sociale_ per approfondire questi temi.
 
 ### In linea generale, quanto interesse riscontrate da parte del pubblico giovane verso il turismo etico e sostenibile?
 

@@ -5,11 +5,13 @@ export default class Header extends Component {
   render() {
     return (
       <header className="header">
-        <SectionTitle title={this.props.title} subtitle={this.props.subtitle} link={this.props.link} />
+        <SectionTitle
+          title={this.props.title}
+          subtitle={this.props.subtitle}
+          link={this.props.link}
+        />
         {this.props.children && (
-          <div className="container">
-            {this.props.children}
-          </div>
+          <div className="container">{this.props.children}</div>
         )}
       </header>
     )

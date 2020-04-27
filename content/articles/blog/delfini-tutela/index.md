@@ -1,8 +1,7 @@
 ---
-title: 'La tutela dei delfini dell'Alto Adriatico'
+title: "La tutela dei delfini dell'Alto Adriatico"
 date: '2015-06-04T09:19:06+00:00'
-description: 'A Ravenna è appena nata 'Delfini bizantini', un'associazione che tutela i delfini dell'Adriatico e analizza la salute del mare.'
-
+description: 'A Ravenna è appena nata "Delfini bizantini", un''associazione che tutela i delfini dell'Adriatico e analizza la salute del mare.'
 featuredImage: ./team-delfini.jpg
 category:
     - Ecoprogetti
@@ -13,7 +12,6 @@ tags:
     - Ricerca
     - Tutela
 ---
-
 
 Parlare di tutela dei delfini dell'Alto Adriatico mi riempie il cuore!
 Davvero, l'argomento di questa settimana è ad alto tasso glicemico. Sì perché il delfino, in sé, non è solo un mammifero. È l'emblema della dolcezza infinita.
@@ -32,9 +30,9 @@ Qualche giorno fa ho avuto il piacere di incontrare Rebecca e di conoscere più 
 
 ### Come hai conosciuto gli altri componenti del team?
 
-> *Delfini Bizantini* è rappresentata da 4 ricercatori, di cui 2 biologi e 2 veterinari.
+> _Delfini Bizantini_ è rappresentata da 4 ricercatori, di cui 2 biologi e 2 veterinari.
 >
-> La solida amicizia che mi lega a Carlo e a Michela si è costituita nel tempo grazie alla *forma mentis* e all'interesse scientifico che ci accomunano.
+> La solida amicizia che mi lega a Carlo e a Michela si è costituita nel tempo grazie alla _forma mentis_ e all'interesse scientifico che ci accomunano.
 >
 > Tutti abbiamo fatto della nostra passione un duro percorso di studi che si è tramutato in una professione.
 >
@@ -50,12 +48,12 @@ Qualche giorno fa ho avuto il piacere di incontrare Rebecca e di conoscere più 
 >
 > Alla base di Delfini Bizantini c'è un duro lavoro di formazione, studio e ricerca. L'idea nasce dall'**assenza di dati significativi** sulla popolazione di delfini dell'Alto Adriatico che insiste in questo tratto di mare. Una condizione, questa, che ci ha stimolati a colmare questa lacuna.
 >
-Il progetto è attivo da maggio nella sua fase di ricerca sul campo. Seguiranno tante iniziative aperte al pubblico e consultabili sulla nostra [pagina Fb](https://www.facebook.com/pages/Delfini-Bizantini/1427017697619968?fref=ts).
+> Il progetto è attivo da maggio nella sua fase di ricerca sul campo. Seguiranno tante iniziative aperte al pubblico e consultabili sulla nostra [pagina Fb](https://www.facebook.com/pages/Delfini-Bizantini/1427017697619968?fref=ts).
 
 ### Perché la tutela dei delfini dell'Alto Adriatico? Su quali specie vi state concentrando?
 
 > I delfini suscitano una forte empatia, l'attenzione su di essi è sempre maggiore sia da parte del privato cittadino che degli enti pubblici e privati che operano nel settore marittimo.
-> L'ottenimento di dati certi sulla presenza frequente di questi animali, in particolare della specie *tursiope*, è un punto di forza per la nostra area costiera. Essa ha ricadute positive sia dal punto di vista economico che sociale, ma anche in termini d'immagine e di educazione e rispetto ambientale.
+> L'ottenimento di dati certi sulla presenza frequente di questi animali, in particolare della specie _tursiope_, è un punto di forza per la nostra area costiera. Essa ha ricadute positive sia dal punto di vista economico che sociale, ma anche in termini d'immagine e di educazione e rispetto ambientale.
 >
 > **I delfini sono a forte rischio di estinzione**. Per fortuna vengono sempre più tutelati dalle normative nazionali, europee e mondiali. Si pensi, ad esempio, alla Convenzione di Washington e ad [ACCOBAMS](http://www.accobams.org), che riunisce i paesi del Mediterraneo pertutelare i cetacei delle nostre acque.
 >
@@ -79,7 +77,7 @@ Il progetto è attivo da maggio nella sua fase di ricerca sul campo. Seguiranno 
 >
 > Compiliamo una scheda di segnalamento, raccogliendo i dati clinici degli animali e annotando comportamenti e attività degli stessi. Con un idrofono registriamo le emissioni sonore dei delfini, cercando una corrispondenza con le attività comportamentali osservate.
 >
-> La seconda fase della nostra tutela dei delfini dell'Alto Adriatico prevederà la messa a punto di una piattaforma informatica. Sarà lì che inseriremo i nostri dati. Si tratterà di uno strumento *open source* per poter condividere e confrontare liberamente i dati raccolti con altri enti di ricerca.
+> La seconda fase della nostra tutela dei delfini dell'Alto Adriatico prevederà la messa a punto di una piattaforma informatica. Sarà lì che inseriremo i nostri dati. Si tratterà di uno strumento _open source_ per poter condividere e confrontare liberamente i dati raccolti con altri enti di ricerca.
 >
 > Delfini Bizantini vuole anche fare divulgazione e informazione scientifica dirette agli appassionati, alle scuole primarie e secondarie. Ma anche attività dimostrative in mare aperto rivolte al pubblico.
 
@@ -113,4 +111,4 @@ Il progetto è attivo da maggio nella sua fase di ricerca sul campo. Seguiranno 
 
 > Nei prossimi mesi intensificheremo la ricerca sul campo e organizzeremo eventi aperti al pubblico. Vogliamo sensibilizzare l'opinione pubblica sul tema della ricerca, e far conoscere a tutti la realtà del nostro mare.
 >
-> L'associazione è totalmente autofinanziata. Chiunque voglia contribuire alla tutela dei delfini dell'Alto Adriatico può fare una donazione su [buonacausa.org](http://buonacausa.org/cause/proteggi-i-delfini) a nome *Delfini Bizantini*. E poi, chiaramente, può sempre seguire la nostra pagina Facebook.
+> L'associazione è totalmente autofinanziata. Chiunque voglia contribuire alla tutela dei delfini dell'Alto Adriatico può fare una donazione su [buonacausa.org](http://buonacausa.org/cause/proteggi-i-delfini) a nome _Delfini Bizantini_. E poi, chiaramente, può sempre seguire la nostra pagina Facebook.

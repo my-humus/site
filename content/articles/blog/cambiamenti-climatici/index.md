@@ -1,7 +1,7 @@
 ---
 title: 'Un movimento italiano per il clima e la sostenibilità'
 date: '2015-10-15T10:19:14+00:00'
-description: 'Italian Climate Network è un'associazione italiana che, ogni giorno, combatte i cambiamenti climatici cercando di garantire un futuro sostenibile.'
+description: "Italian Climate Network è un'associazione italiana che, ogni giorno, combatte i cambiamenti climatici cercando di garantire un futuro sostenibile."
 featuredImage: ./joshua-earle.jpg
 category:
     - Green Mix
@@ -82,7 +82,7 @@ Qualche giorno fa ho intervistato Veronica Caciagli, esperta di politiche riguar
 >
 > Le questione sono: saranno sufficienti? E soprattutto: saranno perseguiti? Queste sono le vere sfide. E sono sfide di medio e lungo termine che richiederanno un forte impegno da parte della società civile.
 >
-> **Oggi abbiamo due visioni del mondo contrapposte**: quella che prevede il mantenimento dello *status quo* con le fonte fossili di energia e quella che prevede una transizione veloce verso una produzione di energia da fonte rinnovabile.
+> **Oggi abbiamo due visioni del mondo contrapposte**: quella che prevede il mantenimento dello _status quo_ con le fonte fossili di energia e quella che prevede una transizione veloce verso una produzione di energia da fonte rinnovabile.
 >
 > Ci sono aziende energetiche che cercano nuovi combustibili fossili, nuove riserve di petrolio e di carbone. Sono investimenti di denaro che non porteranno ad avere un reddito collegato. Credo sia folle.
 

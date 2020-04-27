@@ -4,7 +4,14 @@ import { StaticQuery, graphql } from "gatsby"
 import PropTypes from "prop-types"
 import SchemaOrg from "./schema-org"
 
-const SEO = ({ postData, frontmatter = {}, image, isBlogPost, title, path = '' }) => (
+const SEO = ({
+  postData,
+  frontmatter = {},
+  image,
+  isBlogPost,
+  title,
+  path = ""
+}) => (
   <StaticQuery
     query={graphql`
       {
@@ -39,9 +46,15 @@ const SEO = ({ postData, frontmatter = {}, image, isBlogPost, title, path = '' }
     render={({ site: { siteMetadata: seo } }) => {
       const siteUrl = seo.siteUrl.replace(/\/$/, "")
       const postMeta = frontmatter || postData.frontmatter || {}
-      const postTitle = title ? title : (postMeta.title ? postMeta.title : seo.title)
+      const postTitle = title
+        ? title
+        : postMeta.title
+        ? postMeta.title
+        : seo.title
       const description = postMeta.description || seo.description
-      const postImage = image ? `${siteUrl}/${image.replace(/^\//, "")}` : `${siteUrl}/${seo.seo.image.replace(/^\//, "")}`
+      const postImage = image
+        ? `${siteUrl}/${image.replace(/^\//, "")}`
+        : `${siteUrl}/${seo.seo.image.replace(/^\//, "")}`
       const url = `${siteUrl}${path}`
       const datePublished = isBlogPost ? postMeta.datePublished : false
 
@@ -60,11 +73,24 @@ const SEO = ({ postData, frontmatter = {}, image, isBlogPost, title, path = '' }
             <meta property="og:url" content={url} />
             {isBlogPost ? <meta property="og:type" content="article" /> : null}
             <meta property="og:title" content={postTitle} />
-            <meta property="og:locale" content={([seo.locale.language.toLowerCase(), seo.locale.culture.toUpperCase()]).join('_')} />
+            <meta
+              property="og:locale"
+              content={[
+                seo.locale.language.toLowerCase(),
+                seo.locale.culture.toUpperCase()
+              ].join("_")}
+            />
             <meta property="og:description" content={description} />
             <meta property="og:image" content={postImage} />
-            {seo.social.facebook.app ? <meta property="fb:app_id" content={seo.social.facebook.app} /> : null}
-            {isBlogPost && seo.social.facebook.page ? <meta property="article:publisher" content={"https://www.facebook.com/" + seo.social.facebook.page} /> : null}
+            {seo.social.facebook.app ? (
+              <meta property="fb:app_id" content={seo.social.facebook.app} />
+            ) : null}
+            {isBlogPost && seo.social.facebook.page ? (
+              <meta
+                property="article:publisher"
+                content={"https://www.facebook.com/" + seo.social.facebook.page}
+              />
+            ) : null}
             <meta name="twitter:card" content="summary_large_image" />
             <meta name="twitter:title" content={postTitle} />
             <meta name="twitter:description" content={description} />
@@ -86,25 +112,25 @@ const SEO = ({ postData, frontmatter = {}, image, isBlogPost, title, path = '' }
       )
     }}
   />
-);
+)
 
 SEO.propTypes = {
   isBlogPost: PropTypes.bool,
   postData: PropTypes.shape({
     childMarkdownRemark: PropTypes.shape({
       frontmatter: PropTypes.any,
-      excerpt: PropTypes.any,
-    }),
+      excerpt: PropTypes.any
+    })
   }),
   image: PropTypes.string,
   title: PropTypes.string
-};
+}
 
 SEO.defaultProps = {
   isBlogPost: false,
   postData: { childMarkdownRemark: {} },
   image: null,
   title: null
-};
+}
 
-export default SEO;
+export default SEO

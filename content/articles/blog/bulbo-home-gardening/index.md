@@ -1,7 +1,7 @@
 ---
 title: 'Mai pensato di coltivare in casa?'
 date: '2014-12-04T00:00:25+00:00'
-description: 'Grazie alle lampade LED di Bulbo, concepite per l'indoor gardening, coltivare in casa diventa un'operazione semplicissima!'
+description: "Grazie alle lampade LED di Bulbo, concepite per l'indoor gardening, coltivare in casa diventa un'operazione semplicissima!"
 featuredImage: ./bulbo-lampade-ecologiche-home-gardening.jpg
 category:
     - Ecoprogetti
@@ -11,7 +11,6 @@ tags:
     - Home gardening
     - Sostenibilità
 ---
-
 
 ![Il team di Bulbo. Da sinistra: Zeno A.I Pasquini Jossen, Lorenzo Antonioni, Sara Pellegrini e Tommaso Marzioni (courtesy Bulbo)](./bulbo-iniziale.jpg)
 
@@ -25,7 +24,7 @@ La risposta al quesito mi è arrivata da **Sara Pellegrini**, architetto e graph
 
 Curiosi di saperne di più? E allora non aspettiamo nemmeno un minuto, scopriamo insieme di cosa si tratta. E quale sarà, molto probabilmente, uno dei miei prossimi acquisti!
 
-### Ciao, Sara! Sono proprio felice di presentare Bulbo su MyHumus. Dimmi, come hai conosciuto i tuoi *partner in crime*?
+### Ciao, Sara! Sono proprio felice di presentare Bulbo su MyHumus. Dimmi, come hai conosciuto i tuoi _partner in crime_?
 
 > Ciao, Anna! Siamo quattro bolognesi che si conoscono da una vita. Abbiamo frequentato le stesse scuole, gli stessi bar e le stesse palestre.
 

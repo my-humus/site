@@ -1,17 +1,16 @@
 ---
-title: 'Le bici artigianali italiane di Mopbike'
-date: '2016-10-07T13:09:02+00:00'
-description: 'Intervista a Massimo Ottavio Pavan del marchio Mopbike, un brand di bici artigianali italiane nato due anni fa in quel di Pordenone.'
+title: "Le bici artigianali italiane di Mopbike"
+date: "2016-10-07T13:09:02+00:00"
+description: "Intervista a Massimo Ottavio Pavan del marchio Mopbike, un brand di bici artigianali italiane nato due anni fa in quel di Pordenone."
 featuredImage: ./bici-artigianali-italiane-6.jpg
 category:
-    - Mobilità sostenibile
+  - Mobilità sostenibile
 tags:
-    - Bici artigianali italiane
-    - Bici scatto fisso
-    - Bici vintage
-    - Made in Italy
+  - Bici artigianali italiane
+  - Bici scatto fisso
+  - Bici vintage
+  - Made in Italy
 ---
-
 
 MyHumus torna a occuparsi di sostenibilità ambientale, e lo fa parlando di una delle più belle invenzioni di questo mondo: la bicicletta.
 Nello specifico, questa volta vi parlo di **bici artigianali italiane**. E lo faccio presentandovi un nuovissimo brand: [Mopbike](http://www.mopbike.com).
@@ -35,7 +34,7 @@ Il telaio di queste bici artigianali italiane viene successivamente saldato e ve
 
 > Ciao, Anna. Certamente! Alla base di questo progetto ci sono la passione per il mondo della bici e la **sensibilità verso l'ambiente**.
 >
-> La bici è un mezzo meravigliosamente logico: si parla di risparmio economico, di sostenibilità ambientale e di benessere per la salute. Impossibile non innamorarsene. Mopbike marchia il telaio con la scritta *Ecologic* ed è un brand italiano che nasce da noi per voi.
+> La bici è un mezzo meravigliosamente logico: si parla di risparmio economico, di sostenibilità ambientale e di benessere per la salute. Impossibile non innamorarsene. Mopbike marchia il telaio con la scritta _Ecologic_ ed è un brand italiano che nasce da noi per voi.
 
 ### Da quante persone è composto il team? E quando avete dato vita a questo progetto?
 
@@ -49,7 +48,7 @@ Il telaio di queste bici artigianali italiane viene successivamente saldato e ve
 
 ### Quali passaggi portano alla nascita delle vostre bici artigianali italiane?
 
-> Siamo noi a realizzare le bici che vendiamo, sia quelle muscolari che quelle elettriche (queste ultime hanno l'innovativo sistema *Zehus* che ricarica pedalando!). **Ogni nostra bicicletta è un pezzo unico**.
+> Siamo noi a realizzare le bici che vendiamo, sia quelle muscolari che quelle elettriche (queste ultime hanno l'innovativo sistema _Zehus_ che ricarica pedalando!). **Ogni nostra bicicletta è un pezzo unico**.
 >
 > Come prima cosa, desideriamo conoscere il cliente e ascoltare le sue esigenze. Vogliamo innanzitutto capire quale tipologia di bici sia meglio per lui e quale utilizzo debba farne.
 >

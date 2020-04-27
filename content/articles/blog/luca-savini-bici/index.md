@@ -1,5 +1,5 @@
 ---
-title: 'Cerchi bici fatte a mano in Romagna?''
+title: 'Cerchi bici fatte a mano in Romagna?'
 date: '2015-06-11T09:26:52+00:00'
 description: 'Luca Savini è un ragazzo di Lugo che ha deciso di fare della sua passione un hobby retribuito: realizza bici fatte a mano in Romagna.'
 featuredImage: ./luca-savini.jpg
@@ -15,11 +15,11 @@ tags:
 MyHumus è un progetto che nasce dal cuore. Da quello mio, certo, ma anche da quello di tutti coloro che accettano di lasciarsi intervistare. Sono persone che non si limitano a presentarsi rispondendo alle mie domande: contribuiscono in prima persona a divulgare la sostenibilità, tema che mi sta molto a cuore.
 
 Ognuno, a proprio modo, lascia qualcosa su MyHumus. Questa settimana tocca a un appassionato ciclista che, per hobby, realizza bici fatte a mano in Romagna.
-Tutto è iniziato da una telefonata del mio amico [Giorgio Minguzzi](http://www.giorgiominguzzi.com). Mi fa: *"Anna, devo parlarti di un amico che è più pazzo di me: si chiama Luca e si occupa di bici"*.
+Tutto è iniziato da una telefonata del mio amico [Giorgio Minguzzi](http://www.giorgiominguzzi.com). Mi fa: _"Anna, devo parlarti di un amico che è più pazzo di me: si chiama Luca e si occupa di bici"_.
 
 ![Luca Savini](./savini-primo-piano.jpg)
 
-Accattivante, come anticipazione. E poi, figuriamoci, la parola *"bicicletta"* mi mette subito sull'attenti.
+Accattivante, come anticipazione. E poi, figuriamoci, la parola _"bicicletta"_ mi mette subito sull'attenti.
 E allora viiiiiiaaaa, alla volta di via Carlo Pisacane 2 a Lugo di Romagna, in provincia di Ravenna!
 È qui che risiede la piccola officina di [Luca Savini](https://www.facebook.com/luca.savini.754?fref=ts), un ciclista il cui DNA è a forma di bici da corsa e di mountain bike.
 
@@ -39,7 +39,7 @@ E allora viiiiiiaaaa, alla volta di via Carlo Pisacane 2 a Lugo di Romagna, in p
 >
 > Mi sono appassionato alla bici, ma anche alla performance. L'alimentazione, ad esempio, è diventata prioritaria.
 >
-> Quando penso alla bici mi torna sempre in mente una famosa citazione di Alfredo Oriani, poeta che correva in bici: *"La bicicletta siamo noi, che vinciamo lo spazio e il tempo: soli, senza nemmeno il contatto con la terra che le nostre ruote sfiorano appena*.
+> Quando penso alla bici mi torna sempre in mente una famosa citazione di Alfredo Oriani, poeta che correva in bici: _"La bicicletta siamo noi, che vinciamo lo spazio e il tempo: soli, senza nemmeno il contatto con la terra che le nostre ruote sfiorano appena_.
 >
 > Anch'io, in sella alla mia bici, sento di vincere lo spazio e il tempo!
 
@@ -59,7 +59,7 @@ E allora viiiiiiaaaa, alla volta di via Carlo Pisacane 2 a Lugo di Romagna, in p
 
 > Di solito realizzo **bici con freno a contropedale, bici da corsa e scattofisso**.
 >
-> **Lavoro su telai vecchi a cui dono nuova vita e nuove sembianze**, ovviamente sulla base delle richieste del cliente). Ricorro anche a telai nuovi di importazione, che personalizzo con diverse tecniche come, ad esempio, il *wrapping*. Questa, ad esempio, permette di modificare l'aspetto della bici in mille modi diversi grazie all'applicazione di particolari pellicole sul telaio.
+> **Lavoro su telai vecchi a cui dono nuova vita e nuove sembianze**, ovviamente sulla base delle richieste del cliente). Ricorro anche a telai nuovi di importazione, che personalizzo con diverse tecniche come, ad esempio, il _wrapping_. Questa, ad esempio, permette di modificare l'aspetto della bici in mille modi diversi grazie all'applicazione di particolari pellicole sul telaio.
 >
 > In una settimana riesco a trasformare i **vecchi telai in articoli giovani e attuali**. Nel caso debba assemblare e personalizzare dal nulla un'intera bici, ruote comprese, impiego almeno un mese di tempo.
 >
@@ -77,4 +77,4 @@ E-Mail: [luca.savini75@gmail.com](mailto:luca.savini75@gmail.com)
 
 ![Luca Savini](./savini-4.jpg)
 
-Foto di copertina: [Pån-Kristian Hamre](http://www.flickr.com/photos/35112337@N05/7914616282) via [Photopin](http://photopin.com).*
+Foto di copertina: [Pån-Kristian Hamre](http://www.flickr.com/photos/35112337@N05/7914616282) via [Photopin](http://photopin.com).\*

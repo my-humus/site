@@ -1,20 +1,19 @@
 ---
-title: 'A Roma si fa architettura sostenibile!'
-date: '2015-02-05T00:00:22+00:00'
-description: 'RhOME for denCity è il progetto vincitore del Solar Decathlon Europe 2014. Si tratta di un ambizioso lavoro di squadra in architettura sostenibile.'
+title: "A Roma si fa architettura sostenibile!"
+date: "2015-02-05T00:00:22+00:00"
+description: "RhOME for denCity è il progetto vincitore del Solar Decathlon Europe 2014. Si tratta di un ambizioso lavoro di squadra in architettura sostenibile."
 featuredImage: ./casa-rhome-12.jpg
 category:
-    - Ecoprogetti
+  - Ecoprogetti
 tags:
-    - Città sostenibile
-    - Innovazione
-    - Sostenibilità
-    - Tecnologia green
+  - Città sostenibile
+  - Innovazione
+  - Sostenibilità
+  - Tecnologia green
 ---
 
-
 In questi giorni sono venuta a conoscienza di un progetto molto ambizioso nell'ambito dell'architettura sostenibile. Si chiama [RhOME for denCity](http://www.rhomefordencity.it) ed è stato condotto dal Dipartimento di Architettura dell'[Università Roma Tre](http://www.uniroma3.it), (con a capo gli architetti Chiara Tonelli, Gabriele Bellingeri e Stefano Converso.
-Una collaborazione, questa, che ha coinvolto anche i dipartimenti di Ingegneria e di Economia. Professori, studenti, dottorandi e professionisti hanno collaborato alla realizzazione di un progetto di casa sostenibile. È la cosiddetta *Casa RhOME* che, fra le altre cose, ha vinto il [Solar Decathlon Europe 2014](http://www.solardecathlon2014.fr/en/) a Versailles.
+Una collaborazione, questa, che ha coinvolto anche i dipartimenti di Ingegneria e di Economia. Professori, studenti, dottorandi e professionisti hanno collaborato alla realizzazione di un progetto di casa sostenibile. È la cosiddetta _Casa RhOME_ che, fra le altre cose, ha vinto il [Solar Decathlon Europe 2014](http://www.solardecathlon2014.fr/en/) a Versailles.
 Insomma, si fa sul serio!
 
 ![Nicola Moscheni](./nicola-moscheni.jpg)
@@ -29,7 +28,7 @@ L'intervistato di questa settimana si chiama Nicola Moscheni, ha 26 anni studia 
 >
 > RhOME for denCity è un progetto di architettura sostenibile che intende **risanare queste aree migliorando la qualità di vita degli abitanti**. Punta anche a **diminuire l'impatto ambientale** nelle fasi di costruzione e di futuro utilizzo delle strutture.
 >
-> Si tratta di un *eco-quartiere* composto da edifici in legno realizzati seguendo un modello di prefabbricazione. Le soluzioni, però, sono molto flessibili e rispondono alla nuova domanda abitativa. Sono veloci da costruire, ad altissima efficienza energetica e, allo stesso tempo, con un costo di costruzione molto basso, paragonabile a quello dell'edilizia popolare.
+> Si tratta di un _eco-quartiere_ composto da edifici in legno realizzati seguendo un modello di prefabbricazione. Le soluzioni, però, sono molto flessibili e rispondono alla nuova domanda abitativa. Sono veloci da costruire, ad altissima efficienza energetica e, allo stesso tempo, con un costo di costruzione molto basso, paragonabile a quello dell'edilizia popolare.
 >
 > **Sostenibilità ambientale, economica e sociale** trovano in RhOME un punto d'incontro.
 
@@ -41,7 +40,7 @@ L'intervistato di questa settimana si chiama Nicola Moscheni, ha 26 anni studia 
 >
 > Abbiamo integrato le grandi tecnologie e i nuovi brevetti messi in campo con gli aspetti architettonici, costruttivi e di vita nella casa. È un organismo unico in cui ogni elemento, sistema e tecnologia lavorano in sinergia con chi abiti la casa. Si tratta di una **costruzione a secco**, veloce da assemblare e che **consente interventi tempestivi**. Allo stesso tempo, è una struttura pesante che garantisce **alte prestazioni strutturali, termiche e di comfort**. E riduce le dispersioni e gli sprechi.
 >
-> *Ridurre prima di consumare* ha supportato il progetto fin da subito. Siamo noi gli attori principali della rivoluzione sostenibile, dobbiamo conoscere quali siano gli aspetti del risparmio energetico come *abitanti delle case* ancor prima che come progettisti.
+> _Ridurre prima di consumare_ ha supportato il progetto fin da subito. Siamo noi gli attori principali della rivoluzione sostenibile, dobbiamo conoscere quali siano gli aspetti del risparmio energetico come _abitanti delle case_ ancor prima che come progettisti.
 >
 > Ci siamo sempre impegnati in questo, in due anni di lavoro abbiamo organizzato varie campagne di sensibilizzazione su come essere più green. L'architettura sostenibile può fare molto, in questo senso.
 
@@ -57,7 +56,7 @@ L'intervistato di questa settimana si chiama Nicola Moscheni, ha 26 anni studia 
 
 ### È un modello di architettura sostenibile replicabile anche altrove?
 
-> Sì, con opportune modifiche a seconda del luogo, del clima e dello stato dei fatti. **RhOME può intervenire in molte realtà**, non necessariamente su edifici *ex novo*, ma applicando i principi del progetto anche al costruito.
+> Sì, con opportune modifiche a seconda del luogo, del clima e dello stato dei fatti. **RhOME può intervenire in molte realtà**, non necessariamente su edifici _ex novo_, ma applicando i principi del progetto anche al costruito.
 >
 > L'applicazione come modello insediativo è una cosa molto delicata e non automatica nella sua realizzazione. Tuttavia, potrebbe diventare un'occasione di scambio per la ricerca e l'applicazione di modelli innovativi.
 >

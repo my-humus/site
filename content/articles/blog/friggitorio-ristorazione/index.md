@@ -1,7 +1,7 @@
 ---
 title: 'Le soluzioni green di Friggitorio'
 date: '2014-07-22T00:00:02+00:00'
-description: 'Friggitorio ha adottato diverse soluzioni green per rispondere a una clientela giovane e sempre più sensibile all'aspetto ambientale.'
+description: "Friggitorio ha adottato diverse soluzioni green per rispondere a una clientela giovane e sempre più sensibile all'aspetto ambientale."
 featuredImage: ./daniele-belleffi.jpg
 category:
     - Green Mix
@@ -14,11 +14,11 @@ tags:
 C'è un localino, in Viale dei Lombardi 72 a Lido di Classe, che è una chicca per il palato: si chiama [FriggitoRìo](http://www.friggitorio.com/Friggitorio/Friggitorio_LIDO_DI_CLASSE.html) ed è uno dei primi ristoranti sorti a Lido di Classe.
 Gestito dalla famiglia Belleffi, è una gastronomia da asporto aperta tutto l'anno che propone piatti a base di pesce: dalle fritture alle grigliate fino ai primi piatti di mare.
 
-Il locale ospita la *saletta al cartoccio*, priva di servizio al tavolo, in cui mangiare all'interno di un ambiente semplice e accogliente.
+Il locale ospita la _saletta al cartoccio_, priva di servizio al tavolo, in cui mangiare all'interno di un ambiente semplice e accogliente.
 
 Gli attuali titolari sono due giovani fratelli che hanno avviato la nuova attività nel 2011, rilevando il ristorante di famiglia e trasformandolo secondo le esigenze di un mercato in continua evoluzione che punta al risparmio senza rinunciare alla qualità.
 
-FriggitoRìo, nato per dare rispondere a una clientela giovane e attenta all'ambiente, si sta impegnando ad essere sempre più *ecofriendly*, coniugando il senso di responsabilità verso l'ambiente con le esigenze di risparmio economico ed energetico.
+FriggitoRìo, nato per dare rispondere a una clientela giovane e attenta all'ambiente, si sta impegnando ad essere sempre più _ecofriendly_, coniugando il senso di responsabilità verso l'ambiente con le esigenze di risparmio economico ed energetico.
 Ne ho parlato con Daniele Belleffi.
 
 ![FriggitoRìo](./logo.jpg)
@@ -35,7 +35,7 @@ Ne ho parlato con Daniele Belleffi.
 
 > Innanzitutto, abbiamo puntato sulla qualità dei prodotti utilizzando materie prime che, per la maggior parte, provengono dal nostro **territorio**. Ne sono un esempio le cozze di Cervia e il pesce dell'Adriatico.
 >
-> Oltre a privilegiare i prodotti locali, all'interno di FriggitoRìo abbiamo una dettagliata **raccolta differenziata**. Viene attuata sui materiali forniti dal locale agli avventori della saletta *al cartoccio*. C'è un po' di tutto: umido, indifferenziato, alluminio, plastica, carta e vetro.
+> Oltre a privilegiare i prodotti locali, all'interno di FriggitoRìo abbiamo una dettagliata **raccolta differenziata**. Viene attuata sui materiali forniti dal locale agli avventori della saletta _al cartoccio_. C'è un po' di tutto: umido, indifferenziato, alluminio, plastica, carta e vetro.
 >
 > Siamo impegnati anche sul fronte del riutilizzo dei rifiuti prodotti. Al momento, l'olio utilizzato per la frittura viene venduto a un'azienda che lo riutilizza nella produzione di saponi e di altri materiali.
 >

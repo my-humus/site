@@ -1,17 +1,16 @@
 ---
-title: 'Viaggi e alloggi ecosostenibili: scoprili tutti!'
-date: '2015-01-29T15:42:37+00:00'
-description: 'Se cerchi viaggi e alloggi ecosostenibili, scopri ViaggiVerdi e consulta tutte le opportunità offerte dal suo sito!'
+title: "Viaggi e alloggi ecosostenibili: scoprili tutti!"
+date: "2015-01-29T15:42:37+00:00"
+description: "Se cerchi viaggi e alloggi ecosostenibili, scopri ViaggiVerdi e consulta tutte le opportunità offerte dal suo sito!"
 featuredImage: ./turismo-sostenibile.jpg
 category:
-    - Ecoprogetti
+  - Ecoprogetti
 tags:
-    - Sostenibilità
-    - Turismo responsabile
-    - Turismo sostenibile
-    - Viaggiare sostenibile
+  - Sostenibilità
+  - Turismo responsabile
+  - Turismo sostenibile
+  - Viaggiare sostenibile
 ---
-
 
 ![Silvia Ombellini](./silvia-ombellini.jpg)
 
@@ -38,7 +37,7 @@ Insediato all'interno di [Progetto Manifattura](http://www.progettomanifattura.i
 
 ### Quali sono i problemi ambientali legati al turismo?
 
-> Forse non tutti lo sanno, ma il turismo ha un grande impatto sull'ambiente. Secondo i dati dell'Unione Europea (*Consumption and Environment 2012*), è la quarta causa di produzione di anidride carbonica in Europa.
+> Forse non tutti lo sanno, ma il turismo ha un grande impatto sull'ambiente. Secondo i dati dell'Unione Europea (_Consumption and Environment 2012_), è la quarta causa di produzione di anidride carbonica in Europa.
 >
 > Il dato è preoccupante, se pensiamo che il numero di turisti a livello globale è in continua crescita. Nel 2030 saranno 1,8 milioni all'anno, quasi il doppio rispetto ad oggi!
 >
@@ -74,7 +73,7 @@ Insediato all'interno di [Progetto Manifattura](http://www.progettomanifattura.i
 
 > Oggi i viaggiatori di tutto il mondo possono contattare strutture ricettive ecologiche solo in Italia.
 >
-> Stiamo iniziando a ricevere richieste di iscrizione da strutture estere e, a breve, sarà online *Ecobnb.com*, che riporterà anche gli hotel ecologici di altre parti del mondo.
+> Stiamo iniziando a ricevere richieste di iscrizione da strutture estere e, a breve, sarà online _Ecobnb.com_, che riporterà anche gli hotel ecologici di altre parti del mondo.
 
 ### Un'ultimissima domanda: proponete soluzioni ecofriendly anche per gli amici animali?
 

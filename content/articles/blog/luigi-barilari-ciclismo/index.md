@@ -1,16 +1,15 @@
 ---
-title: 'Storie di ciclismo al cardiopalma'
-date: '2015-09-24T10:25:26+00:00'
-description: 'Tre anni fa, Luigi Barilari ha percorso 4.870 km in 11 giorni e 22 ore. Le sue sono storie di ciclismo, di amicizia e di sfide con sé stessi.'
+title: "Storie di ciclismo al cardiopalma"
+date: "2015-09-24T10:25:26+00:00"
+description: "Tre anni fa, Luigi Barilari ha percorso 4.870 km in 11 giorni e 22 ore. Le sue sono storie di ciclismo, di amicizia e di sfide con sé stessi."
 featuredImage: ./luigi-barilari.jpg
 category:
-    - Mobilità sostenibile
+  - Mobilità sostenibile
 tags:
-    - Avventura
-    - Ciclismo
-    - RAAM
+  - Avventura
+  - Ciclismo
+  - RAAM
 ---
-
 
 Ci sono tantissime storie di ciclismo appassionanti, in giro, e questa settimana voglio raccontarvene una io.
 C'è qualcuno, in quel di Forlì, che ha deciso di attraversare gli USA a bordo della propria bicicletta da corsa: si chiama [Luigi Barilari](http://www.luigibarilari.it/wordpress/), classe 1955.
@@ -44,7 +43,7 @@ Luigi e la sua umiltà, Luigi e le sue storie di ciclismo, Luigi e la sua vita d
 >
 > È così che, dopo aver partecipato alla Rimini-Viareggio, mi sono appassionato al mondo delle randonnée, stimolato anche dall'amico Giorgio Zauli. Nel 2007 ho accompagnato Giorgio alla randonnée più famosa d'Europa, la [Parigi-Brest-Parigi](http://www.paris-brest-paris.org), promettendomi di affrontarla anch'io.
 >
-> Così ho iniziato a *macinare* sempre più km: 400..500..fino ai miei primi 900 km nella Sorrento-Tropea-Sorrento. Un tragitto, quello, che ho percorso con Carla Sedioli, la ciclista insieme alla quale avevo partecipato alla Rimini-Viareggio.
+> Così ho iniziato a _macinare_ sempre più km: 400..500..fino ai miei primi 900 km nella Sorrento-Tropea-Sorrento. Un tragitto, quello, che ho percorso con Carla Sedioli, la ciclista insieme alla quale avevo partecipato alla Rimini-Viareggio.
 >
 > Nel 2010 ho raggiunto il traguardo della [1001 Miglia](http://www.1001migliaitalia.it), la randonnée più lunga d'Europa: 1660 km percorsi in 88 ore.
 >
@@ -58,7 +57,7 @@ Luigi e la sua umiltà, Luigi e le sue storie di ciclismo, Luigi e la sua vita d
 
 ### Bene, ora parliamo della più incredibile fra le tue storie di ciclismo: la RAAM (Race Across America). Quando e perché hai deciso di cimentarti in questa avventura?
 
-> Quando si parla di [RAAM](http://www.raceacrossamerica.org/raam/raam2.php?N_webcat_id=1) si fa riferimento all'*ultracycling*, cioè a una competizione in solitaria. È il mitico *coast to coast* degli Stati Uniti, però fatto a ritroso rispetto al cammino dei pionieri dell'800.
+> Quando si parla di [RAAM](http://www.raceacrossamerica.org/raam/raam2.php?N_webcat_id=1) si fa riferimento all'_ultracycling_, cioè a una competizione in solitaria. È il mitico _coast to coast_ degli Stati Uniti, però fatto a ritroso rispetto al cammino dei pionieri dell'800.
 >
 > Il mio interesse nei suoi confronti è nato dalla mia passione per le randonnée. Nel 2011, inoltre, avevo partecipato alla presentazione di uno dei 9 italiani che avevano preso parte alla RAAM, la prima e unica donna ad aver affrontato l'avventura: Sabrina Bianchi. Dopo quell'incontro, la Race Across America è ufficialmente divenuta la mia ossessione: non potevo farmela scappare. Sarebbe entrata fra le mie storie di ciclismo, senza alcun dubbio!
 >
@@ -102,6 +101,6 @@ Luigi e la sua umiltà, Luigi e le sue storie di ciclismo, Luigi e la sua vita d
 
 ### Prima di salutarci, dimmi: qualcuno, durante quei festeggiamenti, ha detto qualcosa che ti ha colpito?
 
-> Una ragazza, dopo aver visto il video dell'avventura, ha detto: '*È bellissima l'umiltà con cui avete affrontato questa esperienza*'. Quello è stato il complimento più bello.
+> Una ragazza, dopo aver visto il video dell'avventura, ha detto: '_È bellissima l'umiltà con cui avete affrontato questa esperienza_'. Quello è stato il complimento più bello.
 
 ![Traguardo](./traguardo.jpg)

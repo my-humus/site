@@ -4,7 +4,7 @@ import classNames from "classnames"
 
 import "../scss/utils/_paginator.scss"
 
-export const ellipsis = (upper) => {
+export const ellipsis = upper => {
   return (
     <li key={"page-" + (upper ? "ellipsis-upper" : "ellipsis-lower")}>
       <span>...</span>
@@ -13,7 +13,7 @@ export const ellipsis = (upper) => {
 }
 
 export const item = (context, page) => {
-  let link = page > 1 ? ("/" + page) : ""
+  let link = page > 1 ? "/" + page : ""
   let slug = context.slug ? context.slug : "blog"
 
   return (
@@ -30,7 +30,7 @@ export const item = (context, page) => {
   )
 }
 
-export const paginate = (context) => {
+export const paginate = context => {
   let items = []
 
   if (context.numPages > 1) {
@@ -44,13 +44,17 @@ export const paginate = (context) => {
   for (let i = 0; i < context.numPages; i++) {
     let page = i + 1
 
-    if (page !== 1 && page !== context.numPages && (page < (context.currentPage + 2) && page > (context.currentPage - 2))) {
+    if (
+      page !== 1 &&
+      page !== context.numPages &&
+      page < context.currentPage + 2 && page > context.currentPage - 2
+    ) {
       items.push(item(context, page))
     }
   }
 
   if (context.numPages > 1) {
-    if (context.currentPage < (context.numPages - 2)) {
+    if (context.currentPage < context.numPages - 2) {
       items.push(ellipsis(true))
     }
 
@@ -60,13 +64,11 @@ export const paginate = (context) => {
   return items
 }
 
-export const navigator = (context) => {
+export const navigator = context => {
   if (context.numPages > 1) {
     return (
       <nav className="paginator-nav">
-        <ul>
-          {paginate(context)}
-        </ul>
+        <ul>{paginate(context)}</ul>
       </nav>
     )
   } else {

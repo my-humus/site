@@ -8,7 +8,7 @@ export default class MainNavigation extends Component {
     isActive: false
   }
 
-  handleClick = (e) => {
+  handleClick = e => {
     e.preventDefault()
     this.setState(state => ({ isActive: !state.isActive }))
     return false
@@ -17,7 +17,7 @@ export default class MainNavigation extends Component {
   render() {
     const toggleClass = classNames({
       "navbar-burger": true,
-      "burger": true,
+      burger: true,
       "is-active": this.state.isActive
     })
     const menuClass = classNames({
@@ -38,12 +38,23 @@ export default class MainNavigation extends Component {
           }
         `}
         render={data => (
-          <nav className="navbar" role="navigation" aria-label="main navigation">
+          <nav
+            className="navbar"
+            role="navigation"
+            aria-label="main navigation"
+          >
             <div className="navbar-brand">
               <Link to={`/`} className="navbar-logo">
                 <i className="icon-myhumus-logo"></i>
               </Link>
-              <Link to={`/`} onClick={this.handleClick} role="button" className={toggleClass} aria-label="menu" aria-expanded="false">
+              <Link
+                to={`/`}
+                onClick={this.handleClick}
+                role="button"
+                className={toggleClass}
+                aria-label="menu"
+                aria-expanded="false"
+              >
                 <span aria-hidden="true"></span>
                 <span aria-hidden="true"></span>
                 <span aria-hidden="true"></span>

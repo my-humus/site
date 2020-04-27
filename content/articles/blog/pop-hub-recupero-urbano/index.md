@@ -1,7 +1,7 @@
 ---
 title: 'Pop Hub per la riqualificazione degli spazi abbandonati'
 date: '2014-05-30T00:00:08+00:00'
-description: 'Pop Hub è uno strumento tecnico che focalizza l'attenzione sulla riqualificazione degli spazi abbandonati e sottoutilizzati per favorire il loro recupero.'
+description: "Pop Hub è uno strumento tecnico che focalizza l'attenzione sulla riqualificazione degli spazi abbandonati e sottoutilizzati per favorire il loro recupero."
 featuredImage: ./davide-carluccio.jpg
 category:
     - Ecoprogetti
@@ -28,8 +28,8 @@ E qui arriva [Pop Hub](http://www.pophub.it), uno strumento tecnico che focalizz
 La mission di Pop Hub è quella di **ridare vita agli "scarti urbani"**, trasformandoli in **luoghi di innovazione sociale**, di **produzione culturale** e di **imprenditorialità locale diffusa**.
 Concepito per la rilevazione urbana, e al servizio delle amministrazioni locali, Pop Hub può essere utilizzato direttamente dagli utenti per generare idee di riutilizzo.
 
-Forse non tutti sanno che Pop Hub è vincitore del bando *Smart Cities and Social Innovation* nell'ambito del PON *Ricerca e Competitività* 2007-2013 finanziato dal Ministero dell'Istruzione, dell'Università e della Ricerca.
-Ha vinto anche la *Call for Ideas - Spazio pubblico/networks/social Innovation* promossa dalla Biennale dello Spazio Pubblico, edizione 2013.
+Forse non tutti sanno che Pop Hub è vincitore del bando _Smart Cities and Social Innovation_ nell'ambito del PON _Ricerca e Competitività_ 2007-2013 finanziato dal Ministero dell'Istruzione, dell'Università e della Ricerca.
+Ha vinto anche la _Call for Ideas - Spazio pubblico/networks/social Innovation_ promossa dalla Biennale dello Spazio Pubblico, edizione 2013.
 
 Pop Hub punta a creare un **network nazionale di progetti virtuosi e di buone pratiche**. Sviluppatosi inizialmente in Puglia, ora si estende anche ad altre regioni italiane come, ad esempio, la nostra Emilia-Romagna.
 
@@ -54,7 +54,7 @@ Ho parlato di questo progetto insieme a **Davide Carluccio**, architetto che col
 
 > PopHub è uno strumento per osservare, conoscere, interpretare e riattivare.
 >
-> Il nostro lavoro include diversi ambiti operativi per offrire uno strumento di **rilevazione urbana al servizio delle città, delle amministrazioni locali e dei tecnici**. Un *database* è popolato direttamente dai fruitori della città e accessibile a tutti.
+> Il nostro lavoro include diversi ambiti operativi per offrire uno strumento di **rilevazione urbana al servizio delle città, delle amministrazioni locali e dei tecnici**. Un _database_ è popolato direttamente dai fruitori della città e accessibile a tutti.
 >
 > Abbiamo **[piattaforma](http://www.pophub.it)** e un'**App mobile** per consentire a chiunque di segnalare spazi ed edifici. Si possono anche condividere contenuti, contribuendo alla realizzazione di specifiche schede operative e di azioni concrete.
 >
@@ -86,7 +86,7 @@ Ho parlato di questo progetto insieme a **Davide Carluccio**, architetto che col
 >
 > Nel nostro territorio c'è [Casa Netural](http://www.benetural.com), che sta avviando sinergie con diversi gruppi attivi in Puglia.
 >
-> All'estero si va dall'edificio *Manifesto di Lisbona* ad agenzie, attive soprattutto nei paesi anglosassoni, specializzate nell'individuazione e nel sostegno per la riapertura con metodi innovativi e appetibili, specie di locali commerciali inutilizzati.
+> All'estero si va dall'edificio _Manifesto di Lisbona_ ad agenzie, attive soprattutto nei paesi anglosassoni, specializzate nell'individuazione e nel sostegno per la riapertura con metodi innovativi e appetibili, specie di locali commerciali inutilizzati.
 
 ### Cosa riserva il futuro?
 

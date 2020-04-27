@@ -1,34 +1,33 @@
 ---
-title: 'Vivibilità in Italia: parliamone'
-date: '2015-11-26T11:25:07+00:00'
+title: "Vivibilità in Italia: parliamone"
+date: "2015-11-26T11:25:07+00:00"
 description: 'Italia: vivibilità sì o vivibilità no? Il dossier di Legambiente "Ecosistema Urbano" cerca di dare una risposta.'
 featuredImage: ./rowan-heuvel.jpg
 category:
-    - Green Mix
+  - Green Mix
 tags:
-    - Ecosistema urbano
-    - Salute
-    - Sostenibilità
-    - Vivibilità
+  - Ecosistema urbano
+  - Salute
+  - Sostenibilità
+  - Vivibilità
 ---
-
 
 Poco tempo fa ho consultato [Ecosistema Urbano](http://www.legambiente.it/contenuti/comunicati/ecosistema-urbano-xxii-edizione), il rapporto annuale di Legambiente sulla vivibilità in Italia. Checché se ne dica, il Bel Paese fatica a migliorarsi sul fronte ambientale.
 
 ![Mirko Laurenti](./legambiente-mirko-laurenti.jpg)
 
-Alla sua [XXII edizione](http://www.legambiente.it/sites/default/files/docs/ecosistemaurbano_2015_xxiiedizione.pdf), il dossier è appena stato pubblicato e, purtroppo, non offre una grande immagine del nostro Paese. *Stanche*, *ingessate* e *pigre* sono gli aggettivi che meglio sembrano delineare le nostre città.
+Alla sua [XXII edizione](http://www.legambiente.it/sites/default/files/docs/ecosistemaurbano_2015_xxiiedizione.pdf), il dossier è appena stato pubblicato e, purtroppo, non offre una grande immagine del nostro Paese. _Stanche_, _ingessate_ e _pigre_ sono gli aggettivi che meglio sembrano delineare le nostre città.
 Qualche giorno ne ho parlato insieme a Mirko Laurenti, direttamente coinvolto nella stesura del documento.
 
 ### Ciao, Mirko! Come primissima cosa, presentati...
 
-> Ciao, Anna. In Legambiente mi occupo di tutte le fasi di stesura di *Ecosistema Urbano* che inviamo alle amministrazioni comunali, avendo cura della sua diffusione e della raccolta e verifica dei dati.
+> Ciao, Anna. In Legambiente mi occupo di tutte le fasi di stesura di _Ecosistema Urbano_ che inviamo alle amministrazioni comunali, avendo cura della sua diffusione e della raccolta e verifica dei dati.
 >
 > La parte tecnica di questo lavoro è affidata all'Istituto di Ricerche Ambiente Italia, che certifica il dato stesso.
 
-### Cos'è *Ecosistema Urbano*? Serve a misurare la vivibilità in Italia?
+### Cos'è _Ecosistema Urbano_? Serve a misurare la vivibilità in Italia?
 
-> *Ecosistema Urbano* è una ricerca sulla **vivibilità ambientale dei capoluoghi di provincia italiani**. È una delle prime esperienze mondiali di **reporting ambientale**.
+> _Ecosistema Urbano_ è una ricerca sulla **vivibilità ambientale dei capoluoghi di provincia italiani**. È una delle prime esperienze mondiali di **reporting ambientale**.
 >
 > È una foto della situazione di una certa città in termini di pressione ambientale e di risposta data dagli amministratori ad alcune criticità.
 >

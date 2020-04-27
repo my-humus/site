@@ -1,21 +1,21 @@
 ---
-title: 'Aldo Mandato e la mobilità alternativa'
-date: '2014-11-11T00:00:06+00:00'
-description: 'Aldo mandato è un telaista e si occupa di biciclette. Ogni giorno, col suo lavoro, contribuisce alla mobilità alternativa.'
+title: "Aldo Mandato e la mobilità alternativa"
+date: "2014-11-11T00:00:06+00:00"
+description: "Aldo mandato è un telaista e si occupa di biciclette. Ogni giorno, col suo lavoro, contribuisce alla mobilità alternativa."
 featuredImage: ./aldo-mandato-scattofisso.jpg
 category:
-    - Mobilità sostenibile
+  - Mobilità sostenibile
 tags:
-    - Bicicletta
-    - Bike
-    - Green lifestyle
-    - Sostenibilità
-    - Trasporti
+  - Bicicletta
+  - Bike
+  - Green lifestyle
+  - Sostenibilità
+  - Trasporti
 ---
 
 ![Aldo Mandato](./aldo-mandato.jpg)
 
-*Dimmi che garage hai e ti dirò chi sei*.
+_Dimmi che garage hai e ti dirò chi sei_.
 
 Mio padre, ad esempio, l'ha trasformato nell'officina del tuttofare. Mio fratello ne ha fatto in mini-palestra. Steve Jobs e Steve Wozniak ne fecero un laboratorio informatico. Jack O'Neill, nel 1952, lo convertì in un surf shop della Great Highway di San Francisco.
 

@@ -19,18 +19,17 @@ class DefaultPostTemplate extends React.Component {
             <section className="hero">
               <div className="hero-body">
                 <div className="container">
-                  <h1 className="title">
-                    {post.frontmatter.title}
-                  </h1>
-                  <h2 className="subtitle">
-                    {post.frontmatter.description}
-                  </h2>
+                  <h1 className="title">{post.frontmatter.title}</h1>
+                  <h2 className="subtitle">{post.frontmatter.description}</h2>
                 </div>
               </div>
             </section>
           </ArticleHeader>
           <div className="container">
-            <section className="post-content" dangerouslySetInnerHTML={{ __html: post.html }} />
+            <section
+              className="post-content"
+              dangerouslySetInnerHTML={{ __html: post.html }}
+            />
           </div>
         </article>
       </PostLayout>
@@ -48,7 +47,7 @@ export const pageQuery = graphql`
         author
       }
     }
-    markdownRemark(fields: {slug: {eq: $slug } }) {
+    markdownRemark(fields: { slug: { eq: $slug } }) {
       id
       excerpt(pruneLength: 160)
       html

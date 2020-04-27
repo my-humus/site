@@ -1,16 +1,15 @@
 ---
-title: 'Promuovere il biologico in Emilia-Romagna: Bio Gourmet!'
-date: '2015-03-19T09:49:40+00:00'
-description: 'Una rete di locali punta a promuovere il biologico in Emilia-Romagna proponendo un menu certificato. Ne ho parlato con Marco Pasi, responsabile di Bio Gourmet.'
+title: "Promuovere il biologico in Emilia-Romagna: Bio Gourmet!"
+date: "2015-03-19T09:49:40+00:00"
+description: "Una rete di locali punta a promuovere il biologico in Emilia-Romagna proponendo un menu certificato. Ne ho parlato con Marco Pasi, responsabile di Bio Gourmet."
 featuredImage: ./bio-gourmet.jpg
 category:
-    - Cucina
+  - Cucina
 tags:
-    - Agricoltura biologica
-    - Bio
-    - Ristorazione
+  - Agricoltura biologica
+  - Bio
+  - Ristorazione
 ---
-
 
 Promuovere il biologico in Emilia-Romagna attraverso una proposta basata su ingredienti certificati: non male, come idea!
 
@@ -44,7 +43,7 @@ Io sono curiosa di saperne di più, e voi?
 >
 > Nel disciplinare che gli aderenti devono sottoscrivere e rispettare, infatti, sono previste le modalità da utilizzare per la gestione dei prodotti, sia nella fase di immagazzinamento e di lavorazione dei piatti e delle ricette che in quella di comunicazione alla clientela, compreso l'obbligo di mettere a disposizione della clientela gli elenchi dei fornitori o dei prodotti biologici.
 >
-> Le imprese interessate a Bio Gourmet possono contattare direttamente i responsabili [Fiepet Confesercenti](http://www.fiepet.it) della propria provincia. Riceveranno tutte le informazioni necessarie. In alternativa, possono scrivere a *redazione@catconfesercenti.it* o *redazione@ecobio.bo.it*.
+> Le imprese interessate a Bio Gourmet possono contattare direttamente i responsabili [Fiepet Confesercenti](http://www.fiepet.it) della propria provincia. Riceveranno tutte le informazioni necessarie. In alternativa, possono scrivere a _redazione@catconfesercenti.it_ o _redazione@ecobio.bo.it_.
 
 ### Chi controlla che tutti i requisiti e le attività vengano rispettati?
 

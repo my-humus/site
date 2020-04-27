@@ -1,20 +1,19 @@
 ---
-title: 'La meravigliosa cucina vegetale di Carla'
-date: '2015-09-17T13:26:20+00:00'
-description: 'Carla Leni è la dolcissima autrice di un blog di cucina vegetale: La Cucina della Capra. Ai suoi lettori, Carla propone solo ricette 100% cruelty-free.'
+title: "La meravigliosa cucina vegetale di Carla"
+date: "2015-09-17T13:26:20+00:00"
+description: "Carla Leni è la dolcissima autrice di un blog di cucina vegetale: La Cucina della Capra. Ai suoi lettori, Carla propone solo ricette 100% cruelty-free."
 featuredImage: ./cucina-vegetale-vegan.jpg
 category:
-    - Cucina
+  - Cucina
 tags:
-    - Cucina
-    - Cucina vegana
-    - Cucina vegetale
-    - Vegan
+  - Cucina
+  - Cucina vegana
+  - Cucina vegetale
+  - Vegan
 ---
 
-
 Qualche tempo fa, al telefono con l'esperto di cucina vegetale [Manuel Marcuccio](http://www.unocookbook.com), parlavo del più e del meno: dove andare in vacanza, che caldo abominevole, le cose in programma per il mese successivo.
-Che caldo atroce, quello di agosto. Impossibile non ripensare a *Do the Right Thing* di Spike Lee. La scena dei bambini che giocano con l'idrante e della donna che immerge il viso nel lavandino pieno d'acqua.
+Che caldo atroce, quello di agosto. Impossibile non ripensare a _Do the Right Thing_ di Spike Lee. La scena dei bambini che giocano con l'idrante e della donna che immerge il viso nel lavandino pieno d'acqua.
 Agosto e il suo caldo disumano.
 
 E insomma, dicevo che parlavo con Manuel e ascoltavo i suoi programmi per l'autunno: una vacanza in Canada, alcuni lavori da finire e la collaborazione a un libro di ricette di prossima pubblicazione. Il libro di una ragazza dolcissima, appassionata di cucina vegetale.

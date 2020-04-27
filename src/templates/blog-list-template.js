@@ -41,7 +41,7 @@ export const pageQuery = graphql`
       sort: { fields: [frontmatter___date], order: DESC }
       limit: $limit
       skip: $skip
-      filter: { fields: { slug: { regex: "^\/blog\/" } } }
+      filter: { fields: { slug: { regex: "^/blog/" } } }
     ) {
       edges {
         node {
@@ -54,7 +54,7 @@ export const pageQuery = graphql`
             title
             description
             featuredImage {
-              childImageSharp{
+              childImageSharp {
                 fixed(width: 320, height: 220, quality: 60) {
                   ...GatsbyImageSharpFixed
                 }

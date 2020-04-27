@@ -1,18 +1,18 @@
 ---
-title: 'Il trekking introspettivo di Simone Enei'
-date: '2014-04-09T00:00:29+00:00'
-description: 'Simone Enei è un giovane forlivese molto speciale che, agli aperitivi e alle serate in disco, preferisce il trekking introspettivo.'
+title: "Il trekking introspettivo di Simone Enei"
+date: "2014-04-09T00:00:29+00:00"
+description: "Simone Enei è un giovane forlivese molto speciale che, agli aperitivi e alle serate in disco, preferisce il trekking introspettivo."
 featuredImage: ./enei.jpg
 category:
-    - Green Mix
+  - Green Mix
 tags:
-    - Avventura
-    - Ecologia
-    - Green lifestyle
-    - Trekking
+  - Avventura
+  - Ecologia
+  - Green lifestyle
+  - Trekking
 ---
 
-Dedicarsi al trekking introspettivo significa, sostanzialmente, camminare in mezzo alla natura per ritrovare sé stessi, per stabilire, o ristabilire, un nuovo dialogo col proprio *io* interiore.
+Dedicarsi al trekking introspettivo significa, sostanzialmente, camminare in mezzo alla natura per ritrovare sé stessi, per stabilire, o ristabilire, un nuovo dialogo col proprio _io_ interiore.
 
 A Forlì c'è qualcuno che, sull'errare, ha sviluppato una tesi di laurea: **Simone Enei** vede nel camminare una forma di coscienza.
 Simone cammina per boschi e, allo stesso tempo, raccoglie e fotografa rocce, muschi, licheni, foglie, bastoni ed eventuali piccoli ossicini.
@@ -36,7 +36,7 @@ Lungo questo tragitto, oltre ad aver dormito in tenda o presso alcuni bivacchi e
 
 ![Paesaggio](./paesaggio-2.jpg)
 
-### *Walden, ovvero Vita nei boschi* è un saggio autobiografico di Henry David Thoreau. L'autore cerca un rapporto intimo con la natura e con sé stesso, lontano da una società povera di valori. Quanto ti riconosci in Thoreau?
+### _Walden, ovvero Vita nei boschi_ è un saggio autobiografico di Henry David Thoreau. L'autore cerca un rapporto intimo con la natura e con sé stesso, lontano da una società povera di valori. Quanto ti riconosci in Thoreau?
 
 > Tantissimo! Non mi ritrovo soltanto in tutte le sue considerazioni su quella che è la nostra società, o su quello che è per lui la vita umana. Nelle sue parole ho trovato il mio stesso desiderio di **vivere la natura dei boschi, dei laghi e delle montagne** come esperienza della vita stessa.
 

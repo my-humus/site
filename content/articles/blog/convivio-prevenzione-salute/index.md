@@ -1,7 +1,7 @@
 ---
-title: 'Convivio e l'umanizzazione delle cure oncologiche'
+title: "Convivio e l'umanizzazione delle cure oncologiche"
 date: '2017-03-09T11:05:53+00:00'
-description: 'Convivio è un progetto di umanizzazione delle cure proposto dall'Oncologia di Verona diretta dal Prof. Giampaolo Tortora.'
+description: "Convivio è un progetto di umanizzazione delle cure proposto dall'Oncologia di Verona diretta dal Prof. Giampaolo Tortora."
 featuredImage: ./toa-heftiba.jpg
 category:
     - Ecoprogetti
@@ -43,7 +43,7 @@ Oltre a svolgere le sue normali mansioni presso il servizio di nutrizione oncolo
 >
 > Il fatto è che la perdita di peso, nel caso della cura di malattie al pancreas e al sistema digerente in generale, non deve avvenire.
 >
-La nostra umanizzazione delle cure oncologiche risiede anche in alcune specifiche **attività gastronomiche** ora racchiuse in *Convivio con gusto e salute*. Esse vogliono **favorire l'appetito proponendo menu che aiutino e stimolino i pazienti**. Ci sono primi piatti, spuntini e sapori forti come quelli delle acciughe e dello zenzero.
+> La nostra umanizzazione delle cure oncologiche risiede anche in alcune specifiche **attività gastronomiche** ora racchiuse in _Convivio con gusto e salute_. Esse vogliono **favorire l'appetito proponendo menu che aiutino e stimolino i pazienti**. Ci sono primi piatti, spuntini e sapori forti come quelli delle acciughe e dello zenzero.
 
 ### Umanizzazione delle cure oncologiche, certo, ma anche proposte di momenti di svago. Giusto?
 
@@ -66,7 +66,7 @@ La nostra umanizzazione delle cure oncologiche risiede anche in alcune specifich
 > Poi è stata la volta di Martina e, per qualche mese, di Marta: entrambe sono state fondamentali nella gestione e nella comunicazione legata a Convivio. Martina collabora ancora oggi con noi.
 >
 > Daniela e Miriam ci stanno dando una mano attraverso il servizio civile. Siamo tante.
-Nel solo 2016, da gennaio a dicembre, abbiamo effettuato più di 1.700 consulenze. C'è sempre tanto lavoro da fare e dividersi i compiti è fondamentale.
+> Nel solo 2016, da gennaio a dicembre, abbiamo effettuato più di 1.700 consulenze. C'è sempre tanto lavoro da fare e dividersi i compiti è fondamentale.
 
 ![Una volontaria all'incontro di giardinaggio.](./progetto-convivio-verona-2.jpg)
 
@@ -80,7 +80,7 @@ Nel solo 2016, da gennaio a dicembre, abbiamo effettuato più di 1.700 consulenz
 
 > Sì, a volte ci avvaliamo anche di strutture esterne.
 >
-> Il corso *La Cucina del Convivio*, ad esempio, è stato condotto presso il [Centro Formativo degli Stimmatini di Verona](http://www.centrostimmatini.it/sito/) dotato di uno spazio e di un bravissimo chef, Fulvio De Santa. Insieme a loro siamo state invitate allExpo per organizzare un convegno e uno showcooking.
+> Il corso _La Cucina del Convivio_, ad esempio, è stato condotto presso il [Centro Formativo degli Stimmatini di Verona](http://www.centrostimmatini.it/sito/) dotato di uno spazio e di un bravissimo chef, Fulvio De Santa. Insieme a loro siamo state invitate allExpo per organizzare un convegno e uno showcooking.
 
 ### Quante persone avete coinvolto, finora, nel vostro percorso di umanizzazione delle cure oncologiche?
 
@@ -93,7 +93,7 @@ Nel solo 2016, da gennaio a dicembre, abbiamo effettuato più di 1.700 consulenz
 > Oltre alla consueta attività di educazione alimentare, abbiamo proposto un focus sul tipo di pentole e sui tipi di cottura.
 >
 > Ad esempio, consigliamo di non lasciare il cibo nelle pentole in alluminio e di privilegiare materiali naturali anche per la cottura. Riguardo alle pentole antiaderenti, consigliamo di utilizzare solo quelle di nuova generazione senza PFOA.
-Le persone usano spesso pentole rovinate che, in realtà, dovrebbero essere buttate via, e non prestano molta attenzione ai materiali.
+> Le persone usano spesso pentole rovinate che, in realtà, dovrebbero essere buttate via, e non prestano molta attenzione ai materiali.
 >
 > Anche sulle pellicole per avvolgere i cibi si potrebbe aprire un capitolo. Ce ne sono alcune più adatte agli alimenti grassi e altre che lo sono meno. Potremmo parlare di questo argomento per ore...
 >

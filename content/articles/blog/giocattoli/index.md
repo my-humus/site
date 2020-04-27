@@ -1,21 +1,21 @@
 ---
-title: 'Renzo adora costruire giocattoli'
-date: '2015-04-30T10:00:51+00:00'
+title: "Renzo adora costruire giocattoli"
+date: "2015-04-30T10:00:51+00:00"
 description: "Renzo Laporta vive a Ravenna e utilizza materiali riciclati per ideare e costruire giocattoli all'interno dei centri educativi."
 featuredImage: ./grande-banner.jpg
 category:
-    - Green Mix
+  - Green Mix
 tags:
-    - Giocattoli
-    - Gioco
-    - Hand made
-    - Sostenibilità
+  - Giocattoli
+  - Gioco
+  - Hand made
+  - Sostenibilità
 ---
 
 ![Renzo Laporta](./renzo-laporta.jpg)
 
 Era da un po' di tempo che cercavo qualcuno che sapesse costruire giocattoli di legno, o giocattoli in generale. La scorsa settimana, un amico mi ha suggerito un mio concittadino ravennate: **Renzo Laporta**.
-Renzo, in effetti, è un *toy maker* che vive a Ravenna e che costruisce giocattoli utilizzando materiali riciclati. È una persona molto gentile che parla a bassa voce e che, si nota chiaramente, ha una passione sfrenata per questo tipo di hobby.
+Renzo, in effetti, è un _toy maker_ che vive a Ravenna e che costruisce giocattoli utilizzando materiali riciclati. È una persona molto gentile che parla a bassa voce e che, si nota chiaramente, ha una passione sfrenata per questo tipo di hobby.
 
 ### Ciao, Renzo! Dimmi, qual è la tua concezione dell'infanzia? E perché costruire giocattoli?
 
@@ -25,11 +25,11 @@ Renzo, in effetti, è un *toy maker* che vive a Ravenna e che costruisce giocatt
 >
 > Serve **tornare alla genuinità del gioco riconoscendo** la genuinità dell'infanzia che, oggi, è andata un po' persa.
 >
-> Per quanto riguarda la concezione dell'infanzia, mi piace la visione di Eugenio Montale in *Fine dell'infanzia*. È una poesia che parla del momento il cui bambino avverte l'arrivo della pre-adolescenza e abbandona ciò che + stato fino a quel momento.
+> Per quanto riguarda la concezione dell'infanzia, mi piace la visione di Eugenio Montale in _Fine dell'infanzia_. È una poesia che parla del momento il cui bambino avverte l'arrivo della pre-adolescenza e abbandona ciò che + stato fino a quel momento.
 >
 > La modernità vede il bambino come un piccolo adulto. Il minore ha sì la necessità di essere protetto, accudito, ma non sottomesso. Non concordo con un approccio eccessivamente autoritario e con i genitori che sovraccaricano i figli con un numero abnorme di impegni.
 >
-> Dico *no* all'iper protezione e *sì* alla possibilità di **sperimentare** e di **conoscere attraverso l'esperienza del gioco**.
+> Dico _no_ all'iper protezione e _sì_ alla possibilità di **sperimentare** e di **conoscere attraverso l'esperienza del gioco**.
 >
 > Propongo attività che si esprimono all'interno dei contesti educativi in generale come, ad esempio, le scuole.
 >
@@ -41,7 +41,7 @@ Renzo, in effetti, è un *toy maker* che vive a Ravenna e che costruisce giocatt
 
 ### Qual è il valore aggiunto dei tuoi giocattoli fatti a mano?
 
-> A Londra ho scoperto la parola *accessibilità*, e credo sia proprio questo il valore aggiunto dei miei giocattoli.
+> A Londra ho scoperto la parola _accessibilità_, e credo sia proprio questo il valore aggiunto dei miei giocattoli.
 >
 > È importante riuscire a costruire giocattoli utilizzando pochi strumenti accessibili. Questo perché i bambini possano cimentarsi nell'impresa anche a casa, senza difficoltà.
 >
@@ -53,7 +53,7 @@ Renzo, in effetti, è un *toy maker* che vive a Ravenna e che costruisce giocatt
 
 ![Laboratorio](./5371.jpg)
 
-> Anni fa il mio laboratorio era al centro *La Lucertola*, ora non ce l'ho più. Porto il gioco in scuole, centri ricreativi estivi, doposcuola, gruppi di famiglie e laboratori al mare.
+> Anni fa il mio laboratorio era al centro _La Lucertola_, ora non ce l'ho più. Porto il gioco in scuole, centri ricreativi estivi, doposcuola, gruppi di famiglie e laboratori al mare.
 >
 > Mi piace vedere nel mio trolley il mio laboratorio: tutto quello che mi serve è lì dentro.
 

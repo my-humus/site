@@ -14,7 +14,7 @@ tags:
 [25 verde](http://www.25verde.it) è il palazzo foresta di Torino concepito dall'architetto [Luciano Pia](http://www.lucianopia.it).
 
 Questo edificio di 63 appartamenti, tutti diversi fra loro, è un esempio di **riqualificazione urbana di un ex quartiere industriale** con affacci eterogenei.
-È un *condominio green* ricco di piante e di piccoli arbusti, energeticamente efficiente e con un bel 'tetto verde' su cui coltivare ortaggi.
+È un _condominio green_ ricco di piante e di piccoli arbusti, energeticamente efficiente e con un bel 'tetto verde' su cui coltivare ortaggi.
 
 ![Luciano Pia](./luciano-pia-2011-08.jpg)
 
@@ -22,7 +22,7 @@ Questo edificio di 63 appartamenti, tutti diversi fra loro, è un esempio di **r
 
 > Spesso siamo costretti ad abitare luoghi molto distanti dalle nostre aspirazioni. Molti di noi vorrebbero abitare in mezzo al verde, nella natura, in abitazioni con grandi terrazze. Ma non sempre, questo, è possibile.
 >
-> Le nostre città sono molto *costruite*, e le porzioni metropolitane sorte dopo la Seconda Guerra Mondiale sono diventate invivibili. C'è la tendenza innaturale a costruire in altezza, spinti da una speculazione economica anziché da un reale bisogno.
+> Le nostre città sono molto _costruite_, e le porzioni metropolitane sorte dopo la Seconda Guerra Mondiale sono diventate invivibili. C'è la tendenza innaturale a costruire in altezza, spinti da una speculazione economica anziché da un reale bisogno.
 
 ![25 verde](./25-verde-017.jpg)
 

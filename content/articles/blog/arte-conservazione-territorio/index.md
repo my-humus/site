@@ -1,7 +1,7 @@
 ---
-title: 'Uomo e paesaggio: l'arte di Giorgia Severi'
+title: "Uomo e paesaggio: l'arte di Giorgia Severi"
 date: '2017-02-09T12:55:18+00:00'
-description: 'Con le sue opere, Giorgia Severi mira alla cura e alla conservazione della natura, indagando Uomo e paesaggio.'
+description: "Con le sue opere, Giorgia Severi mira alla cura e alla conservazione della natura, indagando Uomo e paesaggio."
 featuredImage: ./joshua-hibbert.jpg
 category:
     - Ecoprogetti
@@ -13,10 +13,9 @@ tags:
     - Tutela del territorio
 ---
 
-
 Questa volta si parla di **Uomo e paesaggio**, si parla d'arte, di tutela del territorio e di archiviazione del paesaggio.
 
-Quest'ultimo concetto potrebbe apparire emblematico. Cosa significa *archiviare*, contestualmente all'ambiente?
+Quest'ultimo concetto potrebbe apparire emblematico. Cosa significa _archiviare_, contestualmente all'ambiente?
 
 C'è chi è andato dall'altra parte del globo, si è avventurato in mezzo alla natura ed è riuscito ad archiviare il paesaggio, tutelando intere porzioni di territorio minacciate. E studiando, appunto, la relazione fra Uomo e paesaggio.
 
@@ -28,7 +27,7 @@ Nata nel 1984 a Ravenna, Giorgia ha iniziato la propria formazione iscrivendosi 
 
 Il connubio arte e tutela della natura è una costante nei lavori di Giorgia.
 
-A questo proposito, *Country* è un ambizioso progetto artistico dedicato al rapporto Uomo-Terra, realizzato insieme a 48 artisti aborigeni provenienti da diverse zone australiane.
+A questo proposito, _Country_ è un ambizioso progetto artistico dedicato al rapporto Uomo-Terra, realizzato insieme a 48 artisti aborigeni provenienti da diverse zone australiane.
 Attraverso il suo lavoro, Giorgia ha esplorato il rapporto Uomo e paesaggio sotto diversi punti di vista. Ha raccontato storie di persone e di luoghi lontani, creando un ponte culturale fra due continenti.
 
 Vale davvero la pena conoscerla.
@@ -39,9 +38,9 @@ Vale davvero la pena conoscerla.
 >
 > Le opere sono **archiviazioni di porzioni di territorio che stanno scomparendo**. Sono frammenti di un ambiente che raccontano un passato geologico, oppure impatti ambientali violenti dovuti all'azione antropica.
 
-### Con *"Country"* sei riuscita a creare un ponte fra Europa e Australia, coinvolgendo moltissimi artisti. Perché proprio quel Paese? Quali elementi del paesaggio hai scelto e perché?
+### Con _"Country"_ sei riuscita a creare un ponte fra Europa e Australia, coinvolgendo moltissimi artisti. Perché proprio quel Paese? Quali elementi del paesaggio hai scelto e perché?
 
-> Ho dato il via al progetto Australia e a [Country](http://www.giorgiaseveri.com/works/land-project.html) perché mi incuriosiva il rapporto Uomo e paesaggio. Mi riferisco al rapporto antropico *positivo* nel paesaggio.
+> Ho dato il via al progetto Australia e a [Country](http://www.giorgiaseveri.com/works/land-project.html) perché mi incuriosiva il rapporto Uomo e paesaggio. Mi riferisco al rapporto antropico _positivo_ nel paesaggio.
 >
 > La profonda e dettagliata conoscenza del territorio ha generato una cultura molto sofisticata che non è separabile dal paesaggio a più livelli.
 >
@@ -64,7 +63,7 @@ https://myhumus.com/wp-content/uploads/2017/02/tjampi2.jpg
 
 > Siccome credo che l'arte debba rivolgersi a tutti per poter "seminare" e cambiare le cose, **amo molto coinvolgere lo spettatore**.
 >
-> La performance *Operazione Campo Base* del progetto *Restoring the World* ne è un esempio. Ho voluto che i partecipanti assumessero la consapevolezza dell'azione che stavano facendo e vivessero l'arte, sia come mezzo di comunicazione che come strumento di cambiamento interiore e sociale.
+> La performance _Operazione Campo Base_ del progetto _Restoring the World_ ne è un esempio. Ho voluto che i partecipanti assumessero la consapevolezza dell'azione che stavano facendo e vivessero l'arte, sia come mezzo di comunicazione che come strumento di cambiamento interiore e sociale.
 
 ### Parliamo del progetto artistico del ghiacciaio Presena. Hai attuato una vera e propria fusione con l'habitat: potresti parlarmi di questo tuo lavoro? In cosa consiste la cosiddetta "archiviazione del paesaggio" che hai compiuto? Possiamo definirlo un imprinting?
 
@@ -72,7 +71,7 @@ https://myhumus.com/wp-content/uploads/2017/02/tjampi2.jpg
 >
 > Applico questi principi al paesaggio naturale geologico in erosione, ai ghiacciai in discioglimento, alle zone urbane in espansione che si sostituiscono alle foreste. E anche a pratiche antropiche legate all'ambiente che stanno andando in disuso, e che precludono una profonda e dettagliata conoscenza del territorio.
 >
-> Il progetto *Ghiacciaio Presena* è dedicato a uno dei ghiacciai italiani che si sta sciogliendo ad altissima velocità, con un ritiro di quasi un metro all'anno.
+> Il progetto _Ghiacciaio Presena_ è dedicato a uno dei ghiacciai italiani che si sta sciogliendo ad altissima velocità, con un ritiro di quasi un metro all'anno.
 >
 > I calchi e le calcografie eseguite sulle pareti della montagna che, una volta, ospitava un'enorme distesa di ghiaccio, così come alcuni massi delle sassaie, sono stati oggetto delle mie opere per **parlare di ciò che sta accadendo**.
 
@@ -80,7 +79,7 @@ https://myhumus.com/wp-content/uploads/2017/02/tjampi2.jpg
 
 > Ho preso il calco di massi erratici, un tempo strascinati dal giaccio. E poi la calcografia di pareti in cui la lingua del ghiacciaio ha inscritto la roccia, scolpendola con la propria pressione e disegnando linee che ne descrivono il ritiro nel tempo.
 >
-> Credo che questa **storia scritta nella roccia** debba essere portata all'attenzione di tutti noi che, ora, viviamo nel cosiddetto *Antropocene"*.
+> Credo che questa **storia scritta nella roccia** debba essere portata all'attenzione di tutti noi che, ora, viviamo nel cosiddetto _Antropocene"_.
 
 ![Giorgia Severi, Ghiacciaio Presena (Blocco Presanella / Adamello), dittico, calcografia del ritiro del ghiacciaio, 2016, grafite, carbone e pigmenti su carta, 1x3 mt. Courtesy e foto credits dell'artista e Renata Fabbri Gallery Milano.](./ghiacciaio-presena-rilievo.jpg)
 
@@ -94,7 +93,7 @@ https://myhumus.com/wp-content/uploads/2017/02/tjampi2.jpg
 
 > Certamente. La nostra azione può e deve essere positiva. Qui non si accusa esclusivamente l'antropia negativa, ma si cerca di utilizzare l'arte come mezzo di comunicazione capace di aprire nuove porte.
 >
-> Una prova di ciò risiede nel *Progetto Presena*: l'azione artistica performativa ha vissuto, fisicamente e direttamente, la montagna alla quale il progetto stesso si stava rivolgendo. Tutto questo con grande sforzo nel tempo.
+> Una prova di ciò risiede nel _Progetto Presena_: l'azione artistica performativa ha vissuto, fisicamente e direttamente, la montagna alla quale il progetto stesso si stava rivolgendo. Tutto questo con grande sforzo nel tempo.
 >
 > L'azione antropica ha agito e toccato quel luogo sia concettualmente sia con mano. Questo mi ha permesso di prendere consapevolezza di un luogo in cui, oltre al disgelo del ghiacciaio, i nostri avi hanno combattuto il conflitto del '15-'18.
 
@@ -104,10 +103,10 @@ https://myhumus.com/wp-content/uploads/2017/02/tjampi2.jpg
 
 > Sì, molto. Sul ghiacciaio c'è la controversa corsa ai ripari. La lingua bianca è ricoperta di telone geotessile per rallentare il discioglimento del ghiaccio. Questo è stato un altro fattore antropico al quale ho dovuto prestare molta attenzione.
 >
-> Qui è nata l'opera *Albedo*, un'installazione di 5 metri di materiale geotessile che evoca il ghiacciaio imitandone la forma. In questo caso, però, il materiale dell'Uomo ha funzione di tutela.
+> Qui è nata l'opera _Albedo_, un'installazione di 5 metri di materiale geotessile che evoca il ghiacciaio imitandone la forma. In questo caso, però, il materiale dell'Uomo ha funzione di tutela.
 
 ### Dove sarai nei prossimi mesi?
 
-> Per ora è in corso la mostra *Back to the Land* alla [Galleria Studio La Città](http://www.studiolacitta.it) di Verona fino al 23 febbraio, curata da Andrea Lerda di [Platform Green](http://www.platformgreen.org). Poi ci sarà qualche sorpresa in arrivo.
+> Per ora è in corso la mostra _Back to the Land_ alla [Galleria Studio La Città](http://www.studiolacitta.it) di Verona fino al 23 febbraio, curata da Andrea Lerda di [Platform Green](http://www.platformgreen.org). Poi ci sarà qualche sorpresa in arrivo.
 
 Foto di copertina: [Joshua Hibbert](https://unsplash.com/@joshnh) via [Unsplash](https://unsplash.com).

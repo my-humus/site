@@ -1,7 +1,7 @@
 ---
 title: 'Viva il cicloturismo nel mondo!'
 date: '2014-02-15T00:00:19+00:00'
-description: 'Quattro amici di Cesena, appassionati di cicloturismo nel mondo, hanno visitato tutta l'Islanda in sella alla bici. Il racconto di uno di loro, Stefano Milini.'
+description: "Quattro amici di Cesena, appassionati di cicloturismo nel mondo, hanno visitato tutta l'Islanda in sella alla bici. Il racconto di uno di loro, Stefano Milini."
 featuredImage: ./stefano-milini.jpg
 category:
     - Mobilità sostenibile
@@ -12,7 +12,6 @@ tags:
     - Sostenibilità
     - Viaggi green
 ---
-
 
 Quattro ragazzi di Cesena, appassionati di cicloturismo nel mondo, si sono cimentati in un'avventura stupenda: percorrere tutta l'Islanda in sella alle loro bici.
 
@@ -38,13 +37,13 @@ La loro passione per il cicloturismo nel mondo è qualcosa di profondo e di tang
 
 ![I ragazzi cesenati alla conquista dell'Islanda](./cicloturismo-2.jpg)
 
-### Nel 2012 prende vita *Scopri il Mondo sui Pedali*: alla scoperta dell'Islanda per oltre 1000 chilometri, in sella a una mountain-bike, senza mezzi di supporto. Un modo per promuovere e invogliare al cicloturismo nel mondo. Come e perché è nato questo progetto, e quali sensazioni hai avuto nel viverlo?
+### Nel 2012 prende vita _Scopri il Mondo sui Pedali_: alla scoperta dell'Islanda per oltre 1000 chilometri, in sella a una mountain-bike, senza mezzi di supporto. Un modo per promuovere e invogliare al cicloturismo nel mondo. Come e perché è nato questo progetto, e quali sensazioni hai avuto nel viverlo?
 
 > Il [CAI di Cesena](http://www.caicesena.com) ci ha aiutati a organizzarlo. Obiettivo è stato condividere il desiderio di **conoscenza**, di **rispetto** e di **solidarietà** nei confronti di altri popoli e di altre culture grazie a viaggi 'scomodi' in bici. Un cicloturismo nel mondo solidale, per capirci.
 >
 > ![Un geyser islandese in tutto il suo splendore](./cicloturismo-5.jpg)
 >
-> Nell'agosto 2012, Enrico, Thomas, Federica ed io siamo partiti e, per 3 settimane, abbiamo pedalato in mezzo a paesaggi mozzafiato e strade desertiche ricoperte dal *tôle ondulée*. È il pavimento ondulato delle zone aride che non dà tregua al ciclista, tra ghiacciai e geyser prorompenti.
+> Nell'agosto 2012, Enrico, Thomas, Federica ed io siamo partiti e, per 3 settimane, abbiamo pedalato in mezzo a paesaggi mozzafiato e strade desertiche ricoperte dal _tôle ondulée_. È il pavimento ondulato delle zone aride che non dà tregua al ciclista, tra ghiacciai e geyser prorompenti.
 >
 > Il viaggio si è svolto in totale autonomia con tenda, sacco a pelo e tutta l'attrezzatura indispensabile per affrontare gli altopiani.
 >

@@ -1,17 +1,16 @@
 ---
-title: 'Vallescuria e lo zafferano della Brianza'
-date: '2016-02-18T11:12:19+00:00'
-description: 'Oggi parliamo di agricoltura solidale insieme a Matteo Cereda, uno dei fondatori di Vallescuria, uno zafferaneto che coniuga sociale e lavoro agricolo.'
+title: "Vallescuria e lo zafferano della Brianza"
+date: "2016-02-18T11:12:19+00:00"
+description: "Oggi parliamo di agricoltura solidale insieme a Matteo Cereda, uno dei fondatori di Vallescuria, uno zafferaneto che coniuga sociale e lavoro agricolo."
 featuredImage: ./vallescuria-brianza.jpg
 category:
-    - Ecoprogetti
+  - Ecoprogetti
 tags:
-    - Agricoltura
-    - Agricoltura solidale
-    - Km zero
-    - Sociale
+  - Agricoltura
+  - Agricoltura solidale
+  - Km zero
+  - Sociale
 ---
-
 
 Quando sono venuta a conoscenza di [Vallescuria](http://www.zafferanovallescuria.it), progetto dedicato allo zafferano della Brianza, mi si è scaldato il cuore. Dico sul serio.
 

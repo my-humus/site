@@ -1,7 +1,7 @@
 ---
-title: 'Elogio dell'autoproduzione'
+title: "Elogio dell'autoproduzione"
 date: '2016-05-05T11:33:55+00:00'
-description: 'L'autoproduzione come risposta efficace allo spreco e come scelta consapevole di un consumo più responsabile, a tutela del futuro di tutti.'
+description: "L'autoproduzione come risposta efficace allo spreco e come scelta consapevole di un consumo più responsabile, a tutela del futuro di tutti."
 featuredImage: ./ph-dominik-martin.jpg
 category:
     - Green Mix
@@ -54,7 +54,7 @@ Che ne dite? Vogliamo conoscerla meglio?
 
 ### Parliamo un secondo dei tuoi prodotti. Prendiamo come esempio le tue creme: sono destinate a tutti i tipi di pelle?
 
-> Sì, perché gli ingredienti che utilizzo sono estremamente semplici. L'autoproduzione deve poter fare sempre rima con *semplicità*, affinché possa essere praticata da tutti.
+> Sì, perché gli ingredienti che utilizzo sono estremamente semplici. L'autoproduzione deve poter fare sempre rima con _semplicità_, affinché possa essere praticata da tutti.
 >
 > Prima di pubblicare le mie ricette, le testo per un certo periodo di tempo sulla mia pelle e su quella di amici. >
 >

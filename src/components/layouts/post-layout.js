@@ -17,9 +17,7 @@ export default class PostLayout extends React.Component {
           postData={post}
           path={location.pathname}
         />
-        <main>
-          {children}
-        </main>
+        <main>{children}</main>
         <Footer />
       </>
     )

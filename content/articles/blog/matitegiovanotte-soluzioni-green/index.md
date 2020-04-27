@@ -1,7 +1,7 @@
 ---
-title: 'Il lato green di un'agenzia di comunicazione a Ravenna'
+title: "Il lato green di un'agenzia di comunicazione a Ravenna"
 date: '2014-02-25T00:00:31+00:00'
-description: 'Matitegiovanotte è un'agenzia di comunicazione a Ravenna che, all'interno dell'ufficio e verso i propri clienti, ha iniziato a promuovere uno spirito green.'
+description: "Matitegiovanotte è un'agenzia di comunicazione a Ravenna che, all'interno dell'ufficio e verso i propri clienti, ha iniziato a promuovere uno spirito green."
 featuredImage: ./anto.jpg
 category:
     - Green Mix
@@ -18,8 +18,8 @@ Qualche giorno fa mi ha ricevuta nel suo ufficio, uno spazio super colorato in c
 
 ![Bacheca](./bacheca.jpg)
 
-Da un po' di tempo, *Matite* ha iniziato a concentrare la propria attenzione anche sull'ambiente.
-La sede ravennate, infatti, ha scelto di adottare diverse soluzioni *ecofriendly* capaci di trasformare tanti piccoli gesti quotidiani in **azioni di consumo consapevole**.
+Da un po' di tempo, _Matite_ ha iniziato a concentrare la propria attenzione anche sull'ambiente.
+La sede ravennate, infatti, ha scelto di adottare diverse soluzioni _ecofriendly_ capaci di trasformare tanti piccoli gesti quotidiani in **azioni di consumo consapevole**.
 Voglio proprio saperne di più!
 
 ### Ciao, Antonella! Una curiosità: quand'è che ti sei avvicinata al mondo della creatività? E in che modo?
@@ -52,7 +52,7 @@ Voglio proprio saperne di più!
 >
 > Realizziamo **agende, calendari, quaderni, tutti stampati su carta ecologica**. Sono il frutto del lavoro degli educatori nelle scuole elementari per la promozione e la diffusione di una cultura dell'integrazione.
 >
-> Così è nato l'*Animalibro*, un quaderno pieno di animali esotici che raccoglie i disegni dei ragazzi. E poi c'è anche l'*Agenda degli Alberi*, il *Calendario delle Stoffe* e tanti altri.
+> Così è nato l'_Animalibro_, un quaderno pieno di animali esotici che raccoglie i disegni dei ragazzi. E poi c'è anche l'_Agenda degli Alberi_, il _Calendario delle Stoffe_ e tanti altri.
 >
 > A Milano, da un paio d'anni, aderiamo al servizio di Car Sharing dell'Azienda di Trasporto Municipale. Lo facciamo grazie a un abbonamento annuale. È possibile prenotare dal web un'auto ecologica per gli spostamenti in città e fuori città. C'è anche l'accesso alle ZTL e ai parcheggi gratuiti!
 >
@@ -78,8 +78,8 @@ Voglio proprio saperne di più!
 
 > L'anno è appena iniziato e continueremo ad agire il più possibile nel rispetto dell'ambiente. **Inviteremo i nostri clienti a una riflessione di sostenibilità sui progetti che intenderanno avviare**.
 >
-> Questa intervista è già un piccolo primo passo e sono convinta che MyHumus possa dare un forte contributo alle aziende in termini di consapevolezza ambientale per le aziende. Parafrasando una celebre missione stellare, mi sembra '*un passo da gigante per la comunità!*'
+> Questa intervista è già un piccolo primo passo e sono convinta che MyHumus possa dare un forte contributo alle aziende in termini di consapevolezza ambientale per le aziende. Parafrasando una celebre missione stellare, mi sembra '_un passo da gigante per la comunità!_'
 >
-> Di questa viralità c'è molto bisogno, queste sono le uniche iniziative che dovrebbero *impattare* sull'ambiente.
+> Di questa viralità c'è molto bisogno, queste sono le uniche iniziative che dovrebbero _impattare_ sull'ambiente.
 
 ![Il biglietto da visita di Matitegiovanotte](./biglietto-da-visita.jpg)

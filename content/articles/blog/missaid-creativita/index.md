@@ -1,7 +1,7 @@
 ---
 title: 'Missaid è abbigliamento bicycle e skate... detto male!'
 date: '2014-03-05T00:00:47+00:00'
-description: 'Nella mia amata Romagna vive l'ideatore di una linea di abbigliamento bicycle e skate che spacca. Le sue grafiche sono tutte in anglo-romagnolo!'
+description: "Nella mia amata Romagna vive l'ideatore di una linea di abbigliamento bicycle e skate che spacca. Le sue grafiche sono tutte in anglo-romagnolo!"
 featuredImage: ./andrea-sansavini.jpg
 category:
     - Ecoprogetti
@@ -15,17 +15,17 @@ tags:
 In Romagna vive l'ideatore di una linea di abbigliamento bicycle e skate che spacca. Il suo brand è nato così, durante una serata goliardica a base di nocino, in zona Monte Novo di Montiano.
 La persona in questione si chiama Andrea Sansavini, è un mio carissimo amico, e il marchio è [Missaid](http://www.missaid.it). Ne avete mai sentito parlare?
 
-Missaid produce abbigliamento e accessori che riportano i **detti popolari romagnoli** in una lingua che è metà inglese e metà romagnola. Diciamo che è una sorta di *anglo-romagnolo*.
-L'anglo-romagnolo è un inglese maccheronico semplice da capire, diretto e spiritoso. Missaid, d'altronde, in inglese significa *detto male* e anticipa abbastanza il concetto di base.
+Missaid produce abbigliamento e accessori che riportano i **detti popolari romagnoli** in una lingua che è metà inglese e metà romagnola. Diciamo che è una sorta di _anglo-romagnolo_.
+L'anglo-romagnolo è un inglese maccheronico semplice da capire, diretto e spiritoso. Missaid, d'altronde, in inglese significa _detto male_ e anticipa abbastanza il concetto di base.
 **Missaid proviene da qui, dalla Romagna**. È un marchio che profuma di Sangiovese.
 
-Il concept di questa linea mi ha divertita molto: *"Missaid è la saggezza popolare che tampona l'inglese per dare vita a una lunga serie di detti anglo-romagnoli"*.
+Il concept di questa linea mi ha divertita molto: _"Missaid è la saggezza popolare che tampona l'inglese per dare vita a una lunga serie di detti anglo-romagnoli"_.
 
-Le *tiscert* Missaid vengono realizzate con una cura maniacale, così come il loro packaging: una custodia simil-vinile in perfetta linea con l'anima vintage del marchio.
+Le _tiscert_ Missaid vengono realizzate con una cura maniacale, così come il loro packaging: una custodia simil-vinile in perfetta linea con l'anima vintage del marchio.
 
 ![L'originalissimo packaging delle magliette](./loriginalissimo-packaging-delle-magliette.jpg)
 
-Su alcune magliette della linea di abbigliamento bicycle e skate romagnola, è stato sperimentato l'*invecchiamento naturale Missaid*. I capi, sostanzialmente, vengono lasciati alle intemperie per un anno intero. La natura decide il risultato finale.
+Su alcune magliette della linea di abbigliamento bicycle e skate romagnola, è stato sperimentato l'_invecchiamento naturale Missaid_. I capi, sostanzialmente, vengono lasciati alle intemperie per un anno intero. La natura decide il risultato finale.
 L'obiettivo è realizzarne una piccola serie invecchiata naturalmente.
 
 ![La grafica mod. Rider](./la-mitica-grafica-mod-rider.jpg)
@@ -61,7 +61,7 @@ Il marchio Missaid, in buona sostanza, racchiude in sé **spirito creativo ed et
 
 > In questa stagione ci sarà molta scelta: t-shirt, felpe, giacche, coppole. **Una linea di abbigliamento bicycle e skate tutta in divenire!**
 >
-> Non siamo ancora nei negozi, ma mi sto attrezzando. E, come si dice in questi casi, *stay in bell*!
+> Non siamo ancora nei negozi, ma mi sto attrezzando. E, come si dice in questi casi, _stay in bell_!
 
 ![Una piccola anteprima delle nuove grafiche](./una-piccola-anteprima-delle-nuove-grafiche.jpg)
 
@@ -69,7 +69,7 @@ Il marchio Missaid, in buona sostanza, racchiude in sé **spirito creativo ed et
 
 > Sì, anche. La **passione per il restauro** è nata dopo aver ricevuto in regalo una vecchia Legnano degli anni '60. L'ho parcheggiata in garage e lì è rimasta per qualche anno.
 >
-> Un giorno mi è venuta voglia di allestirla in stile retrò. L'ho solo pulita: volevo che si capisse che arrivava da lontano. Eppure mancava qualcosa, un tocco *sartoriale*; allora mi sono armato di ago e filo e le ho cucito addosso del jeans. Bello!
+> Un giorno mi è venuta voglia di allestirla in stile retrò. L'ho solo pulita: volevo che si capisse che arrivava da lontano. Eppure mancava qualcosa, un tocco _sartoriale_; allora mi sono armato di ago e filo e le ho cucito addosso del jeans. Bello!
 >
 > Ho cercato vecchie biciclette per mercatini. Le volevo semplicemente particolari. Da lì a poco ho trovato una Peugeot Model PE del 1971, bellissima ma conciata parecchio male.
 >

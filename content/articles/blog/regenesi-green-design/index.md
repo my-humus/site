@@ -1,7 +1,7 @@
 ---
 title: 'La moda ecosostenibile di Regenesi'
 date: '2014-10-02T00:00:58+00:00'
-description: 'Regenesi è un brand di moda ecosostenibile che produce accessori per la casa, per l'ufficio e per la persona. Riutilizza materiali senza escludere il gusto.'
+description: "Regenesi è un brand di moda ecosostenibile che produce accessori per la casa, per l'ufficio e per la persona. Riutilizza materiali senza escludere il gusto."
 featuredImage: ./maria-silvia-pazzi.jpg
 category:
     - Ecoprogetti
@@ -15,12 +15,12 @@ tags:
 
 A Ravenna c'è un fashion brand di moda ecosostenibile che, non ho dubbi, farà molta strada: [Regenesi](http://regenesi.com).
 Il team di questo marchio è composto da persone lungimiranti che perseverano, sperimentano senza paura e osano.
-E se *osare* va di pari passo con parole come *coscienza ecologica*, *non convenzionalità* e *aggregazione*, il top è veramente garantito.
+E se _osare_ va di pari passo con parole come _coscienza ecologica_, _non convenzionalità_ e _aggregazione_, il top è veramente garantito.
 Regenesi è un marchio di accessori per la casa, per l'ufficio e per la persona con un'anima eco. Perché riutilizzare non significa per forza escludere gusto e bellezza!
 
 Il sito di Regenesi riporta una citazione bellissima del proprio CEO:
 
-*"Ho avuto un sogno e ho aggregato un gruppo di persone in grado di aiutarmi a realizzarlo. Ho unito varie competenze e creato un luogo e il contesto in cui farle incontrare. È nata un'azienda non convenzionale capace di dare nuova vita ai materiali, creando prodotti unici grazie al network di eccellenze creative e produttive."*
+_"Ho avuto un sogno e ho aggregato un gruppo di persone in grado di aiutarmi a realizzarlo. Ho unito varie competenze e creato un luogo e il contesto in cui farle incontrare. È nata un'azienda non convenzionale capace di dare nuova vita ai materiali, creando prodotti unici grazie al network di eccellenze creative e produttive."_
 
 ![Regenesi](./logo-regenesi.jpg)
 
@@ -34,7 +34,7 @@ Metti un bel caschetto di capelli neri, aggiungi tanta determinazione e altretta
 >
 > I sei soci che hanno investito in questo marchio sono professionisti con competenze differenti. Le altre figure offrono un insieme di consulenze e di professionalità indispensabili a rendere unico il nostro brand di moda ecosostenibile.
 
-### Se dico *Regenesi*, di cosa sto parlando?
+### Se dico _Regenesi_, di cosa sto parlando?
 
 > Regenesi propone il **Made in Italy secondo nuove codifiche**, seguendo un approccio diverso rispetto a quello classico italiano. È un progetto ambizioso che **punta ai mercati di tutto il mondo**.
 >

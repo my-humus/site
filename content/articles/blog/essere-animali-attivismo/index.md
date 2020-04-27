@@ -1,19 +1,19 @@
 ---
-title: 'Essere Animali, la Onlus per i diritti animali'
-date: '2015-11-05T12:56:39+00:00'
-description: 'Essere Animali è una Onlus per i diritti animali che promuove un cambiamento culturale, sociale e politico attraverso un attivismo condotto col cuore.'
+title: "Essere Animali, la Onlus per i diritti animali"
+date: "2015-11-05T12:56:39+00:00"
+description: "Essere Animali è una Onlus per i diritti animali che promuove un cambiamento culturale, sociale e politico attraverso un attivismo condotto col cuore."
 featuredImage: ./essere-animali.jpg
 category:
-    - Ecoprogetti
+  - Ecoprogetti
 tags:
-    - Animal rights
-    - Animali
-    - Animalismo
-    - Attivismo
-    - Diritti animali
+  - Animal rights
+  - Animali
+  - Animalismo
+  - Attivismo
+  - Diritti animali
 ---
 
-L'intervistato di questa settimana si chiama Eugenio Monti e *milita* all'interno di [Essere Animali](http://www.essereanimali.org), Onlus per i diritti animali.
+L'intervistato di questa settimana si chiama Eugenio Monti e _milita_ all'interno di [Essere Animali](http://www.essereanimali.org), Onlus per i diritti animali.
 Eugenio è vegano, crede in un mondo senza violenza e in una convivenza pacifica fra Uomo e animali. Ogni giorno, con il suo lavoro, Eugenio compie piccoli grandi passi verso una rivoluzione culturale capace di bandire la sopraffazione e la crudeltà umana. E per farlo continua a credere nelle persone, sensibilizzandole e stimolandole a sviluppare una propria coscienza ecologica.
 
 ![Essere Animali](./essere-animali-11.jpg)
@@ -44,11 +44,11 @@ Eugenio filma le condizioni degli animali rinchiusi nelle minuscole gabbie degli
 >
 > Sull'argomento foie gras abbiamo condotto un'[indagine](http://www.stopfoiegras.org/indagine.html#indagine) che è uscita in esclusiva sul Corriere della Sera. Siccome in Italia è vietata la sua produzione, ma non la vendita, abbiamo fatto pressione su alcune catene di supermercati, esortandole a non venderlo più.
 >
-> Con enorme soddisfazione, **Pam/Panorama ha scelto di aderire alla nostra campagna *\#ViaDagliScaffali***: 153 punti vendita, fra supermercati e ipermercati, non esporranno più il foie gras. Una bella conquista della nostra Onlus per i diritti animali!
+> Con enorme soddisfazione, **Pam/Panorama ha scelto di aderire alla nostra campagna _\#ViaDagliScaffali_**: 153 punti vendita, fra supermercati e ipermercati, non esporranno più il foie gras. Una bella conquista della nostra Onlus per i diritti animali!
 >
 > ![Essere Animali](./essere-animali-3.jpg)
 >
-> Un'altra importante campagna che abbiamo condotto in Italia in questi ultimi anni mira all'abolizione degli allevamenti degli animali da pelliccia. Va sotto il nome di *[Visoni Liberi](http://www.visoniliberi.org)*.
+> Un'altra importante campagna che abbiamo condotto in Italia in questi ultimi anni mira all'abolizione degli allevamenti degli animali da pelliccia. Va sotto il nome di _[Visoni Liberi](http://www.visoniliberi.org)_.
 >
 > ![Essere Animali](./essere-animali-4.jpg)
 >
@@ -76,7 +76,7 @@ Eugenio filma le condizioni degli animali rinchiusi nelle minuscole gabbie degli
 >
 > Dopo la nostra indagine condotta all'interno dei macelli pugliesi, [dati Eurispes](http://www.eurispes.eu/content/comunicato-stampa-rapporto-italia-2014) hanno decretato un aumento significativo di persone favorevoli a equiparare i cavalli agli animali domestici. Questo risultato è giunto proprio dopo la nostra indagine.
 >
-> Aggiungo che siamo stati proprio noi di Essere Animali ad aver importato in Italia *[Cowspiracy](http://www.cowspiracy.com)*, il documentario prodotto da Leonardo DiCaprio che parla di quanto il consumo di carne non sia più sostenibile. I registi Kip Andersen e Keegan Kuhn si domandano per quale motivo le principali associazioni ambientaliste del mondo non stiano informando la società su quanto il consumo di carne sia la principale causa dell'effetto serra, molto più del consumo di combustibile fossili.
+> Aggiungo che siamo stati proprio noi di Essere Animali ad aver importato in Italia _[Cowspiracy](http://www.cowspiracy.com)_, il documentario prodotto da Leonardo DiCaprio che parla di quanto il consumo di carne non sia più sostenibile. I registi Kip Andersen e Keegan Kuhn si domandano per quale motivo le principali associazioni ambientaliste del mondo non stiano informando la società su quanto il consumo di carne sia la principale causa dell'effetto serra, molto più del consumo di combustibile fossili.
 
 ![Essere Animali](./essere-animali-6.jpg)
 

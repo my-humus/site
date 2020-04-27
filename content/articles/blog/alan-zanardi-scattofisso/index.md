@@ -1,7 +1,7 @@
 ---
 title: 'Alan Zanardi: amore per la bici a scatto fisso'
 date: '2014-04-24T00:00:24+00:00'
-description: 'La passione di Alan Zanardi sta tutta nella vita all'aria aperta, nello sport e, soprattutto, nella bici a scatto fisso.'
+description: "La passione di Alan Zanardi sta tutta nella vita all'aria aperta, nello sport e, soprattutto, nella bici a scatto fisso."
 featuredImage: ./alan-zanardi.jpg
 category:
     - Mobilità sostenibile
@@ -36,7 +36,7 @@ A partire dai 20 anni si è appassionato al mondo del ciclismo, per poi giungere
 >
 > In 4 anni ho cambiato 5 bici, cercando di continuo nuove sensazioni e prestazioni: un telaio migliore nello scatto, ad esempio, o un manubrio più largo per un maggior controllo, e poi ruote aerodinamiche.
 >
-> Con la bici, a un certo punto, non volevo più solo andare al lavoro, ma fare qualche gara, le cosiddette \**alleycat* o, meglio ancora, le \**criterium*. Avevo bisogno di un mezzo performante.
+> Con la bici, a un certo punto, non volevo più solo andare al lavoro, ma fare qualche gara, le cosiddette \*_alleycat_ o, meglio ancora, le \*_criterium_. Avevo bisogno di un mezzo performante.
 >
 > Ora credo di essere arrivato alla bici che fa per me anche se, in realtà, non sono mai completamente soddisfatto e cerco sempre di affinarla.
 
@@ -46,7 +46,7 @@ A partire dai 20 anni si è appassionato al mondo del ciclismo, per poi giungere
 
 > [Ravenna Fixed Gear](http://ravennafixedgear.blogspot.it) è nata vedendo ciò che c'era attorno.
 >
-> **Grazie alla bici a scatto fisso ho conosciuto tanti appassionati di ogni parte d'Italia**. Ho notato che si creavano gruppi di persone, o *crew*, che s'incontravano per pedalare assieme e per fare piccole gare.
+> **Grazie alla bici a scatto fisso ho conosciuto tanti appassionati di ogni parte d'Italia**. Ho notato che si creavano gruppi di persone, o _crew_, che s'incontravano per pedalare assieme e per fare piccole gare.
 >
 > Ho pensato che anche a Ravenna sarebbe stato bello creare un luogo d'incontro, dapprima virtuale e poi reale. Un modo per scambiare idee o, che so, qualche pezzo di ricambio. E magari anche per organizzare qualche evento.
 >
@@ -56,11 +56,11 @@ A partire dai 20 anni si è appassionato al mondo del ciclismo, per poi giungere
 
 ![Alan in modalità competitiva](./alan-in-gara.jpg)
 
-> In questi anni **ho partecipato a diversi eventi legati alla bici a scatto fisso**, dalle più tradizionali *alleycat*, che vogliono emulare l'ipotetica giornata di lavoro di un bike messenger, fino alle *criterium*.
+> In questi anni **ho partecipato a diversi eventi legati alla bici a scatto fisso**, dalle più tradizionali _alleycat_, che vogliono emulare l'ipotetica giornata di lavoro di un bike messenger, fino alle _criterium_.
 >
-> Per quanto riguarda le gare, ce ne sono alcune alle quali sono emotivamente legato. La prima è l'*alleycat* bolognese del 2010: mia prima volta a un evento in scatto fisso, da solo, "allo sbaraglio".
+> Per quanto riguarda le gare, ce ne sono alcune alle quali sono emotivamente legato. La prima è l'_alleycat_ bolognese del 2010: mia prima volta a un evento in scatto fisso, da solo, "allo sbaraglio".
 >
-> E poi c'è la prima *criterium* del ciclo "Back in Black" modenese, sempre nel 2010: è in quell'occasione che ho capito come le gare di velocità possano dare una carica di adrenalina veramente notevole.
+> E poi c'è la prima _criterium_ del ciclo "Back in Black" modenese, sempre nel 2010: è in quell'occasione che ho capito come le gare di velocità possano dare una carica di adrenalina veramente notevole.
 
 ### Quali imprese eroiche ti attendono?
 
@@ -72,10 +72,11 @@ A partire dai 20 anni si è appassionato al mondo del ciclismo, per poi giungere
 >
 > Si tratta di 4 gare su circuiti chiusi al traffico e messi in sicurezza grazie alla presenza di ambulanza e di medico, e alla copertura assicurativa Uisp. Ravenna sarà la prima tappa di questo Campionato, quindi non mancate!
 >
-> Quanto a me, **mi sto avvicinando sempre di più alle *long distance**. Si sposa con la mia idea di bici come unico mezzo di trasporto.
+> Quanto a me, **mi sto avvicinando sempre di più alle \*long distance**. Si sposa con la mia idea di bici come unico mezzo di trasporto.
 >
 > Sai, non ho più la macchina da ormai tre anni e credo che sia stata una delle scelte migliori della mia vita.
 
 Piccolo **glossario per i non esperti di settore**:
+
 - **alleycat**: è una corsa che simula il lavoro quotidiano del bike messenger. Prevede una partenza, un arrivo (non sempre conosciuto) e un tot checkpoints intermedi. Può essere compiuta su qualsiasi tipo di bici.
 - **criterium**: è una gara ciclistica su strada in cui si ripete più volte lo stesso percorso. Può svolgersi anche in notturna.

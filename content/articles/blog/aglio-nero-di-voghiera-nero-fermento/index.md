@@ -1,5 +1,5 @@
 ---
-title: 'Nero Fermento, l'aglio nero di Voghiera'
+title: "Nero Fermento, l'aglio nero di Voghiera"
 date: '2017-07-13T10:30:42+00:00'
 description: 'Nero Fermento è una giovanissima realtà aziendale ravennate che produce aglio nero di Voghiera. Ne ho parlato insieme a Tommaso Pavani.'
 featuredImage: ./nero-fermento-aglio-nero-dop.jpg
@@ -12,12 +12,13 @@ tags:
     - Cucina italiana
     - Nero di Voghiera
 ---
+
 Chi ha mai sentito parlare dell'**aglio nero di Voghiera**?
 
-Lavorando tutti i giorni davanti al monitor di un computer, quando stacco ho davvero bisogno di *usare le mani*. E quando scrivo così mi riferisco all'arte del forgiare qualcosa, del creare *ex novo*.
+Lavorando tutti i giorni davanti al monitor di un computer, quando stacco ho davvero bisogno di _usare le mani_. E quando scrivo così mi riferisco all'arte del forgiare qualcosa, del creare _ex novo_.
 La cucina riveste sicuramente un ruolo importante, in questo senso, specie nei mesi invernali.
 
-Musica, ingredienti disposti sul tavolo e grembiuletto: ecco ciò che mi serve per entrare in modalità *non-ci-sono-per-nessuno-ci-vediamo-domani* e per godere appieno dei profumi che i fornelli sanno sprigionare.
+Musica, ingredienti disposti sul tavolo e grembiuletto: ecco ciò che mi serve per entrare in modalità _non-ci-sono-per-nessuno-ci-vediamo-domani_ e per godere appieno dei profumi che i fornelli sanno sprigionare.
 
 In un'ottica di studio e di ricerca personale, sono da poco entrata in contatto con una nuovissima realtà. Si tratta di una start-up italiana gestita da un gruppo di giovani ingegneri impegnati nella produzione di aglio nero ottenuto dall'aglio di Voghiera.
 
@@ -68,7 +69,6 @@ Ecco come si presenta il Nero di Voghiera.
 > In linea di massima, impieghiamo due mesi di lavoro per ultimare il prodotto. Lo lasciamo maturare all'interno del fermentatore saggiandolo solo ogni tanto.
 
 ![Nero Fermento - Aglio Nero DOP](./nero-fermento-aglio-nero-dop.jpg)
-
 
 ### Cosa si ottiene dopo due mesi?
 

@@ -8,20 +8,24 @@ class Hero extends Component {
         <div className="hero-body">
           <div className="container">
             {this.props.title && (
-              <h1 className={classNames({
-                title: true,
-                "is-size-1": true,
-                "has-text-centered": this.props.centered
-              })}>
+              <h1
+                className={classNames({
+                  title: true,
+                  "is-size-1": true,
+                  "has-text-centered": this.props.centered
+                })}
+              >
                 {this.props.title}
               </h1>
             )}
             {this.props.subtitle && (
-              <h2 className={classNames({
-                subtitle: true,
-                "is-size-3": true,
-                "has-text-centered": this.props.centered
-              })}>
+              <h2
+                className={classNames({
+                  subtitle: true,
+                  "is-size-3": true,
+                  "has-text-centered": this.props.centered
+                })}
+              >
                 {this.props.subtitle}
               </h2>
             )}

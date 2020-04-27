@@ -1,23 +1,22 @@
 ---
-title: 'Un documentario sulla cultura della carne'
-date: '2015-11-19T12:54:25+00:00'
+title: "Un documentario sulla cultura della carne"
+date: "2015-11-19T12:54:25+00:00"
 description: 'Thomas Torelli sta ultimando le riprese di "Food ReLOVution", un documentario sulla cultura della carne che ne esamina le diverse conseguenze.'
 featuredImage: ./serge-esteve-restaurant.jpg
 category:
-    - Ecoprogetti
+  - Ecoprogetti
 tags:
-    - Cultura alimentare
-    - Ecologia
-    - Rivoluzione alimentare
-    - Sostenibilità
+  - Cultura alimentare
+  - Ecologia
+  - Rivoluzione alimentare
+  - Sostenibilità
 ---
-
 
 Amici, sono super felice di aver conosciuto [Thomas Torelli](http://www.thomastorelli.com), il regista italiano che sta ultimando un documentario sulla cultura della carne: [Food ReLOVution](http://www.foodrelovution.com/#!home/c1ite).
 
 ![Thomas Torelli](./thomas-torelli.jpg)
 
-Thomas è convinto che le rivoluzioni più importanti siano quelle interiori, quelle silenti e potenti che nascono dall'*io* più profondo.
+Thomas è convinto che le rivoluzioni più importanti siano quelle interiori, quelle silenti e potenti che nascono dall'_io_ più profondo.
 Grazie al suo lavoro, questo regista vuole lanciare un messaggio molto importante: la scelta è la nostra arma più importante. Non affidiamoci ai soli dogmi alimentari imposti dalla società, conoscere meglio ciò che mangiamo.
 Sarà solo in questo modo che potremo dare il via a una rivoluzione, sì, ma fatta con amore.
 Chi ne siate convinti o meno, la rivoluzione alimentare è adesso!
@@ -26,7 +25,7 @@ Chi ne siate convinti o meno, la rivoluzione alimentare è adesso!
 
 > Ciao, Anna! Food ReLOVution è conseguenza logica del mio film precedente, [Un altro mondo](http://www.unaltromondo.net), che ha vinto il [Clorofilla Film Festival](http://www.festambiente.it/index.php/clorofillahome.html).
 >
-> *Un altro mondo* parla di quel senso di unione con la Terra e gli uomini di cui c'è così tanto bisogno, oggi più che mai.
+> _Un altro mondo_ parla di quel senso di unione con la Terra e gli uomini di cui c'è così tanto bisogno, oggi più che mai.
 >
 > È una profonda riflessione sull'interconnessione esistente fra Uomo e universo, sulla fisica quantistica e sulle credenze che popolano questo pianeta.
 >
@@ -68,7 +67,7 @@ Chi ne siate convinti o meno, la rivoluzione alimentare è adesso!
 >
 > Alcuni dei celebri intervistati sono stati coinvolti in modo fortuito. Abbiamo incontrato Peter Singer, ad esempio, negli unici cinque giorni di sua permanenza a New York.
 >
-> Siamo riusciti a intervistare Frances Moore Lappé, autrice di *Diet for a Small Planet*, nell'unico lunedì mattina libero che abbiamo avuto a New York. Fantastico!
+> Siamo riusciti a intervistare Frances Moore Lappé, autrice di _Diet for a Small Planet_, nell'unico lunedì mattina libero che abbiamo avuto a New York. Fantastico!
 
 ### E dimmi, il tuo documentario sulla cultura della carne sta sucitando interesse?
 

@@ -1,7 +1,7 @@
 ---
 title: 'Come riutilizzare gli scarti industriali?'
 date: '2015-01-22T00:00:05+00:00'
-description: 'Riutilizzare gli scarti industriali e trasformarli in oggetti di design componibile: questo è l'obiettivo di RIUp, una nuovissima start-up faentina.'
+description: "Riutilizzare gli scarti industriali e trasformarli in oggetti di design componibile: questo è l'obiettivo di RIUp, una nuovissima start-up faentina."
 featuredImage: ./riup-come-riutilizzo-lo-scarto.jpg
 category:
     - Ecoprogetti
@@ -11,7 +11,6 @@ tags:
     - Riutilizzo
     - Sostenibilità
 ---
-
 
 ![Silvia Dal Prato](./silvia-dal-prato.jpg)
 
@@ -23,11 +22,11 @@ Sono proprio curiosa di saperne di più! In che modo è possibile riutilizzare g
 
 ### Ciao, Silvia. Grazie innanzitutto di aver accettato l'intervista. Quando è nata l'idea di RIUp e di riutilizzare gli scarti industriali?
 
-> Ciao, Anna! RIUp nasce da un'esperienza precedente, chiamata *RI.KEA nella mia città*. Si è trattato di un evento rivolto alla cittadinanza come provocazione e riflessione sul riciclo e il riuso.
+> Ciao, Anna! RIUp nasce da un'esperienza precedente, chiamata _RI.KEA nella mia città_. Si è trattato di un evento rivolto alla cittadinanza come provocazione e riflessione sul riciclo e il riuso.
 >
 > ![Il team di RIUp](./fotogruppo-riup.jpg)
 >
-> Il successo di *RI.KEA nella mia città* si è evoluto in RIUp, una start-up che produce **oggetti di arredo green e sostenibili per la casa**.
+> Il successo di _RI.KEA nella mia città_ si è evoluto in RIUp, una start-up che produce **oggetti di arredo green e sostenibili per la casa**.
 
 ### Vorrei capire più nel dettaglio: qual è l'aspetto green della vostra start-up?
 
@@ -45,13 +44,13 @@ Sono proprio curiosa di saperne di più! In che modo è possibile riutilizzare g
 
 > **Lavoriamo con le aziende delle nostro territorio**, Faenza e circondario. Inizialmente mappiamo gli scarti emergenti disponibili, Poi scegliamo quelli più interessanti basandoci su alcuni criteri: **serialità**, **convenienza economica e di lavorazione**, **fattibilità normativa** nel recupero dello scarto. Riutilizzare gli scarti industriali richiede comunque uno studio pregresso.
 
-### In che modo le altre realtà aziendali e le singole persone collaborano con voi? Qual è il vostro modo di *fare rete* e di coinvolgere le persone?
+### In che modo le altre realtà aziendali e le singole persone collaborano con voi? Qual è il vostro modo di _fare rete_ e di coinvolgere le persone?
 
 > Per quanto riguarda gli aspetti operativi, **lavoriamo con due cooperative faentine**: la [CEFF](http://www.ceff.it) e il [Comitato di Amicizia](http://www.comitatodiamicizia.org), una Onlus che ci aiuta con la logistica e il ritiro della merce nelle aziende.
 >
 > Per la progettazione, **abbiamo i nostri designer** all'interno del team. Collaboriamo anche con designer e studi esterni.
 >
-> Siamo sempre alla ricerca di professionisti pronti a studiare con noi il modo migliore di riutilizzare gli scarti industriali. Abbiamo anche un bando aperto e offriamo le *royalties* sulle vendite.
+> Siamo sempre alla ricerca di professionisti pronti a studiare con noi il modo migliore di riutilizzare gli scarti industriali. Abbiamo anche un bando aperto e offriamo le _royalties_ sulle vendite.
 
 ### Avete ricevuto fondi per attivare RIUp?
 
@@ -59,7 +58,7 @@ Sono proprio curiosa di saperne di più! In che modo è possibile riutilizzare g
 >
 > E poi c'è stata [Impresa Creativa](http://www.impresacreativa.net). In questo caso, siamo stati fra i 3 vincitori.
 >
-> Nel passato abbiamo anche vinto *Spinner ICC*, che ha finanziato lo sviluppo del nostro business plan attraverso consulenze e viaggi all'estero.
+> Nel passato abbiamo anche vinto _Spinner ICC_, che ha finanziato lo sviluppo del nostro business plan attraverso consulenze e viaggi all'estero.
 
 ### Che cosa vi aspettate da questo 2015 appena iniziato?
 

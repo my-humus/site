@@ -1,15 +1,15 @@
 ---
-title: 'Our Design Concept: restauro e riciclo creativo'
-date: '2015-03-12T12:06:16+00:00'
+title: "Our Design Concept: restauro e riciclo creativo"
+date: "2015-03-12T12:06:16+00:00"
 description: "Our Design Concept è una realtà che si occupa di restauro e riciclo creativo. Francesca e Angelo progettano e trasformano gli spazi grazie a un nuovo sguardo."
 featuredImage: ./our-design-concept.jpg
 category:
-    - Ecoprogetti
+  - Ecoprogetti
 tags:
-    - Design
-    - Restauro
-    - Riciclo
-    - Riciclo creativo
+  - Design
+  - Restauro
+  - Riciclo
+  - Riciclo creativo
 ---
 
 **Francesca Andreone** e **Angelo Perna** hanno un chiodo fisso: il restauro e riciclo creativo.
@@ -17,14 +17,14 @@ Gli intervistati di questa settimana amano l'arte, la grafica e il design. Insie
 
 ![Angelo e Francesca](./angelo-francesca.jpg)
 
-Pensate che il design dei vostri arredi e oggetti di casa non rispecchi del tutto il vostro modo di essere? E allora *no panic*, personalizzatelo!
+Pensate che il design dei vostri arredi e oggetti di casa non rispecchi del tutto il vostro modo di essere? E allora _no panic_, personalizzatelo!
 Francesca e Angelo progettano da zero e trasformano gli spazi. Ecco che gli oggetti di casa, magicamente, assumono nuove funzionalità!
 
 ### Ciao, ragazzi! Perché dar vita a una realtà di restauro e riciclo creativo?
 
-> Ciao, Anna! *Our Design Concept* nasce dalla passione per l'arte, per la creatività e per il fai da te. Sono questi gli elementi che hanno dato vita a questo progetto.
+> Ciao, Anna! _Our Design Concept_ nasce dalla passione per l'arte, per la creatività e per il fai da te. Sono questi gli elementi che hanno dato vita a questo progetto.
 
-### Il vostro motto è *Your Dream: Our Design*: in cosa consiste il vostro lavoro, e secondo quali fasi di sviluppo?
+### Il vostro motto è _Your Dream: Our Design_: in cosa consiste il vostro lavoro, e secondo quali fasi di sviluppo?
 
 > Vogliamo trasformare un'idea o un desiderio in realtà. Non vuole essere lo spot di una banca, è davvero il modo di rendere concreto quello che è solo un pensiero.
 

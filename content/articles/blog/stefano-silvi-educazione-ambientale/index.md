@@ -1,7 +1,7 @@
 ---
 title: 'Nuovi modi di fare educazione ambientale a scuola'
 date: '2014-07-31T00:00:38+00:00'
-description: 'Imparare attraverso laboratori e visite guidate che incentivino la creatività dei bambini: c'è un nuovo modo di fare educazione ambientale a scuola.'
+description: "Imparare attraverso laboratori e visite guidate che incentivino la creatività dei bambini: c'è un nuovo modo di fare educazione ambientale a scuola."
 featuredImage: ./stefano-silvi.jpg
 category:
     - Ecoprogetti
@@ -14,16 +14,16 @@ tags:
 
 Qualche tempo fa, intenta a bere un caffè al bar, ho appreso da un giornale ravennate a proposito di una bella iniziativa incentrata sull'educazione ambientale a scuola. Un progetto ambizioso che valorizza i concetti di ecologia e di sostenibilità sottolineando il legame fra cibo, energia e inquinamento.
 
-Una delle persone coinvolte in questo progetto didattico è l'ingegnere **Stefano Silvi**, un amico che, al momento, è in Gran Bretagna per collaborare con ["The Facility"](http://www.the-facility.co.uk) nell'ambito del progetto europeo *Erasmus Young Entrepreneurs*.
+Una delle persone coinvolte in questo progetto didattico è l'ingegnere **Stefano Silvi**, un amico che, al momento, è in Gran Bretagna per collaborare con ["The Facility"](http://www.the-facility.co.uk) nell'ambito del progetto europeo _Erasmus Young Entrepreneurs_.
 
 ![Brochure](./brochure.jpg)
 
-Il nome di questo progetto di educazione ambientale a scuola è *Dall'orto in barattolo all'orto energetico* e la brochure è consultabile a questo link: [http://issuu.com/comra/docs/orto_in_classe](http://issuu.com/comra/docs/orto_in_classe).
+Il nome di questo progetto di educazione ambientale a scuola è _Dall'orto in barattolo all'orto energetico_ e la brochure è consultabile a questo link: [http://issuu.com/comra/docs/orto_in_classe](http://issuu.com/comra/docs/orto_in_classe).
 
 Il progetto, promosso e sostenuto dal Comune di Ravenna, ha coinvolto l'Istituto Comprensivo "Vincenzo Randi" con la sua scuola primaria di Classe. E poi il comitato cittadino di Classe, gli esperti ortolani Vittorio Casanova e Antonio Gasperoni, [RES](http://www.resitalia.org) e l'azienda agricola di Luca Miserocchi.
 [Panebarco&Multimedia](http://www.panebarco.it) ha realizzato un bellissimo cartone animato che potete vedere a questo link: [https://www.youtube.com/watch?v=uSy1zvsO7JM](https://www.youtube.com/watch?v=uSy1zvsO7JM)
 
-Grazie a *Dall'orto in barattolo all'orto energetico*, i bambini smettono di essere ascoltatori passivi per diventare protagonisti del loro apprendimento. Partecipano a **laboratori di ricerca e di sperimentazione**, coltivano in situ e imparano la **cultura della responsabilità**.
+Grazie a _Dall'orto in barattolo all'orto energetico_, i bambini smettono di essere ascoltatori passivi per diventare protagonisti del loro apprendimento. Partecipano a **laboratori di ricerca e di sperimentazione**, coltivano in situ e imparano la **cultura della responsabilità**.
 Il giardino della scuola diventa, così, un luogo pieno di stimoli capace di ripristinare gli equilibri ecosistemici grazie agli animali attratti dalle piante tipiche dell'orto.
 
 Stefano Silvi, con l'architetto Elisabetta Socci e il tecnico ambientale Giuseppe Pesce, ha attuato il percorso formativo del progetto differenziando la complessità delle lezioni in base alle età degli alunni.
@@ -46,7 +46,7 @@ Stefano Silvi, con l'architetto Elisabetta Socci e il tecnico ambientale Giusepp
 >
 > La risposta, in termini di coinvolgimento e di attenzione, è stata entusiasmante, al di sopra di qualsiasi nostra più rosea previsione.
 >
-> Alla fine di questo percorso di educazione ambientale a scuola, abbiamo consegnato a ciascun alunno il diploma di *Ortolano Energetico*. E poi un vasetto di confettura realizzata con le fragole coltivate insieme, per il quale ciascun bambino era stato chiamato a disegnare la propria etichetta.
+> Alla fine di questo percorso di educazione ambientale a scuola, abbiamo consegnato a ciascun alunno il diploma di _Ortolano Energetico_. E poi un vasetto di confettura realizzata con le fragole coltivate insieme, per il quale ciascun bambino era stato chiamato a disegnare la propria etichetta.
 
 ### Quanto successo ha riscosso il vostro modo di fare educazione ambientale a scuola?
 
@@ -70,7 +70,7 @@ Stefano Silvi, con l'architetto Elisabetta Socci e il tecnico ambientale Giusepp
 >
 > Per questo motivo verrà riproposto nel piano di offerta formativa per l'anno scolastico 2014/2015 del Comune di Ravenna.
 >
-> Ci piacerebbe proporre *Dall'orto in barattolo all'orto energetico* anche al di là del territorio comunale, e non solo in ambito scolastico.
+> Ci piacerebbe proporre _Dall'orto in barattolo all'orto energetico_ anche al di là del territorio comunale, e non solo in ambito scolastico.
 >
 > Insomma, come vedi le idee non mancano e speriamo di riuscire a dare a questa bellissima esperienza la giusta visibilità e il giusto seguito. La voglia di rimboccarci le maniche, e di zappare, non ci manca!
 

@@ -1,7 +1,7 @@
 ---
-title: 'L'architettura olistica di Gabriele Poggiali'
+title: "L'architettura olistica di Gabriele Poggiali"
 date: '2016-04-15T15:59:48+00:00'
-description: 'Gabriele Poggiali, l'architetto ravennate appassionato di Feng Shui, di arti marziali e di architettura olistica'
+description: "Gabriele Poggiali, l'architetto ravennate appassionato di Feng Shui, di arti marziali e di architettura olistica."
 featuredImage: ./alvin-engler.jpg
 category:
     - Ecoprogetti
@@ -9,9 +9,7 @@ tags:
     - Architettura olistica
     - Feng shui
 
----
-
-Non è trascorso molto tempo dal giorno in cui ho parlato di architettura olistica insieme a Giorgia, una delle mie migliori amiche.
+---Non è trascorso molto tempo dal giorno in cui ho parlato di architettura olistica insieme a Giorgia, una delle mie migliori amiche.
 
 ![Gabriele Poggiali](./gabriele-poggiali.jpg)
 
@@ -24,7 +22,7 @@ Un paio di domeniche fa, a Cesena, ho partecipato a una sua conferenza sull'**eq
 
 ### Cos'è esattamente il Feng Shui? Cosa indaga?
 
-> [Feng Shui](http://www.gabrielepoggiali.com/fengshui/) significa *Vento Acqua*. Nasce dallo studio di questi elementi sul territorio e del microclima creato dal loro equilibrio.
+> [Feng Shui](http://www.gabrielepoggiali.com/fengshui/) significa _Vento Acqua_. Nasce dallo studio di questi elementi sul territorio e del microclima creato dal loro equilibrio.
 >
 > Nel tempo è passato dalla macro alla micro scala, quindi dal territorio alla singola stanza, implementando ed espandendo gli studi, le analisi e gli approcci. Questo per conoscere sempre meglio l'ambiente che ci circonda.
 >

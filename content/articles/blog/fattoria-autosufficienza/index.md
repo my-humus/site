@@ -1,7 +1,7 @@
 ---
 title: 'Un centro di ecologia applicata in Romagna'
 date: '2016-05-20T09:54:29+00:00'
-description: 'Francesco Rosso, direttore generale di Macrolibrarsi, il suo centro di ecologia applicata in Romagna, un progetto dedicato all'ecologia e alla permacultura.'
+description: "Francesco Rosso, direttore generale di Macrolibrarsi, il suo centro di ecologia applicata in Romagna, un progetto dedicato all'ecologia e alla permacultura."
 featuredImage: ./fattoria-autosufficienza.jpg
 category:
     - Ecoprogetti
@@ -17,18 +17,18 @@ Metti un normalissimo martedì pomeriggio di sole in cui infili in borsa la macc
 
 ![Francesco Rosso](./francesco-rosso-macrolibrarsi.jpg)
 
-Il progetto nasce da un'idea di Francesco Rosso, direttore generale di [Macrolibrarsi](http://www.macrolibrarsi.it), nonché strenuo sostenitore dei principi di *decrescita felice*.
+Il progetto nasce da un'idea di Francesco Rosso, direttore generale di [Macrolibrarsi](http://www.macrolibrarsi.it), nonché strenuo sostenitore dei principi di _decrescita felice_.
 
 La Fattoria dell'Autosufficienza è un centro di ecologia applicata in Romagna che promuove l'**autosufficienza alimentare**, l'**ecoturismo** e le pratiche di **permacultura**.
 
-Una delle strutture del centro è un bellissimo agriturismo che, a breve, aprirà le porte agli ospiti offrendo loro prodotti realizzati *in loco*. Frutto di un accurato progetto di bioedilizia, è stato studiato per garantire il minimo impatto ambientale.
+Una delle strutture del centro è un bellissimo agriturismo che, a breve, aprirà le porte agli ospiti offrendo loro prodotti realizzati _in loco_. Frutto di un accurato progetto di bioedilizia, è stato studiato per garantire il minimo impatto ambientale.
 
 Il paesaggio che circonda la struttura sembra davvero una cartolina. Ci sono colline verdissime, spazi che sembrano infiniti e una moltitudine di rapaci che volteggiano in cerca di prede, instancabili.
 Tutto, lì attorno, è una festa di colori e di profumi.
 
 ![Saluti e baci da Paganico!](./fattoria-autosufficienza-1.jpg)
 
-Questo centro di ecologia applicata in Romagna ospita una bellissima *yurta*, la tradizionale abitazione mobile adottata da alcuni popoli nomadi dell'Asia. Costituita da uno scheletro in legno ricoperto da tappeti di feltro di lana, è una struttura dal forte impatto visivo.
+Questo centro di ecologia applicata in Romagna ospita una bellissima _yurta_, la tradizionale abitazione mobile adottata da alcuni popoli nomadi dell'Asia. Costituita da uno scheletro in legno ricoperto da tappeti di feltro di lana, è una struttura dal forte impatto visivo.
 Nel caso della Fattoria, la yurta ospita wwoofers provenienti da tutto il mondo.
 
 ![Fattoria autosufficienza](./ph-sara-baraccani.jpg)
@@ -101,7 +101,7 @@ Continuando a gironzolare attorno all'agriturismo, si resta affascinati dagli **
 >
 > Per un po' di tempo abbiamo proposto quello intensivo di 72 ore, comprensivo di teoria e di pratica.
 >
-> Quest'anno, in aggiunta, presentiamo un corso di 4 giorni tenuto dal grande **[Sepp Holzer](http://www.seppholzer.it/sepp-holzer/)**. Sepp ha fatto della sua fattoria, "*[Der Krameterhof](http://www.seppholzer.at/cms/index.php?id=69)*", il maggior esempio europeo di permacultura applicata in climi temperati.
+> Quest'anno, in aggiunta, presentiamo un corso di 4 giorni tenuto dal grande **[Sepp Holzer](http://www.seppholzer.it/sepp-holzer/)**. Sepp ha fatto della sua fattoria, "_[Der Krameterhof](http://www.seppholzer.at/cms/index.php?id=69)_", il maggior esempio europeo di permacultura applicata in climi temperati.
 >
 > Devi sapere che in Austria ha realizzato un'azienda agricola di 40 ettari fra i 1.000 e i 1.500 m di altitudine. Si trova in un luogo in cui faticherebbe a crescere anche un cespuglio! Ebbene, lui ha dato vita a una biodiversità incredibile grazie alla quale riesce a produrre di tutto.
 >

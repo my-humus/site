@@ -1,7 +1,7 @@
 ---
 title: 'Il vivaismo ornamentale del maestro Carlo Pagani'
 date: '2014-07-04T00:00:11+00:00'
-description: 'Scopriamo insieme la passione di Carlo Pagani per l'architettura del paesaggio e il vivaismo ornamentale.'
+description: "Scopriamo insieme la passione di Carlo Pagani per l'architettura del paesaggio e il vivaismo ornamentale."
 featuredImage: ./carlo-pagani.jpg
 category:
     - Green Mix
@@ -47,7 +47,7 @@ Era il momento di realizzare spazi in cui fosse la natura stessa ad essere un gi
 Il mio incontro con Carlo Pagani è avvenuto poco tempo fa a Flora 2000, ed è stato veramente molto piacevole. Carlo Pagani è una persona gioiosa, piena di vita, e i suoi occhi emanano un entusiasmo contagioso.
 
 Merito di sua moglie, dice, che lo ha sempre sostenuto dandogli la possibilità di realizzare i suoi sogni in totale libertà.
-Quando si dice *vero amore*.
+Quando si dice _vero amore_.
 
 Carlo mi ha raccontato un sacco di aneddoti, come ad esempio quello riguardante Giuseppe Verdi.
 Forse non tutti sanno che non è stato solo un grandissimo compositore, ma anche un fervente agricoltore deciso a investire molti dei suoi beni in terra agricola. Amante anche del vivaismo ornamentale e del giardinaggio, in ogni luogo in cui ha suonato ha fatto scorta di piante. Le ha scelte personalmente.

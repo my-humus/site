@@ -1,5 +1,5 @@
 ---
-title: 'Veve, l'orto verticale aeroponico'
+title: "Veve, l'orto verticale aeroponico"
 date: '2015-05-21T10:36:06+00:00'
 description: "Matteo Sansoni è l'ideatore di Veve, l'orto verticale aeroponico che permette di coltivare un'infinità di ortaggi nello spazio di un metro."
 featuredImage: ./veve.jpg
@@ -12,7 +12,6 @@ tags:
     - Sostenibilità
     - Vertical veggies
 ---
-
 
 Orto verticale aeroponico: cioé? Cosa significa?
 Nello studio di Matteo Sansoni ci sono tantissimi oggetti, sparsi un po' ovunque. Ci sono anche moltissimi fogli. E poi c'è un angolo della stanza illuminato di viola. E in quell'angolo illuminato di viola c'è uno strano marchingegno che non ho ben capito cosa sia.
@@ -31,13 +30,13 @@ Lo studio di Matteo si trova all'interno di [Progetto Manifattura](https://proge
 
 > A questo progetto mi hanno portato due grandi passioni: il disegno industriale e la botanica.
 >
-> Un anno fa ho avuto l'idea di **permettere a tutti di avere un orto in casa**. Così ho studiato i sistemi fino ad allora in uso, studiando le metodologie più adatte, ricercando materiali e strumentazioni. Ho voluto dar loro nuove funzionalità declinandole, ovviamente, alle esigenze dei vegetali. Ed ecco che è nato *Veve*!
+> Un anno fa ho avuto l'idea di **permettere a tutti di avere un orto in casa**. Così ho studiato i sistemi fino ad allora in uso, studiando le metodologie più adatte, ricercando materiali e strumentazioni. Ho voluto dar loro nuove funzionalità declinandole, ovviamente, alle esigenze dei vegetali. Ed ecco che è nato _Veve_!
 >
 > A Progetto Manifattura ho trovato la sede ideale per sviluppare in modo coerente la mia idea.
 >
 > Il prototipo attuale usa materiali già presenti sul mercato. Si tratta di prodotti idraulici, elementi di irrigazione, pompe e altro. Io li utilizzo in modo diverso per ridurre i costi della progettazione.
 
-### In cosa consiste Veve? Cosa intendi per *orto verticale aeroponico automatizzato*?
+### In cosa consiste Veve? Cosa intendi per _orto verticale aeroponico automatizzato_?
 
 > Veve è un orto verticale aeroponico costituito da un catino alla base che contiene la soluzione di acqua e nutrimenti biologici. Poi c'è un coperchio su cui poggia la struttura cilindrica superiore, ci sono alcuni raccordi a 45° per i semi o le piantine, un tubo interno di erogazione della soluzione nutritiva e una pompa elettrica.
 >

@@ -10,10 +10,11 @@ export default class Layout extends React.Component {
     return (
       <>
         <SEO title={title} path={location.pathname} />
-        <MainNavigation title={title} root={location.pathname === `${__PATH_PREFIX__}/`} />
-        <main>
-          {children}
-        </main>
+        <MainNavigation
+          title={title}
+          root={location.pathname === `${__PATH_PREFIX__}/`}
+        />
+        <main>{children}</main>
         <Footer />
       </>
     )

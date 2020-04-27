@@ -14,7 +14,9 @@ class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
     const { previous, next } = this.props.pageContext
-    const image = post.frontmatter.featuredImage ? post.frontmatter.featuredImage.childImageSharp.fixed : null
+    const image = post.frontmatter.featuredImage
+      ? post.frontmatter.featuredImage.childImageSharp.fixed
+      : null
 
     return (
       <>
@@ -31,21 +33,24 @@ class BlogPostTemplate extends React.Component {
           <article className="blog-post">
             <header>
               {image && (
-                <Img fixed={image} style={{ width: "100%" }} className="blog-post-image" />
+                <Img
+                  fixed={image}
+                  style={{ width: "100%" }}
+                  className="blog-post-image"
+                />
               )}
               <section className="hero">
                 <div className="hero-body">
                   <div className="container">
-                    <h1 className="title">
-                      {post.frontmatter.title}
-                    </h1>
+                    <h1 className="title">{post.frontmatter.title}</h1>
                     {post.frontmatter.description && (
                       <h2 className="subtitle">
                         {post.frontmatter.description}
                       </h2>
                     )}
                     <div>
-                      <i className="icon-myhumus-clock"></i> {post.frontmatter.date}
+                      <i className="icon-myhumus-clock"></i>{" "}
+                      {post.frontmatter.date}
                     </div>
                   </div>
                 </div>
@@ -57,7 +62,10 @@ class BlogPostTemplate extends React.Component {
               </div>
             )}
             <div className="container">
-              <section className="post-content" dangerouslySetInnerHTML={{ __html: post.html }} />
+              <section
+                className="post-content"
+                dangerouslySetInnerHTML={{ __html: post.html }}
+              />
             </div>
           </article>
           {post.frontmatter.tags && (
@@ -89,7 +97,7 @@ export const pageQuery = graphql`
         author
       }
     }
-    markdownRemark(fields: {slug: {eq: $slug } }) {
+    markdownRemark(fields: { slug: { eq: $slug } }) {
       id
       excerpt(pruneLength: 160)
       html
@@ -100,7 +108,7 @@ export const pageQuery = graphql`
         category
         tags
         featuredImage {
-          childImageSharp{
+          childImageSharp {
             fixed(width: 1280, height: 768, quality: 60) {
               ...GatsbyImageSharpFixed
             }

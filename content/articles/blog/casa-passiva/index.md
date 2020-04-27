@@ -1,18 +1,18 @@
 ---
-title: 'Voglio una casa passiva!'
-date: '2016-02-25T12:38:59+00:00'
-description: 'Anna e Alberto hanno deciso di vivere in una casa passiva. La loro scelta, a giudicare dalle loro parole, è decisamente positiva.'
+title: "Voglio una casa passiva!"
+date: "2016-02-25T12:38:59+00:00"
+description: "Anna e Alberto hanno deciso di vivere in una casa passiva. La loro scelta, a giudicare dalle loro parole, è decisamente positiva."
 featuredImage: ./casa-passiva.jpg
 category:
-    - Ecoprogetti
+  - Ecoprogetti
 tags:
-    - Bioedilizia
-    - Casa passiva
-    - Ecosostenibile
-    - Risparmio energetico
+  - Bioedilizia
+  - Casa passiva
+  - Ecosostenibile
+  - Risparmio energetico
 ---
 
-*Presa di coscienza*.
+_Presa di coscienza_.
 
 Osservo gli infissi di casa mia, tutt'altro che casa passiva. Chissà quanti spifferi ci sono.
 Guardo i miei doppi vetri, e mi domando: isoleranno abbastanza?
@@ -20,7 +20,7 @@ E i termosifoni? Ne vogliamo parlare? Vogliamo affrontare anche questo discorso?
 Per non parlare dell'acqua potabile dello sciacquone in bagno.
 C'è poco da fare: casa mia non è abbastanza passiva. Urge un cambiamento!
 
-*Improvvisamente, l'illuminazione divina*.
+_Improvvisamente, l'illuminazione divina_.
 
 Non amo molto andare a caccia di regali natalizi, ma per le amiche del cuore sono disposta a fare un'eccezione.
 Durante le ultime feste di Natale ho accompagnato Giorgia in uno dei suoi giretti. Chiacchierando, mi ha raccontato di una sua amica e della sua scelta di vivere in una casa passiva.
@@ -38,7 +38,7 @@ Quella che segue è la chiacchierata che ho avuto con Anna un po' di tempo fa.
 
 ### Quali sono le caratteristiche della vostra casa passiva?
 
-> Si tratta di un'abitazione ecofriendly con [certificazione *Passivhaus*](http://www.zephir.ph). È costruita in **latero-cemento** con **materiali altamente isolanti** e il più possibile **riciclabili**.
+> Si tratta di un'abitazione ecofriendly con [certificazione _Passivhaus_](http://www.zephir.ph). È costruita in **latero-cemento** con **materiali altamente isolanti** e il più possibile **riciclabili**.
 
 ### A chi vi siete affidati per rendere la vostra casa a impatto zero?
 

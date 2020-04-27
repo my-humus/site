@@ -1,21 +1,21 @@
 ---
-title: 'Promuovere il turismo in Italia con BikeWoman'
-date: '2014-09-11T00:00:01+00:00'
-description: 'Ci sono tanti modi per promuovere il turismo in Italia. Uno di questi è BikeWoman, un format la cui puntata-pilota è stata realizzata a Ravenna.'
+title: "Promuovere il turismo in Italia con BikeWoman"
+date: "2014-09-11T00:00:01+00:00"
+description: "Ci sono tanti modi per promuovere il turismo in Italia. Uno di questi è BikeWoman, un format la cui puntata-pilota è stata realizzata a Ravenna."
 featuredImage: ./nicoletta-mongardi.jpg
 category:
-    - Mobilità sostenibile
+  - Mobilità sostenibile
 tags:
-    - Bicicletta
-    - Green lifestyle
-    - Sport
+  - Bicicletta
+  - Green lifestyle
+  - Sport
 ---
 
 La mia passione per la bici mi ha permesso di promuovere il turismo in Italia. Non lo avrei mai detto!
 
 Che io ami la bicicletta lo sanno tutti quelli che mi conoscono, anche i muri. Diversi amici mi hanno regalato di ogni: dai libri sugli eroi del ciclismo ai tegami a forma di bicicletta, dai magneti a borracce, trombette e piccoli borselli da legare al telaio.
 
-Qualche tempo fa, qualcuno mi ha messo in sella a una Scott da sterrato facendomi indossare divisa, caschetto e GoPro. E dicendomi: *"Ciak! Si gira!"*
+Qualche tempo fa, qualcuno mi ha messo in sella a una Scott da sterrato facendomi indossare divisa, caschetto e GoPro. E dicendomi: _"Ciak! Si gira!"_
 È quanto ha fatto Nicoletta Mongardi, titolare dell'agenzia [Bright Srl](http://www.brightsrl.it), con BikeWoman.
 BikeWoman è un format televisivo che vede come protagoniste sette ragazze alla scoperta delle bellezze d'Italia in sella alla bici.
 
@@ -60,7 +60,7 @@ Di recente, ho avuto modo di parlare di BikeWoman insieme a Nicoletta.
 >
 > Le prossime partecipanti saranno selezionate attraverso casting appositamente organizzati in ogni città location. Le loro caratteristiche saranno vagliate da una giuria presidiata dal regista e dal direttore televisivo.
 
-> Si accettano cv corredati di foto o video all'indirizzo *bright@brightsrl.it*, specificando la città di appartenenza.
+> Si accettano cv corredati di foto o video all'indirizzo _bright@brightsrl.it_, specificando la città di appartenenza.
 
 ### Come svilupperete questo progetto?
 

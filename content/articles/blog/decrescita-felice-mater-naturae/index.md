@@ -1,7 +1,7 @@
 ---
 title: 'Mater Naturae coltiva verdure biologiche a Ravenna'
 date: '2015-07-16T09:16:31+00:00'
-description: 'Mater Naturae è un'azienda agricola che produce verdure biologiche a Ravenna e che promuove i principi della decrescita felice.'
+description: "Mater Naturae è un'azienda agricola che produce verdure biologiche a Ravenna e che promuove i principi della decrescita felice."
 featuredImage: ./christian-grassi.jpg
 category:
     - Green Mix
@@ -15,7 +15,7 @@ tags:
 C'è una realtà che coltiva e vende verdure biologiche a Ravenna, e che s'ispira ai principi di decrescita felice.
 Ma facciamo un piccolo passo indietro e chiariamo due cose su questo tipo di decrescita.
 
-Kenneth Boulding affermava: "*Chi crede che una crescita esponenziale possa continuare all'infinito in un mondo finito è un folle, oppure un economista*". Cosa ne pensate?
+Kenneth Boulding affermava: "_Chi crede che una crescita esponenziale possa continuare all'infinito in un mondo finito è un folle, oppure un economista_". Cosa ne pensate?
 
 Crescita economica e benessere delle persone non vanno necessariamente di pari passo?
 Un aumento del PIL corrisponde spesso una diminuzione della qualità di vita?

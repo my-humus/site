@@ -24,7 +24,7 @@ module.exports = {
       company: `Anna Zattoni`,
       url: `https://myhumus.com/`,
       logo: `https://myhumus.com/logo.png`,
-      email: `info@myhumus.com`,
+      email: `info@myhumus.com`
     },
     appearance: {
       accent: `#75c594`,
@@ -40,15 +40,15 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/content/articles`,
-        name: `articles`,
-      },
+        name: `articles`
+      }
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/content/assets`,
-        name: `assets`,
-      },
+        name: `assets`
+      }
     },
     {
       resolve: `gatsby-transformer-remark`,
@@ -57,8 +57,8 @@ module.exports = {
           {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 590,
-            },
+              maxWidth: 590
+            }
           },
           {
             resolve: `gatsby-remark-embed-video`,
@@ -70,14 +70,14 @@ module.exports = {
           {
             resolve: `gatsby-remark-responsive-iframe`,
             options: {
-              wrapperStyle: `margin-bottom: 1.0725rem`,
-            },
+              wrapperStyle: `margin-bottom: 1.0725rem`
+            }
           },
           `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`
-        ],
-      },
+        ]
+      }
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
@@ -85,8 +85,8 @@ module.exports = {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         trackingId: `UA-48118924-1`,
-        anonymize: true,
-      },
+        anonymize: true
+      }
     },
     {
       resolve: `gatsby-plugin-htaccess`,
@@ -94,7 +94,7 @@ module.exports = {
         https: true,
         www: true,
         SymLinksIfOwnerMatch: true,
-        host: 'myhumus.com',
+        host: "myhumus.com",
         ErrorDocument: `
           ErrorDocument 401 /error/401/index.html
           ErrorDocument 403 /error/403/index.html
@@ -107,20 +107,20 @@ module.exports = {
       resolve: `gatsby-plugin-iubenda-cookie-footer`,
       options: {
         iubendaOptions: {
-          "lang": "it",
-          "siteId": 1781270,
-          "countryDetection": true,
-          "consentOnContinuedBrowsing": false,
-          "cookiePolicyInOtherWindow": true,
-          "cookiePolicyId": 29008249,
-          "cookiePolicyUrl": "https://myhumus.com/legal/cookies",
-          "banner": {
-            "position": "float-top-center",
-            "textColor": "#fff",
-            "backgroundColor": "#1d1d1d",
-            "acceptButtonDisplay": true,
-            "acceptButtonColor": "#75c594",
-            "acceptButtonCaptionColor": "#fff"
+          lang: "it",
+          siteId: 1781270,
+          countryDetection: true,
+          consentOnContinuedBrowsing: false,
+          cookiePolicyInOtherWindow: true,
+          cookiePolicyId: 29008249,
+          cookiePolicyUrl: "https://myhumus.com/legal/cookies",
+          banner: {
+            position: "float-top-center",
+            textColor: "#fff",
+            backgroundColor: "#1d1d1d",
+            acceptButtonDisplay: true,
+            acceptButtonColor: "#75c594",
+            acceptButtonCaptionColor: "#fff"
           }
         }
       }
@@ -150,7 +150,7 @@ module.exports = {
                   date: edge.node.frontmatter.date,
                   url: site.siteMetadata.siteUrl + edge.node.fields.slug,
                   guid: site.siteMetadata.siteUrl + edge.node.fields.slug,
-                  custom_elements: [{ "content:encoded": edge.node.html }],
+                  custom_elements: [{ "content:encoded": edge.node.html }]
                 })
               })
             },
@@ -174,10 +174,10 @@ module.exports = {
               }
             `,
             output: "/rss.xml",
-            title: "MyHumus's RSS Feed",
-          },
-        ],
-      },
+            title: "MyHumus's RSS Feed"
+          }
+        ]
+      }
     },
     {
       resolve: `gatsby-plugin-manifest`,
@@ -188,8 +188,8 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#75c594`,
         display: `minimal-ui`,
-        icon: `content/assets/icon.png`,
-      },
+        icon: `content/assets/icon.png`
+      }
     },
     {
       resolve: `gatsby-plugin-sitemap`,
@@ -217,7 +217,7 @@ module.exports = {
             return {
               url: site.siteMetadata.siteUrl + edge.node.path,
               changefreq: `daily`,
-              priority: 0.7,
+              priority: 0.7
             }
           })
       }
@@ -227,14 +227,14 @@ module.exports = {
     {
       resolve: "gatsby-plugin-categories",
       options: {
-        templatePath: `${__dirname}/src/templates/category.js`,
-      },
+        templatePath: `${__dirname}/src/templates/category.js`
+      }
     },
     {
       resolve: "gatsby-plugin-tags",
       options: {
-        templatePath: `${__dirname}/src/templates/tag.js`,
-      },
+        templatePath: `${__dirname}/src/templates/tag.js`
+      }
     },
     `gatsby-plugin-offline`
   ]

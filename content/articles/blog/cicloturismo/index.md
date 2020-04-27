@@ -1,7 +1,7 @@
 ---
 title: 'Il cicloturismo in Sicilia, quello bello!'
 date: '2015-07-23T10:39:28+00:00'
-description: 'Movimento Centrale è il bike café di Chiara e Alfonso, due ragazzi che promuovono il cicloturismo in Sicilia, la loro terra d'origine.'
+description: "Movimento Centrale è il bike café di Chiara e Alfonso, due ragazzi che promuovono il cicloturismo in Sicilia, la loro terra d'origine."
 featuredImage: ./chiara-e-alfonso.jpg
 category:
     - Mobilità sostenibile
@@ -21,7 +21,7 @@ Altri aspetti da non sottovalutare: arancini da urlo, granite pazzesche, pasticc
 
 Della Sicilia colpisce anche l'ospitalità delle persone. Una sera sono stata a cena in un ristorante di Marzamemi. Dopo aver ordinato alla carta, il cameriere mi ha portato un polpo gigante che non avevo richiesto.
 
-"*Cameriere, credo ci sia un errore, io non l'ho ordinato*", gli ho detto. E lui, sorridente: "*Lo so, è offerto dalla casa!*". Hai capito, la Sicilia?
+"_Cameriere, credo ci sia un errore, io non l'ho ordinato_", gli ho detto. E lui, sorridente: "_Lo so, è offerto dalla casa!_". Hai capito, la Sicilia?
 
 Ma torniamo a noi e all'argomento di questa settimana.
 Amanti della bici di tutta Italia, cercate un itinerario per le vostre prossime vacanze?
@@ -58,7 +58,7 @@ L'hub si chiama [Movimento Centrale](http://www.movimentocentrale.net).
 >
 > In questi giorni stiamo mettendo a punto una mappa della Sicilia sud-orientale che mostrerà alcuni percorsi ciclabili, tutti mappati con QR Code e scaricabili in formato GPX (GPS Exchange Format) così da poter essere visualizzati sul navigatore. Vogliamo che il cicloturismo in Sicilia sia facilitato e consentito a tutti.
 >
-> Offriamo il 10% di sconto a tutti coloro che arrivano alla caffetteria in sella alla bici. Noleggiamo biciclette e organizziamo tour cicloturistici mettendo a punto percorsi *ad hoc*.
+> Offriamo il 10% di sconto a tutti coloro che arrivano alla caffetteria in sella alla bici. Noleggiamo biciclette e organizziamo tour cicloturistici mettendo a punto percorsi _ad hoc_.
 >
 > Movimento Centrale è un progetto che sta prendendo vita un po' alla volta. Desideriamo avvicinare coloro che hanno deciso di visitare la Sicilia cercando un **contatto diretto con le persone**.
 

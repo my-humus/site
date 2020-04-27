@@ -1,7 +1,7 @@
 ---
 title: 'I vestiti con materiali riciclati di Ecologina'
 date: '2015-04-09T12:13:09+00:00'
-description: 'Giada Gaia Cicala ha fondato Ecologina, un brand di moda che realizza vestiti con materiali riciclati in  un'ottica di recupero e di sostenibilità ambientale.'
+description: "Giada Gaia Cicala ha fondato Ecologina, un brand di moda che realizza vestiti con materiali riciclati in  un'ottica di recupero e di sostenibilità ambientale."
 featuredImage: ./ecologina.jpg
 category:
     - Ecoprogetti
@@ -12,7 +12,6 @@ tags:
     - Riciclo
     - Upcycling
 ---
-
 
 ![Giada Gaia Cicala](./vestiti-giada-0068.jpg)
 
@@ -31,7 +30,7 @@ Il lavoro di Giada, secondo me, ha tutte le carte in regola per farsi notare e f
 
 ### Ciao, Giada! Com'è iniziata l'avventura di Ecologina?
 
-> Ciao, Anna! Ecologina è nata dall'incontro di tre mie passioni: la moda, il recupero creativo e la natura. Fondamentale è stata anche l'esperienza lavorativa a Londra al [From Somewhere](http://fromsomewhere.co.uk), label di moda *upcycling*. Quel periodo mi ha permesso di capire che una moda etica è possibile.
+> Ciao, Anna! Ecologina è nata dall'incontro di tre mie passioni: la moda, il recupero creativo e la natura. Fondamentale è stata anche l'esperienza lavorativa a Londra al [From Somewhere](http://fromsomewhere.co.uk), label di moda _upcycling_. Quel periodo mi ha permesso di capire che una moda etica è possibile.
 >
 > Così mi sono buttata a capofitto in questa avventura!
 
@@ -47,9 +46,9 @@ Il lavoro di Giada, secondo me, ha tutte le carte in regola per farsi notare e f
 
 ### Che tessuti utilizzi e dove li trovi? È tutto Made in Italy?
 
-> La maggior parte dei tessuti che utilizzo per i miei vestiti con materiali riciclati sono *upcycle*. Questo significa che sono nuovi e di qualità, ma vengono scartati dalle aziende tessili e dai laboratori di confezione o di taglio. Sono **rimanenze**, **piccoli metraggi**, **prove di colore**, **tessuti con piccoli falli**. Sai, c'è tanto spreco nel mondo della moda.
+> La maggior parte dei tessuti che utilizzo per i miei vestiti con materiali riciclati sono _upcycle_. Questo significa che sono nuovi e di qualità, ma vengono scartati dalle aziende tessili e dai laboratori di confezione o di taglio. Sono **rimanenze**, **piccoli metraggi**, **prove di colore**, **tessuti con piccoli falli**. Sai, c'è tanto spreco nel mondo della moda.
 >
-> Una piccola parte delle mie collezioni la realizzo servendomi dei tessuti provenienti da vestiti non più utilizzati dalle persone, vero e proprio *recycle*. Dopo aver raccolto tanti vestiti, seleziono sulla base della qualità del materiale.
+> Una piccola parte delle mie collezioni la realizzo servendomi dei tessuti provenienti da vestiti non più utilizzati dalle persone, vero e proprio _recycle_. Dopo aver raccolto tanti vestiti, seleziono sulla base della qualità del materiale.
 >
 > Nella fase successiva entra in gioco mia nonna. Mi dona il suo prezioso aiuto scucendo gli abiti in pezzi, lavandoli e stirandoli, e diventando, così, materia prima per i miei pezzi unici patchwork.
 >

@@ -1,22 +1,21 @@
 ---
-title: 'Scegli una rete di vendita a filiera corta!'
-date: '2015-12-03T10:46:35+00:00'
-description: 'Alveare che dice sì è un interessante progetto che promuove il km zero conciliando filiera corta, internet e sharing economy.'
+title: "Scegli una rete di vendita a filiera corta!"
+date: "2015-12-03T10:46:35+00:00"
+description: "Alveare che dice sì è un interessante progetto che promuove il km zero conciliando filiera corta, internet e sharing economy."
 featuredImage: ./maja-petric.jpg
 category:
-    - Ecoprogetti
+  - Ecoprogetti
 tags:
-    - Consumo etico
-    - Km zero
-    - Sharing economy
-    - Sostenibilità
+  - Consumo etico
+  - Km zero
+  - Sharing economy
+  - Sostenibilità
 ---
-
 
 Una rete di vendita a filiera corta potrebbe distoglierci dall'acquisto di manghi a metà dicembre. O di altra frutta (o verdura) proveniente da chissà quale parte del mondo.
 Potrebbe invogliarci a valorizzare i prodotti del territorio in cui viviamo, ad esempio, e a sensibilizzarci riguardo al tema dello sfruttamento del lavoro.
 
-Come possiamo essere consumatori più responsabili? Come possiamo fare la differenza? Magari scegliendo, appunto, una rete di vendita a filiera corta?  
+Come possiamo essere consumatori più responsabili? Come possiamo fare la differenza? Magari scegliendo, appunto, una rete di vendita a filiera corta?
 
 A questo proposito, credo sia interessante conoscere l'**Alveare che dice sì!**, progetto di stampo francese che, di recente, è arrivato anche in Italia per promuovere il **Km Zero**.
 
@@ -39,7 +38,7 @@ Che ne dite, vogliamo conoscerlo meglio insieme?
 
 ### Dove e quando è nato il progetto?
 
-> **Il progetto è nato a Parigi nel 2011** da due giovani francesi molto in gamba. In breve tempo si è trasformato in un movimento europeo ("*The Food Assembly"*).
+> **Il progetto è nato a Parigi nel 2011** da due giovani francesi molto in gamba. In breve tempo si è trasformato in un movimento europeo ("_The Food Assembly"_).
 >
 > La piattaforma ha preso piede anche in Gran Bretagna, in Germania, in Belgio e in Spagna. Solo in Francia ci sono circa 700 alveari!.
 
@@ -85,7 +84,7 @@ Che ne dite, vogliamo conoscerlo meglio insieme?
 >
 > L'alveare diventa visibile sulla piattaforma affinché tutti possano vederlo, iscriversi e ampliare la comunità.
 >
-> Prima di dar vita all'alveare, di solito si organizza il cosiddetto *alveritivo*, una serata conviviale in cui i produttori presentano ciò che venderanno alla comunità.
+> Prima di dar vita all'alveare, di solito si organizza il cosiddetto _alveritivo_, una serata conviviale in cui i produttori presentano ciò che venderanno alla comunità.
 
 ### Dimmi, che differenza c'è fra voi e i gruppi di acquisto solidale?
 

@@ -1,7 +1,7 @@
 ---
 title: 'La conservazione della biodiversità contadina'
 date: '2015-07-02T10:46:31+00:00'
-description: 'Civiltà Contadina è un'associazione nata per garantire la conservazione della biodiversità connessa al mondo contadino di una volta.'
+description: "Civiltà Contadina è un'associazione nata per garantire la conservazione della biodiversità connessa al mondo contadino di una volta."
 featuredImage: ./seed-savers.jpg
 category:
     - Green Mix
@@ -15,7 +15,7 @@ tags:
 L'infanzia contadina di mia madre mi ha sempre affascinata.
 Ascoltando i suoi racconti si ha la sensazione che siano trascorsi secoli, invece si parla di una cinquantina di anni fa. Non è poi la preistoria.
 
-Quando ripenso alla sua infanzia, mi viene in mente *Amarcord* di Fellini.
+Quando ripenso alla sua infanzia, mi viene in mente _Amarcord_ di Fellini.
 La Gradisca, Titta, la signora Miranda, Aurelio, Teo "Il pataca", la Volpina e l'Aldina sono solo alcuni dei personaggi del film che sembrano ricalcare alla perfezione il mondo contadino in cui mia madre è cresciuta.
 
 La realtà che racconto questa settimana racchiude in sé la stessa poesia e lo stesso tenero romanticismo che riconosco nell'infanzia di mia madre.
@@ -23,7 +23,7 @@ Si tratta di un'associazione che si occupa di conservazione della biodiversità 
 
 Civiltà Contadina è una Onlus nata nel 1996 da Rosa Maria Bertino, Achille Mingozzi e Gino Girolomoni, promotori dell'agricoltura biologica e impegnati in diversi progetti finalizzati alla salvaguardia delle campagne italiane.
 
-Con l'entrata di Alberto Olivucci, arriva il coordinamento dei primi *seed savers* italiani.
+Con l'entrata di Alberto Olivucci, arriva il coordinamento dei primi _seed savers_ italiani.
 
 ![Alberto Olivucci](./olivucci.jpg)
 
@@ -37,7 +37,7 @@ Nel 2002, Olivucci diventa presidente dell'associazione. Nel 2009 nascono i prim
 >
 > All'epoca, tanto negli USA quanto in Europa, i registri delle sementi ammesse alla vendita avevano creato i presupposti per la scomparsa di centinaia di varietà dal mercato.
 >
-> Chi si è accorto di questo fenomeno ha cercato di evitare la scomparsa delle vecchie varietà. Le ha *rastrellate* dal mercato o ha fatto riferimento a chi ne aveva ancora.
+> Chi si è accorto di questo fenomeno ha cercato di evitare la scomparsa delle vecchie varietà. Le ha _rastrellate_ dal mercato o ha fatto riferimento a chi ne aveva ancora.
 
 ### E in Italia? Com'è iniziato tutto?
 
@@ -85,7 +85,7 @@ Nel 2002, Olivucci diventa presidente dell'associazione. Nel 2009 nascono i prim
 >
 > Ci serviamo di **sistemi pratici**, **economici** e **funzionali**.
 
-### All'interno di *Civiltà Contadina* siete tutti volontari?
+### All'interno di _Civiltà Contadina_ siete tutti volontari?
 
 ![5x1000](./5x1000.jpg)
 

@@ -5,21 +5,21 @@ import PrivacyLink from "../ui/link/privacy-link"
 
 import "../../scss/ui/_footer.scss"
 
-import separator from "../../images/footer.svg";
+import separator from "../../images/footer.svg"
 
 const Footer = () => {
   const { site } = useStaticQuery(
     graphql`
-        query {
-          site {
-            siteMetadata {
-              organization {
-                company
-              }
+      query {
+        site {
+          siteMetadata {
+            organization {
+              company
             }
           }
         }
-      `
+      }
+    `
   )
 
   const owner = site.siteMetadata.organization

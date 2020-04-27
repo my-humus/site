@@ -1,7 +1,7 @@
 ---
 title: 'Le guide illustrate di Ravenna... con le pigne'
 date: '2014-03-18T00:00:46+00:00'
-description: 'Silvia Togni è l'autrice di due guide illustrate di Ravenna che, in modo divertente, raccontano il patrimonio naturale e culturale della città.'
+description: "Silvia Togni è l'autrice di due guide illustrate di Ravenna che, in modo divertente, raccontano il patrimonio naturale e culturale della città."
 featuredImage: ./silvia.jpg
 category:
     - Green Mix
@@ -25,13 +25,13 @@ Presidente del Sindacato Guide Turistiche Confcommercio Ravenna, insieme al grap
 
 Da sinistra: Enrico Rambaldi, Silvia Togni, Sauro Mattarelli (Fondazione del Monte di Bologna e Ravenna) ed Alfio Longo, l'editore (Ph. Giampiero Corelli).
 
-*Una Pigna per Ravenna* è la prima delle due guide illustrate di Ravenna: Silvia diventa una pigna travestita da Sherlock Holmes che racconta la storia della città attraverso i simbolismi nascosti.
-In *A Ravenna una Pigna tira l'altra*, invece, la nostra pigna-cicerone ci conduce all'interno del patrimonio naturale ravennate.
+_Una Pigna per Ravenna_ è la prima delle due guide illustrate di Ravenna: Silvia diventa una pigna travestita da Sherlock Holmes che racconta la storia della città attraverso i simbolismi nascosti.
+In _A Ravenna una Pigna tira l'altra_, invece, la nostra pigna-cicerone ci conduce all'interno del patrimonio naturale ravennate.
 
 ![La copertina di "A Ravenna una pigna tira l'altra", Longo Editore](./copertina-libro.jpg)
 
-Da *A Ravenna una Pigna tira l'altra* trapelano mille mila curiosità.
-Leggendo il capitolo sulle valli, ad esempio, ho scoperto che 'piallassa' deriva da *pija* e *lassa*, due verbi veneti che rimandano al movimento delle maree.
+Da _A Ravenna una Pigna tira l'altra_ trapelano mille mila curiosità.
+Leggendo il capitolo sulle valli, ad esempio, ho scoperto che 'piallassa' deriva da _pija_ e _lassa_, due verbi veneti che rimandano al movimento delle maree.
 Nel capitolo in cui si parla delle saline, invece, ho scoperto che il termine 'salario' deriva dal sale, l'antica moneta con cui si pagavano i soldati romani.
 
 Quante cose si possono imparare leggendo due guide illustrate di Ravenna, eh? Chi l'avrebbe mai detto!
@@ -46,7 +46,7 @@ Quante cose si possono imparare leggendo due guide illustrate di Ravenna, eh? Ch
 
 > **Ravenna è una città antichissima**, le sue origini si perdono nella notte dei tempi. Per questo è ricca di misteri che, forse, non saranno mai svelati, e che la rendono ancora più affascinante.
 >
-> Il suo *isolamento cosmico* le è valso, nei secoli, miseria e fortuna, ma anche peculiarità che la rendono unica al mondo. Basti pensare al patrimonio musivo dei secc. V e VI, il più vasto e meglio conservato a livello mondiale!
+> Il suo _isolamento cosmico_ le è valso, nei secoli, miseria e fortuna, ma anche peculiarità che la rendono unica al mondo. Basti pensare al patrimonio musivo dei secc. V e VI, il più vasto e meglio conservato a livello mondiale!
 >
 > Ravenna **va sempre controcorrente**: diventa capitale di un impero quando tutta Europa è allo sfacelo, è sofferente quando le meraviglie del Rinascimento impazzano ovunque. È una 'città-pigna', come mi piace definirla: chiusa, dura, severa. Eppure coltiva sempre la vita e la voglia di rinascere, proprio come la pigna con i suoi pinoli.
 
@@ -74,4 +74,4 @@ Quante cose si possono imparare leggendo due guide illustrate di Ravenna, eh? Ch
 
 > Di sicuro, riserva nuove idee, nuovi racconti e nuove passeggiate da organizzare a Ravenna e dintorni, a caccia di cose da scoprire e da valorizzare.
 >
-> Sono certa che vedrà il completamento della *Trilogia della Pigna*: una terza, fantasmagorica avventura della pigna è già in cantiere e pronta a svelare qualche mistero in più.
+> Sono certa che vedrà il completamento della _Trilogia della Pigna_: una terza, fantasmagorica avventura della pigna è già in cantiere e pronta a svelare qualche mistero in più.

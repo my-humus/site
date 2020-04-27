@@ -1,7 +1,7 @@
 ---
-title: 'Basta: voglio avviare un'azienda agricola biologica!'
+title: "Basta: voglio avviare un'azienda agricola biologica!"
 date: '2015-10-22T11:06:05+00:00'
-description: 'Laura e Marco sono due giovani contadini che hanno deciso di licenziarsi e di avviare un'azienda agricola biologica.'
+description: "Laura e Marco sono due giovani contadini che hanno deciso di licenziarsi e di avviare un'azienda agricola biologica."
 featuredImage: ./laura-e-marco.jpg
 category:
     - Green Mix
@@ -14,14 +14,14 @@ tags:
 
 C'è qualcuno che abbia mai pensato di avviare un'azienda agricola biologica?
 
-Prima di rispondere a questa domande, mollate quello che state facendo. Salutate chi dovete salutare, impostate lo smartphone in modalità *silenzioso*, spegnete la musica. Posticipate il caffè promesso al collega, salvate in "bozze" la mail che stavate scrivendo e preparatevi a leggere un articolo che parla di sogni e di coraggio.
+Prima di rispondere a questa domande, mollate quello che state facendo. Salutate chi dovete salutare, impostate lo smartphone in modalità _silenzioso_, spegnete la musica. Posticipate il caffè promesso al collega, salvate in "bozze" la mail che stavate scrivendo e preparatevi a leggere un articolo che parla di sogni e di coraggio.
 
 Sono affascinata dalla storia di Laura e Marco, due ragazzi romagnoli che hanno deciso di rivoluzionare le loro vite: dall'ufficio al campo da arare, dal digitare su una tastiera ad avviare un'azienda agricola biologica.
 
 Lasciare tutto per cercare la felicità, per essere padroni del proprio tempo, per dedicarsi a quell'umile lavoro che ha segnato le vite dei nostri nonni.
 
 Mollare una vita che non ti appartiene e cercare di afferrare ciò che vuoi davvero: utopia?
-Se Lucio Dalla, nella sua splendida *Anna e Marco*, cantava: "*Dov'è la strada per le stelle?*", io mi domando: dov'è la strada per la realizzazione personale? È nella rassegnazione o in una silente rivoluzione personale?
+Se Lucio Dalla, nella sua splendida _Anna e Marco_, cantava: "_Dov'è la strada per le stelle?_", io mi domando: dov'è la strada per la realizzazione personale? È nella rassegnazione o in una silente rivoluzione personale?
 
 Laura e Marco hanno deciso di mettersi in gioco senza temere di essere felici.
 
@@ -65,7 +65,7 @@ Laura e Marco hanno deciso di mettersi in gioco senza temere di essere felici.
 >
 > Pensiamo a **un'agricoltura legata al territorio e supportata dalla comunità**. Ciò significa costruire relazioni di fiducia con le persone che consumano i tuoi prodotti, e che diventano qualcosa di più di semplici clienti. Imparano a conoscere e a rispettare il tuo lavoro e a sostenere il tuo progetto.
 >
-> Un nostro riferimento è la rete di *Genuino Clandestino*, che promuove in molti territori l'agricoltura contadina attraverso mercati e iniziative di vario genere.
+> Un nostro riferimento è la rete di _Genuino Clandestino_, che promuove in molti territori l'agricoltura contadina attraverso mercati e iniziative di vario genere.
 >
 > Poi **guardiamo con interesse alcuni percorsi che prendono vita nel Sud del mondo**, dove l'agricoltura contadina ha un ruolo rilevante nella produzione agroalimentare. E dove ci sono esperienze e riflessioni che parlano anche alla nostra porzione di pianeta. Un esempio su tutti: la riflessione e le pratiche sull'agroecologia sperimentate in Brasile dal movimento dei [Sem Terra](http://www.mst.org.br).
 >
@@ -84,8 +84,9 @@ Laura e Marco hanno deciso di mettersi in gioco senza temere di essere felici.
 > In autunno e in inverno i tempi sono più rilassati e le giornate più brevi, si può riposare, leggere e coltivare altri interessi.
 
 (https://myhumus.com/wp-content/uploads/2015/10/aratura-del-terreno-affittato-un-anno-fa.jpg);">
+
 <div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2015/10/semine.jpg);">
-<div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2015/10/trapianto.jpg);">  
+<div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2015/10/trapianto.jpg);">
 
 ### Cosa e come producete? Dove possiamo acquistare i vostri prodotti?
 
@@ -97,19 +98,19 @@ Laura e Marco hanno deciso di mettersi in gioco senza temere di essere felici.
 
 <div class="et_pb_slider et_pb_slider_fullwidth_off et_pb_gallery_post_type"><div class="et_pb_slides"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2015/10/anatre-e-oche1.jpg);">
 <div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2015/10/anatre-e-oche.jpg);">
-<div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2015/10/pulcini.jpg);">  
+<div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2015/10/pulcini.jpg);">
 
 > In queste settimane abbiamo affittato ulteriore terra su cui ci sono altrae vigne, alberi da frutto e ulivi, per cui estenderemo la produzione di queste cose.
 >
 > **I nostri prodotti possono essere acquistati direttamente in azienda** oppure al mercato settimanale di produttori a cui partecipiamo a Cattolica.
 
-<div class="et_pb_slider et_pb_slider_fullwidth_off et_pb_gallery_post_type"><div class="et_pb_slides"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2015/10/verdura.jpg);"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2015/10/piantine-di-cavoli1.jpg);"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2015/10/raccolta-piselli.jpg);"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2015/10/aratura-terreno.jpg);"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2015/10/raccolta-scarti-di-potatura.jpg);"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2015/10/cavoli-e-radicchi.jpg);">  
+<div class="et_pb_slider et_pb_slider_fullwidth_off et_pb_gallery_post_type"><div class="et_pb_slides"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2015/10/verdura.jpg);"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2015/10/piantine-di-cavoli1.jpg);"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2015/10/raccolta-piselli.jpg);"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2015/10/aratura-terreno.jpg);"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2015/10/raccolta-scarti-di-potatura.jpg);"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2015/10/cavoli-e-radicchi.jpg);">
 
 ### Una curiosità personale: avete ricevuto qualche contributo dall'Unione Europea?
 
 > Questo è un tasto dolente. Quando abbiamo iniziato facevamo molto affidamento su quella possibilità per avviare l'azienda agricola biologica. Poi, però, ci siamo resi conto che era più complicato del previsto.
 >
-Per accedere ai finanziamenti devi avere un progetto di medio periodo. Meno risorse hai di partenza e meno possibilità hai di essere aiutato.
+> Per accedere ai finanziamenti devi avere un progetto di medio periodo. Meno risorse hai di partenza e meno possibilità hai di essere aiutato.
 >
 > Il grande problema è l'accesso alla terra: se non sei già nel settore, è molto difficile entrarci in modo stabile.
 >

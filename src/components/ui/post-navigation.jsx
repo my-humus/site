@@ -13,14 +13,16 @@ export default class PostNavigation extends Component {
             <li>
               {this.props.previous && (
                 <Link to={this.props.previous.fields.slug} rel="prev">
-                  <i className="icon-myhumus-circle-left"></i> {this.props.previous.frontmatter.title}
+                  <i className="icon-myhumus-circle-left"></i>{" "}
+                  {this.props.previous.frontmatter.title}
                 </Link>
               )}
             </li>
             <li>
               {this.props.next && (
                 <Link to={this.props.next.fields.slug} rel="next">
-                  {this.props.next.frontmatter.title} <i className="icon-myhumus-circle-right"></i>
+                  {this.props.next.frontmatter.title}{" "}
+                  <i className="icon-myhumus-circle-right"></i>
                 </Link>
               )}
             </li>

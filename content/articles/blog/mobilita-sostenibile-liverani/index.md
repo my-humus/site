@@ -1,7 +1,7 @@
 ---
 title: 'Mobilità sostenibile a Ravenna: missione possibile?'
 date: '2015-09-10T11:03:18+00:00'
-description: 'Esisterà mai un'armonia universale fra automobilisti e ciclisti? Io spero proprio di sì, e mi auguro che la mobilità sostenibile a Ravenna abbia un ruolo concreto.'
+description: "Esisterà mai un'armonia universale fra automobilisti e ciclisti? Io spero proprio di sì, e mi auguro che la mobilità sostenibile a Ravenna abbia un ruolo concreto."
 featuredImage: ./mobilita-sostenibile.jpg
 category:
     - Mobilità sostenibile
@@ -10,7 +10,6 @@ tags:
     - Sostenibilità
     - Viabilità
 ---
-
 
 La mobilità sostenibile a Ravenna non è utopia. Spero solo che venga migliorata costantemente attraverso step concreti.
 L'idea di realizzare questa intervista è nata durante un mio recente soggiorno a Vienna, la città di Freud, di Mozart e della Sacher torte. Ho visitato tutta la città in sella alla mia bici da turismo.
@@ -28,13 +27,13 @@ Vorrei solo che la mobilità sostenibile a Ravenna avesse sempre più importanza
 
 ![Enrico Liverani](./enrico-liverani.jpg)
 
-Il mio obiettivo è ottenere una risposta a questa domanda: *come se la cava, la mia città, in termini di mobilità sostenibile?*
+Il mio obiettivo è ottenere una risposta a questa domanda: _come se la cava, la mia città, in termini di mobilità sostenibile?_
 
 ### Gentile Ass. Liverani, è un piacere intervistarLa per MyHumus. Mi dica, quali sono i doveri di un Comune in questo senso?
 
 > Salve, Anna. Nell'ambito della mobilità sostenibile a Ravenna, **promuoviamo gli spostamenti di persone e di cose, contenendo, per quanto possibile, le esternalità negative associate al traffico**.
 >
-> I primi effetti negativi dati dall'ambiente urbano sono, in primis, l'inquinamento atmosferico e quello acustico. Parlare di mobilità sostenibile in ambiente urbano significa orientare la mobilità di residenti e *city user* così che questi possano privilegiare gli spostamenti sostenibili. Quindi le loro gambe, la bicicletta o i mezzi pubblici.
+> I primi effetti negativi dati dall'ambiente urbano sono, in primis, l'inquinamento atmosferico e quello acustico. Parlare di mobilità sostenibile in ambiente urbano significa orientare la mobilità di residenti e _city user_ così che questi possano privilegiare gli spostamenti sostenibili. Quindi le loro gambe, la bicicletta o i mezzi pubblici.
 >
 > Così facendo, si può contribuire anche al **miglioramento delle condizioni ambientali della città**, migliorando la qualità dei luoghi, permettendo alle persone di riappropriarsi degli spazi pubblici e aumentando la vivibilità cittadina. Il tutto senza rendere la città blindata.
 
@@ -56,7 +55,7 @@ Il mio obiettivo è ottenere una risposta a questa domanda: *come se la cava, la
 >
 > Ravenna è ai primi posti nei vari settori. Dal punto di vista degli strumenti legati alla mobilità sostenibile e alla sicurezza stradale, credo non sia seconda a nessuno.
 >
-> >bbiamo appena aggiornato il nostro Piano della Mobilità Ciclistica e siamo alla quarta edizione del Piano della Sicurezza Stradale Urbana. Abbiamo appena adottato le linee guida europee per la redazione del Piano Urbano della Mobilità Sostenibile e avviato il **percorso partecipativo**. È iniziata la redazione del Piano per l'Accessibilità Urbana dedicata alle persone disabili, alle quali stiamo dedicando tutte le attenzioni possibili. Stiamo acquistando **veicoli elettrici** per sostituire quelli a benzina in servizio agli uffici comunali. Nel Piano del Traffico abbiamo anche introdotto diversi provvedimenti importanti di *park pricing* per i prossimi anni.
+> > bbiamo appena aggiornato il nostro Piano della Mobilità Ciclistica e siamo alla quarta edizione del Piano della Sicurezza Stradale Urbana. Abbiamo appena adottato le linee guida europee per la redazione del Piano Urbano della Mobilità Sostenibile e avviato il **percorso partecipativo**. È iniziata la redazione del Piano per l'Accessibilità Urbana dedicata alle persone disabili, alle quali stiamo dedicando tutte le attenzioni possibili. Stiamo acquistando **veicoli elettrici** per sostituire quelli a benzina in servizio agli uffici comunali. Nel Piano del Traffico abbiamo anche introdotto diversi provvedimenti importanti di _park pricing_ per i prossimi anni.
 >
 > Diciamo che l'attenzione è a tutto tondo, e intendiamo mantenerla così.
 
@@ -80,6 +79,6 @@ Il mio obiettivo è ottenere una risposta a questa domanda: *come se la cava, la
 
 > La mobilità sostenibile a Ravenna ha imboccato la strada giusta. Abbiamo le carte in regola per darci una qualità dell'abitato e del territorio estremamente elevata. Abbiamo gli strumenti giusti e stiamo adottandone di nuovi, e crediamo che la differenza possano farla i nostri cittadini.
 >
-> Penso che l'adozione del Piano Urbano della Mobilità Sostenibile sia un passo decisivo per migliorare la qualità della vita dei cittadini. Si riscopre, così, una cultura del *fare comunità*, **educando/rieducandoci a un approccio più sano agli spazi cittadini** e al nostro territorio in generale.
+> Penso che l'adozione del Piano Urbano della Mobilità Sostenibile sia un passo decisivo per migliorare la qualità della vita dei cittadini. Si riscopre, così, una cultura del _fare comunità_, **educando/rieducandoci a un approccio più sano agli spazi cittadini** e al nostro territorio in generale.
 
-Foto di copertina: [pequeno\_hobbit](http://www.flickr.com/photos/111707895@N07/11591727103) via [Photopin](http://photopin.com).*
+Foto di copertina: [pequeno_hobbit](http://www.flickr.com/photos/111707895@N07/11591727103) via [Photopin](http://photopin.com).\*

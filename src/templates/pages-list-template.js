@@ -14,8 +14,14 @@ export default class PagesList extends React.Component {
     const { data, pageContext } = this.props
 
     return (
-      <Layout location={this.props.location} title={pages[pageContext.slug].title}>
-        <Header title={pages[pageContext.slug].title} subtitle={pages[pageContext.slug].description} />
+      <Layout
+        location={this.props.location}
+        title={pages[pageContext.slug].title}
+      >
+        <Header
+          title={pages[pageContext.slug].title}
+          subtitle={pages[pageContext.slug].description}
+        />
         <Section>
           <div className="columns is-multiline">
             {data.allMarkdownRemark.edges.map(({ node }) => {

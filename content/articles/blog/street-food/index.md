@@ -1,15 +1,15 @@
 ---
-title: 'Quanto piace il cibo di strada in Italia?'
-date: '2017-04-27T15:21:23+00:00'
-description: 'Si parla di cibo di strada in Italia insieme a Maurizio Cimmino, direttore di To Business Agency.'
+title: "Quanto piace il cibo di strada in Italia?"
+date: "2017-04-27T15:21:23+00:00"
+description: "Si parla di cibo di strada in Italia insieme a Maurizio Cimmino, direttore di To Business Agency."
 featuredImage: ./street-food.jpg
 category:
-    - Cucina
+  - Cucina
 tags:
-    - Food truck
-    - Made in Italy
-    - Mangiar sano
-    - Street food
+  - Food truck
+  - Made in Italy
+  - Mangiar sano
+  - Street food
 ---
 
 Sembra a me o il cibo di strada in Italia sta prendendo sempre più piede?
@@ -17,18 +17,18 @@ Specie l'arrivo della bella stagione, le strade dei centri storici cittadini si 
 Lo spirito del cibo di strada in Italia, tendenzialmente informale, è spesso legato alle tipicità regionali.
 
 Ora, la domanda è: lo street food è sinonimo di qualità? È o non è in grado di promuovere il Made in Italy?
-Ne ho discusso insieme a Maurizio Cimmino, direttore di [*To Business Agency*](http://www.tobusinessagency.it/), un'agenzia di eventi che sta promuovendo il cibo di strada in Italia.
+Ne ho discusso insieme a Maurizio Cimmino, direttore di [_To Business Agency_](http://www.tobusinessagency.it/), un'agenzia di eventi che sta promuovendo il cibo di strada in Italia.
 
 ![Maurizio Cimmino](./maurizio-cimmino.jpg)
 
-### Salve, Dott. Cimmino. Quanto viene apprezzato il cibo di strada in Italia? Si associa ancora al *junk food*?
+### Salve, Dott. Cimmino. Quanto viene apprezzato il cibo di strada in Italia? Si associa ancora al _junk food_?
 
 > Sono in pochi a pensarci, ma **in Italia lo street food esiste da sempre**. Pensiamo soprattutto al nostro Sud, ai nostri mercati, alle nostre piazze.
 >
 > Ora come ora, occorre permettere a tante realtà di farsi conoscere da un pubblico sempre più vasto ed eterogeneo.
-C'è grande rispetto per il cibo di strada in Italia, apprezzato in tutte le sue forme, e l'alto numero di persone che partecipa ai nostri eventi lo dimostrano.
+> C'è grande rispetto per il cibo di strada in Italia, apprezzato in tutte le sue forme, e l'alto numero di persone che partecipa ai nostri eventi lo dimostrano.
 
- ![finger food, food truck, street food, mangiar sano, made in italy](./finger-food.jpg)
+![finger food, food truck, street food, mangiar sano, made in italy](./finger-food.jpg)
 
 ### Come si conciliano qualità e quantità?
 

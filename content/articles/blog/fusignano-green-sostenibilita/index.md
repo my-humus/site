@@ -1,7 +1,7 @@
 ---
-title: 'Fusignano Green e l'educazione ambientale'
+title: "Fusignano Green e l'educazione ambientale"
 date: '2014-02-04T00:00:01+00:00'
-description: 'L'educazione ambientale a Ravenna passa anche attraverso eventi specifici. Un esempio è Fusignano Green, l'iniziativa di un piccolo paese del territorio romagnolo.''
+description: "L'educazione ambientale a Ravenna passa anche attraverso eventi specifici. Un esempio è Fusignano Green, l'iniziativa di un piccolo paese del territorio romagnolo."
 featuredImage: ./mirco.jpg
 category:
     - Ecoprogetti
@@ -14,7 +14,7 @@ tags:
 ---
 
 Fusignano è un piccolo Comune della Bassa Romagna che, da un po' di tempo a questa parte, ha iniziato a interessarsi di ambiente come mezzo per migliorare la vita dei propri cittadini, ma anche come mezzo innovativo di sviluppo.
-Mirco Bagnari, il sindaco di questo piccolo paese, sta "osando" qualcosa di innovativo. E lo sta facendo grazie al progetto *Fusignano Green*.
+Mirco Bagnari, il sindaco di questo piccolo paese, sta "osando" qualcosa di innovativo. E lo sta facendo grazie al progetto _Fusignano Green_.
 
 ![Fusignano Green](./fusignano-green.jpg)
 
@@ -25,9 +25,9 @@ Gli imprenditori locali hanno progettato e realizzato una serie di azioni come, 
 Da questa esperienza è nato Fusignano Green, un percorso declinato in più azioni studiate per Fusignano, ma replicabili in altri Comuni del territorio della Bassa Romagna.
 Parliamo ad esempio di attività green per diffondere tra i ragazzi la cultura del rispetto dell'ambiente e del risparmio energetico. Ma anche della realizzazione di prodotti ottenuti da materiali riciclati, così come dell'adozione di alberi, di attività di pulizia ambientale, di uscite didattiche e visite alle aziende.
 
-E ancora, il *Green Office* è uno sportello che informa i cittadini sui diversi interventi edilizi e impiantistici possibili. La *Fusiglio Green Card*, invece, è una brochure cartacea per la cittadinanza fusignanese che divulga gli interventi ambientali ed energetici effettuati dall'amministrazione comunale.
+E ancora, il _Green Office_ è uno sportello che informa i cittadini sui diversi interventi edilizi e impiantistici possibili. La _Fusiglio Green Card_, invece, è una brochure cartacea per la cittadinanza fusignanese che divulga gli interventi ambientali ed energetici effettuati dall'amministrazione comunale.
 
-Insomma, Fusignano c'è. Ed è viva più che mai! E il sindaco Mirco Bagnari può confermarlo...  
+Insomma, Fusignano c'è. Ed è viva più che mai! E il sindaco Mirco Bagnari può confermarlo...
 
 ### Gentile sindaco Bagnari, innanzitutto ci tengo a ringraziarLa per aver accettato questa intervista. È un piacere poterLa ospitare all'interno del mio blog. Mi dica, che cosa significa essere sindaco oggi?
 
@@ -35,7 +35,7 @@ Insomma, Fusignano c'è. Ed è viva più che mai! E il sindaco Mirco Bagnari pu�
 >
 > Io credo che la risposta sia andare a scoprire le risorse, le energie e le idee che ci sono in un territorio, per quanto piccolo, e intrecciarle. Serve dare consapevolezza ai cittadini di quale tesoro ci sia in ogni comunità; questo tesoro va valorizzato insieme agli altri territori vicini. Bisogna davvero fare **gioco di squadra**, dentro e fuori i nostri piccoli centri.
 
-### Fusignano Green: due parole che, accostate, vogliono significare *educazione ambientale* e *innovazione*. Giusto?
+### Fusignano Green: due parole che, accostate, vogliono significare _educazione ambientale_ e _innovazione_. Giusto?
 
 > Esatto. Le persone si mettono in gioco, immaginano e costruiscono il proprio futuro e quello della comunità in cui vivono.
 >
@@ -49,7 +49,7 @@ Insomma, Fusignano c'è. Ed è viva più che mai! E il sindaco Mirco Bagnari pu�
 
 > Si è trattato di un processo portato avanti passo dopo passo, cercando di **stimolare la curiosità dei cittadini** e delle imprese.
 >
-> Le iniziative pubbliche, in particolare la *Notte Green*, hanno dato il segno di qualcosa che stava crescendo e che si sta concretizzando. È diventato uno strumento utile di conoscenza, ma anche di animazione del nostro centro cittadino.
+> Le iniziative pubbliche, in particolare la _Notte Green_, hanno dato il segno di qualcosa che stava crescendo e che si sta concretizzando. È diventato uno strumento utile di conoscenza, ma anche di animazione del nostro centro cittadino.
 >
 > In tutto questo il ruolo del gruppo degli imprenditori è stato determinante, anche per incuriosire e sensibilizzare i propri colleghi e le altre aziende del territorio.
 
@@ -57,11 +57,11 @@ Insomma, Fusignano c'è. Ed è viva più che mai! E il sindaco Mirco Bagnari pu�
 
 ### Oltre alle azioni già sviluppate, quali sono, invece, le iniziative di educazione ambientale che attendono ancora di concretizzarsi?
 
-> Tra le iniziative più importanti per la diffusione dell'educazione ambientale, sicuramente il *Green Office*. È l'azione più ambiziosa, ma anche, in prospettiva, più efficace.
+> Tra le iniziative più importanti per la diffusione dell'educazione ambientale, sicuramente il _Green Office_. È l'azione più ambiziosa, ma anche, in prospettiva, più efficace.
 >
 > Vista la riduzione continua di personale imposta ai Comuni dalle normative di oggi, la sinergia con l'Unione dei Comuni della Bassa Romagna è l'unica strada per realizzare un'iniziativa di questo tipo.
 >
-> Su questa lunghezza d'onda, nell'ambito di una "due giorni green" coincidente con l'iniziativa *M'illumino di meno* lanciata dalla trasmissione di Radio2 "Caterpillar", il 13 febbraio alle 20.30 presso l'auditorium Arcangelo Corelli, insieme a CNA, realizzeremo l'evento *M'illumino di verde: testimonianze e proposte per un presente sostenibile*.
+> Su questa lunghezza d'onda, nell'ambito di una "due giorni green" coincidente con l'iniziativa _M'illumino di meno_ lanciata dalla trasmissione di Radio2 "Caterpillar", il 13 febbraio alle 20.30 presso l'auditorium Arcangelo Corelli, insieme a CNA, realizzeremo l'evento _M'illumino di verde: testimonianze e proposte per un presente sostenibile_.
 >
 > Un'occasione per avvicinarsi alla qualificazione energetica in edilizia. Illustreremo ai cittadini iniziative e interventi realizzati da aziende artigiane del territorio su edifici abitativi e su immobili produttivi. Ciò per far capire costi e vantaggi di questo tipo di operazioni e per stimolare la consapevolezza che qualificare il proprio immobile voglia dire guadagnare in vivibilità e in risparmio. Anche questa, se vogliamo è educazione all'ambiente.
 

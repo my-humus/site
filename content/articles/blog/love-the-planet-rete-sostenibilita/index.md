@@ -1,20 +1,19 @@
 ---
-title: 'LoveThePlanet: la rete per la sostenibilità'
-date: '2015-02-19T13:30:26+00:00'
+title: "LoveThePlanet: la rete per la sostenibilità"
+date: "2015-02-19T13:30:26+00:00"
 description: "LoveThePlanet è la prima rete di imprese italiana per l'implementazione e lo sviluppo di nuovi modelli decisionali a sostegno dell'ambiente."
 featuredImage: ./love-the-planet-rete.jpg
 category:
-    - Ecoprogetti
+  - Ecoprogetti
 tags:
-    - Green marketing
-    - Project management
-    - Sostenibilità
+  - Green marketing
+  - Project management
+  - Sostenibilità
 ---
-
 
 Una rete di imprese sostenibili capace di avviare e di promuovere una moltitudine virtuosismi. Implementare e sviluppare nuovi modelli decisionali a sostegno dell'ambiente. Contribuire ogni giorno al lento (ma necessario) cambiamento del nostro Paese, sia sul piano culturale, sia su quelli sociale ed economico.
 
-È esattamente a questo scopo che è nata [LoveThePlanet](http://www.lovetheplanet.eu/it/), la prima rete di imprese sostenibili italiane dedicata al *green*.
+È esattamente a questo scopo che è nata [LoveThePlanet](http://www.lovetheplanet.eu/it/), la prima rete di imprese sostenibili italiane dedicata al _green_.
 L'intervistato di questa settimana si chiama **Lorenzo Orlandi**, membro di LoveThePlanet e Amministratore di Locom, una società di Project Management coinvolta in green marketing e comunicazione strategica.
 LoveThePlanet, come MyHumus, è una realtà insediata a [Progetto Manifattura](http://www.progettomanifattura.it).
 
@@ -26,11 +25,11 @@ LoveThePlanet, come MyHumus, è una realtà insediata a [Progetto Manifattura](h
 >
 > Questo è stato subito percepito da alcuni settori, in particolare dall'industria alimentare e dalle utilities.
 >
-> Negli ultimi anni si è confuso la sostenibilità col *greenwashing*. Molte aziende e organizzazioni hanno dato un'immagine positiva di sé, dei propri prodotti e delle attività senza un effettivo investimento nell'adozione di modelli di business sostenibili.
+> Negli ultimi anni si è confuso la sostenibilità col _greenwashing_. Molte aziende e organizzazioni hanno dato un'immagine positiva di sé, dei propri prodotti e delle attività senza un effettivo investimento nell'adozione di modelli di business sostenibili.
 >
 > In Italia siamo agli albori, ma la collettività ha voglia di vivere in un mondo in cui le ricadute delle attività umane sull'ecosistema siano più gestibili di quanto avvenuto finora.
 >
-> LoveThePlanet può essere considerata una realtà di forte innovazione. Siamo **consulenti della sostenibilità a tutto tondo**, ciascuno con una forte *expertise* in uno dei settori chiave della sostenibilità.
+> LoveThePlanet può essere considerata una realtà di forte innovazione. Siamo **consulenti della sostenibilità a tutto tondo**, ciascuno con una forte _expertise_ in uno dei settori chiave della sostenibilità.
 >
 > Affianchiamo i clienti nell'operatività dei progetti offrendo loro un supporto con il minimo impiego di risorse interne dei clienti.
 
@@ -40,7 +39,7 @@ LoveThePlanet, come MyHumus, è una realtà insediata a [Progetto Manifattura](h
 
 > Sì, LoveThePlanet è una rete di imprese sostenibili. La Rete ci permette di essere indipendenti, agili, focalizzati ed aggiornati su tutte le competenze necessarie per rispondere al meglio.
 >
-> Ecco un esempio: se un Comune ha bisogno di stendere un PAES, cioè un *Piano d'azione per l'energia sostenibile*, sarà identificato come Project Manager il nostro consulente in finanza agevolata. Lui, a sua volta, potrebbe coinvolgere un Energy Manager, se non addirittura un consulente per la comunicazione strategica capace di coinvolgere al meglio gli stakeholder.
+> Ecco un esempio: se un Comune ha bisogno di stendere un PAES, cioè un _Piano d'azione per l'energia sostenibile_, sarà identificato come Project Manager il nostro consulente in finanza agevolata. Lui, a sua volta, potrebbe coinvolgere un Energy Manager, se non addirittura un consulente per la comunicazione strategica capace di coinvolgere al meglio gli stakeholder.
 
 ### Chi sono i clienti della vostra rete di imprese sostenibili?
 

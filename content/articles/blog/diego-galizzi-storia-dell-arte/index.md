@@ -1,5 +1,5 @@
 ---
-title: 'La natura nell'arte secondo Diego Galizzi'
+title: "La natura nell'arte secondo Diego Galizzi"
 date: '2014-06-20T00:00:10+00:00'
 description: 'Diego Galizzi è il conservatore del Museo Civico delle Cappuccine di Bagnacavallo. Insieme a lui ho discusso il connubio arte e natura.'
 featuredImage: ./diego-galizzi.jpg
@@ -52,7 +52,7 @@ Nel 2008 è stato funzionario alla cultura del [Comune di Gubbio](http://www.com
 
 ### In che modo arte e natura si compenetrano?
 
-> La prima cosa che mi viene in mente è quello strano meccanismo secondo cui, quando vediamo uno scenario particolarmente spettacolare della natura come, ad esempio, un paesaggio, un tramonto o uno scorcio notturno, spesso utilizziamo l'espressione 'Sembra un dipinto'. Questo è il meccanismo che sta alla base del concetto di *pittoresco*.
+> La prima cosa che mi viene in mente è quello strano meccanismo secondo cui, quando vediamo uno scenario particolarmente spettacolare della natura come, ad esempio, un paesaggio, un tramonto o uno scorcio notturno, spesso utilizziamo l'espressione 'Sembra un dipinto'. Questo è il meccanismo che sta alla base del concetto di _pittoresco_.
 
 ![Piero di Cosimo, "L'incendio nella foresta" (olio su tavola, 1500-1505)](./cosimo.jpg)
 

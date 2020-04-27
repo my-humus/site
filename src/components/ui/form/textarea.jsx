@@ -6,7 +6,14 @@ export default class Textarea extends Component {
       <div className="field">
         <label className="label">{this.props.label}</label>
         <div className="control">
-          <textarea className="textarea" name={this.props.name} placeholder={this.props.placeholder} onChange={this.props.onChange}>{this.props.value}</textarea>
+          <textarea
+            className="textarea"
+            name={this.props.name}
+            placeholder={this.props.placeholder}
+            onChange={this.props.onChange}
+          >
+            {this.props.value}
+          </textarea>
         </div>
       </div>
     )

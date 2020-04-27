@@ -1,15 +1,15 @@
 ---
-title: 'A Rovereto si fa innovazione ecosostenibile'
-date: '2014-08-18T00:00:47+00:00'
+title: "A Rovereto si fa innovazione ecosostenibile"
+date: "2014-08-18T00:00:47+00:00"
 description: "Progetto Manifattura è l'unico incubatore di start-up d'Italia improntato esclusivamente all'innovazione ecosostenibile."
 featuredImage: ./salvatori.jpg
 category:
-    - Ecoprogetti
+  - Ecoprogetti
 tags:
-    - Ecologia
-    - Green innovation
-    - Innovazione
-    - Sostenibilità
+  - Ecologia
+  - Green innovation
+  - Innovazione
+  - Sostenibilità
 ---
 
 La scorsa settimana io e mio fratello ci siamo svegliati prestissimo per visitare una struttura trentina dedicata all'innovazione ecosostenibile: [Progetto Manifattura](http://www.progettomanifattura.it/it).
@@ -42,11 +42,11 @@ Con mio grande piacere, ho intervistato il presidente di Progetto Manifattura, i
 >
 > Ad ogni modo, il tema cruciale di Progetto Manifattura è sicuramente quello dell'abitare in modo più sostenibile. Effettivamente, sono molte le imprese che affrontano questo argomento.
 
-### *Innovazione ecosostenibile* è la parola chiave che riassume la mission di Progetto Manifattura?
+### _Innovazione ecosostenibile_ è la parola chiave che riassume la mission di Progetto Manifattura?
 
 > Esatto: **la sostenibilità è il modo di fare innovazione in Trentino**.
 >
-> Lo sviluppo locale, in Trentino, si chiama *innovazione ecosostenibile*. Negli anni, di fatto, abbiamo definito come ambito prioritario quello dell'abitare: la costruzione quale trasformazione del territorio per ospitare l'Uomo e le sue attività.
+> Lo sviluppo locale, in Trentino, si chiama _innovazione ecosostenibile_. Negli anni, di fatto, abbiamo definito come ambito prioritario quello dell'abitare: la costruzione quale trasformazione del territorio per ospitare l'Uomo e le sue attività.
 >
 > **Costruire sostenibile**: perché la costruzione di un edificio o di una casa è la sintesi reale di moltissimi usi. Così come di tecnologie, competenze e conoscenze.
 >
@@ -58,7 +58,7 @@ Con mio grande piacere, ho intervistato il presidente di Progetto Manifattura, i
 
 ![Progetto Manifattura](./spazi.jpg)
 
-### Può descrivermi il vostro *modus operandi*?
+### Può descrivermi il vostro _modus operandi_?
 
 > Abbiamo suddiviso lo spazio in tre settori: la fase di **avviamento**, dove ospitiamo persone con idee innovative che abbiano intenzione di creare un'impresa coerente con i temi che trattiamo. In questi primi 12 mesi verifichiamo che l'idea possa dar vita a una futura impresa con la messa a punto di tutte le condizioni necessarie. Dopo questo primo anno si sostiene un 'esame di maturità'' per valutare che ci siano le condizioni ottimali per proseguire. Dopodiché si costituisce l'impresa, il progetto in sé deve essere venduto ad almeno un cliente.
 >
@@ -76,6 +76,6 @@ Con mio grande piacere, ho intervistato il presidente di Progetto Manifattura, i
 
 ### Quali requisiti bisogna avere per presentare un progetto a Progetto Manifattura?
 
-> Non c'è alcun massimo di età, l'importante è che si rispetti il requisito di coerenza con le nostre aree tematiche e che esista un potenziale di sviluppo. Avere a cuore l'innovazione ecosostenibile, ovviamente, rientra fra i *must have*.
+> Non c'è alcun massimo di età, l'importante è che si rispetti il requisito di coerenza con le nostre aree tematiche e che esista un potenziale di sviluppo. Avere a cuore l'innovazione ecosostenibile, ovviamente, rientra fra i _must have_.
 
 ![Progetto Manifattura](./uffici.jpg)

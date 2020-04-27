@@ -1,5 +1,5 @@
 ---
-title: 'L'agrinido a Ravenna che insegna la natura
+title: "L'agrinido a Ravenna che insegna la natura"
 date: '2014-09-22T00:00:17+00:00'
 description: 'Patrizia Fanara è la titolare di un bellissimo agrinido a Ravenna che coniuga natura e innovazione.'
 featuredImage: ./patrizia-fanara.jpg
@@ -45,13 +45,13 @@ A capo di questo agrinido a Ravenna troviamo **Patrizia Fanara**, una persona de
 
 ### Agrinfanzia è sinonimo di...?
 
-> *Cura*: ci piace aver cura dei bambini che frequentano i servizi del nostro agrinido a Ravenna. Così come dei genitori che, con fiducia, si affidano a noi.
+> _Cura_: ci piace aver cura dei bambini che frequentano i servizi del nostro agrinido a Ravenna. Così come dei genitori che, con fiducia, si affidano a noi.
 >
-> *Qualità*: la passione e l'impegno che mettiamo nei servizi che proponiamo si traduce in un'offerta di qualità. Una qualità data anche da un team di alto valore. Fidelizziamo le persone anche grazie a un ambiente collaborativo, sereno, in cui si può crescere professionalmente.
+> _Qualità_: la passione e l'impegno che mettiamo nei servizi che proponiamo si traduce in un'offerta di qualità. Una qualità data anche da un team di alto valore. Fidelizziamo le persone anche grazie a un ambiente collaborativo, sereno, in cui si può crescere professionalmente.
 >
-> *Ascolto e soddisfacimento di bisogni reali*: ascoltare le esigenze delle famiglie significa proporre servizi utili e di grande valore sociale.
+> _Ascolto e soddisfacimento di bisogni reali_: ascoltare le esigenze delle famiglie significa proporre servizi utili e di grande valore sociale.
 >
-> *Aggregazione*: nel nostro agrinido a Ravenna le famiglie possono incontrarsi, dialogare, confrontarsi su temi della genitorialità, ricevere supporto e suggerimenti. Ma anche rilassarsi, semplicemente!
+> _Aggregazione_: nel nostro agrinido a Ravenna le famiglie possono incontrarsi, dialogare, confrontarsi su temi della genitorialità, ricevere supporto e suggerimenti. Ma anche rilassarsi, semplicemente!
 
 ### Qual è il valore aggiunto offerto da Agrinfanzia?
 

@@ -52,7 +52,7 @@ export const pageQuery = graphql`
             date(formatString: "DD/MM/YYYY")
             description
             featuredImage {
-              childImageSharp{
+              childImageSharp {
                 fixed(width: 320, height: 220, quality: 60) {
                   ...GatsbyImageSharpFixed
                 }

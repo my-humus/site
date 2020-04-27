@@ -1,17 +1,17 @@
 ---
-title: 'Una super gastronomia vegana a Ravenna!'
-date: '2015-05-28T10:51:04+00:00'
-description: 'Paolo, Paola e Andrea sono i titolari di Ravegan, la gastronomia vegana a Ravenna che, ogni giorno, prepara meraviglie cruelty-free di ogni tipo.'
+title: "Una super gastronomia vegana a Ravenna!"
+date: "2015-05-28T10:51:04+00:00"
+description: "Paolo, Paola e Andrea sono i titolari di Ravegan, la gastronomia vegana a Ravenna che, ogni giorno, prepara meraviglie cruelty-free di ogni tipo."
 featuredImage: ./ravegan-vegan.jpg
 category:
-    - Cucina
+  - Cucina
 tags:
-    - Cucina
-    - Cucina vegana
-    - Ecofriendly
-    - Gruppo solidale di acquisto
-    - Sostenibilità
-    - Vegan
+  - Cucina
+  - Cucina vegana
+  - Ecofriendly
+  - Gruppo solidale di acquisto
+  - Sostenibilità
+  - Vegan
 ---
 
 C'è una gastronomia vegana a Ravenna che è il paradiso del gusto e della fantasia. I suoi piatti racchiudono la tradizione romagnola in chiave vegan, ma anche l'amore di una famiglia per i sapori genuini e l'esperienza maturata in tanti anni di cucina.
@@ -29,9 +29,9 @@ Paolo e Paola sono due miei buonissimi amici. Li ho intervistati con moooooooooo
 
 > Tanti anni fa, io e Paola abbiamo deciso di non mangiare più carne, un po' per motivi di salute e un po' per motivi etici.
 >
-> Andrea, un giorno,  è tornato a casa dicendo che non avrebbe più consumato nulla di origine animale. Non avrebbe più comprato oggetti o abbigliamento in pelle o lana per non supportare l'industria basata sullo sfruttamento animale.
+> Andrea, un giorno, è tornato a casa dicendo che non avrebbe più consumato nulla di origine animale. Non avrebbe più comprato oggetti o abbigliamento in pelle o lana per non supportare l'industria basata sullo sfruttamento animale.
 >
-> Lì per lì ci è sembrato che il suo fosse un atteggiamento un po' estremo. Dopo alcune ricerche sul web, però, e dopo aver parlando con amici e aver letto libri come *Ecocidio* di Rifkin, ci siamo resi conto che Andrea era sulla strada giusta. E che **essere vegetariani non sarebbe bastato**.
+> Lì per lì ci è sembrato che il suo fosse un atteggiamento un po' estremo. Dopo alcune ricerche sul web, però, e dopo aver parlando con amici e aver letto libri come _Ecocidio_ di Rifkin, ci siamo resi conto che Andrea era sulla strada giusta. E che **essere vegetariani non sarebbe bastato**.
 >
 > Così abbiamo deciso di aprire una gastronomia vegana a Ravenna.
 

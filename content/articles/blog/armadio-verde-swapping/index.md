@@ -1,7 +1,7 @@
 ---
 title: 'La vendita di abbigliamento usato online è verde!'
 date: '2015-04-02T10:23:16+00:00'
-description: 'L'Armadio Verde è una nuovissima start up che promuove le attività di swapping per andare incontro alle esigenze dei genitori di tutta Italia.'
+description: "L'Armadio Verde è una nuovissima start up che promuove le attività di swapping per andare incontro alle esigenze dei genitori di tutta Italia."
 featuredImage: ./armadio-verde.jpg
 category:
     - Ecoprogetti
@@ -12,7 +12,6 @@ tags:
     - Swapping
 ---
 
-
 La vendita di abbigliamento usato online è un'attività sempre più in voga, in Italia e all'estero.
 
 Stop all'acquisto di capi sempre nuovi! Basta sprechi! Impariamo a dare valore a ciò che possediamo!
@@ -20,7 +19,7 @@ E impariamo a riflettere su un aspetto: ciò che si sceglie di scartare potrebbe
 
 Perché non diventare consumatori più responsabili partendo, ad esempio, dall'abbigliamento?
 
-**Eleonora Dellera** questo ragionamento lo ha fatto. E lo ha fatto insieme al marito, col quale ha dato vita ad [Armadio Verde](http://www.armadioverde.it), un progetto che promuove il cosiddetto *swapping*.
+**Eleonora Dellera** questo ragionamento lo ha fatto. E lo ha fatto insieme al marito, col quale ha dato vita ad [Armadio Verde](http://www.armadioverde.it), un progetto che promuove il cosiddetto _swapping_.
 
 ![Eleonora Dellera](./eleonora-dellera.jpg)
 
@@ -52,7 +51,7 @@ Conosciamolo più nel dettaglio...
 
 ### Quali sono le attuali esigenze dei genitori?
 
-> Il *risparmio*. E poi il *non spreco*, perché scambiando i vestiti restituisci un valore agli acquisti fatti. C'è bisogno di *vestire bene i figli* senza spendere troppo e con capi di qualità. Infine, c'è bisogno di sfruttare al meglio l'*online*. Con Armadio Verde, le mamme scambiano da casa 24 ore su 24.
+> Il _risparmio_. E poi il _non spreco_, perché scambiando i vestiti restituisci un valore agli acquisti fatti. C'è bisogno di _vestire bene i figli_ senza spendere troppo e con capi di qualità. Infine, c'è bisogno di sfruttare al meglio l'_online_. Con Armadio Verde, le mamme scambiano da casa 24 ore su 24.
 >
 > Consegnamo in tutta Italia in pochissimi giorni.
 

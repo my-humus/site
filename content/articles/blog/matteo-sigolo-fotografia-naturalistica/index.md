@@ -1,7 +1,7 @@
 ---
 title: 'La fotografia paesaggistica di Matteo Sigolo'
 date: '2014-01-31T00:00:56+00:00'
-description: 'Una delle passioni del ravennate Matteo Sigolo è la fotografia paesaggistica naturale, motivo per cui viaggia l'Italia e l'estero con tutta la sua attrezzatura.'
+description: "Una delle passioni del ravennate Matteo Sigolo è la fotografia paesaggistica naturale, motivo per cui viaggia l'Italia e l'estero con tutta la sua attrezzatura."
 featuredImage: ./matteo-sigolo.jpg
 category:
     - Green Mix

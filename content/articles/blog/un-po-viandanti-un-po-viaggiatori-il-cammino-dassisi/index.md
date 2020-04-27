@@ -1,5 +1,5 @@
 ---
-title: 'Viandanti e viaggiatori: il Cammino d'Assisi'
+title: "Viandanti e viaggiatori: il Cammino d'Assisi"
 date: '2014-09-01T00:00:56+00:00'
 description: ''
 featuredImage: ./noi.jpg
@@ -11,7 +11,6 @@ tags:
     - Natura
     - Vacanze green
 ---
-
 
 Se è vero che tutte le strade portano a Roma, io dico che quelle del Cammino d'Assisi, oltre a condurre ad Assisi, portano alla pace interiore. Sono sentieri segnalati dal CAI, i suoi, che ti portano altrove, insinduandosi nel cuore delle foreste casentinesi.
 
@@ -29,7 +28,7 @@ Per ragioni di tempo, delle 13 tappe noi ne abbiamo percorse solamente 4: Dodavo
 Lungo il percorso ci si imbatte in diversi **eremi** e in piccoli **paesi storici**. In sostanza, si ripercorrono molte tappe fondamentali della vita spirituale di San Francesco.
 Per affrontare al meglio il Cammino d'Assisi, è bene essere un minimo allenati. Il percorso, specie all'inizio, presenta diverse salite e discese.
 
-Una bella notizia per i *bike addicted*: parte del percorso è percorribile in mountain-bike. La discesa nei pressi dell'eremo di Camaldoli vi divertirà, io già lo so!
+Una bella notizia per i _bike addicted_: parte del percorso è percorribile in mountain-bike. La discesa nei pressi dell'eremo di Camaldoli vi divertirà, io già lo so!
 
 ![Viale alberato](./viale-alberato.jpg)
 
@@ -49,7 +48,7 @@ Camminare diventa un viaggio introspettivo in cui l'aspetto avventuroso passa qu
 
 ![Gruppo](./gruppo.jpg)
 
-Murakami, autore di *Kafka sulla spiaggia* e di molte altre meraviglie letterarie, afferma:
+Murakami, autore di _Kafka sulla spiaggia_ e di molte altre meraviglie letterarie, afferma:
 
 > Proprio nello sforzo enorme e coraggioso di vincere la fatica riusciamo a provare, almeno per un istante, la sensazione autentica di vivere. Raggiungiamo la consapevolezza che la qualità del vivere non si trova in valori misurabili in voti, numeri e gradi, ma è insita nell'azione stessa, vi scorre dentro.
 

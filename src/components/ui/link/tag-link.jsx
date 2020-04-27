@@ -7,7 +7,7 @@ import "../../../scss/ui/link/_tag-link.scss"
 
 export default class TagLink extends Component {
   render() {
-    const path = pathify('tags', slugify(this.props.tag, { lower: true }));
+    const path = pathify("tags", slugify(this.props.tag, { lower: true }))
 
     return (
       <Link to={path} className="tag-link">

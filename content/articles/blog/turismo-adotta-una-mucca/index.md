@@ -1,7 +1,7 @@
 ---
 title: 'Vuoi adottare una mucca?'
 date: '2015-07-09T10:51:33+00:00'
-description: 'C'è un progetto che permette di adottare una mucca per promuovere un approccio educativo alla montagna e alla tradizione casearia d'alta quota.'
+description: "C'è un progetto che permette di adottare una mucca per promuovere un approccio educativo alla montagna e alla tradizione casearia d'alta quota."
 featuredImage: ./adotta-mucca.jpg
 category:
     - Ecoprogetti
@@ -21,7 +21,7 @@ Insieme a Ilaria Sordo, ideatrice e curatrice del progetto, ho conosciuto meglio
 
 ![Ilaria Sordo](./ilaria-sordo-foto.jpg)
 
-### Ciao, Ilaria! Mi parli delle origini di *Adotta una mucca*?
+### Ciao, Ilaria! Mi parli delle origini di _Adotta una mucca_?
 
 > Ciao, Anna! Il progetto è nato nel 2005 per **far conoscere e valorizzare le malghe e i prodotti caseari della Valsugana e del Lagorai**. Grazie alla veicolazione dell'universo malga, il progetto propone un approccio educativo alla montagna, all'ambiente e alla tradizione casearia d'alta quota.
 >
@@ -53,7 +53,7 @@ Insieme a Ilaria Sordo, ideatrice e curatrice del progetto, ho conosciuto meglio
 
 ### Qualsiasi realtà, anche una scuola, può adottare una mucca?
 
-> *Adotta una mucca* è nato pensando ai più piccoli e a coloro che vivono in città. Intendiamo offrire un'opportunità di avvicinamento alle malghe della Valsugana e del Lagorai, ma anche un contatto diretto con la natura.
+> _Adotta una mucca_ è nato pensando ai più piccoli e a coloro che vivono in città. Intendiamo offrire un'opportunità di avvicinamento alle malghe della Valsugana e del Lagorai, ma anche un contatto diretto con la natura.
 >
 > Oltre alla buona **partecipazione dei residenti** in provincia di Trento, sono soprattutto i **turisti da fuori regione** ad adottare una mucca. Un'azione che, in molti casi, è stata vista come un'occasione per un simpatico regalo.
 
@@ -61,11 +61,11 @@ Insieme a Ilaria Sordo, ideatrice e curatrice del progetto, ho conosciuto meglio
 
 > L'iniziativa viene promossa ogni anno attraverso la stampa di **30.000 cataloghi** distribuiti presso gli uffici dell'APT Valsugana e alle fiere cui partecipa.
 >
-> Al progetto è dedicata una precisa sezione del [sito](http://www.visitvalsugana.it/it/vacanze-in-valsugana/adotta-una-mucca/?R=1). Poi abbiamo [Facebook](https://www.facebook.com/adottaunamucca) e [Twitter](https://twitter.com/visitvalsugana) (vi ricordo l'hashtag *\#adottaunamucca*!).
+> Al progetto è dedicata una precisa sezione del [sito](http://www.visitvalsugana.it/it/vacanze-in-valsugana/adotta-una-mucca/?R=1). Poi abbiamo [Facebook](https://www.facebook.com/adottaunamucca) e [Twitter](https://twitter.com/visitvalsugana) (vi ricordo l'hashtag _\#adottaunamucca_!).
 >
 > L'iniziativa viene raccontata spesso dagli aderenti sul [blog](http://blog.visitvalsugana.it), a garanzia della positiva esperienza vissuta in malga.
 >
-> Fin dall'inizio, *Adotta una mucca* ha destato l'**interesse della stampa** e ha permesso di parlare del territorio su **quotidiani** e **periodici nazionali**. Ora, adottare una mucca è qualcosa di meno sconosciuto!
+> Fin dall'inizio, _Adotta una mucca_ ha destato l'**interesse della stampa** e ha permesso di parlare del territorio su **quotidiani** e **periodici nazionali**. Ora, adottare una mucca è qualcosa di meno sconosciuto!
 
 ### Domanda doverosa: cosa succede quando la mucca adottata diventa anziana?
 
@@ -79,6 +79,6 @@ Insieme a Ilaria Sordo, ideatrice e curatrice del progetto, ho conosciuto meglio
 >
 > Nuove malghe della Valsugana e del Lagorai si sono fatte avanti. Il catalogo 2016, quindi, sarà ancora più ricco.
 >
-> Proseguiranno anche le attività di *Malghese per un giorno*. Da metà giugno a metà settembre, tutte le settimane, ci si incontra nelle malghe che aderiscono all'iniziativa. Questo per assistere alla lavorazione del latte da parte del casaro e per capire cosa significhi vivere e lavorare in malga.
+> Proseguiranno anche le attività di _Malghese per un giorno_. Da metà giugno a metà settembre, tutte le settimane, ci si incontra nelle malghe che aderiscono all'iniziativa. Questo per assistere alla lavorazione del latte da parte del casaro e per capire cosa significhi vivere e lavorare in malga.
 >
-> Con il loro lavoro, i malghesi di questa zona sono diventati l'anello di congiunzione tra un passato dalle radici profonde e un presente sempre più bisognoso di ritmi naturali. Grazie a *Malghese per un giorno*, riescono a coinvolgere residenti e turisti in uno spaccato della loro vita. L'obiettivo è di recuperare alcune peculiarità del territorio nell'ottica di uno sviluppo, anche economico, di tipo sostenibile.
+> Con il loro lavoro, i malghesi di questa zona sono diventati l'anello di congiunzione tra un passato dalle radici profonde e un presente sempre più bisognoso di ritmi naturali. Grazie a _Malghese per un giorno_, riescono a coinvolgere residenti e turisti in uno spaccato della loro vita. L'obiettivo è di recuperare alcune peculiarità del territorio nell'ottica di uno sviluppo, anche economico, di tipo sostenibile.

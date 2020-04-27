@@ -1,15 +1,15 @@
 ---
-title: 'AleDima disegna il fashion sostenibile'
-date: '2015-02-11T14:31:37+00:00'
-description: 'Il fashion sostenibile di Alessandro Dimauro basa il proprio lavoro su tre punti cardine: riciclo, personalizzazione e sostenibilità sociale.'
+title: "AleDima disegna il fashion sostenibile"
+date: "2015-02-11T14:31:37+00:00"
+description: "Il fashion sostenibile di Alessandro Dimauro basa il proprio lavoro su tre punti cardine: riciclo, personalizzazione e sostenibilità sociale."
 featuredImage: ./riciclo-moda.jpg
 category:
-    - Ecoprogetti
+  - Ecoprogetti
 tags:
-    - Design
-    - Riciclo
-    - Riutilizzo
-    - Sostenibilità sociale
+  - Design
+  - Riciclo
+  - Riutilizzo
+  - Sostenibilità sociale
 ---
 
 C'è poco da fare: il fashion sostenibile è una necessità.
@@ -44,7 +44,7 @@ Si tratta di borse ottenute da tessuti e da striscioni pubblicitari riciclati, m
 
 Al momento, Alessandro si procura le materie prime in Trentino-Alto Adige, dove ci sono diverse realtà in grado di mettere a disposizione preziose giacenze di magazzino. Il suo marchio è insediato all'interno di [Progetto Manifattura](http://www.progettomanifattura.it).
 
-Ciò che attualmente Alessandro sta cercando di avviare è un *network del riciclo* in cui rientrino competenze e realtà differenti. Il tutto in un'ottica di *business sostenibile*.
+Ciò che attualmente Alessandro sta cercando di avviare è un _network del riciclo_ in cui rientrino competenze e realtà differenti. Il tutto in un'ottica di _business sostenibile_.
 **Riciclo** e **valore sociale** sono le due parole d'ordine dei suoi prodotti.
 
 Da qualche tempo, Alessandro collabora anche con la [cooperativa CS4](http://www.cs4.it) tramite il brand [Border](https://www.facebook.com/pages/Border/1508620196064367?ref=hl). L'obiettivo è di creare oggetti di design interessanti anche dal punto di vista sociale, favorendo gli inserimenti lavorativi di fasce deboli e recuperando materiali di scarto.
@@ -59,7 +59,7 @@ Viviana Setti, dal canto suo, sta studiando questi materiali per capire se siano
 
 E ora, ecco una carrellata di immagini. Quella in foto sono io nelle vesti di modella di Vivilavì!
 Gli articoli che ho indossato sono molto soffici al tatto, hanno tagli accattivanti e colori sgargianti. Li consiglio a chiunque non voglia passare inosservato e desideri farsi promotore del riciclo!
-I capi Vivilavì finora prodotti sono in vendita presso *Maximilian*, in via Rialto n.44 a Rovereto.
+I capi Vivilavì finora prodotti sono in vendita presso _Maximilian_, in via Rialto n.44 a Rovereto.
 
 Per maggiori informazioni, contatta Alessandro via e-mail all'indirizzo [alessandro_dimauro@hotmail.com](mailto:alessandro_dimauro@hotmail.com) o tramite la [pagina Facebook](https://www.facebook.com/pages/AleDima-Studio/695349387157542?fref=ts).
 

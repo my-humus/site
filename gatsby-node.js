@@ -36,7 +36,7 @@ exports.createPages = async ({ graphql, actions }) => {
     let match = edge.node.fields.slug.match(/^\/([\w-]+)\/(?:)/i)
 
     if (match !== null && match.length > 1) {
-      match = match[1];
+      match = match[1]
     }
 
     if (match === "blog") {
@@ -61,8 +61,8 @@ exports.createPages = async ({ graphql, actions }) => {
         limit: postsPerPage,
         skip: i * postsPerPage,
         numPages,
-        currentPage: i + 1,
-      },
+        currentPage: i + 1
+      }
     })
   })
 
@@ -76,13 +76,13 @@ exports.createPages = async ({ graphql, actions }) => {
       context: {
         slug: post.node.fields.slug,
         previous,
-        next,
-      },
+        next
+      }
     })
   })
 
   Object.keys(pages).forEach(slug => {
-    let contents = pages[slug];
+    let contents = pages[slug]
     let total = Math.ceil(contents.length / postsPerPage)
 
     Array.from({ length: total }).forEach((_, i) => {
@@ -95,18 +95,18 @@ exports.createPages = async ({ graphql, actions }) => {
           numPages: total,
           currentPage: i + 1,
           slug: slug,
-          regex: "^\/(" + slug + ")\/",
-        },
+          regex: "^/(" + slug + ")/"
+        }
       })
     })
 
-    contents.forEach((page) => {
+    contents.forEach(page => {
       createPage({
         path: page.node.fields.slug,
         component: path.resolve(`./src/templates/pages-post.js`),
         context: {
           slug: page.node.fields.slug
-        },
+        }
       })
     })
   })
@@ -121,7 +121,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
     createNodeField({
       name: `slug`,
       node,
-      value,
+      value
     })
   }
 }

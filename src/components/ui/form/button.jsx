@@ -18,7 +18,9 @@ export default class Button extends Component {
     return (
       <div className={classNames(["field", "is-grouped", "is-grouped-right"])}>
         <div className="control">
-          <button onClick={this.handleClick} className={classes}>{this.props.label}</button>
+          <button onClick={this.handleClick} className={classes}>
+            {this.props.label}
+          </button>
         </div>
       </div>
     )

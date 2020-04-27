@@ -26,19 +26,19 @@ Insieme hanno ideato un progetto che coniuga **infanzia e coscienza ambientale**
 
 In base a questo progetto, fin dalla più tenera età i bambini hanno la possibilità di avvicinarsi all'agricoltura urbana interagendo con piante e animali, sperimentando in prima persona.
 
-La loro proposta ha suscitato moltissimo interesse mediatico e si è aggiudicata il primo premio al concorso di idee *London Nursery School* indetto da [AWR Competitions](http://www.awrcompetitions.com).
+La loro proposta ha suscitato moltissimo interesse mediatico e si è aggiudicata il primo premio al concorso di idee _London Nursery School_ indetto da [AWR Competitions](http://www.awrcompetitions.com).
 
-Una possibile risposta giunge dai quattro architetti di *[aut- -aut](http://www.aut--aut.it)*, all'anagrafe Gabriele Capobianco, Jonathan Lazar, Edoardo Capuzzo Dolcetta e Davide Troiani.
+Una possibile risposta giunge dai quattro architetti di _[aut- -aut](http://www.aut--aut.it)_, all'anagrafe Gabriele Capobianco, Jonathan Lazar, Edoardo Capuzzo Dolcetta e Davide Troiani.
 
-Insieme hanno ideato un progetto che coniuga infanzia e **coscienza ambientale**, *Nursery Fields Forever*, ovvero l'orto nell'asilo: fin dalla più tenera età, i bambini hanno la possibilità di avvicinarsi all'**agricoltura urbana** interagendo con piante ed animali, sperimentando in prima persona.
+Insieme hanno ideato un progetto che coniuga infanzia e **coscienza ambientale**, _Nursery Fields Forever_, ovvero l'orto nell'asilo: fin dalla più tenera età, i bambini hanno la possibilità di avvicinarsi all'**agricoltura urbana** interagendo con piante ed animali, sperimentando in prima persona.
 
 La proposta di questo giovane team ha suscitato moltissimo interesse mediatico e si è aggiudicata il primo premio al concorso di idee London Nursery School indetto da [AWR Competitions](http://www.awrcompetitions.com).
 
 Ecco la mia intervista a Jonathan Lazar.
 
-### Ciao, Jonathan! Presentiamo *aut- -aut*: di cosa si occupa? Qual è la sua filosofia?
+### Ciao, Jonathan! Presentiamo _aut- -aut_: di cosa si occupa? Qual è la sua filosofia?
 
-> Ciao, Anna! *aut- -aut* è il luogo immateriale in cui alcuni giovani architetti hanno deciso di far convergere il loro impegno.
+> Ciao, Anna! _aut- -aut_ è il luogo immateriale in cui alcuni giovani architetti hanno deciso di far convergere il loro impegno.
 >
 > È una piattaforma aperta, flessibile e orizzontale, capace di dilatarsi o di restringersi a seconda dell'esigenza e delle competenze necessarie per affrontare un certo tema.
 >
@@ -64,7 +64,7 @@ Ecco la mia intervista a Jonathan Lazar.
 
 ### Coltivare all'asilo è il principale obiettivo del vostro progetto? Quale apprendimento viene proposto?
 
-> Speriamo che *Nursery Fields Forever* solleciti la nascita di asili in cui lo sviluppo emozionale, cognitivo e sociale dei bambini sia stimolato dall'**interazione con piante e animali**. Ma anche dalla collaborazione tra compagni che condividono una missione comune.
+> Speriamo che _Nursery Fields Forever_ solleciti la nascita di asili in cui lo sviluppo emozionale, cognitivo e sociale dei bambini sia stimolato dall'**interazione con piante e animali**. Ma anche dalla collaborazione tra compagni che condividono una missione comune.
 >
 > Le nostre spazialità ibridano ambienti scolastici classici e ambienti agricoli. A una divisione in classi si preferisce una routine giornaliera basata sulla cura di piante e animali.
 >

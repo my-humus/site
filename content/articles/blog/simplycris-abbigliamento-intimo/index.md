@@ -1,7 +1,7 @@
 ---
 title: 'Simplycris, l'intimo italiano donna, uomo e bambino'
 date: '2016-12-07T11:11:12+00:00'
-description: 'Stefano Tanesini e Cristina Sangiorgi rappresentano Simplycris, marchio italiano di abbigliamento intimo di estrema qualità.'
+description: "Stefano Tanesini e Cristina Sangiorgi rappresentano Simplycris, marchio italiano di abbigliamento intimo di estrema qualità."
 featuredImage: ./simplycris.jpg
 category:
     - Green Mix
@@ -10,7 +10,6 @@ tags:
     - Intimo donna
     - Intimo online
 ---
-
 
 Fino a qualche giorno fa non sapevo che a Granarolo Faentino si producesse intimo italiano donna, uomo e bambino di qualità.
 Sono felice di aver conosciuto [Simplycris](https://www.simplycris.com/?gclid=CjwKCAjwnIr1BRAWEiwA6GpwNXBSQJqkh_PSEb-uxQaPdwQX4TWws79yMRacuMhFoh27Cn8DOftzChoCFFEQAvD_BwE), una bella realtà aziendale del mio territorio.
@@ -43,7 +42,7 @@ Avete voglia di saperne di più sul suo intimo italiano donna, uomo e bambino?
 
 > Certamente, **produciamo anche su misura**. In questo caso ci occorrono giusto 4 o 5 giorni di lavoro, dopodiché il capo è pronto per la consegna. Grazie al nostro sistema di vendita online, **vendiamo in tutta Italia**.
 
-### Stefano, se ti parlo di *tollerabilità cutanea"* cosa mi rispondi?
+### Stefano, se ti parlo di _tollerabilità cutanea"_ cosa mi rispondi?
 
 > Ti dico che **i nostri capi non sono trattati con sostanze chimiche tossiche**. Per le nostre colorazioni ci rivolgiamo a una tintoria di Cassano Magnago, in provincia di Varese, che garantisce la totale assenza di sostanze nocive nel bagno tintoriale.
 >
