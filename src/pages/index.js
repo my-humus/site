@@ -2,7 +2,7 @@ import React from "react"
 import { graphql } from "gatsby"
 
 import Blog from "../components/sections/blog"
-import Layout from "../components/layouts/default"
+import IndexLayout from "../components/layouts/index-layout"
 
 export default class BlogIndex extends React.Component {
   render() {
@@ -10,9 +10,9 @@ export default class BlogIndex extends React.Component {
     const posts = data.allMarkdownRemark.edges
 
     return (
-      <Layout location={this.props.location}>
+      <IndexLayout location={this.props.location}>
         <Blog posts={posts} />
-      </Layout>
+      </IndexLayout>
     )
   }
 }
@@ -39,6 +39,7 @@ export const pageQuery = graphql`
             date(formatString: "DD/MM/YYYY")
             title
             description
+            category
             featuredImage {
               childImageSharp {
                 fixed(width: 320, height: 220, quality: 60) {

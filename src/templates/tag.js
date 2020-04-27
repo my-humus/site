@@ -1,7 +1,6 @@
 import React from "react"
 import { graphql } from "gatsby"
-
-import Layout from "../components/layouts/default"
+import DefaultLayout from "../components/layouts/default-layout"
 import Section from "../components/ui/section"
 import Article from "../components/ui/article/article-grid"
 
@@ -10,7 +9,7 @@ const TagTemplate = ({ location, pageContext, data }) => {
 
   if (data.allMarkdownRemark.edges.length > 0) {
     return (
-      <Layout location={location} title={`Tag "${tag}"`}>
+      <DefaultLayout location={location} title={`Tag "${tag}"`}>
         <Section title="Tag" subtitle={tag}>
           <div className="columns is-multiline">
             {data.allMarkdownRemark.edges.map(({ node }) => {
@@ -22,7 +21,7 @@ const TagTemplate = ({ location, pageContext, data }) => {
             })}
           </div>
         </Section>
-      </Layout>
+      </DefaultLayout>
     )
   } else {
     return null
@@ -34,6 +33,7 @@ export const pageQuery = graphql`
     allMarkdownRemark(
       limit: 2000
       filter: { fields: { tags: { in: [$tag] } } }
+      sort: { fields: [frontmatter___date], order: DESC }
     ) {
       group(field: frontmatter___tags) {
         fieldValue

@@ -1,7 +1,7 @@
 import React from "react"
 import { graphql } from "gatsby"
 
-import Layout from "../components/layouts/default"
+import DefaultLayout from "../components/layouts/default-layout"
 import Section from "../components/ui/section"
 import ArticleGrid from "../components/ui/article/article-grid"
 
@@ -12,7 +12,7 @@ export default class BlogList extends React.Component {
     const { data, pageContext } = this.props
 
     return (
-      <Layout location={this.props.location} title="Blog">
+      <DefaultLayout location={this.props.location} title="Blog">
         <Section title="Blog" subtitle="Il Blog di MyHumus">
           <div className="columns is-multiline">
             {data.allMarkdownRemark.edges.map(({ node }) => {
@@ -25,7 +25,7 @@ export default class BlogList extends React.Component {
           </div>
         </Section>
         {navigator(pageContext)}
-      </Layout>
+      </DefaultLayout>
     )
   }
 }

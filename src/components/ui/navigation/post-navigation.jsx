@@ -1,7 +1,7 @@
 import React, { Component } from "react"
 import { Link } from "gatsby"
 
-import "../../scss/ui/_post-navigation.scss"
+import "../../../scss/ui/_post-navigation.scss"
 
 export default class PostNavigation extends Component {
   render() {

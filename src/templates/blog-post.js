@@ -5,7 +5,7 @@ import Footer from "../components/ui/footer"
 import TagLink from "../components/ui/link/tag-link"
 import CategoryLink from "../components/ui/link/category-link"
 import SEO from "../components/seo/seo"
-import PostNavigation from "../components/ui/post-navigation"
+import PostNavigation from "../components/ui/navigation/post-navigation"
 import Img from "gatsby-image"
 
 import "../scss/templates/_blog-post.scss"

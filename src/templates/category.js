@@ -1,7 +1,7 @@
 import React from "react"
 import { graphql } from "gatsby"
 
-import Layout from "../components/layouts/default"
+import DefaultLayout from "../components/layouts/default-layout"
 import Section from "../components/ui/section"
 import Article from "../components/ui/article/article-grid"
 
@@ -10,7 +10,7 @@ const CategoryTemplate = ({ location, pageContext, data }) => {
 
   if (data.allMarkdownRemark.edges.length > 0) {
     return (
-      <Layout location={location} title={`Categoria "${category}"`}>
+      <DefaultLayout location={location} title={`Categoria "${category}"`}>
         <Section title="Categoria" subtitle={category}>
           <div className="columns is-multiline">
             {data.allMarkdownRemark.edges.map(({ node }) => {
@@ -22,7 +22,7 @@ const CategoryTemplate = ({ location, pageContext, data }) => {
             })}
           </div>
         </Section>
-      </Layout>
+      </DefaultLayout>
     )
   } else {
     return null
@@ -34,6 +34,7 @@ export const pageQuery = graphql`
     allMarkdownRemark(
       limit: 1000
       filter: { fields: { category: { eq: $category } } }
+      sort: { fields: [frontmatter___date], order: DESC }
     ) {
       group(field: frontmatter___category) {
         fieldValue

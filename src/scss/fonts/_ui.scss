@@ -3,10 +3,10 @@
 @include font(myhumus);
 @include icon-family(myhumus);
 
+@include icon(myhumus, icon, "\e901");
+@include icon(myhumus, logo, "\e902");
 @include icon(myhumus, dot, "\e900");
-@include icon(myhumus, icon, "\e900");
-@include icon(myhumus, logo, "\e901");
-@include icon(myhumus, home, "\e902");
+@include icon(myhumus, home, "\e903");
 @include icon(myhumus, envelop, "\e945");
 @include icon(myhumus, clock, "\e94e");
 @include icon(myhumus, user, "\e971");

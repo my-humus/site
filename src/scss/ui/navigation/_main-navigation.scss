@@ -1,0 +1,15 @@
+@import "../../variables";
+
+.navbar {
+    .navbar-logo {
+        text-align: center;
+        i {
+            font-size: $size-1;
+            color: $grey-darker;
+            padding: $size-6;
+        }
+    }
+    .navbar-item {
+        text-transform: uppercase;
+    }
+}
