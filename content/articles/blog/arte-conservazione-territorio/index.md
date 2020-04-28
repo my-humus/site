@@ -6,11 +6,9 @@ featuredImage: ./joshua-hibbert.jpg
 category:
     - Ecoprogetti
 tags:
-    - Archiviazione del paesaggio
-    - Arte
-    - Australia
-    - Conservazione
-    - Tutela del territorio
+    - Conservazione della natura
+    - Educazione ambientale
+    - Arte e natura
 ---
 
 Questa volta si parla di **Uomo e paesaggio**, si parla d'arte, di tutela del territorio e di archiviazione del paesaggio.

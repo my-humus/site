@@ -6,10 +6,9 @@ featuredImage: ./gigi-perinello.jpg
 category:
   - Ecoprogetti
 tags:
-  - Artigianato
-  - Scarpe
-  - Scarpe artigianali
-  - Sostenibilità
+  - Ecoartigianato
+  - No spreco
+  - Moda ecosostenibile
 ---
 
 **Gigi Perinello** è un produttore di scarpe artigianali in vera pelle. Oltre a ciò, è una persona molto alla mano e dai modi estremamente gentili che ama definirsi _ribelle per natura_.

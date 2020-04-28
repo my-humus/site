@@ -6,10 +6,9 @@ featuredImage: ./luca-savini.jpg
 category:
     - Mobilità sostenibile
 tags:
-    - Ciclismo
-    - Green lifestyle
-    - Sostenibilità
-    - Trasporti green
+    - Mobilità sostenibile
+    - Bici scatto fisso
+    - Bici artigianali
 ---
 
 MyHumus è un progetto che nasce dal cuore. Da quello mio, certo, ma anche da quello di tutti coloro che accettano di lasciarsi intervistare. Sono persone che non si limitano a presentarsi rispondendo alle mie domande: contribuiscono in prima persona a divulgare la sostenibilità, tema che mi sta molto a cuore.

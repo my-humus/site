@@ -6,10 +6,9 @@ featuredImage: ./casa-passiva.jpg
 category:
   - Ecoprogetti
 tags:
-  - Bioedilizia
-  - Casa passiva
-  - Ecosostenibile
-  - Risparmio energetico
+  - Architettura ecosostenibile
+  - No spreco
+  - Innovazione ecosostenibile
 ---
 
 _Presa di coscienza_.

@@ -7,9 +7,7 @@ category:
     - Ecoprogetti
 tags:
     - Ecoturismo
-    - Sostenibilità
-    - Territorio
-    - Turismo
+    - Educazione ambientale
 ---
 
 Non ho mai pensato di adottare una mucca, ma potrei iniziare a farlo!

@@ -6,10 +6,9 @@ featuredImage: ./maja-petric.jpg
 category:
   - Ecoprogetti
 tags:
-  - Consumo etico
-  - Km zero
-  - Sharing economy
-  - Sostenibilità
+  - Consumo responsabile
+  - Filiera corta
+  - No spreco
 ---
 
 Una rete di vendita a filiera corta potrebbe distoglierci dall'acquisto di manghi a metà dicembre. O di altra frutta (o verdura) proveniente da chissà quale parte del mondo.

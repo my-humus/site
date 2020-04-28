@@ -6,11 +6,11 @@ featuredImage: ./fattoria-autosufficienza.jpg
 category:
     - Ecoprogetti
 tags:
-    - Autosufficienza
-    - Decrescita
-    - Ecologia
-    - Permacultura
-    - Sostenibilità
+    - Autoproduzione
+    - Consumo responsabile
+    - No spreco
+    - Educazione ambientale
+    - Ecoturismo
 ---
 
 Metti un normalissimo martedì pomeriggio di sole in cui infili in borsa la macchina fotografica, passi a prendere due amiche e raggiungi un nuovo centro di ecologia applicata in Romagna. Un posto incantevole in provincia di Forlì-Cesena, più precisamente a Paganico: la [Fattoria dell'Autosufficienza](http://www.autosufficienza.it).

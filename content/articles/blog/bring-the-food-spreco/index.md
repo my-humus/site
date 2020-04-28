@@ -6,11 +6,9 @@ featuredImage: ./bring-food.jpg
 category:
     - Ecoprogetti
 tags:
-    - Banco alimentare
-    - Recupero
-    - Recupero alimentare
-    - Sostenibilità
-    - Spreco
+    - No spreco
+    - Consumo responsabile
+    - Riutilizzo
 ---
 
 Ci sono diverse cose che non tollero: l'arroganza, la prevaricazione, l'erudizione selettiva, i sensazionalismi. E lo spreco, di tempo e di cibo. Combattere lo spreco alimentare dovrebbe essere una priorità di tutti.

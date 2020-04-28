@@ -6,10 +6,12 @@ featuredImage: ./alvin-engler.jpg
 category:
     - Ecoprogetti
 tags:
-    - Architettura olistica
-    - Feng shui
+    - Architettura ecosostenibile
+    - Green design
+    - Innovazione ecosostenibile
 
----Non è trascorso molto tempo dal giorno in cui ho parlato di architettura olistica insieme a Giorgia, una delle mie migliori amiche.
+---
+Non è trascorso molto tempo dal giorno in cui ho parlato di architettura olistica insieme a Giorgia, una delle mie migliori amiche.
 
 ![Gabriele Poggiali](./gabriele-poggiali.jpg)
 

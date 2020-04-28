@@ -6,10 +6,11 @@ featuredImage: ./cucina-mancina.jpg
 category:
   - Cucina
 tags:
-  - Alimentazione
-  - Food community
-  - Mangiare consapevole
-  - Sostenibilità
+  - Vegan
+  - Cucina
+  - No spreco
+  - Salute e cibo
+  - Consumo responsabile
 ---
 
 Essere diversamente onnivori - quindi vegetariani, vegani, celiaci o intolleranti a certi cibi - non deve rappresentare un problema.

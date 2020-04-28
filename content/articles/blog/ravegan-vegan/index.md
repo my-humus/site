@@ -6,12 +6,13 @@ featuredImage: ./ravegan-vegan.jpg
 category:
   - Cucina
 tags:
-  - Cucina
-  - Cucina vegana
-  - Ecofriendly
-  - Gruppo solidale di acquisto
-  - Sostenibilità
   - Vegan
+  - Cucina
+  - No spreco
+  - Autoproduzione
+  - Salute e cibo
+  - Filiera corta
+  - Consumo responsabile
 ---
 
 C'è una gastronomia vegana a Ravenna che è il paradiso del gusto e della fantasia. I suoi piatti racchiudono la tradizione romagnola in chiave vegan, ma anche l'amore di una famiglia per i sapori genuini e l'esperienza maturata in tanti anni di cucina.

@@ -6,11 +6,11 @@ featuredImage: ./ecologina.jpg
 category:
     - Ecoprogetti
 tags:
-    - Moda
-    - Moda sostenibile
-    - recycling
-    - Riciclo
-    - Upcycling
+    - Moda ecosostenibile
+    - No spreco
+    - Riutilizzo
+    - Consumo responsabile
+    - Ecoartigianato
 ---
 
 ![Giada Gaia Cicala](./vestiti-giada-0068.jpg)

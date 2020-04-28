@@ -6,9 +6,9 @@ featuredImage: ./fazenda.jpg
 category:
   - Ecoprogetti
 tags:
-  - Giardini verticali in casa
-  - Green decor
-  - Verde verticale interni
+  - Vivaismo ornamentale
+  - Green design
+  - Ecoartigianato
 ---
 
 Un vivaio a Rimini che nasce così, dall'altra parte del mondo, con un lui e una lei che s'incontrano per caso in terra australiana. E che non scoprono solo di provenire dalla stessa città, ma di abitare a 4 minuti di macchina l'uno dall'altro. E insomma, finisce che s'innamorano e che si tengono stretti, come nel più lieto dei lieti fini.

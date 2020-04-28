@@ -6,11 +6,7 @@ featuredImage: ./mirco.jpg
 category:
     - Ecoprogetti
 tags:
-    - Ambiente
-    - Città sostenibile
-    - Ecologia
-    - Innovazione
-    - Sostenibilità
+    - Educazione ambientale
 ---
 
 Fusignano è un piccolo Comune della Bassa Romagna che, da un po' di tempo a questa parte, ha iniziato a interessarsi di ambiente come mezzo per migliorare la vita dei propri cittadini, ma anche come mezzo innovativo di sviluppo.

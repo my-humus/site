@@ -6,10 +6,9 @@ featuredImage: ./bici-artigianali-italiane-6.jpg
 category:
   - Mobilità sostenibile
 tags:
-  - Bici artigianali italiane
+  - Bici artigianali
   - Bici scatto fisso
-  - Bici vintage
-  - Made in Italy
+  - Mobilità sostenibile
 ---
 
 MyHumus torna a occuparsi di sostenibilità ambientale, e lo fa parlando di una delle più belle invenzioni di questo mondo: la bicicletta.

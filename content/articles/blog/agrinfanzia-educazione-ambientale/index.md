@@ -7,9 +7,7 @@ category:
     - Ecoprogetti
 tags:
     - Educazione ambientale
-    - Green
-    - Innovazione sociale
-    - Sostenibilità
+    - Ecocoraggiosi
 ---
 
 Oggi c'è un bellissimo agrinido a Ravenna. È una novità di questi ultimi tempi, una new entry che farà sicuramente la differenza per molti bambini. L'avrebbe fatta anche per me, se solo negli anni Ottanta fosse esistito...

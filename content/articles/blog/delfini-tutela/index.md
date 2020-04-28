@@ -6,11 +6,10 @@ featuredImage: ./team-delfini.jpg
 category:
     - Ecoprogetti
 tags:
-    - Biodiversità
-    - Conservazione
-    - Ecosistema marino
-    - Ricerca
-    - Tutela
+    - Conservazione della natura
+    - Ecocoraggiosi
+    - Educazione ambientale
+    - Ecoturismo
 ---
 
 Parlare di tutela dei delfini dell'Alto Adriatico mi riempie il cuore!

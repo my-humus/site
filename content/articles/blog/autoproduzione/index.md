@@ -7,9 +7,9 @@ category:
     - Green Mix
 tags:
     - Autoproduzione
-    - Autoproduzione alimentare
-    - Autoproduzione in cucina
-    - Cosmetici fai da te
+    - No spreco
+    - Riutilizzo
+    - Consumo responsabile
 ---
 
 **Autoproduzione**: che bella parola. Eppure, non è qualcosa di immediato.

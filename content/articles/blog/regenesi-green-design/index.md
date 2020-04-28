@@ -7,10 +7,9 @@ category:
     - Ecoprogetti
 tags:
     - Green design
-    - Made in Italy
-    - Riciclo
+    - Moda ecosostenibile
     - Riutilizzo
-    - Sostenibilità
+    - No spreco
 ---
 
 A Ravenna c'è un fashion brand di moda ecosostenibile che, non ho dubbi, farà molta strada: [Regenesi](http://regenesi.com).

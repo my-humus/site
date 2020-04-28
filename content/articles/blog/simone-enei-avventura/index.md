@@ -6,10 +6,9 @@ featuredImage: ./enei.jpg
 category:
   - Green Mix
 tags:
-  - Avventura
-  - Ecologia
-  - Green lifestyle
-  - Trekking
+  - Ecocoraggiosi
+  - Arte e natura
+  - Ecoturismo
 ---
 
 Dedicarsi al trekking introspettivo significa, sostanzialmente, camminare in mezzo alla natura per ritrovare sé stessi, per stabilire, o ristabilire, un nuovo dialogo col proprio _io_ interiore.

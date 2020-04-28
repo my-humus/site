@@ -6,8 +6,8 @@ featuredImage: ./cai.jpg
 category:
   - Green Mix
 tags:
-  - Escursionismo
-  - Natura
+  - Ecoturismo
+  - Educazione ambientale
 ---
 
 Qualunque strada deciderete di percorrere nella vita, sappiate che sarà sempre meglio scegliere uno dei percorsi escursionistici italiani sottoposti alle attività di manutenzione del [CAI](http://www.cai.it)!

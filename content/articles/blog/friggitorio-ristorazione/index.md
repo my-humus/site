@@ -6,9 +6,10 @@ featuredImage: ./daniele-belleffi.jpg
 category:
     - Green Mix
 tags:
-    - Green solutions
-    - Ristorazione
-    - Sostenibilità
+    - Cucina
+    - No spreco
+    - Filiera corta
+    - Consumo responsabile
 ---
 
 C'è un localino, in Viale dei Lombardi 72 a Lido di Classe, che è una chicca per il palato: si chiama [FriggitoRìo](http://www.friggitorio.com/Friggitorio/Friggitorio_LIDO_DI_CLASSE.html) ed è uno dei primi ristoranti sorti a Lido di Classe.

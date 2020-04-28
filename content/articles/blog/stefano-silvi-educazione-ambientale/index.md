@@ -6,10 +6,8 @@ featuredImage: ./stefano-silvi.jpg
 category:
     - Ecoprogetti
 tags:
-    - Ambiente
-    - Ecologia
+    - Agricoltura urbana
     - Educazione ambientale
-    - Sostenibilità
 ---
 
 Qualche tempo fa, intenta a bere un caffè al bar, ho appreso da un giornale ravennate a proposito di una bella iniziativa incentrata sull'educazione ambientale a scuola. Un progetto ambizioso che valorizza i concetti di ecologia e di sostenibilità sottolineando il legame fra cibo, energia e inquinamento.

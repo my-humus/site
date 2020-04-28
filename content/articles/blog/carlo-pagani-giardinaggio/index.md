@@ -6,9 +6,8 @@ featuredImage: ./carlo-pagani.jpg
 category:
     - Green Mix
 tags:
-    - Creatività
-    - Giardinaggio
-    - Natura
+    - Vivaismo ornamentale
+    - Conservazione della natura
 ---
 
 > Buttate pure via. Ogni opera in versi o in prosa. Nessuno è mai riuscito a dire cos'è, nella sua essenza, una rosa.

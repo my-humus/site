@@ -6,10 +6,7 @@ featuredImage: ./rowan-heuvel.jpg
 category:
   - Green Mix
 tags:
-  - Ecosistema urbano
-  - Salute
-  - Sostenibilità
-  - Vivibilità
+  - Educazione ambientale
 ---
 
 Poco tempo fa ho consultato [Ecosistema Urbano](http://www.legambiente.it/contenuti/comunicati/ecosistema-urbano-xxii-edizione), il rapporto annuale di Legambiente sulla vivibilità in Italia. Checché se ne dica, il Bel Paese fatica a migliorarsi sul fronte ambientale.

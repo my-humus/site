@@ -6,10 +6,9 @@ featuredImage: ./salvatori.jpg
 category:
   - Ecoprogetti
 tags:
-  - Ecologia
-  - Green innovation
-  - Innovazione
-  - Sostenibilità
+  - Innovazione ecosostenibile
+  - Educazione ambientale
+  - Green design
 ---
 
 La scorsa settimana io e mio fratello ci siamo svegliati prestissimo per visitare una struttura trentina dedicata all'innovazione ecosostenibile: [Progetto Manifattura](http://www.progettomanifattura.it/it).

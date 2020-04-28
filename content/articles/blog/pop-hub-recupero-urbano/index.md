@@ -6,11 +6,9 @@ featuredImage: ./davide-carluccio.jpg
 category:
     - Ecoprogetti
 tags:
-    - Città sostenibile
-    - Innovazione
-    - Recupero urbano
+    - Riqualificazione urbana
+    - Green design
     - Riutilizzo
-    - Sostenibilità
 ---
 
 Il riutilizzo di determinati prodotti, la differenziazione dei rifiuti, la riqualificazione degli spazi abbandonati: tutto trova ragion d'essere, oggi come oggi.

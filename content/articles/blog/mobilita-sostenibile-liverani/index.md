@@ -7,8 +7,8 @@ category:
     - Mobilità sostenibile
 tags:
     - Mobilità sostenibile
-    - Sostenibilità
-    - Viabilità
+    - Riqualificazione urbana
+    - Educazione ambientale
 ---
 
 La mobilità sostenibile a Ravenna non è utopia. Spero solo che venga migliorata costantemente attraverso step concreti.

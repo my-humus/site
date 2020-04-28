@@ -6,10 +6,7 @@ featuredImage: ./turismo-sostenibile.jpg
 category:
   - Ecoprogetti
 tags:
-  - Sostenibilità
-  - Turismo responsabile
-  - Turismo sostenibile
-  - Viaggiare sostenibile
+  - Ecoturismo
 ---
 
 ![Silvia Ombellini](./silvia-ombellini.jpg)

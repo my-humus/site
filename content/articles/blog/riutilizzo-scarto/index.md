@@ -6,10 +6,10 @@ featuredImage: ./riup-come-riutilizzo-lo-scarto.jpg
 category:
     - Ecoprogetti
 tags:
-    - Design
-    - Riciclo
+    - Green design
     - Riutilizzo
-    - Sostenibilità
+    - No spreco
+    - Ecoartigianato
 ---
 
 ![Silvia Dal Prato](./silvia-dal-prato.jpg)

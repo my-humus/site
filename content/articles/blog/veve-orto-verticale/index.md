@@ -6,11 +6,11 @@ featuredImage: ./veve.jpg
 category:
     - Ecoprogetti
 tags:
-    - Green
-    - Home gardening
-    - Orto verticale
-    - Sostenibilità
-    - Vertical veggies
+    - Coltivare in casa
+    - Autoproduzione
+    - Salute e cibo
+    - Innovazione ecosostenibile
+    - Agricoltura urbana
 ---
 
 Orto verticale aeroponico: cioé? Cosa significa?

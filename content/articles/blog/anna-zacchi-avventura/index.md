@@ -6,10 +6,7 @@ featuredImage: ./anna.jpg
 category:
     - Green Mix
 tags:
-    - Avventura
-    - Emancipazione femminile
-    - Sostenibilità
-    - Sport
+    - Ecocoraggiosi
 ---
 
 Quando dico che nel nostro territorio ci sono persone incredibili, lo penso veramente.

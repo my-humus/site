@@ -6,10 +6,8 @@ featuredImage: ./dynamo-bologna.jpg
 category:
     - Mobilità sostenibile
 tags:
-    - Bike friendly
     - Mobilità sostenibile
-    - Sostenibilità
-    - Velostazione
+    - Riqualificazione urbana
 ---
 
 Un servizio di parcheggio e noleggio di bici a Bologna: in quanti lo stanno cercando?

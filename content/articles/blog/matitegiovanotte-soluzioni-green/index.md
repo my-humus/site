@@ -6,9 +6,9 @@ featuredImage: ./anto.jpg
 category:
     - Green Mix
 tags:
-    - Ecologia
-    - Green solutions
-    - Sostenibilità
+    - Green design
+    - No spreco
+    - Riutilizzo
 ---
 
 [Matitegiovanotte](http://www.matitegiovanotte.biz) è un'agenzia di comunicazione a Ravenna che si occupa di advertising, retail design e viral, consulenza marketing, grafica e molto altro. Le persone che ci lavorano sono principalmente designer, art director e copywriter.

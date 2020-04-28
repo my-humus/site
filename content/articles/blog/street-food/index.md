@@ -6,10 +6,8 @@ featuredImage: ./street-food.jpg
 category:
   - Cucina
 tags:
-  - Food truck
-  - Made in Italy
-  - Mangiar sano
-  - Street food
+  - Cucina
+  - Consumo responsabile
 ---
 
 Sembra a me o il cibo di strada in Italia sta prendendo sempre più piede?

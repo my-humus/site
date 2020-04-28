@@ -6,10 +6,10 @@ featuredImage: ./vallescuria-brianza.jpg
 category:
   - Ecoprogetti
 tags:
-  - Agricoltura
-  - Agricoltura solidale
-  - Km zero
-  - Sociale
+  - Educazione ambientale
+  - Ecocoraggiosi
+  - Filiera corta
+  - Educazione ambientale
 ---
 
 Quando sono venuta a conoscenza di [Vallescuria](http://www.zafferanovallescuria.it), progetto dedicato allo zafferano della Brianza, mi si è scaldato il cuore. Dico sul serio.

@@ -6,10 +6,13 @@ featuredImage: ./uno-cookbook-cucina-vegana.jpg
 category:
   - Cucina
 tags:
-  - Alimentazione
   - Cucina
-  - Cucina vegana
-  - Mangiare consapevole
+  - Vegan
+  - No spreco
+  - Riutilizzo
+  - Consumo responsabile
+  - Salute e cibo
+  - Innovazione in cucina
 ---
 
 Qualche tempo fa, in occasione del mio compleanno, mi è stato regalato il libro di cucina vegana di Manuel Marcuccio, in arte UNO Cookbook.

@@ -6,9 +6,8 @@ featuredImage: ./25-verde.jpg
 category:
   - Ecoprogetti
 tags:
-  - Architettura sostenibile
+  - Architettura ecosostenibile
   - Riqualificazione urbana
-  - Sostenibilità
 ---
 
 [25 verde](http://www.25verde.it) è il palazzo foresta di Torino concepito dall'architetto [Luciano Pia](http://www.lucianopia.it).

@@ -6,9 +6,9 @@ featuredImage: ./nicoletta-mongardi.jpg
 category:
   - Mobilità sostenibile
 tags:
-  - Bicicletta
-  - Green lifestyle
-  - Sport
+  - Ecoturismo
+  - Educazione ambientale
+  - Mobilità sostenibile
 ---
 
 La mia passione per la bici mi ha permesso di promuovere il turismo in Italia. Non lo avrei mai detto!

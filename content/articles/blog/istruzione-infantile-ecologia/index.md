@@ -7,9 +7,7 @@ category:
     - Ecoprogetti
 tags:
     - Agricoltura urbana
-    - Ecologia
-    - Educazione
-    - Istruzione infantile
+    - Educazione ambientale
 ---
 
 Coltivare all'asilo può accompagnare i bambini nel processo di conoscenza dell'ecosistema?

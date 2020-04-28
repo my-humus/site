@@ -6,9 +6,9 @@ featuredImage: ./luigi-barilari.jpg
 category:
   - Mobilità sostenibile
 tags:
-  - Avventura
-  - Ciclismo
-  - RAAM
+  - Ecocoraggiosi
+  - Mobilità sostenibile
+  - Bici scatto fisso
 ---
 
 Ci sono tantissime storie di ciclismo appassionanti, in giro, e questa settimana voglio raccontarvene una io.

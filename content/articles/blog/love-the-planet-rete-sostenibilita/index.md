@@ -6,9 +6,7 @@ featuredImage: ./love-the-planet-rete.jpg
 category:
   - Ecoprogetti
 tags:
-  - Green marketing
-  - Project management
-  - Sostenibilità
+  - Innovazione ecosostenibile
 ---
 
 Una rete di imprese sostenibili capace di avviare e di promuovere una moltitudine virtuosismi. Implementare e sviluppare nuovi modelli decisionali a sostegno dell'ambiente. Contribuire ogni giorno al lento (ma necessario) cambiamento del nostro Paese, sia sul piano culturale, sia su quelli sociale ed economico.

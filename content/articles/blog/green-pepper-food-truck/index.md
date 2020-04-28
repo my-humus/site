@@ -6,11 +6,14 @@ featuredImage: ./green-pepper.jpg
 category:
   - Cucina
 tags:
-  - Finger food
-  - Food truck
-  - Street food
-  - Vegetariano
----Un foodtruck fichissimo (questo è il termine giusto, credetemi) che porta il cibo di strada bio in Romagna: sogno o son desta?
+  - Cucina
+  - Vegan
+  - Consumo responsabile
+  - No spreco
+  - Salute e cibo
+
+---
+Un foodtruck fichissimo (questo è il termine giusto, credetemi) che porta il cibo di strada bio in Romagna: sogno o son desta?
 Non sogno affatto! Esiste, ed è il favoloso Citroen del 1977 di Federica Zammarchi!
 Attenzione: non sto parlando di un furgoncino qualunque. Mi riferisco a **un food truck dalla bellezza incredibile**, poche volte ho visto tanta cura nei dettagli e nell'allestimento.
 

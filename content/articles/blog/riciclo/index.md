@@ -6,10 +6,11 @@ featuredImage: ./riciclo-moda.jpg
 category:
   - Ecoprogetti
 tags:
-  - Design
-  - Riciclo
+  - Moda ecosostenibile
+  - Ecoartigianato
+  - No spreco
   - Riutilizzo
-  - Sostenibilità sociale
+  - Green design
 ---
 
 C'è poco da fare: il fashion sostenibile è una necessità.

@@ -6,11 +6,9 @@ featuredImage: ./essere-animali.jpg
 category:
   - Ecoprogetti
 tags:
-  - Animal rights
-  - Animali
-  - Animalismo
-  - Attivismo
-  - Diritti animali
+  - Vegan
+  - Ecocoraggiosi
+  - Consumo responsabile
 ---
 
 L'intervistato di questa settimana si chiama Eugenio Monti e _milita_ all'interno di [Essere Animali](http://www.essereanimali.org), Onlus per i diritti animali.

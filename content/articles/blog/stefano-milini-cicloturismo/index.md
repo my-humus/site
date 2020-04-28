@@ -6,11 +6,9 @@ featuredImage: ./stefano-milini.jpg
 category:
     - Mobilità sostenibile
 tags:
-    - Avventura
-    - Cicloturismo
-    - Mountain bike
-    - Sostenibilità
-    - Viaggi green
+    - Ecoturismo
+    - Mobilità sostenibile
+    - Ecocoraggiosi
 ---
 
 Quattro ragazzi di Cesena, appassionati di cicloturismo nel mondo, si sono cimentati in un'avventura stupenda: percorrere tutta l'Islanda in sella alle loro bici.

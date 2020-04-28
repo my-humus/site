@@ -6,10 +6,8 @@ featuredImage: ./serge-esteve-restaurant.jpg
 category:
   - Ecoprogetti
 tags:
-  - Cultura alimentare
-  - Ecologia
-  - Rivoluzione alimentare
-  - Sostenibilità
+  - Salute e cibo
+  - Consumo responsabile
 ---
 
 Amici, sono super felice di aver conosciuto [Thomas Torelli](http://www.thomastorelli.com), il regista italiano che sta ultimando un documentario sulla cultura della carne: [Food ReLOVution](http://www.foodrelovution.com/#!home/c1ite).

@@ -6,12 +6,11 @@ featuredImage: ./flavio-barefoot.jpg
 category:
   - Ecoprogetti
 tags:
-  - Conservazione
-  - Eco hotel
   - Educazione ambientale
-  - Natura
-  - Ricerca scientifica
-  - Sostenibilità
+  - Conservazione della natura
+  - Innovazione ecosostenibile
+  - Cambiamenti climatici
+  - Ecoturismo
 ---
 
 Sono sicura che un giorno mi sveglierò e griderò al mondo: _"Basta! Mollo tutto e scappo in un centro di educazione ambientale alle Maldive!"_. Mica male, come piano.

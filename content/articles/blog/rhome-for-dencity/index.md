@@ -6,10 +6,10 @@ featuredImage: ./casa-rhome-12.jpg
 category:
   - Ecoprogetti
 tags:
-  - Città sostenibile
-  - Innovazione
-  - Sostenibilità
-  - Tecnologia green
+  - Architettura ecosostenibile
+  - Innovazione ecosostenibile
+  - Riqualificazione urbana
+  - Green design
 ---
 
 In questi giorni sono venuta a conoscienza di un progetto molto ambizioso nell'ambito dell'architettura sostenibile. Si chiama [RhOME for denCity](http://www.rhomefordencity.it) ed è stato condotto dal Dipartimento di Architettura dell'[Università Roma Tre](http://www.uniroma3.it), (con a capo gli architetti Chiara Tonelli, Gabriele Bellingeri e Stefano Converso.

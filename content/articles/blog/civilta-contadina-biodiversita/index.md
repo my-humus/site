@@ -6,10 +6,9 @@ featuredImage: ./seed-savers.jpg
 category:
     - Green Mix
 tags:
-    - Biodiversità
-    - Civiltà contadina
-    - Conservazione
-    - Tradizione
+    - Conservazione della natura
+    - Educazione ambientale
+    - Autoproduzione
 ---
 
 L'infanzia contadina di mia madre mi ha sempre affascinata.

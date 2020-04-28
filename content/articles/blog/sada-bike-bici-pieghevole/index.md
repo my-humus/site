@@ -6,10 +6,10 @@ featuredImage: ./la-bici-che-si-piega-sadabike.jpg
 category:
   - Mobilità sostenibile
 tags:
-  - Bicicletta
-  - Green innovation
-  - Innovazione
-  - Sostenibilità
+  - Bici artigianali
+  - Mobilità sostenibile
+  - Innovazione ecosostenibile
+  - Green design
 ---
 
 In tutti i viaggi che ho fatto, in Italia e all'estero, avrei tanto voluto avere con me una bici pieghevole leggera. Qualcosa di comodo, di estremamente pratico e di qualità.

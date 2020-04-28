@@ -6,10 +6,10 @@ featuredImage: ./grande-banner.jpg
 category:
   - Green Mix
 tags:
-  - Giocattoli
-  - Gioco
-  - Hand made
-  - Sostenibilità
+  - Autoproduzione
+  - Ecocoraggiosi
+  - No spreco
+  - Educazione ambientale
 ---
 
 ![Renzo Laporta](./renzo-laporta.jpg)

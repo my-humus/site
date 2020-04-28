@@ -6,9 +6,10 @@ featuredImage: ./treedom.jpg
 category:
     - Ecoprogetti
 tags:
-    - Green project
-    - Riforestazione
-    - Sostenibilità
+    - Educazione ambientale
+    - Cambiamenti climatici
+    - Ecoturismo
+    - Conservazione della natura
 ---
 
 Regalare un albero: ci avete mai pensato?

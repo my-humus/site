@@ -6,10 +6,10 @@ featuredImage: ./our-design-concept.jpg
 category:
   - Ecoprogetti
 tags:
-  - Design
-  - Restauro
-  - Riciclo
-  - Riciclo creativo
+  - Green design
+  - Riutilizzo
+  - Innovazione ecosostenibile
+  - Ecoartigianato
 ---
 
 **Francesca Andreone** e **Angelo Perna** hanno un chiodo fisso: il restauro e riciclo creativo.

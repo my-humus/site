@@ -6,11 +6,8 @@ featuredImage: ./alan-zanardi.jpg
 category:
     - Mobilità sostenibile
 tags:
-    - Bicicletta
-    - Scattofisso
-    - Sostenibilità
-    - Sport
-    - Trasporti
+    - Mobilità sostenibile
+    - Bici scatto fisso
 ---
 
 Credo che la prima lezione di spinning, su quella sorta di bici a scatto fisso statica, sia un po' un trauma per tutti: si prega il Signore di arrivare vivi a fine lezione.

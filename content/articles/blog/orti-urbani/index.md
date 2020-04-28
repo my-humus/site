@@ -7,11 +7,11 @@ category:
   - Ecoprogetti
 tags:
   - Agricoltura urbana
-  - Città sostenibile
-  - Mobilità sostenibile
-  - Orti urbani
-  - Orto in città
-  - Orto sociale
+  - Autoproduzione
+  - Educazione ambientale
+  - Riqualificazione urbana
+  - Filiera corta
+  - Consumo responsabile
 ---
 
 Gli orti urbani a Ravenna per realizzare aree coltivabili, per trasformare la coltivazione in un momento di condivisione sociale e per recuperare quartieri cittadini in cerca di riscatto.

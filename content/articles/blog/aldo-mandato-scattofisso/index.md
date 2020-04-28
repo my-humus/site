@@ -6,11 +6,9 @@ featuredImage: ./aldo-mandato-scattofisso.jpg
 category:
   - Mobilità sostenibile
 tags:
-  - Bicicletta
-  - Bike
-  - Green lifestyle
-  - Sostenibilità
-  - Trasporti
+  - Bici artigianali
+  - Bici scatto fisso
+  - Mobilità sostenibile
 ---
 
 ![Aldo Mandato](./aldo-mandato.jpg)

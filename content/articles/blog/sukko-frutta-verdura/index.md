@@ -6,14 +6,16 @@ featuredImage: ./sukko.jpg
 category:
   - Cucina
 tags:
-  - Alimentazione
-  - Green
-  - Green food
+  - Cucina
+  - Vegan
+  - Filiera corta
+  - Consumo responsabile
+  - Salute e cibo
 ---
 
 Qualche settimana fa gironzolavo per le vie del centro di Ravenna con i nipotini di Giorgia, una mia cara amica. Quand'ecco sopraggiungere, all'improvviso, l'ora della merenda.
 
-Dopo una serie di _dove si va, dove non si va_, ho portato i bambini in un nuovo locale del centro, [Sukko](https://www.facebook.com/pages/Sukko/847827491948339?ref=ts&fref=ts), un piccolo locale di nuova generazione in via Corrado Ricci.
+Dopo una serie di _dove si va, dove non si va_, ho portato i bambini in un nuovo locale del centro, Sukko, un piccolo locale di nuova generazione in via Corrado Ricci.
 Ad accoglierci abbiamo trovato **Manuele Cricca**, ex pallavolista di serie A nonché titolare del locale.
 
 ![Manuele Cricca](./manuele-cricca.jpg)

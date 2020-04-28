@@ -6,9 +6,9 @@ featuredImage: ./abici.jpg
 category:
   - Mobilità sostenibile
 tags:
-  - Bicicletta
-  - Sostenibilità
-  - Trasporti
+  - Bici artigianali
+  - Mobilità sostenibile
+  - Bici scatto fisso
 ---
 
 Cibo e **mobilità sostenibile**: che legame esiste fra queste parole?

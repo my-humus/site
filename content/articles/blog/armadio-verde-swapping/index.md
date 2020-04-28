@@ -6,10 +6,9 @@ featuredImage: ./armadio-verde.jpg
 category:
     - Ecoprogetti
 tags:
-    - Etica
-    - Riciclo
+    - No spreco
+    - Consumo responsabile
     - Riutilizzo
-    - Swapping
 ---
 
 La vendita di abbigliamento usato online è un'attività sempre più in voga, in Italia e all'estero.

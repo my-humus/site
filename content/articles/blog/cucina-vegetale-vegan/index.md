@@ -6,10 +6,12 @@ featuredImage: ./cucina-vegetale-vegan.jpg
 category:
   - Cucina
 tags:
-  - Cucina
-  - Cucina vegana
-  - Cucina vegetale
   - Vegan
+  - Cucina
+  - Salute e cibo
+  - Autoproduzione
+  - No spreco
+  - Consumo responsabile
 ---
 
 Qualche tempo fa, al telefono con l'esperto di cucina vegetale [Manuel Marcuccio](http://www.unocookbook.com), parlavo del più e del meno: dove andare in vacanza, che caldo abominevole, le cose in programma per il mese successivo.

@@ -6,10 +6,11 @@ featuredImage: ./bulbo-lampade-ecologiche-home-gardening.jpg
 category:
     - Ecoprogetti
 tags:
-    - Green
-    - Green solutions
-    - Home gardening
-    - Sostenibilità
+    - Autoproduzione
+    - Coltivare in casa
+    - Consumo responsabile
+    - Innovazione ecosostenibile
+    - Agricoltura urbana
 ---
 
 ![Il team di Bulbo. Da sinistra: Zeno A.I Pasquini Jossen, Lorenzo Antonioni, Sara Pellegrini e Tommaso Marzioni (courtesy Bulbo)](./bulbo-iniziale.jpg)

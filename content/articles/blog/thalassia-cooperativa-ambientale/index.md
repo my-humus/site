@@ -6,9 +6,9 @@ featuredImage: ./mano.jpg
 category:
     - Ecoprogetti
 tags:
-    - Ambiente
+    - Conservazione della natura
     - Educazione ambientale
-    - Sostenibilità
+    - Ecoturismo
 ---
 
 Qualche tempo fa, _googlando_ in cerca di nuove mete da visitare, sono venuta a conoscenza di un centro di educazione ambientale a Brindisi: [Thalassia](http://www.cooperativa-thalassia.it).

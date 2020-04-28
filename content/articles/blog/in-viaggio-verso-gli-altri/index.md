@@ -6,10 +6,7 @@ featuredImage: ./in-viaggio-verso-gli-altri.jpg
 category:
   - Ecoprogetti
 tags:
-  - Avventura
-  - Sostenibilità
-  - Vacanze sostenibili
-  - Viaggi
+  - Ecoturismo
 ---
 
 ![Silvia Salmeri](./silvia-salmeri.jpg)

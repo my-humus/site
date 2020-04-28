@@ -6,10 +6,9 @@ featuredImage: ./laura-e-marco.jpg
 category:
     - Green Mix
 tags:
-    - Agricoltura biologica
-    - Bio
-    - Biologico
-    - Sostenibilità
+    - Filiera corta
+    - Autoproduzione
+    - Ecocoraggiosi
 ---
 
 C'è qualcuno che abbia mai pensato di avviare un'azienda agricola biologica?

@@ -6,10 +6,9 @@ featuredImage: ./paolo-azzolini.jpg
 category:
   - Mobilità sostenibile
 tags:
-  - Artigianato
-  - Bicicletta
-  - Hand made
-  - Made in Italy
+  - Bici artigianali
+  - Mobilità sostenibile
+  - Bici scatto fisso
 ---
 
 > Anna, ho conosciuto un artigiano di biciclette Made in Italy che ti devo assolutamente presentare!

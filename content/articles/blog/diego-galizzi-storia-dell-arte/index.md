@@ -6,9 +6,7 @@ featuredImage: ./diego-galizzi.jpg
 category:
     - Green Mix
 tags:
-    - Arte
-    - Natura
-    - Storia dell'arte
+    - Arte e natura
 ---
 
 Quale legame esiste fra arte e natura? Non so voi, ma io me lo chiedo spesso.

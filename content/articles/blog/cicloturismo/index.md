@@ -6,10 +6,8 @@ featuredImage: ./chiara-e-alfonso.jpg
 category:
     - Mobilità sostenibile
 tags:
-    - Bicicletta
-    - Bike friendly
-    - Cicloturismo
-    - Sostenibilità
+    - Ecoturismo
+    - Mobilità sostenibile
 ---
 
 Non aver mai visitato il Sud Italia credo sia una mancanza gravissima, e darsi al cicloturismo in Sicilia potrebbe essere un ottimo modo per conoscere a fondo questa terra incredibile.

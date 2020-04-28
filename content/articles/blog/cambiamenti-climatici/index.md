@@ -7,9 +7,8 @@ category:
     - Green Mix
 tags:
     - Cambiamenti climatici
-    - COP21
-    - Global warming
-    - Sostenibilità
+    - Conservazione della natura
+    - Educazione ambientale
 ---
 
 Il mondo in cui viviamo sta cambiando molto rapidamente e si avverte sempre più l'urgenza di un movimento italiano per il clima.

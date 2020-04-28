@@ -6,10 +6,9 @@ featuredImage: ./pierpaolo-sartori.jpg
 category:
     - Mobilità sostenibile
 tags:
-    - Green solutions
-    - scattofisso
-    - Sostenibilità
-    - Tutela ambientale
+    - Mobilità sostenibile
+    - Bici scatto fisso
+    - Innovazione ecosostenibile
 ---
 
 [UBM Bologna](http://www.ubmbologna.it) è la prima compagnia italiana di corrieri in bici a Bologna. UBM, nello specifico, sta per _urban bike messenger_.

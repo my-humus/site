@@ -6,11 +6,10 @@ featuredImage: ./ecowedding.jpg
 category:
     - Green Mix
 tags:
-    - Eco wedding
-    - Ecologia
-    - Matrimonio
-    - Riciclo
-    - Sostenibilità
+    - No spreco
+    - Autoproduzione
+    - Consumo responsabile
+    - Riutilizzo
 ---
 
 Questa settimana voglio parlarvi dei vantaggi di un matrimonio sostenibile. Sì, avete letto bene: sostenibile!

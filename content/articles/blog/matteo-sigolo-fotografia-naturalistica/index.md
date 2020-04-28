@@ -6,9 +6,9 @@ featuredImage: ./matteo-sigolo.jpg
 category:
     - Green Mix
 tags:
-    - Fotografia naturalistica
-    - Natura
-    - Shooting
+    - Arte e natura
+    - Ecocoraggiosi
+    - Ecoturismo
 ---
 
 Lo scorso anno, in occasione della festa del primo maggio, ho conosciuto Matteo Sigolo, appassionato di fotografia paesaggistica naturale.

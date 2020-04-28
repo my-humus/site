@@ -6,10 +6,10 @@ featuredImage: ./andrea-sansavini.jpg
 category:
     - Ecoprogetti
 tags:
-    - brand
-    - creatività
-    - 'green style'
-    - Sostenibilità
+    - Moda ecosostenibile
+    - No spreco
+    - Green design
+    - Bici artigianali
 ---
 
 In Romagna vive l'ideatore di una linea di abbigliamento bicycle e skate che spacca. Il suo brand è nato così, durante una serata goliardica a base di nocino, in zona Monte Novo di Montiano.
@@ -77,7 +77,7 @@ Il marchio Missaid, in buona sostanza, racchiude in sé **spirito creativo ed et
 >
 > L'ho completamente smontata e lucidata in tutte le sue parti, ma non me la sono sentita di riverniciarla. Aveva adesivi bellissimi e fregi fatti a mano su tutto il telaio. Il risultato è, a mio parere, un bel restauro conservativo in cui ho messo del mio
 >
-> E poi è arrivata la Rivola, su commissione. Rivola era un rinomato telaista della zona. Era, ed è ancora oggi, una bicicletta meravigliosa, con una componentistica di tutto rispetto.
+> E poi è arrivata la Rivola, su commissione. Rivola era un rinomato telaista della zona. Era, ed è ancora oggi, una bicicletta meravigliosa con una componentistica di tutto rispetto.
 >
 > ![La mitica rivola restaurata su commissione](./la-mitica-rivola-restaurata-su-commissione.jpg)
 >

@@ -6,10 +6,10 @@ featuredImage: ./christian-grassi.jpg
 category:
     - Green Mix
 tags:
-    - Agricoltura biologica
-    - Decrescita felice
-    - Ecologia
-    - Sostenibilità
+    - Filiera corta
+    - Autoproduzione
+    - Consumo responsabile
+    - Salute e cibo
 ---
 
 C'è una realtà che coltiva e vende verdure biologiche a Ravenna, e che s'ispira ai principi di decrescita felice.

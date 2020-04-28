@@ -6,9 +6,10 @@ featuredImage: ./bio-gourmet.jpg
 category:
   - Cucina
 tags:
-  - Agricoltura biologica
-  - Bio
-  - Ristorazione
+  - Cucina
+  - Consumo responsabile
+  - Filiera corta
+  - No spreco
 ---
 
 Promuovere il biologico in Emilia-Romagna attraverso una proposta basata su ingredienti certificati: non male, come idea!

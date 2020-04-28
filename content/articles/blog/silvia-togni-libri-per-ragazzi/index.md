@@ -6,9 +6,8 @@ featuredImage: ./silvia.jpg
 category:
     - Green Mix
 tags:
-    - Libri per ragazzi
-    - Natura
-    - Storia
+    - Arte e natura
+    - Educazione ambientale
 ---
 
 Ci sono due guide illustrate di Ravenna che raccontano a bambini e ragazzi la storia della città col linguaggio delle parole e delle illustrazioni. Protagonista dei due libricino è... una pigna!

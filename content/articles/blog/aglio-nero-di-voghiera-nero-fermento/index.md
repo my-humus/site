@@ -6,11 +6,8 @@ featuredImage: ./nero-fermento-aglio-nero-dop.jpg
 category:
     - Cucina
 tags:
-    - Aglio nero
-    - Aglio nero fermentato
-    - Aglio nero ricette
-    - Cucina italiana
-    - Nero di Voghiera
+    - Cucina
+    - Innovazione in cucina
 ---
 
 Chi ha mai sentito parlare dell'**aglio nero di Voghiera**?

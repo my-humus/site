@@ -6,9 +6,7 @@ featuredImage: ./simplycris.jpg
 category:
     - Green Mix
 tags:
-    - Abbigliamento intimo
-    - Intimo donna
-    - Intimo online
+    - Moda ecosostenibile
 ---
 
 Fino a qualche giorno fa non sapevo che a Granarolo Faentino si producesse intimo italiano donna, uomo e bambino di qualità.

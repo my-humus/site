@@ -6,10 +6,8 @@ featuredImage: ./noi.jpg
 category:
     - Green Mix
 tags:
-    - Avventura
-    - Escursionismo
-    - Natura
-    - Vacanze green
+    - Ecoturismo
+    - Ecocoraggiosi
 ---
 
 Se è vero che tutte le strade portano a Roma, io dico che quelle del Cammino d'Assisi, oltre a condurre ad Assisi, portano alla pace interiore. Sono sentieri segnalati dal CAI, i suoi, che ti portano altrove, insinduandosi nel cuore delle foreste casentinesi.

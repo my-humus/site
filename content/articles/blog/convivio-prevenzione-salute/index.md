@@ -6,10 +6,8 @@ featuredImage: ./toa-heftiba.jpg
 category:
     - Ecoprogetti
 tags:
-    - Prevenzione
-    - Ricerca
-    - Ricerca scientifica
-    - Salute
+    - Cucina
+    - Salute e cibo
 ---
 
 Qualche tempo fa ho avuto il piacere di conoscere [Convivio](https://www.facebook.com/pg/ProgettoConvivio/about/?ref=page_internal), un progetto che ha portato il tema dell'umanizzazione delle cure oncologiche e della prevenzione a tavola anche nel contesto ospedaliero.
