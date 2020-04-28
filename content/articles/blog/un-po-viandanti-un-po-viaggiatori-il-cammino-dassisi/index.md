@@ -1,7 +1,7 @@
 ---
 title: "Viandanti e viaggiatori: il Cammino d'Assisi"
 date: '2014-09-01T00:00:56+00:00'
-description: ''
+description: 'Ho percorso un tratto del Cammino d'Assisi. In sé è stato un viaggio introspettivo, e i sentieri hanno assunto i connotati simbolici della vita.'
 featuredImage: ./noi.jpg
 category:
     - Green Mix
