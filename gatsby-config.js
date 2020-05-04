@@ -236,6 +236,7 @@ module.exports = {
         templatePath: `${__dirname}/src/templates/tag.js`
       }
     },
-    `gatsby-plugin-offline`
+    `gatsby-plugin-offline`,
+    `gatsby-plugin-catch-links`
   ]
 }

@@ -30,6 +30,8 @@ Laura e Marco hanno deciso di mettersi in gioco senza temere di essere felici.
 >
 > Abbiamo sempre avuto voglia di contribuire a cambiare il mondo. Prima di iniziare questa avventura, eravamo due giovani laureati in Sociologia che si barcamenavano a Bologna in lavori precari.
 
+![Semine](./semine.jpg)
+
 ### Cosa vi è mancato fino a due anni fa?
 
 > **Vivevamo un profondo malessere personale legato alle condizioni lavorative e di vita**.
@@ -47,6 +49,8 @@ Laura e Marco hanno deciso di mettersi in gioco senza temere di essere felici.
 > Ci teniamo a sottolineare che la decisione di andarcene da Bologna nell'autunno del 2013, per tornare a Rimini, non è stata presa a cuor leggero. È stato un piccolo trauma, per noi e per le persone che ci circondavano. Abbiamo lasciato una città che amavamo e che iniziavamo a sentire nostra.
 >
 > In quel momento, però, ci è sembrata la cosa migliore da fare. A distanza di due anni restiamo di quell'idea.
+
+![Trapianto](./trapianto.jpg)
 
 ### Parlatemi della vostra politica agricola: quale agricoltura promuovete? C'è qualcuno a cui vi ispirate?
 
@@ -74,6 +78,8 @@ Laura e Marco hanno deciso di mettersi in gioco senza temere di essere felici.
 >
 > Tutte queste cose, fino ad alcuni anni fa, erano banali e scontate, ma oggi è necessario riscoprirle e diffonderle.
 
+![Aratura](./aratura-del-terreno-affittato-un-anno-fa.jpg)
+
 ### Mi piacerebbe conoscere la vostra giornata-tipo: a che ora suona la sveglia? E come si sviluppa la giornata?
 
 > È il clima a decidere per noi. L'estate appena trascorsa, ad esempio, è stata caldissima e si poteva lavorare solo per poche ore al giorno, la mattina presto e la sera. Una volta sfamate le galline, quando il sole diventava troppo rovente, ci si riposava un po', oppure si sbrigavano i lavoretti in casa. Dopodiché si tornava in campo nel tardo pomeriggio.
@@ -82,10 +88,7 @@ Laura e Marco hanno deciso di mettersi in gioco senza temere di essere felici.
 >
 > In autunno e in inverno i tempi sono più rilassati e le giornate più brevi, si può riposare, leggere e coltivare altri interessi.
 
-(https://myhumus.com/wp-content/uploads/2015/10/aratura-del-terreno-affittato-un-anno-fa.jpg);">
-
-<div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2015/10/semine.jpg);">
-<div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2015/10/trapianto.jpg);">
+![Aratura terreno](./aratura-terreno.jpg)
 
 ### Cosa e come producete? Dove possiamo acquistare i vostri prodotti?
 
@@ -94,16 +97,20 @@ Laura e Marco hanno deciso di mettersi in gioco senza temere di essere felici.
 > Eventuali rimanenze di frutta e ortaggi le trasformiamo in marmellate e in conserve per evitare lo spreco.
 >
 > Abbiamo alcuni animali: galline, polli, anatre e oche che ci danno uova e carne.
-
-<div class="et_pb_slider et_pb_slider_fullwidth_off et_pb_gallery_post_type"><div class="et_pb_slides"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2015/10/anatre-e-oche1.jpg);">
-<div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2015/10/anatre-e-oche.jpg);">
-<div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2015/10/pulcini.jpg);">
-
+> 
+> ![Anatre e Oche](./anatre-e-oche-1.jpg)
+> 
+> ![Anatre e Oche](./anatre-e-oche-2.jpg)
+> 
+> ![Pulcini](./pulcini.jpg)
+> 
 > In queste settimane abbiamo affittato ulteriore terra su cui ci sono altrae vigne, alberi da frutto e ulivi, per cui estenderemo la produzione di queste cose.
 >
 > **I nostri prodotti possono essere acquistati direttamente in azienda** oppure al mercato settimanale di produttori a cui partecipiamo a Cattolica.
 
-<div class="et_pb_slider et_pb_slider_fullwidth_off et_pb_gallery_post_type"><div class="et_pb_slides"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2015/10/verdura.jpg);"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2015/10/piantine-di-cavoli1.jpg);"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2015/10/raccolta-piselli.jpg);"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2015/10/aratura-terreno.jpg);"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2015/10/raccolta-scarti-di-potatura.jpg);"><div class="et_pb_slide" style="background: url(https://myhumus.com/wp-content/uploads/2015/10/cavoli-e-radicchi.jpg);">
+![Verdura](./verdura.jpg)
+
+![Raccolta piselli](./raccolta-piselli.jpg)
 
 ### Una curiosità personale: avete ricevuto qualche contributo dall'Unione Europea?
 
@@ -117,6 +124,10 @@ Laura e Marco hanno deciso di mettersi in gioco senza temere di essere felici.
 >
 > **La nostra vera risorsa sono le persone che ci circondano e che credono in noi**. Acquistano i nostri prodotti e partecipano alle cene che organizziamo per autofinanziarci, oppure ci aiutano in alcuni lavori e a far funzionare le cose.
 
+![Raccolta scarti di potatura](./raccolta-scarti-di-potatura.jpg)
+
+![Piantine di Cavoli](./piantine-di-cavoli.jpg)
+
 ### Cosa riserva il futuro?
 
 > Vorremmo condividere la nostra esperienza insieme ad altri, la terra che abbiamo a disposizione ci consente di coinvolgere altre persone.
@@ -126,3 +137,5 @@ Laura e Marco hanno deciso di mettersi in gioco senza temere di essere felici.
 > In questi giorni, il nostro blog [Dalla Parte del Cavolo](https://dallapartedelcavolo.wordpress.com) è divenuta un'associazione.
 >
 > Vorremmo che diventasse un punto di riferimento per chi sta cercando di avviare un'azienda agricola biologica facendo. E un modo per dar vita a iniziative sociali e culturali capaci di rafforzare il senso di questo lavoro.
+
+![Cavoli e radicchi](./cavoli-e-radicchi.jpg)

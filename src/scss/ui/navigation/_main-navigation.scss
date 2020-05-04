@@ -1,8 +1,11 @@
 @import "../../variables";
 
+@import "~bulma/sass/utilities/mixins";
+
 .navbar {
     .navbar-logo {
         text-align: center;
+        margin-right: $size-2;
         i {
             font-size: $size-1;
             color: $grey-darker;
@@ -11,5 +14,24 @@
     }
     .navbar-item {
         text-transform: uppercase;
+    }
+    a {
+        &.main-navigation-link, &.category-link {
+            color: $grey-darker;
+            padding: $size-7 $size-7;
+            &:hover {
+                color: $primary;
+            }
+            @include touch {
+                padding-left: $size-7;
+                display: block;
+            }
+        }
+    }
+    .divider {
+        padding: $size-7 $size-7;
+        @include touch {
+            display: none;
+        }
     }
 }

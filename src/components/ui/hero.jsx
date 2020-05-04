@@ -1,7 +1,7 @@
 import React, { Component } from "react"
 import classNames from "classnames"
 
-class Hero extends Component {
+export default class Hero extends Component {
   render() {
     return (
       <section className="hero">
@@ -35,5 +35,3 @@ class Hero extends Component {
     )
   }
 }
-
-export default Hero

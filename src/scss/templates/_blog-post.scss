@@ -1,65 +1,70 @@
 @import "../variables";
 
-.blog-post {
-    .post-content {
-        margin: $size-7;
-        h1 {
-            font-size: $size-2;
-        }
-        h2 {
-            font-size: $size-3;
-        }
-        h3 {
-            font-size: $size-4;
-        }
-        h4 {
-            font-size: $size-5;
-        }
-        h5 {
-            font-size: $size-6;
-        }
-        h6 {
-            font-size: $size-7;
-        }
-        p {
-            margin: ($size-2 / 2) 0;
-        }
-        blockquote {
-            margin: 0 0 1.25rem ($size-3 + $size-4);
-            position: relative;
-            top: -$size-6;
-            &:before {
-                content: "\e977";
+.blog-post-container {
+    .blog-post {
+        .post-content {
+            margin: $size-7;
+            h1 {
+                font-size: $size-2;
+            }
+            h2 {
                 font-size: $size-3;
-                font-family: "myhumus";
-                position: relative;
-                top: $size-2;
-                left: -$size-2;
             }
-            &:after {
-                content: "\e978";
-                display: block;
+            h3 {
                 font-size: $size-4;
-                font-family: "myhumus";
-                padding-right: $size-6;
-                text-align: right;
-                width: 100%;
             }
-        }
-        ul {
-            li {
-                margin: $size-7 0 $size-7 $size-2;
-                &::before {
-                    content: "\e900";
+            h4 {
+                font-size: $size-5;
+            }
+            h5 {
+                font-size: $size-6;
+            }
+            h6 {
+                font-size: $size-7;
+            }
+            p {
+                margin: ($size-2 / 2) 0;
+            }
+            blockquote {
+                margin: 0 0 1.25rem ($size-3 + $size-4);
+                position: relative;
+                top: -$size-6;
+                &:before {
+                    content: "\e977";
+                    font-size: $size-3;
                     font-family: "myhumus";
                     position: relative;
-                    left: -$size-7;
-                    color: $primary;
+                    top: $size-2;
+                    left: -$size-2;
+                }
+                &:after {
+                    content: "\e978";
+                    display: block;
+                    font-size: $size-4;
+                    font-family: "myhumus";
+                    padding-right: $size-6;
+                    text-align: right;
+                    width: 100%;
                 }
             }
+            ul {
+                li {
+                    margin: $size-7 0 $size-7 $size-2;
+                    &::before {
+                        content: "\e900";
+                        font-family: "myhumus";
+                        position: relative;
+                        left: -$size-7;
+                        color: $primary;
+                    }
+                }
+            }
+            .gatsby-resp-image-wrapper {
+                margin: $size-1 0;
+            }
         }
-        .gatsby-resp-image-wrapper {
-            margin: $size-1 0;
-        }
+    }
+    .navbar {
+        background-color: rgba($white, 0.7);
     }
 }

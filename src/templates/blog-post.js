@@ -5,6 +5,7 @@ import Footer from "../components/ui/footer"
 import TagLink from "../components/ui/link/tag-link"
 import CategoryLink from "../components/ui/link/category-link"
 import SEO from "../components/seo/seo"
+import MainNavigation from "../components/ui/navigation/main-navigation"
 import PostNavigation from "../components/ui/navigation/post-navigation"
 import Img from "gatsby-image"
 
@@ -19,7 +20,7 @@ class BlogPostTemplate extends React.Component {
       : null
 
     return (
-      <>
+      <div className="blog-post-container">
         <SEO
           title={post.frontmatter.title}
           description={post.frontmatter.description || post.excerpt}
@@ -28,6 +29,10 @@ class BlogPostTemplate extends React.Component {
           image={image ? image.src : null}
           postData={post}
           path={this.props.location.pathname}
+        />
+        <MainNavigation
+          title={post.frontmatter.title}
+          root={this.props.location.pathname === `${__PATH_PREFIX__}/`}
         />
         <main>
           <article className="blog-post">
@@ -82,7 +87,7 @@ class BlogPostTemplate extends React.Component {
           <PostNavigation previous={previous} next={next} />
         </main>
         <Footer />
-      </>
+      </div>
     )
   }
 }

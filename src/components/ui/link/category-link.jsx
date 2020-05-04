@@ -1,23 +1,32 @@
 import React, { Component } from "react"
 import { Link } from "gatsby"
-import { pathify } from "gatsby-plugin-categories/internals"
-import slugify from "slug"
+import { linkify } from "../../../utils/linkify-category"
+import classNames from "classnames"
 
 import "../../../scss/ui/link/_category-link.scss"
 
 export default class CategoryLink extends Component {
   render() {
-    const path = pathify(
-      "category",
-      slugify(this.props.category, { lower: true })
-    )
+    const to = linkify(this.props.category)
 
-    return (
-      <Link to={path} className="category-link">
-        <span>
-          <i className="icon-myhumus-folder-open"></i> {this.props.category}
-        </span>
-      </Link>
-    )
+    const className = classNames({
+      "category-link": true
+    })
+
+    if (this.props.plain) {
+      return (
+        <Link to={to} className={className}>
+          {this.props.category}
+        </Link>
+      )
+    } else {
+      return (
+        <Link to={to} className={className}>
+          <span>
+            <i className="icon-myhumus-folder-open"></i> {this.props.category}
+          </span>
+        </Link>
+      )
+    }
   }
 }

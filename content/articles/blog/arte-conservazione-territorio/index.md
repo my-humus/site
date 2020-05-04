@@ -54,8 +54,8 @@ Vale davvero la pena conoscerla.
 >
 > A ciò si sono aggiunte 57 calcografie di piante arse che rappresentano il territorio antropico del deserto del Gipson Ngaanyatjarra. In quella zona, come in altre d'Australia, vengono ancora praticati gli incendi controllati per la rigenerazione del suolo. Quello è un paesaggio raro che va scomparendo, per questo ho voluto immortalarlo.
 
-https://myhumus.com/wp-content/uploads/2017/02/tjampi15.jpg
-https://myhumus.com/wp-content/uploads/2017/02/tjampi2.jpg
+![tjampi](./tjampi15.jpg)
+![tjampi](./tjampi2.jpg)
 
 ### Uomo e paesaggio: quanto ti piace coinvolgere lo spettatore?
 

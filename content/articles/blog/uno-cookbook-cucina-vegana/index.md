@@ -101,4 +101,3 @@ Le ricette di Manuel, tutto sommato, mi sembrano alla portata di tutti...
 ![Crackers al sesamo e pepe rosso.](./crackers-al-sesamo-e-pepe-rosso.jpg)
 
 Foto di copertina: [Brunifia](http://www.flickr.com/photos/23769126@N07/5860057607) via [Photopin](http://photopin.com).
-_Consulta gli altri [articoli di cucina](https://myhumus.com/category/cucina-2/ "MyHumus Cucina") di MyHumus!_

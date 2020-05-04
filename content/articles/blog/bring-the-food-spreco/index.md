@@ -54,7 +54,7 @@ Durante un incontro organizzato a [Progetto Manifattura](http://www.progettomani
 >
 > Vogliamo supportare e facilitare la creazione di reti locali di donazioni. Queste potrebbero usare BringTheFood come strumento per semplificare il processo e tenere traccia delle donazione fatte o ricevute.
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="281" src="https://player.vimeo.com/video/98641741" width="500"></iframe>
+`vimeo: 98641741`
 
 ### Ci sono controlli sulla qualità del cibo che viene donato?
 

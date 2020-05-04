@@ -1,26 +1,38 @@
 import React from "react"
 import { graphql } from "gatsby"
 import DefaultLayout from "../components/layouts/default-layout"
-import Section from "../components/ui/section"
+import Hero from "../components/ui/hero"
 import Article from "../components/ui/article/article-grid"
+import slugify from "slug"
 
 const TagTemplate = ({ location, pageContext, data }) => {
-  const { tag } = pageContext
-
   if (data.allMarkdownRemark.edges.length > 0) {
+    let tag = '';
+
+    data.allMarkdownRemark.edges[0].node.frontmatter.tags.map((value) => {
+      if (slugify(value, { lower: true }) === pageContext.tag) {
+        tag = value
+      }
+
+      return null
+    })
+
     return (
       <DefaultLayout location={location} title={`Tag "${tag}"`}>
-        <Section title="Tag" subtitle={tag}>
-          <div className="columns is-multiline">
-            {data.allMarkdownRemark.edges.map(({ node }) => {
-              return (
-                <div className="column is-one-third" key={node.fields.slug}>
-                  <Article node={node} />
-                </div>
-              )
-            })}
+        <Hero title="Tag" subtitle={tag} />
+        <section className="section">
+          <div className="container">
+            <div className="columns is-multiline">
+              {data.allMarkdownRemark.edges.map(({ node }) => {
+                return (
+                  <div className="column is-one-third" key={node.fields.slug}>
+                    <Article node={node} />
+                  </div>
+                )
+              })}
+            </div>
           </div>
-        </Section>
+        </section>
       </DefaultLayout>
     )
   } else {
@@ -43,6 +55,7 @@ export const pageQuery = graphql`
         node {
           fields {
             slug
+            category
             tags
           }
           excerpt
@@ -58,6 +71,8 @@ export const pageQuery = graphql`
                 }
               }
             }
+            category
+            tags
           }
         }
       }
