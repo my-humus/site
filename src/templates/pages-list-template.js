@@ -1,27 +1,19 @@
 import React from "react"
 import { graphql } from "gatsby"
 
-import Layout from "../components/layout"
-import Header from "../components/ui/header"
+import DefaultLayout from "../components/layouts/default-layout"
 import Section from "../components/ui/section"
 import PageGrid from "../components/ui/article/page-grid"
 import { navigator } from "../utils/paginator"
-
-import pages from "../data/pages.json"
 
 export default class PagesList extends React.Component {
   render() {
     const { data, pageContext } = this.props
 
     return (
-      <Layout
+      <DefaultLayout
         location={this.props.location}
-        title={pages[pageContext.slug].title}
       >
-        <Header
-          title={pages[pageContext.slug].title}
-          subtitle={pages[pageContext.slug].description}
-        />
         <Section>
           <div className="columns is-multiline">
             {data.allMarkdownRemark.edges.map(({ node }) => {
@@ -34,7 +26,7 @@ export default class PagesList extends React.Component {
           </div>
         </Section>
         {navigator(pageContext)}
-      </Layout>
+      </DefaultLayout>
     )
   }
 }

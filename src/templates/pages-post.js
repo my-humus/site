@@ -1,8 +1,7 @@
 import React from "react"
 import { graphql } from "gatsby"
 
-import PostLayout from "../components/post-layout"
-import ArticleHeader from "../components/ui/article/article-header"
+import PostLayout from "../components/layouts/post-layout"
 
 class DefaultPostTemplate extends React.Component {
   render() {
@@ -15,16 +14,14 @@ class DefaultPostTemplate extends React.Component {
         location={this.props.location}
       >
         <article className="blog-post">
-          <ArticleHeader>
-            <section className="hero">
-              <div className="hero-body">
-                <div className="container">
-                  <h1 className="title">{post.frontmatter.title}</h1>
-                  <h2 className="subtitle">{post.frontmatter.description}</h2>
-                </div>
+          <section className="hero">
+            <div className="hero-body">
+              <div className="container">
+                <h1 className="title">{post.frontmatter.title}</h1>
+                <h2 className="subtitle">{post.frontmatter.description}</h2>
               </div>
-            </section>
-          </ArticleHeader>
+            </div>
+          </section>
           <div className="container">
             <section
               className="post-content"

@@ -3,12 +3,56 @@ const { createFilePath } = require(`gatsby-source-filesystem`)
 
 exports.createPages = async ({ graphql, actions }) => {
   const { createPage } = actions
-  const result = await graphql(
+  const posts = await graphql(
     `
       {
         allMarkdownRemark(
           sort: { fields: [frontmatter___date], order: DESC }
           limit: 2000
+          filter: {
+            fields: {
+              slug: {
+                regex: "/^\/(blog)\//s"
+              }
+            }
+          }
+        ) {
+          edges {
+            node {
+              fields {
+                slug
+                tags
+                category
+              }
+              frontmatter {
+                title
+                tags
+                category
+              }
+            }
+          }
+        }
+      }
+    `
+  )
+
+  if (posts.errors) {
+    throw posts.errors
+  }
+
+  const remarks = await graphql(
+    `
+      {
+        allMarkdownRemark(
+          sort: { fields: [frontmatter___date], order: DESC }
+          limit: 2000
+          filter: {
+            fields: {
+              slug: {
+                regex: "/^\/(?!blog).+\//s"
+              }
+            }
+          }
         ) {
           edges {
             node {
@@ -25,30 +69,9 @@ exports.createPages = async ({ graphql, actions }) => {
     `
   )
 
-  if (result.errors) {
-    throw result.errors
+  if (remarks.errors) {
+    throw remarks.errors
   }
-
-  const posts = []
-  const pages = []
-
-  result.data.allMarkdownRemark.edges.forEach((edge, index) => {
-    let match = edge.node.fields.slug.match(/^\/([\w-]+)\/(?:)/i)
-
-    if (match !== null && match.length > 1) {
-      match = match[1]
-    }
-
-    if (match === "blog") {
-      posts.push(edge)
-    } else if (match !== null) {
-      if (!(match in pages)) {
-        pages[match] = []
-      }
-
-      pages[match].push(edge)
-    }
-  })
 
   const postsPerPage = 15
   const numPages = Math.ceil(posts.length / postsPerPage)
@@ -66,9 +89,22 @@ exports.createPages = async ({ graphql, actions }) => {
     })
   })
 
-  posts.forEach((post, index) => {
-    const previous = index === posts.length - 1 ? null : posts[index + 1].node
-    const next = index === 0 ? null : posts[index - 1].node
+  posts.data.allMarkdownRemark.edges.forEach((post, index) => {
+    const next = index === posts.data.allMarkdownRemark.edges.length - 1 ? null : posts.data.allMarkdownRemark.edges[index + 1].node
+    const previous = index === 0 ? null : posts.data.allMarkdownRemark.edges[index - 1].node
+    const related = []
+
+    posts.data.allMarkdownRemark.edges.forEach((elm) => {
+      if (related.length < 5) {
+        if (elm.node.fields.category === post.node.fields.category) {
+          related.push(elm.node)
+        }
+
+        return true
+      } else {
+        return false
+      }
+    })
 
     createPage({
       path: post.node.fields.slug,
@@ -76,9 +112,26 @@ exports.createPages = async ({ graphql, actions }) => {
       context: {
         slug: post.node.fields.slug,
         previous,
-        next
+        next,
+        related: related
       }
     })
+  })
+
+  const pages = []
+
+  remarks.data.allMarkdownRemark.edges.forEach((edge) => {
+    let match = edge.node.fields.slug.match(/^\/([\w-]+)\/(?:)/i)
+
+    if (match !== null && match.length > 1) {
+      match = match[1]
+
+      if (!(match in pages)) {
+        pages[match] = []
+      }
+
+      pages[match].push(edge)
+    }
   })
 
   Object.keys(pages).forEach(slug => {

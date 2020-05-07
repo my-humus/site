@@ -1,0 +1,22 @@
+@import "../variables";
+
+@import "~bulma/sass/utilities/mixins";
+
+.related-posts {
+    margin: ($size-1 * 2) 0 $size-1 0;
+    text-align: center;
+    padding-top: ($size-1 * 2);
+    h2 {
+        padding: $size-7 0 $size-1 0;
+    }
+    .article-related {
+        border: 1px solid lighten($grey-darker, 75%);
+        height: 100%;
+        header {
+            padding: $size-7 $size-7;
+        }
+        .title {
+            font-size: $size-6;
+        }
+    }
+}

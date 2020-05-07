@@ -4,7 +4,7 @@ import slugify from "slug"
 
 import DefaultLayout from "../components/layouts/default-layout"
 import Hero from "../components/ui/hero"
-import Article from "../components/ui/article/article-grid"
+import ArticleGrid from "../components/ui/article/article-grid"
 
 const CategoryTemplate = ({ location, pageContext, data }) => {
   if (data.allMarkdownRemark.edges.length > 0) {
@@ -27,7 +27,7 @@ const CategoryTemplate = ({ location, pageContext, data }) => {
               {data.allMarkdownRemark.edges.map(({ node }) => {
                 return (
                   <div className="column is-one-third" key={node.fields.slug}>
-                    <Article node={node} />
+                    <ArticleGrid node={node} />
                   </div>
                 )
               })}

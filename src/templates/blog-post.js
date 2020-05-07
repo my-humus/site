@@ -1,5 +1,6 @@
 import React from "react"
 import { graphql } from "gatsby"
+import Img from "gatsby-image"
 
 import Footer from "../components/ui/footer"
 import TagLink from "../components/ui/link/tag-link"
@@ -7,14 +8,14 @@ import CategoryLink from "../components/ui/link/category-link"
 import SEO from "../components/seo/seo"
 import MainNavigation from "../components/ui/navigation/main-navigation"
 import PostNavigation from "../components/ui/navigation/post-navigation"
-import Img from "gatsby-image"
+import RelatedPosts from "../components/widgets/related-posts"
 
 import "../scss/templates/_blog-post.scss"
 
-class BlogPostTemplate extends React.Component {
+export default class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
-    const { previous, next } = this.props.pageContext
+    const { previous, next, related } = this.props.pageContext
     const image = post.frontmatter.featuredImage
       ? post.frontmatter.featuredImage.childImageSharp.fixed
       : null
@@ -85,14 +86,13 @@ class BlogPostTemplate extends React.Component {
             </section>
           )}
           <PostNavigation previous={previous} next={next} />
+          <RelatedPosts posts={related} />
         </main>
         <Footer />
       </div>
     )
   }
 }
-
-export default BlogPostTemplate
 
 export const pageQuery = graphql`
   query BlogPostBySlug($slug: String!) {
