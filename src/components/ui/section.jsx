@@ -1,6 +1,8 @@
 import React, { Component } from "react"
 import SectionTitle from "./section-title"
 
+import "../../scss/ui/_section.scss"
+
 class Section extends Component {
   render() {
     return (

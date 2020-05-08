@@ -2,6 +2,8 @@ import React, { Component } from "react"
 import { Link } from "gatsby"
 import classNames from "classnames"
 
+import "../../scss/ui/_section-title.scss"
+
 export default class SectionTitle extends Component {
   render() {
     let title = this.props.title
@@ -13,27 +15,29 @@ export default class SectionTitle extends Component {
     }
 
     return (
-      <div className="container">
-        {this.props.title && (
-          <h1
-            className={classNames({
-              title: true,
-              "has-text-centered": this.props.centered
-            })}
-          >
-            {title}
-          </h1>
-        )}
-        {this.props.subtitle && (
-          <h2
-            className={classNames({
-              subtitle: true,
-              "has-text-centered": this.props.centered
-            })}
-          >
-            {subtitle}
-          </h2>
-        )}
+      <div className="section-title">
+        <div className="container">
+          {this.props.title && (
+            <h1
+              className={classNames({
+                title: true,
+                "has-text-centered": this.props.centered
+              })}
+            >
+              {title}
+            </h1>
+          )}
+          {this.props.subtitle && (
+            <h2
+              className={classNames({
+                subtitle: true,
+                "has-text-centered": this.props.centered
+              })}
+            >
+              {subtitle}
+            </h2>
+          )}
+        </div>
       </div>
     )
   }

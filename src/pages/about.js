@@ -1,45 +1,42 @@
 import React from "react"
 
-import Hero from "../components/ui/hero"
+import Section from "../components/ui/section"
 import IndexLayout from "../components/layouts/index-layout"
 
 import image from "../images/anna-zattoni.jpg"
+import about from "../images/about.jpg"
 
 export default class AboutPage extends React.Component {
   render() {
     return (
       <IndexLayout location={this.props.location}>
-        <Hero title="Chi Sono" subtitle="Anna Zattoni" />
-        <section className="section">
-          <div className="container">
-            <img src={image} alt="Anna Zattoni" title="Anna Zattoni" />
+        <Section title="Chi Sono" subtitle="Anna Zattoni">
+          <div className="columns">
+            <div className="column is-two-thirds">
+              Nel 2003, a pochi mesi dall'esame di maturità, ho riflettuto su una cosa: come si potevano conoscere opere come la Divina Commedia o l'Odissea, l'arte di Dalì o quella di Monet, i grandi classici della letteratura inglese, francese e americana, e non avere la benché minima idea del perché un fiore fosse colorato?<br />
+Un bel giorno, mi sono chiesta: "Perché piove?", "Perché alcuni animali migrano?", "Perché ci sono zone in cui la Terra trema?".<br />
+Desideravo conoscere e capire gli equilibri ecosistemici per conoscere e capire a fondo la Terra.<br />
+Ecco perché ho scelto di laurearmi in Scienze Naturali e in Ecologia Applicata.
+</div>
+            <div className="column is-one-thirds"><img src={image} alt="Anna Zattoni" title="Anna Zattoni" /></div>
           </div>
-        </section>
-        <section className="section">
-          <div className="container">
-            Nella vita di ciascuno di noi, prima o poi, giunge il momento di fare alcune considerazioni.<br />
-            <br />
-            Io, con le mie, ho dovuto fare i conti alle soglie dell'esame di maturità: conoscevo la Divina Commedia, l'Iliade e l'Odissea.<br />
-            <br />
-            E ancora: l'arte di Dalì e quella di Monet, le poesie di Machado e l'opera del Cervantes, i capolavori di Flaubert, Zola, Sartre e T.S Eliot... eppure non avevo la benché minima idea del perché un fiore fosse colorato.<br />
-            <br />
-            Mi ponevo domande del tipo: "<em>Perché piove?</em>", "<em>Perché alcuni animali migrano?</em>", "<em>Perché in certe zone del mondo la Terra trema più che in altre?</em>" e l'intramontabile "<em>È nato prima l'uovo o la gallina?</em>".<br />
-            <br />
-            Già... prima l'uovo o la gallina?!<br />
-            <br />
-            Ciò che desideravo, sostanzialmente, era conoscere e capire il nostro pianeta.<br />
-            <br />
-            E così, dopo il conseguimento del diploma di Liceo Classico Linguistico a Ravenna, ho deciso di iscrivermi al corso di laurea triennale in Scienze Naturali presso l'Università degli Studi di Ferrara.<br />
-            <br />
-            Subito dopo è stata la volta della laurea specialistica in <strong>Ecologia Applicata</strong>.<br />
-            <br />
-            Ora sono una copywriter appassionata di sostenibilità ambientale.<br />
-            <br />
-            Su MyHumus racconto il territorio italiano esplorandolo attraverso uno sguardo "green", riportando all'interno del blog una serie di interviste a persone che, in un modo o nell'altro, sono correlate con l'ambiente e con uno stile di vita <em>ecofriendly</em>.<br />
-            <br />
-            ... Ah, e comunque è nato prima l'uovo!
+          <div className="columns">
+            <div className="column is-three-thirds">
+              <p>Oggi sono una copywriter appassionata di sostenibilità ambientale che, attraverso MyHumus, racconta il territorio italiano esplorandolo attraverso uno sguardo "green".</p>
+            </div>
           </div>
-        </section>
+        </Section>
+        <Section title="Cos'è MyHumus?">
+          <p className="has-text-centered">
+            <img src={about} alt="MyHumus" title="MyHumus" />
+          </p>
+          <p>
+            MyHumus non è solo un blog che parla di sostenibilità ambientale: è un viaggio avventuroso tra persone e progetti.<br />
+Come l'humus del terreno sprigiona tutta la sua essenzialità alla sopravvivenza dell'ecosistema, le persone che intervisto rappresentano una componente indispensabile del nostro territorio: ci sono, magari stanno compiendo qualcosa di singolare e di importante, eppure sono in pochi a saperlo.
+</p>
+          <p>MyHumus racconta di passioni e di creatività, d'innovazione e di visioni lungimiranti. Ed è la dimostrazione di quanti cuori pulsanti si celino in Italia, uniti da un sottile filo di colore verde: l'ambiente.</p>
+          <p>Nel 2014, MyHumus è stato incluso fra i progetti innovativi di Progetto Manifattura, hub italiano dedicato unicamente alla green innovation.</p>
+        </Section>
       </IndexLayout>
     )
   }
