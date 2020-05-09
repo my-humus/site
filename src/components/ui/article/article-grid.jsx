@@ -2,6 +2,7 @@ import React, { Component } from "react"
 import { Link } from "gatsby"
 import CategoryLink from "../link/category-link"
 import DateLink from "../link/date-link"
+import Img from "gatsby-image"
 
 import "../../../scss/ui/_article-grid.scss"
 
@@ -10,17 +11,16 @@ export default class ArticleGrid extends Component {
     const node = this.props.node
     const title = node.frontmatter.title || node.fields.slug
     const image = node.frontmatter.featuredImage
-      ? node.frontmatter.featuredImage.childImageSharp.fixed.src
+      ? node.frontmatter.featuredImage.childImageSharp.fixed
       : null
 
     return (
       <article className="article-grid">
         {image && (
           <Link to={node.fields.slug}>
-            <img
-              src={image}
-              title={title}
-              alt={title}
+            <Img
+              fixed={image}
+              style={{ width: "100%" }}
               className="article-thumb"
             />
           </Link>
