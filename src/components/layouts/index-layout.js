@@ -1,5 +1,5 @@
 import React from "react"
-import Helmet from "react-helmet"
+import { Helmet } from "react-helmet"
 import MainNavigation from "../ui/navigation/main-navigation"
 import Footer from "../ui/footer"
 import SEO from "../seo/seo"

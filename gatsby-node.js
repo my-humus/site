@@ -74,7 +74,7 @@ exports.createPages = async ({ graphql, actions }) => {
   }
 
   const postsPerPage = 15
-  const numPages = Math.ceil(posts.length / postsPerPage)
+  const numPages = Math.ceil(posts.data.allMarkdownRemark.edges.length / postsPerPage)
 
   Array.from({ length: numPages }).forEach((_, i) => {
     createPage({
@@ -88,7 +88,7 @@ exports.createPages = async ({ graphql, actions }) => {
       }
     })
   })
-
+  
   posts.data.allMarkdownRemark.edges.forEach((post, index) => {
     const next = index === posts.data.allMarkdownRemark.edges.length - 1 ? null : posts.data.allMarkdownRemark.edges[index + 1].node
     const previous = index === 0 ? null : posts.data.allMarkdownRemark.edges[index - 1].node
@@ -99,24 +99,24 @@ exports.createPages = async ({ graphql, actions }) => {
       let node = posts.data.allMarkdownRemark.edges[Math.floor(Math.random() * i)].node;
 
       if (node.fields.category === post.node.fields.category && node.fields.slug !== post.node.fields.slug) {
+        let duplicate = false
+
+        related.forEach((r) => {
+          if (r.fields.slug === node.fields.slug) {
+            duplicate = true
+          }
+        })
+
+        if (duplicate) {
+          continue
+        }
+
         related.push(node)
       }
 
       i -= 1;
     }
-    /*
-    posts.data.allMarkdownRemark.edges.forEach((elm) => {
-      if (related.length < 5) {
-        if (elm.node.fields.category === post.node.fields.category && elm.node.fields.slug !== post.node.fields.slug) {
-          related.push(elm.node)
-        }
 
-        return true
-      } else {
-        return false
-      }
-    })
-*/
     createPage({
       path: post.node.fields.slug,
       component: path.resolve(`./src/templates/blog-post.js`),

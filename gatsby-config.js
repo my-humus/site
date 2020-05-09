@@ -109,12 +109,12 @@ module.exports = {
       options: {
         iubendaOptions: {
           lang: "it",
-          siteId: 1781270,
+          siteId: 1887540,
           countryDetection: true,
           consentOnContinuedBrowsing: false,
           cookiePolicyInOtherWindow: true,
-          cookiePolicyId: 29008249,
-          cookiePolicyUrl: "https://myhumus.com/legal/cookies",
+          cookiePolicyId: 30225743,
+          cookiePolicyUrl: "https://www.iubenda.com/privacy-policy/30225743",
           banner: {
             position: "float-top-center",
             textColor: "#fff",

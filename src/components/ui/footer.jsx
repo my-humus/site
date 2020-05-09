@@ -40,7 +40,7 @@ const Footer = () => {
           </div>
           <div className="columns">
             <div className="column is-two-fifths">
-              © {new Date().getFullYear()}, {owner.company} - <Link to="/credits">Credits</Link>
+              © {new Date().getFullYear()}, {owner.company} - <Link to="/credits">Credits</Link> - <PrivacyLink />
             </div>
             <div className="column is-three-fifths">
               <SocialFollow />
