@@ -27,7 +27,7 @@ module.exports = {
       email: `info@myhumus.com`
     },
     appearance: {
-      accent: `#75c594`,
+      accent: `#2fac66`,
       background: `#ffffff`,
       theme: `#1d1d1d`
     },
@@ -120,7 +120,7 @@ module.exports = {
             textColor: "#fff",
             backgroundColor: "#1d1d1d",
             acceptButtonDisplay: true,
-            acceptButtonColor: "#75c594",
+            acceptButtonColor: "#2fac66",
             acceptButtonCaptionColor: "#fff"
           }
         }
@@ -187,7 +187,7 @@ module.exports = {
         short_name: `MyHumus`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#75c594`,
+        theme_color: `#2fac66`,
         display: `minimal-ui`,
         icon: `content/assets/icon.png`
       }
@@ -238,6 +238,15 @@ module.exports = {
       }
     },
     `gatsby-plugin-offline`,
-    `gatsby-plugin-catch-links`
+    `gatsby-plugin-catch-links`,
+    {
+      resolve: "gatsby-plugin-page-progress",
+      options: {
+        includePaths: ["/", { regex: "^/blog" }],
+        height: 3,
+        prependToBody: false,
+        color: `#2fac66`
+      }
+    }
   ]
 }

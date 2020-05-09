@@ -88,7 +88,7 @@ exports.createPages = async ({ graphql, actions }) => {
       }
     })
   })
-  
+
   posts.data.allMarkdownRemark.edges.forEach((post, index) => {
     const next = index === posts.data.allMarkdownRemark.edges.length - 1 ? null : posts.data.allMarkdownRemark.edges[index + 1].node
     const previous = index === 0 ? null : posts.data.allMarkdownRemark.edges[index - 1].node
