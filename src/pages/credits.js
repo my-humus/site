@@ -10,7 +10,9 @@ export default class CreditsPage extends React.Component {
         <Section title="Credits" subtitle="myhumus.com">
           <div className="columns">
             <div className="is-one-third">
-              <img src="https://media.pittica.com/brand/positive/powered-by.svg" title="Pittica" alt="Pittica" width="206" height="70" />
+              <a href="https://pittica.com" title="Pittica">
+                <img src="https://media.pittica.com/brand/positive/powered-by.svg" title="Pittica" alt="Pittica" width="206" height="70" />
+              </a>
             </div>
           </div>
         </Section>
