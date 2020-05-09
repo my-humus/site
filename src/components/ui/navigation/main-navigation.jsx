@@ -40,7 +40,6 @@ export default class MainNavigation extends Component {
             "is-active": this.state.isActive
           })}>
             <div className="navbar-start">
-              <Link to={`/blog`} className="main-navigation-link">Blog</Link>
               <CategoryLink category="Ecoprogetti" plain={true} />
               <CategoryLink category="Cucina" plain={true} />
               <CategoryLink category="Mobilità Sostenibile" plain={true} />
