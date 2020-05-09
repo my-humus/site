@@ -247,6 +247,15 @@ module.exports = {
         prependToBody: false,
         color: `#2fac66`
       }
+    },
+    {
+      resolve: 'gatsby-plugin-preconnect',
+      options: {
+        domains: [
+          { domain: 'https://hits-i.iubenda.com', crossOrigin: true },
+          { domain: 'https://www.google-analytics.com', crossOrigin: true }
+        ]
+      }
     }
   ]
 }
