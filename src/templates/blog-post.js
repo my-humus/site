@@ -3,8 +3,10 @@ import { graphql } from "gatsby"
 import Img from "gatsby-image"
 
 import Footer from "../components/ui/footer"
+import Section from "../components/ui/section"
+import Hero from "../components/ui/hero"
 import TagLink from "../components/ui/link/tag-link"
-import CategoryLink from "../components/ui/link/category-link"
+import CategoryLinks from "../components/ui/link/category-links"
 import SEO from "../components/seo/seo"
 import MainNavigation from "../components/ui/navigation/main-navigation"
 import PostNavigation from "../components/ui/navigation/post-navigation"
@@ -45,28 +47,24 @@ export default class BlogPostTemplate extends React.Component {
                   className="blog-post-image"
                 />
               )}
-              <section className="hero">
-                <div className="hero-body">
+              <Hero title={post.frontmatter.title} subtitle={post.frontmatter.description} />
+              <div className="post-meta">
+                <Section>
                   <div className="container">
-                    <h1 className="title">{post.frontmatter.title}</h1>
-                    {post.frontmatter.description && (
-                      <h2 className="subtitle">
-                        {post.frontmatter.description}
-                      </h2>
-                    )}
-                    <div>
-                      <i className="icon-myhumus-clock"></i>{" "}
-                      {post.frontmatter.date}
+                    <div className="columns">
+                      <div className="column">
+                        <p>
+                          <i className="icon-myhumus-clock"></i> {post.frontmatter.date}
+                        </p>
+                      </div>
+                    </div>
+                    <div className="column">
+                      <CategoryLinks categories={post.frontmatter.category} />
                     </div>
                   </div>
-                </div>
-              </section>
-            </header>
-            {post.frontmatter.category && (
-              <div className="container">
-                <CategoryLink category={post.frontmatter.category} />
+                </Section>
               </div>
-            )}
+            </header>
             <div className="container">
               <section
                 className="post-content"

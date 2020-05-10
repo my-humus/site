@@ -1,6 +1,11 @@
 @import "../variables";
 
 .blog-post-container {
+    .post-meta {
+        p {
+            padding: $size-7;
+        }
+    }
     .blog-post {
         .post-content {
             margin: $size-7;

@@ -1,0 +1,13 @@
+@import "../../variables";
+
+.category-links {
+    .category-link {
+        background-color: $primary;
+        color: $primary-invert;
+        padding: $size-7;
+        i {
+            color: $primary-invert;
+            padding-right: $size-7 / 3;
+        }
+    }
+}
