@@ -27,15 +27,14 @@ Iniziamo dal principio.
 Il marchio è nato nel 2011 nello studio olandese di design [Maarten Baas](http://www.maartenbaas.com). In quel periodo, Alessandro si è avvicinato al riciclo e al riutilizzo degli oggetti.
 
 Una volta tornato in Italia, Alessandro ha stretto le prime collaborazioni con alcune cooperative sociali e con aziende, facendo dei materiali riciclati, della personalizzazione e della sostenibilità sociale i tre cardini del suo lavoro.
-Una delle realtà coinvolte fin da subito è stata la [cooperativa A.L.P.I](http://www.coop-alpi.it) attraverso una linea di articoli riciclati a brand [REDO Upcycling](https://www.facebook.com/redoupcycling).
+Una delle realtà coinvolte fin da subito è stata la [cooperativa A.L.P.I](http://www.coop-alpi.it) attraverso una linea di articoli riciclati a brand [REDO Upcycling](https://www.facebook.com/redoupcycling). Si tratta di borse ottenute da tessuti e da striscioni pubblicitari riciclati, ma anche di poltroncine in diverse versioni e di divanetti.
+
 
 ![Borse REDO Upcycling](./redo.jpg)
 
 ![Poltroncine REDO Upcycling](./poltroncine.jpg)
 
 ![Divanetto REDO Upcycling](./divanetto.jpg)
-
-Si tratta di borse ottenute da tessuti e da striscioni pubblicitari riciclati, ma anche di poltroncine in diverse versioni e di divanetti.
 
 ![Winedress in velluto beige con inserti in jeans](./winedress.jpg)
 
