@@ -22,11 +22,9 @@ Sono proprio curiosa di saperne di più! In che modo è possibile riutilizzare g
 
 ### Ciao, Silvia. Grazie innanzitutto di aver accettato l'intervista. Quando è nata l'idea di RIUp e di riutilizzare gli scarti industriali?
 
-> Ciao, Anna! RIUp nasce da un'esperienza precedente, chiamata _RI.KEA nella mia città_. Si è trattato di un evento rivolto alla cittadinanza come provocazione e riflessione sul riciclo e il riuso.
+> Ciao, Anna! RIUp nasce da un'esperienza precedente, chiamata _RI.KEA nella mia città_. Si è trattato di un evento rivolto alla cittadinanza come provocazione e riflessione sul riciclo e il riuso. Il successo di _RI.KEA nella mia città_ si è evoluto in RIUp, una start-up che produce **oggetti di arredo green e sostenibili per la casa**.
 >
 > ![Il team di RIUp](./fotogruppo-riup.jpg)
->
-> Il successo di _RI.KEA nella mia città_ si è evoluto in RIUp, una start-up che produce **oggetti di arredo green e sostenibili per la casa**.
 
 ### Vorrei capire più nel dettaglio: qual è l'aspetto green della vostra start-up?
 
