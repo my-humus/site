@@ -37,11 +37,7 @@ Scopriamola più nel dettaglio, questa cooperativa!
 
 ### Per quanto concerne l'ecoturismo e l'educazione ambientale, cosa propone Thalassia?
 
-> Il nostro centro di educazione ambientale a Brindisi propone visite guidate nella Riserva di Torre Guaceto e nei parchi limitrofi. Organizza anche tour di più giorni.
->
-> L'educazione ambientale si esercita sia grazie a progetti per le scuole di ogni ordine e grado, sia tramite eventi naturalistici.
->
-> E poi ci sono gli spettacoli teatrali...
+> Il nostro centro di educazione ambientale a Brindisi propone visite guidate nella Riserva di Torre Guaceto e nei parchi limitrofi. Organizza anche tour di più giorni. L'educazione ambientale si esercita sia grazie a progetti per le scuole di ogni ordine e grado, sia tramite eventi naturalistici. E poi ci sono gli spettacoli teatrali...
 
 [![tizio](./tizio.jpg)
 
