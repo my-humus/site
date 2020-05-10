@@ -71,13 +71,7 @@ Curiosi di saperne di più? E allora non aspettiamo nemmeno un minuto, scopriamo
 
 ### Quali sono i vostri rivenditori? È possibile acquistare anche online?
 
-> Vendiamo tantissimo online, sul nostro sito ([www.bulbolight.com/shop](http://www.bulbolight.com/shop)) e su molti eCommerce europei. In poco più di 13 mesi siamo riusciti a vendere più di 600 lampade, un grande risultato per un'azienda piccola come la nostra!
->
-> Il Paese in cui vendiamo di più è la Germania, dove le persone hanno già l'abitudine di coltivare in casa.
->
-> Grazie alle fiere di quest'anno a Milano, Londra e Parigi, abbiamo raggiunto molti rivenditori nel mondo del design.
->
-> Ora stiamo lavorando per attraversare l'oceano e affrontare il mercato americano e canadese, dove c'è molta richiesta.
+> Vendiamo tantissimo online, sul nostro sito ([www.bulbolight.com/shop](http://www.bulbolight.com/shop)) e su molti eCommerce europei. In poco più di 13 mesi siamo riusciti a vendere più di 600 lampade, un grande risultato per un'azienda piccola come la nostra! Il Paese in cui vendiamo di più è la Germania, dove le persone hanno già l'abitudine di coltivare in casa. Grazie alle fiere di quest'anno a Milano, Londra e Parigi, abbiamo raggiunto molti rivenditori nel mondo del design. Ora stiamo lavorando per attraversare l'oceano e affrontare il mercato americano e canadese, dove c'è molta richiesta.
 
 ### Quanto interesse avete riscontrato, finora, nei confronti della vostra start-up?
 
@@ -107,11 +101,7 @@ Curiosi di saperne di più? E allora non aspettiamo nemmeno un minuto, scopriamo
 
 ### Programmi per il futuro?
 
-> La grande sfida del 2015 sarà quella di migliorare l'usabilità dei prodotti. Questo per permettere a un pubblico sempre più vasto di coltivare in casa con le nostre lampade.
->
-> Stiamo lavorando alle certificazioni necessarie per vendere negli USA e in Giappone, cosa che richiederà un discreto sforzo.
->
-> Per farlo, cerchiamo investitori e partner industriali pronti a cogliere insieme a noi la sfida dell'home gardening.
+> La grande sfida del 2015 sarà quella di migliorare l'usabilità dei prodotti. Questo per permettere a un pubblico sempre più vasto di coltivare in casa con le nostre lampade. Stiamo lavorando alle certificazioni necessarie per vendere negli USA e in Giappone, cosa che richiederà un discreto sforzo. Per farlo, cerchiamo investitori e partner industriali pronti a cogliere insieme a noi la sfida dell'home gardening.
 
 Che altro dire? Trovo che il progetto di Sara, Zeno, Lorenzo e Tommaso sia semplicemente fantastico. Mi auguro davvero che la loro idea possa avere sempre più successo.
 Forza, ragazzi, avanti tutta!
