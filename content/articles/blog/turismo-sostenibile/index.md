@@ -26,11 +26,9 @@ Insediato all'interno di [Progetto Manifattura](http://www.progettomanifattura.i
 >
 > ViaggiVerdi promuove un'idea di viaggio sostenibile, incoragia ai viaggi e alloggi ecosostenibili.
 >
-> Il nostro, al momento, è il principale sito italiano in cui trovare e prenotare **strutture ricettive rispettose dell'ambiente**.
+> Il nostro, al momento, è il principale sito italiano in cui trovare e prenotare **strutture ricettive rispettose dell'ambiente**. Le proposte di ospitalità sono le più svariate, ma tutte accomunate dall'attenzione al rispetto della natura, dei luoghi e delle persone.
 >
 > ![Igloo di ghiaccio nel Rifugio ecosostenibile "Bella Vista", Senales, Bolzano](./igloo.jpg)
->
-> Le proposte di ospitalità sono le più svariate, ma tutte accomunate dall'attenzione al rispetto della natura, dei luoghi e delle persone.
 
 ### Quali sono i problemi ambientali legati al turismo?
 
