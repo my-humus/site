@@ -2,6 +2,8 @@ import React from "react"
 import { Link } from "gatsby"
 import classNames from "classnames"
 
+import { pathify } from "./pathify"
+
 import "../scss/utils/_paginator.scss"
 
 export const ellipsis = upper => {
@@ -12,14 +14,21 @@ export const ellipsis = upper => {
   )
 }
 
-export const item = (context, page) => {
-  let link = page > 1 ? "/" + page : ""
+export const item = (context, page, root) => {
+  let link = page > 1 ? page : ""
   let slug = context.slug ? context.slug : "blog"
+  let path = ""
+
+  if (root) {
+    path = pathify(root, slug, link)
+  } else {
+    path = pathify(slug, link)
+  }
 
   return (
     <li key={"page-" + page}>
       <Link
-        to={"/" + slug + link}
+        to={path}
         className={classNames({
           current: context.currentPage === page
         })}
@@ -30,11 +39,11 @@ export const item = (context, page) => {
   )
 }
 
-export const paginate = context => {
+export const paginate = (context, root) => {
   let items = []
 
   if (context.numPages > 1) {
-    items.push(item(context, 1))
+    items.push(item(context, 1, root))
 
     if (context.currentPage > 3) {
       items.push(ellipsis(false))
@@ -49,7 +58,7 @@ export const paginate = context => {
       page !== context.numPages &&
       page < context.currentPage + 2 && page > context.currentPage - 2
     ) {
-      items.push(item(context, page))
+      items.push(item(context, page, root))
     }
   }
 
@@ -58,17 +67,17 @@ export const paginate = context => {
       items.push(ellipsis(true))
     }
 
-    items.push(item(context, context.numPages))
+    items.push(item(context, context.numPages, root))
   }
 
   return items
 }
 
-export const navigator = context => {
+export const navigator = (context, root) => {
   if (context.numPages > 1) {
     return (
       <nav className="paginator-nav">
-        <ul>{paginate(context)}</ul>
+        <ul>{paginate(context, root)}</ul>
       </nav>
     )
   } else {

@@ -225,12 +225,12 @@ module.exports = {
     },
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-styled-components`,
-    {
+  /*  {
       resolve: "gatsby-plugin-categories",
       options: {
         templatePath: `${__dirname}/src/templates/category.js`
       }
-    },
+    },*/
     {
       resolve: "gatsby-plugin-tags",
       options: {
@@ -242,7 +242,7 @@ module.exports = {
     {
       resolve: "gatsby-plugin-page-progress",
       options: {
-        includePaths: ["/", { regex: "^/blog" }],
+        includePaths: [{ regex: "^/blog" }],
         height: 3,
         prependToBody: false,
         color: `#2fac66`

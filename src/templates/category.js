@@ -1,27 +1,17 @@
 import React from "react"
 import { graphql } from "gatsby"
-import slugify from "slug"
 
 import DefaultLayout from "../components/layouts/default-layout"
-import Hero from "../components/ui/hero"
+import Section from "../components/ui/section"
 import ArticleGrid from "../components/ui/article/article-grid"
+
+import { navigator } from "../utils/paginator"
 
 const CategoryTemplate = ({ location, pageContext, data }) => {
   if (data.allMarkdownRemark.edges.length > 0) {
-    let category = '';
-
-    data.allMarkdownRemark.edges[0].node.frontmatter.category.map((value) => {
-      if (slugify(value, { lower: true }) === pageContext.category) {
-        category = value
-      }
-
-      return null
-    })
-
     return (
-      <DefaultLayout location={location} title={`Categoria "${category}"`}>
-        <Hero title="Categoria" subtitle={category} />
-        <section className="section">
+      <DefaultLayout location={location} title={`Categoria "${pageContext.category}"`}>
+        <Section title="Categoria" subtitle={pageContext.category}>
           <div className="container">
             <div className="columns is-multiline">
               {data.allMarkdownRemark.edges.map(({ node }) => {
@@ -33,7 +23,8 @@ const CategoryTemplate = ({ location, pageContext, data }) => {
               })}
             </div>
           </div>
-        </section>
+        </Section>
+        {navigator(pageContext, "category")}
       </DefaultLayout>
     )
   } else {
@@ -42,10 +33,11 @@ const CategoryTemplate = ({ location, pageContext, data }) => {
 }
 
 export const pageQuery = graphql`
-  query CategoryTemplate($category: String) {
+  query CategoryTemplate($slug: String, $skip: Int!, $limit: Int!) {
     allMarkdownRemark(
-      limit: 1000
-      filter: { fields: { category: { eq: $category } } }
+      limit: $limit
+      skip: $skip
+      filter: { fields: { category: { eq: $slug } } }
       sort: { fields: [frontmatter___date], order: DESC }
     ) {
       group(field: frontmatter___category) {
