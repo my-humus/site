@@ -29,17 +29,11 @@ Qualche giorno fa ho avuto il piacere di incontrare Rebecca e di conoscere più 
 
 ### Come hai conosciuto gli altri componenti del team?
 
-> _Delfini Bizantini_ è rappresentata da 4 ricercatori, di cui 2 biologi e 2 veterinari.
+> _Delfini Bizantini_ è rappresentata da 4 ricercatori, di cui 2 biologi e 2 veterinari.La solida amicizia che mi lega a Carlo e a Michela si è costituita nel tempo grazie alla _forma mentis_ e all'interesse scientifico che ci accomunano.
 >
-> La solida amicizia che mi lega a Carlo e a Michela si è costituita nel tempo grazie alla _forma mentis_ e all'interesse scientifico che ci accomunano.
+> Tutti abbiamo fatto della nostra passione un duro percorso di studi che si è tramutato in una professione. La capacità di comprendere realmente le rispettive difficoltà, e di condividere i successi, è divenuto un collante sempre più efficace.
 >
-> Tutti abbiamo fatto della nostra passione un duro percorso di studi che si è tramutato in una professione.
->
-> La capacità di comprendere realmente le rispettive difficoltà, e di condividere i successi, è divenuto un collante sempre più efficace.
->
-> Nicola ed io ci siamo conosciuti durante il suo tirocinio formativo in Francia. Nicola stava svolgendo un'interessante ricerca sulla bioacustica dei delfini.
->
-> È un biologo molto appassionato e competente, motivo per cui ho subito pensato di coinvolgerlo in questo progetto.
+> Nicola ed io ci siamo conosciuti durante il suo tirocinio formativo in Francia. Nicola stava svolgendo un'interessante ricerca sulla bioacustica dei delfini. È un biologo molto appassionato e competente, motivo per cui ho subito pensato di coinvolgerlo in questo progetto.
 
 ### Quando è nato questo progetto di tutela dei delfini?
 
