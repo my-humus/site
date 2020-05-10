@@ -18,15 +18,13 @@ Si è soliti pensare di partire verso una destinazione. E se la destinazione, ol
 
 Qualche tempo fa mi sono imbattuta in un sito molto interessante, quello di [Destinazione Umana](http://destinazioneumana.it).
 
-Recita la Home
+Recita la Home:
 
 > Voglio conoscere persone, non mete fini a sé stesse. Voglio incontrare, scambiare e saziare così la mia sete di conoscenza. Voglio essere pellegrino, curioso esploratore e nomade con lo zaino sulle spalle. Voglio essere accolto con sensibilità ed originalità, come fossi il primo ad arrivare. Voglio apprezzare il valore più profondo di una storia.
 
 ![Destinazione Umana](./logo-dusteso.png)
 
-In questi giorni ho avuto il piacere di intervistare **Silvia Salmeri**, co-founder di Destinazione Umana ed esperta di comunicazione e marketing.
-
-Scopriamo insieme a Silvia la storia e lo scopo di questo bel progetto?
+In questi giorni ho avuto il piacere di intervistare **Silvia Salmeri**, co-founder di Destinazione Umana ed esperta di comunicazione e marketing. Scopriamo insieme a Silvia la storia e lo scopo di questo bel progetto?
 
 ### Ciao, Silvia. Perché questo progetto?
 
