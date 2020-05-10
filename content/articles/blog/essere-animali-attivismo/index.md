@@ -13,10 +13,9 @@ tags:
 
 L'intervistato di questa settimana si chiama Eugenio Monti e _milita_ all'interno di [Essere Animali](http://www.essereanimali.org), Onlus per i diritti animali.
 Eugenio è vegano, crede in un mondo senza violenza e in una convivenza pacifica fra Uomo e animali. Ogni giorno, con il suo lavoro, Eugenio compie piccoli grandi passi verso una rivoluzione culturale capace di bandire la sopraffazione e la crudeltà umana. E per farlo continua a credere nelle persone, sensibilizzandole e stimolandole a sviluppare una propria coscienza ecologica.
+Eugenio filma le condizioni degli animali rinchiusi nelle minuscole gabbie degli allevamenti, ad esempio, e lo fa per testimoniarne la sofferenza.
 
 ![Essere Animali](./essere-animali-11.jpg)
-
-Eugenio filma le condizioni degli animali rinchiusi nelle minuscole gabbie degli allevamenti, ad esempio, e lo fa per testimoniarne la sofferenza.
 
 ### Ciao, Eugenio! Innanzitutto voglio ringraziarti per aver accettato l'intervista. Dimmi, quando nasce Essere Animali e qual è il tuo ruolo all'interno di questa Onlus per i diritti animali?
 
