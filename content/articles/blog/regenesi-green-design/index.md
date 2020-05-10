@@ -23,7 +23,7 @@ _"Ho avuto un sogno e ho aggregato un gruppo di persone in grado di aiutarmi a r
 
 ![Regenesi](./logo-regenesi.jpg)
 
-Metti un bel caschetto di capelli neri, aggiungi tanta determinazione e altrettanto talento: ecco un primo identikit di Maria Silvia Pazzi, CEO di Regenesi.
+Metti un bel caschetto di capelli neri, aggiungi tanta determinazione e altrettanto talento: ecco un primo identikit di **Maria Silvia Pazzi**, CEO di Regenesi.
 
 ### Ciao, Maria Silvia! Com'è nata l'idea di Regenesi e di una moda ecosostenibile?
 
