@@ -19,8 +19,6 @@ L'intervistato di questa settimana si chiama Nicola Moscheni, ha 26 anni studia 
 
 ![Nicola Moscheni](./nicola-moscheni.jpg)
 
-![Casa-RhOME (Ph. Lorenzo-Procaccini)](./rhome-building-site-6.jpg)
-
 ### Ciao, Nicola. Qual è l'obiettivo di questo progetto di architettura sostenibile?
 
 > RhOME progetta sul tessuto romano e lavora su zone che si sono costruite nel tempo. Sono aree senza servizi, senza spazi di condivisione, senza una dimensione commerciale attiva e con molti problemi di mobilità.
