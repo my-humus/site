@@ -15,10 +15,9 @@ tags:
 In questi giorni sono venuta a conoscienza di un progetto molto ambizioso nell'ambito dell'architettura sostenibile. Si chiama [RhOME for denCity](http://www.rhomefordencity.it) ed è stato condotto dal Dipartimento di Architettura dell'[Università Roma Tre](http://www.uniroma3.it), (con a capo gli architetti Chiara Tonelli, Gabriele Bellingeri e Stefano Converso.
 Una collaborazione, questa, che ha coinvolto anche i dipartimenti di Ingegneria e di Economia. Professori, studenti, dottorandi e professionisti hanno collaborato alla realizzazione di un progetto di casa sostenibile. È la cosiddetta _Casa RhOME_ che, fra le altre cose, ha vinto il [Solar Decathlon Europe 2014](http://www.solardecathlon2014.fr/en/) a Versailles.
 Insomma, si fa sul serio!
+L'intervistato di questa settimana si chiama Nicola Moscheni, ha 26 anni studia Progettazione Architettura all'Università Roma Tre. All'interno di RhOME è communication coordinator.
 
 ![Nicola Moscheni](./nicola-moscheni.jpg)
-
-L'intervistato di questa settimana si chiama Nicola Moscheni, ha 26 anni studia Progettazione Architettura all'Università Roma Tre. All'interno di RhOME è communication coordinator.
 
 ![Casa-RhOME (Ph. Lorenzo-Procaccini)](./rhome-building-site-6.jpg)
 
