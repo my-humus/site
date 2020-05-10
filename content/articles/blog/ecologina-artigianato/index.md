@@ -26,8 +26,6 @@ Giada realizza e produce vestiti con materiali riciclati che vanno sotto il nome
 Il lavoro di Giada, secondo me, ha tutte le carte in regola per farsi notare e farsi strada nel mondo fashion. E c'è da dire che, quando sono a Progetto Manifattura, trascorro sempre un po' di tempo nel suo laboratorio.
 È bello guardarla lavorare e toccare con mano i tessuti che utilizza!
 
-![Ecologina](./ecologina-8.jpg)
-
 ### Ciao, Giada! Com'è iniziata l'avventura di Ecologina?
 
 > Ciao, Anna! Ecologina è nata dall'incontro di tre mie passioni: la moda, il recupero creativo e la natura. Fondamentale è stata anche l'esperienza lavorativa a Londra al [From Somewhere](http://fromsomewhere.co.uk), label di moda _upcycling_. Quel periodo mi ha permesso di capire che una moda etica è possibile.
