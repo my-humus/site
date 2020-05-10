@@ -19,11 +19,9 @@ Una delle recenti azioni intraprese in questo senso va sotto il nome di [The Fas
 
 `youtube: 6IDOUrH9mC8`
 
+Questa settimana parlo del progetto di fashion sostenibile di [Alessandro Dimauro](https://www.aledima.com). Alessandro è un creativo impegnato nella realizzazione di articoli di design che sta approdando al mondo dell'abbigliamento con un nuovo approccio.
+
 ![Alessandro Dimauro](./alessandro-dimauro.jpg)
-
-Questa settimana parlo del progetto di fashion sostenibile di Alessandro Dimauro. Alessandro è un creativo impegnato nella realizzazione di articoli di design che sta approdando al mondo dell'abbigliamento con un nuovo approccio.
-
-[AleDima Studio](https://www.aledima.com).
 
 Iniziamo dal principio.
 Il marchio è nato nel 2011 nello studio olandese di design [Maarten Baas](http://www.maartenbaas.com). In quel periodo, Alessandro si è avvicinato al riciclo e al riutilizzo degli oggetti.
