@@ -24,10 +24,9 @@ Il soggiorno viennese mi ha fatto riflettere sul concetto di mobilità sostenibi
 Vorrei solo che la mobilità sostenibile a Ravenna avesse sempre più importanza!
 
 È alle amministrazioni pubbliche che spetta promuovere e attuare le **buone pratiche di mobilità** nel contesto urbano. Ecco perché intervistato Enrico Liverani, assessore ai Lavori Pubblici e alla Mobilità della mia Ravenna.
+Il mio obiettivo è ottenere una risposta a questa domanda: _come se la cava, la mia città, in termini di mobilità sostenibile?_
 
 ![Enrico Liverani](./enrico-liverani.jpg)
-
-Il mio obiettivo è ottenere una risposta a questa domanda: _come se la cava, la mia città, in termini di mobilità sostenibile?_
 
 ### Gentile Ass. Liverani, è un piacere intervistarLa per MyHumus. Mi dica, quali sono i doveri di un Comune in questo senso?
 
@@ -49,13 +48,11 @@ Il mio obiettivo è ottenere una risposta a questa domanda: _come se la cava, la
 
 ### Se la confrontiamo con altri Comuni emiliano-romagnoli, secondo Lei a che livello si posiziona Ravenna? Quali passi sono stati compiuti e quali vittorie sono state conseguite finora?
 
-> L'Emilia-Romagna vanta un alto livello culturale e di efficienza nel campo della mobilità sostenibile e intelligente.
->
-> Non dimentichiamo che Ferrara o Reggio Emilia sono ai primi posti in Italia per chilometri di piste ciclabili.
+> L'Emilia-Romagna vanta un alto livello culturale e di efficienza nel campo della mobilità sostenibile e intelligente. Non dimentichiamo che Ferrara o Reggio Emilia sono ai primi posti in Italia per chilometri di piste ciclabili.
 >
 > Ravenna è ai primi posti nei vari settori. Dal punto di vista degli strumenti legati alla mobilità sostenibile e alla sicurezza stradale, credo non sia seconda a nessuno.
 >
-> > bbiamo appena aggiornato il nostro Piano della Mobilità Ciclistica e siamo alla quarta edizione del Piano della Sicurezza Stradale Urbana. Abbiamo appena adottato le linee guida europee per la redazione del Piano Urbano della Mobilità Sostenibile e avviato il **percorso partecipativo**. È iniziata la redazione del Piano per l'Accessibilità Urbana dedicata alle persone disabili, alle quali stiamo dedicando tutte le attenzioni possibili. Stiamo acquistando **veicoli elettrici** per sostituire quelli a benzina in servizio agli uffici comunali. Nel Piano del Traffico abbiamo anche introdotto diversi provvedimenti importanti di _park pricing_ per i prossimi anni.
+> Abbiamo appena aggiornato il nostro Piano della Mobilità Ciclistica e siamo alla quarta edizione del Piano della Sicurezza Stradale Urbana. Abbiamo appena adottato le linee guida europee per la redazione del Piano Urbano della Mobilità Sostenibile e avviato il **percorso partecipativo**. È iniziata la redazione del Piano per l'Accessibilità Urbana dedicata alle persone disabili, alle quali stiamo dedicando tutte le attenzioni possibili. Stiamo acquistando **veicoli elettrici** per sostituire quelli a benzina in servizio agli uffici comunali. Nel Piano del Traffico abbiamo anche introdotto diversi provvedimenti importanti di _park pricing_ per i prossimi anni.
 >
 > Diciamo che l'attenzione è a tutto tondo, e intendiamo mantenerla così.
 
