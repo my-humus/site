@@ -42,13 +42,9 @@ Ad accoglierci abbiamo trovato **Manuele Cricca**, ex pallavolista di serie A no
 
 ### Sukko offre anche la possibilità di pranzare? Proponete il servizio take away?
 
-> Il menù invernale prevede vellutate e insalatone. Per la stagione più calda saranno disponibili altri piatti semplici a base di cereali, legumi e verdure.
->
-> Per il take-away, al momento, non siamo ancora sufficientemente strutturati.
+> Il menù invernale prevede vellutate e insalatone. Per la stagione più calda saranno disponibili altri piatti semplici a base di cereali, legumi e verdure. Per il take-away, al momento, non siamo ancora sufficientemente strutturati. È iniziata con successo una prima fase di prenotazione delle **bottigliette di succo vivo** per venire incontro alle esigenze della clientela con poco tempo a disposizione.
 >
 > ![Sukko](./sukko-4.jpg)
->
-> È iniziata con successo una prima fase di prenotazione delle **bottigliette di succo vivo** per venire incontro alle esigenze della clientela con poco tempo a disposizione.
 
 ### Chi sono i fornitori di frutta e verdura della tua frutteria a Ravenna?
 
