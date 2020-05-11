@@ -66,12 +66,6 @@ Io sono curiosa di saperne di più, e voi?
 
 ### Cosa riserva il 2015?
 
-> Abbiamo in programma alcuni importanti appuntamenti per il marchio Bio Gourmet.
->
-> Uno è all'interno di Arts&Events, la più importante borsa del turismo delle città d'arte che si svolgerà in centro a Bologna dal 29 al 31 maggio.
->
-> L'altro è al [SANA](http://www.sana.it/home-page/1229.html), il salone internazionale del naturale che si svolgerà in Fiera a Bologna dal 12 al 15 settembre.
->
-> E poi una serie di appuntamenti formativi nel corso dell'anno.
+> Abbiamo in programma alcuni importanti appuntamenti per il marchio Bio Gourmet. Uno è all'interno di Arts&Events, la più importante borsa del turismo delle città d'arte che si svolgerà in centro a Bologna dal 29 al 31 maggio. L'altro è al [SANA](http://www.sana.it/home-page/1229.html), il salone internazionale del naturale che si svolgerà in Fiera a Bologna dal 12 al 15 settembre. E poi una serie di appuntamenti formativi nel corso dell'anno.
 
 Foto di copertina: [Alpha](http://www.flickr.com/photos/10559879@N00/4246304177) via [Photopin](http://photopin.com).
