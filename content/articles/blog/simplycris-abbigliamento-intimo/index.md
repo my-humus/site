@@ -16,11 +16,11 @@ Tutto è nato negli anni Settanta dal signor Giovanni Sangiorgi e dal suo Calzif
 A quell'epoca, nel faentino, [Omsa](http://www.omsa.com/it/) la faceva da padrone. Dopo la crisi del collant e il passaggio alla produzione industriale, Giovanni Sangiorgi ha preso una decisione. Ha scelto di fondare un'**azienda di abbigliamento intimo con vocazione artigianale**, coinvolgendo anche la moglie Marisa.
 È così che tutto ha avuto inizio.
 
-![Stefano Tanesini e Cristina Sangiorgi (ph. Donato Testoni)](./intimo-donna.jpg)
-
 Nel 1982, **Stefano Tanesini** ha conosciuto **Cristina Sangiorgi**, la figlia di Giovanni e Marisa. Sette anni dopo è entrato a far parte dell'azienda di famiglia che, nel tempo, è divenuta Simplycris.
 Stefano è una persona estremamente gentile e sorridente, di quelle che ormai si contano sulle dita di una mano. Circondato da reggiseni con pizzo super sexy, da slip e da perizomi colorati, quello di Stefano è di sicuro l'ufficio che ogni uomo sogna di avere!
 Avete voglia di saperne di più sul suo intimo italiano donna, uomo e bambino?
+
+![Stefano Tanesini e Cristina Sangiorgi (ph. Donato Testoni)](./intimo-donna.jpg)
 
 ### Stefano, cosa producete tu e Cristina?
 
