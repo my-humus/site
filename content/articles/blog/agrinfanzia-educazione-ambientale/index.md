@@ -20,7 +20,6 @@ Ora che sono adulta, capisco quanto la vita a contatto con la natura abbia contr
 Oggi sappiamo tutti quanto ciò non sia più così scontato, e quanto sia alto il numero di bimbi lasciati davanti alla TV o con uno smartphone in mano.
 
 C'è qualcuno, a Ravenna, che ha pensato di dar vita a un progetto molto interessante. Il nome potrà già farvi intuire qualcosa: "Agrinfanzia". 
-
 Come riportato sul sito ([www.agrinfanzia.com](http://agrinfanzia.com), **Agrinfanzia offre servizi ricreativi e progetti educativi a contatto con la natura"**, in estate e in autunno, in italiano e in inglese. A capo di questo agrinido a Ravenna troviamo **Patrizia Fanara**, una persona delicata, dai modi molto garbati e gentili, che ho avuto il piacere di conoscere pochi giorni fa.
 
 ### Ciao, Patrizia. È un piacere intervistarti! Come nasce questo agrinido a Ravenna?
