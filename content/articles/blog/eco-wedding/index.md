@@ -21,10 +21,9 @@ Stefania Pelloni e Fabrizio Bozzi hanno deciso di raccontare il giorno del loro 
 Tutto è nato da una conversazione di questo tipo:
 
 Lei: "_Amore, facendo due conti mi sono accorta che conviviamo da 20 anni. Se ci sposassimo sarebbe chiedere troppo?_"
-
 Lui: "_Ok, ma a un patto: non dobbiamo spendere più di 100 €_".
 
-È più o meno così che è andata fra Stefania e Fabrizio. Loro, di euro per il matrimonio, ne hanno spesi 110. Sì, avete letto bene: **110€ in tutto**!
+È più o meno così che è andata fra Stefania e Fabrizio. Loro, di euro per il matrimonio, ne hanno spesi 110. Sì, avete letto bene: 110€ in tutto!
 
 ![Fabrizio e Stefania](./ecowedding-9.jpg)
 
