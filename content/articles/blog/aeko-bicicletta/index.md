@@ -15,21 +15,17 @@ tags:
 
 Ha esoridito così, qualche tempo fa, un mio carissimo amico.
 
-![Aeko](./logo-aeko.png)
-
 L'artigiano in questione è **Paolo Azzolini**, classe 1959, proprietario di **[Aeko](http://www.aeko.it/)**.
 
-Milanese di nascita, Paolo decide di lavorare subito dopo aver terminato le scuole superiori.
+![Aeko](./logo-aeko.png)
 
-Dopodiché si sposa, diventa padre di due figli e, fino al 2010, porta avanti le sue attività nel campo delle attrezzature per cantieri edili. Tutt'altro mondo.
+Milanese di nascita, Paolo decide di lavorare subito dopo aver terminato le scuole superiori. Dopodiché si sposa, diventa padre di due figli e, fino al 2010, porta avanti le sue attività nel campo delle attrezzature per cantieri edili. Tutt'altro mondo.
 
 Un bel giorno, la svolta: Paolo decide di dedicarsi alla passione per le biciclette ereditata dallo zio Giuseppe. Fonda Aeko a San Mauro Pascoli (Cesena) e apre un **laboratorio specializzato nella creazione e nella produzione di biciclette Made in Italy su misura**.
 
-All'interno del suo laboratorio, Paolo produce pezzi unici, 100% Made in Italy, che realizza dalla A alla Z e che assembla personalmente in base ai gusti del cliente.
+All'interno del suo laboratorio, Paolo produce pezzi unici, 100% Made in Italy, che realizza dalla A alla Z e che assembla personalmente in base ai gusti del cliente. Per la lavorazione meccanica dei componenti e per la verniciatura dei pezzi, Paolo collabora con alcuni artigiani locali.
 
 ![Fixed](./fixed-da-dietro.jpg)
-
-Per la lavorazione meccanica dei componenti e per la verniciatura dei pezzi, Paolo collabora con alcuni artigiani locali.
 
 Fondamentalmente, le biciclette Made in Italy da lui realizzate sono quattro: la **granturismo**, la **mountain bike**, la **scattofisso** e la **bici da turismo**.
 
@@ -73,15 +69,13 @@ Qualche giorno fa ho visitato il laboratorio di Paolo insieme al mio amico Andre
 
 > Se non potrò essere breve, cercherò almeno di essere chiaro.
 >
-> ![Bici](./bici-2.jpg)
->
 > Tutto dipende da cosa voglia il cliente e dal fatto che scelga qualcosa che somigli o meno a realizzazioni già fatte. O al fatto che desideri, invece, qualcosa di completamente nuovo.
 >
 > Il mio portfolio raccoglie alcuni esempi significativi. Il mio sito, inoltre, offre una panoramica allargata: se si parte da un prodotto già realizzato, possono servire anche tre o quattro settimane per mettere in strada quanto desiderato del cliente.
 >
-> Se devo realizzare qualcosa di completamente nuovo, allora potrebbero servire anche un paio di mesi.
+![Bici](./bici-2.jpg)
 >
-> Variabili che possono dilatare i tempi sono le fasi di colorazione e di decorazione.
+> Se devo realizzare qualcosa di completamente nuovo, allora potrebbero servire anche un paio di mesi. Variabili che possono dilatare i tempi sono le fasi di colorazione e di decorazione.
 >
 > Tuttavia, alcune delle mie biciclette Made in Italy sono già disponibili: sono i modelli che presento alle fiere e alle esposizioni per mostrare i miei progetti.
 
