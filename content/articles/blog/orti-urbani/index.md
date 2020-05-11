@@ -38,9 +38,7 @@ Qualche giorno fa ho incontrato **Riccardo Ricci Petitoni**, membro attivo di Ra
 
 ![Il team di Ra-dici. Da sinistra: Andrea, Riccardo, Pietro, Eleonora, Chiara, Beatrice e Silvia.](./ra-dici-team.jpg)
 
-> Ra-dici è nato nella Darsena di Ravenna. È qui che risiede la nostra base operativa.
->
-> Oltre a me, gli attuali componenti sono Eleonora Morlotti, Silvia Barbero, Pietro Marangoni, Andrea Gatta, Chiara Brandi e Beatrice Bellotti.
+> Ra-dici è nato nella Darsena di Ravenna. È qui che risiede la nostra base operativa. Oltre a me, gli attuali componenti sono Eleonora Morlotti, Silvia Barbero, Pietro Marangoni, Andrea Gatta, Chiara Brandi e Beatrice Bellotti.
 
 ### Agricoltura urbana ed economia di transizione: sono questi i due cardini principali della vostra attività quotidiana?
 
