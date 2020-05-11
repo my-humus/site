@@ -23,16 +23,14 @@ Della Sicilia colpisce anche l'ospitalità delle persone. Una sera sono stata a 
 
 Ma torniamo a noi e all'argomento di questa settimana.
 Amanti della bici di tutta Italia, cercate un itinerario per le vostre prossime vacanze?
-Semmai il vostro viaggio dovesse condurvi in Sicilia, spingetevi fino a Siracusa e portate i miei saluti a Chiara Pota, milanese, e ad Alfonso Peralta, siracusano.
-Sono due ragazzi che, spinti entrambi dall'amore per la bici, hanno deciso di aprire un bike café nel centro storico di questa bellissima città per incentivare il cicloturismo in Sicilia.
+Semmai il vostro viaggio dovesse condurvi in Sicilia, spingetevi fino a Siracusa e portate i miei saluti a **Chiara Pota**, milanese, e ad **Alfonso Peralta**, siracusano.
 
+Sono due ragazzi che, spinti entrambi dall'amore per la bici, hanno deciso di aprire un bike café nel centro storico di questa bellissima città per incentivare il cicloturismo in Sicilia.
 L'hub si chiama [Movimento Centrale](http://www.movimentocentrale.net).
 
-### Ciao ragazzi! Ditemi: quando nasce Movimento Centrale e il vostro interesse per il cicloturismo in Sicilia?
+### Ciao, ragazzi! Ditemi un po': quando nasce Movimento Centrale e il vostro interesse per il cicloturismo in Sicilia?
 
-> Ciao, Anna! Abbiamo inaugurato Movimento Centrale lo scorso aprile, qui a Siracusa.
->
-> Avevamo bisogno di cambiare lavoro, stile di vita e luoghi. Desideravamo un po' di tempo libero e perseguire i nostri interessi.
+> Ciao, Anna! Abbiamo inaugurato Movimento Centrale lo scorso aprile, qui a Siracusa. Avevamo bisogno di cambiare lavoro, stile di vita e luoghi. Desideravamo un po' di tempo libero e perseguire i nostri interessi.
 >
 > L'intenzione iniziale era di trasferirci a Siracusa, città natale di Alfonso, per aprire un piccolo B&B orientato al cicloturismo in Sicilia, una sorta di ostello.
 >
@@ -42,9 +40,9 @@ L'hub si chiama [Movimento Centrale](http://www.movimentocentrale.net).
 
 ### Tu, Chiara, di cosa ti occupavi prima di intraprendere questa avventura? E Alfonso?
 
-![Insieme in questa avventura](./unnamed.jpg)
-
 > Io lavoravo in uno studio legale internazionale nell'ambito della comunicazione e del marketing. Alfonso lavorava per [L'Espresso](http://espresso.repubblica.it) come web trafficker.
+>
+![Insieme in questa avventura](./unnamed.jpg)
 
 ### Cos'è Movimento Centrale? Quali servizi offre?
 
