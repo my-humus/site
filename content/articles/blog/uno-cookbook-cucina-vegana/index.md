@@ -15,11 +15,9 @@ tags:
   - Innovazione in cucina
 ---
 
-Qualche tempo fa, in occasione del mio compleanno, mi è stato regalato il libro di cucina vegana di Manuel Marcuccio, in arte UNO Cookbook.
+Qualche tempo fa, in occasione del mio compleanno, mi è stato regalato il libro di cucina vegana di **Manuel Marcuccio**, in arte UNO Cookbook.
 Manuel è un food blogger nato a Tredozio, emigrato a Milano e autore di un [blog](http://www.unocookbook.com) che sta avendo moltissimo successo.
 Le sue ricette di cucina vegana uniscono il gusto alla speranza: il gusto di cibi genuini e la speranza di riuscire a prepararli senza troppe difficoltà.
-
-![Manuel Marcuccio ritratto da suo nipote.](./manuel-marcuccio-ritratto-retro-di-copertina.jpg)
 
 Per me, che ho maturato interesse e fiducia verso mestoli e padelle solo da qualche anno, la fattibilità di una ricetta è un aspetto fondamentale. Contribuisce concretamente alla mia autostima.
 Le ricette di Manuel, tutto sommato, mi sembrano alla portata di tutti...
@@ -94,9 +92,7 @@ Le ricette di Manuel, tutto sommato, mi sembrano alla portata di tutti...
 
 ### Piani per il futuro? È il caso di chiedere cosa bolla in pentola, non trovi?
 
-> Già, hai ragione! Ora sono concentrato sulla promozione di 'Fuori Orario', è la mia priorità.
->
-> Continuerò a lavorare alle mie collaborazioni con [L'Erbolario](http://www.erbolario.com), [Fine Dining Lovers](https://www.finedininglovers.com) ed [Energie Magazine](http://www.energiemagazine.it).
+> Già, hai ragione! Ora sono concentrato sulla promozione di 'Fuori Orario', è la mia priorità. Continuerò a lavorare alle mie collaborazioni con [L'Erbolario](http://www.erbolario.com), [Fine Dining Lovers](https://www.finedininglovers.com) ed [Energie Magazine](http://www.energiemagazine.it).
 
 ![Crackers al sesamo e pepe rosso.](./crackers-al-sesamo-e-pepe-rosso.jpg)
 
