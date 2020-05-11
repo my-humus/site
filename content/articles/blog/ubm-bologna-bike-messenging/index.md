@@ -20,10 +20,10 @@ Questi corrieri in bici a Bologna trasportano tutto ciò che pesi al massimo 10 
 Per i carichi di peso maggiore c'è la _bici cargo_, appositamente studiata per permettere il trasporto dei pacchi più ingombranti e voluminosi.
 Gioite: trasportare con UBM non comporta alcun tipo di inquinamento urbano!
 
-![Bike messenger (Ph. Gianni Mazzotta)](./bike-messenger.jpg)
-
 UBM Bologna ha perfino ricevuto il _Premio Giovani Imprese 2012_ di CNA Giovani Imprenditori ed è la prima impresa di corrieri in bici della Regione.
 Pierpaolo Sartori, classe 1980, ne è il titolare.
+
+![Bike messenger (Ph. Gianni Mazzotta)](./bike-messenger.jpg)
 
 ### Ciao, Pierpaolo. Com'è arrivata la bici nella tua vita?
 
