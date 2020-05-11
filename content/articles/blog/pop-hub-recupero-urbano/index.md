@@ -31,8 +31,6 @@ Ha vinto anche la _Call for Ideas - Spazio pubblico/networks/social Innovation_ 
 
 Pop Hub punta a creare un **network nazionale di progetti virtuosi e di buone pratiche**. Sviluppatosi inizialmente in Puglia, ora si estende anche ad altre regioni italiane come, ad esempio, la nostra Emilia-Romagna.
 
-![Il logo di "Punto di Vista", la cooperativa che collabora con Pop Hub](./logo-punto.jpg)
-
 Insieme a [Punto di Vista - Cooperativa Architetti](http://www.puntodivista.eu), Pop Hub vuole realizzare un censimento degli edifici dismessi, pubblici e privati, nei capoluoghi di provincia emiliano-romagnoli.
 Ho parlato di questo progetto insieme a **Davide Carluccio**, architetto che collabora con Punto di Vista.
 
