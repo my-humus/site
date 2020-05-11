@@ -1,6 +1,17 @@
 @import "../variables";
 
 .search-control {
+    &.control {
+        .icon {
+            color: $grey-darker;
+        }
+    }
+    .search-input {
+        background-color: transparent;
+        &:focus {
+            background-color: $white;
+        }
+    }
     &.is-active {
         position: fixed;
         z-index: 41;

@@ -15,6 +15,9 @@
         }
     }
     .navbar-menu {
+        @include touch {
+            box-shadow: none;
+        }
         a {
             color: $grey-darker;
             padding: $size-7 ($size-7 / 2);
