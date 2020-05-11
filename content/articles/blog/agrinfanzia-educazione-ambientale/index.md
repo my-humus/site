@@ -13,19 +13,15 @@ tags:
 Oggi c'è un bellissimo agrinido a Ravenna. È una novità di questi ultimi tempi, una new entry che farà sicuramente la differenza per molti bambini. L'avrebbe fatta anche per me, se solo negli anni Ottanta fosse esistito...
 
 Da piccola odiavo stare in luoghi chiusi. Detestavo le luci artificiali e l'aria viziata.
-All'asilo e a scuola ci andavo volentieri, sia chiaro, ma non vedevo l'ora di tornare a casa per giocare all'aperto.
-
-La mia infanzia è stata sui prati e fra gli alberi, che fosse inverno o estate.
+All'asilo e a scuola ci andavo volentieri, sia chiaro, ma non vedevo l'ora di tornare a casa per giocare all'aperto. La mia infanzia è stata sui prati e fra gli alberi, che fosse inverno o estate.
 
 Ora che sono adulta, capisco quanto la vita a contatto con la natura abbia contribuito a rinforzare il mio corpo, così come a favorire l'apprendimento. Imparavo giocando.
 
 Oggi sappiamo tutti quanto ciò non sia più così scontato, e quanto sia alto il numero di bimbi lasciati davanti alla TV o con uno smartphone in mano.
 
-C'è qualcuno, a Ravenna, che ha pensato di dar vita a un progetto molto interessante. Il nome potrà già farvi intuire qualcosa: "Agrinfanzia".
+C'è qualcuno, a Ravenna, che ha pensato di dar vita a un progetto molto interessante. Il nome potrà già farvi intuire qualcosa: "Agrinfanzia". 
 
-Come riportato sul sito ([www.agrinfanzia.com](http://agrinfanzia.com), **Agrinfanzia offre servizi ricreativi e progetti educativi a contatto con la natura"**, in estate e in autunno, in italiano e in inglese.
-
-A capo di questo agrinido a Ravenna troviamo **Patrizia Fanara**, una persona delicata, dai modi molto garbati e gentili, che ho avuto il piacere di conoscere pochi giorni fa.
+Come riportato sul sito ([www.agrinfanzia.com](http://agrinfanzia.com), **Agrinfanzia offre servizi ricreativi e progetti educativi a contatto con la natura"**, in estate e in autunno, in italiano e in inglese. A capo di questo agrinido a Ravenna troviamo **Patrizia Fanara**, una persona delicata, dai modi molto garbati e gentili, che ho avuto il piacere di conoscere pochi giorni fa.
 
 ### Ciao, Patrizia. È un piacere intervistarti! Come nasce questo agrinido a Ravenna?
 
@@ -43,13 +39,13 @@ A capo di questo agrinido a Ravenna troviamo **Patrizia Fanara**, una persona de
 
 ### Agrinfanzia è sinonimo di...?
 
-> _Cura_: ci piace aver cura dei bambini che frequentano i servizi del nostro agrinido a Ravenna. Così come dei genitori che, con fiducia, si affidano a noi.
+> **Cura**: ci piace aver cura dei bambini che frequentano i servizi del nostro agrinido a Ravenna. Così come dei genitori che, con fiducia, si affidano a noi.
 >
-> _Qualità_: la passione e l'impegno che mettiamo nei servizi che proponiamo si traduce in un'offerta di qualità. Una qualità data anche da un team di alto valore. Fidelizziamo le persone anche grazie a un ambiente collaborativo, sereno, in cui si può crescere professionalmente.
+> **Qualità**: la passione e l'impegno che mettiamo nei servizi che proponiamo si traduce in un'offerta di qualità. Una qualità data anche da un team di alto valore. Fidelizziamo le persone anche grazie a un ambiente collaborativo, sereno, in cui si può crescere professionalmente.
 >
-> _Ascolto e soddisfacimento di bisogni reali_: ascoltare le esigenze delle famiglie significa proporre servizi utili e di grande valore sociale.
+> **Ascolto e soddisfacimento di bisogni reali**: ascoltare le esigenze delle famiglie significa proporre servizi utili e di grande valore sociale.
 >
-> _Aggregazione_: nel nostro agrinido a Ravenna le famiglie possono incontrarsi, dialogare, confrontarsi su temi della genitorialità, ricevere supporto e suggerimenti. Ma anche rilassarsi, semplicemente!
+> **Aggregazione**: nel nostro agrinido a Ravenna le famiglie possono incontrarsi, dialogare, confrontarsi su temi della genitorialità, ricevere supporto e suggerimenti. Ma anche rilassarsi, semplicemente!
 
 ### Qual è il valore aggiunto offerto da Agrinfanzia?
 
@@ -77,11 +73,9 @@ A capo di questo agrinido a Ravenna troviamo **Patrizia Fanara**, una persona de
 
 ### Oltre a imparare a rispettare la natura e a conoscerne gli equilibri, i bambini imparano l'inglese. In che modo?
 
-> Attraverso il gioco, la musica e attività laboratoriali in lingua inglese.
+> Attraverso il gioco, la musica e attività laboratoriali in lingua inglese. Consigliamo ai genitori di far ascoltare ai propri figli canzoni per bambini in lingua, anche in maniera passiva, senza alcuna imposizione. Un modo per far sì che tante parole diventino via via più familiari.
 >
 > ![I bambini a lezione di inglese](./inglese.jpg)
->
-> Consigliamo ai genitori di far ascoltare ai propri figli canzoni per bambini in lingua, anche in maniera passiva, senza alcuna imposizione. Un modo per far sì che tante parole diventino via via più familiari.
 
 ### Cosa ti auguri per il futuro?
 
