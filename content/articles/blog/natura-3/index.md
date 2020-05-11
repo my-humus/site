@@ -13,9 +13,9 @@ tags:
 Qualunque strada deciderete di percorrere nella vita, sappiate che sarà sempre meglio scegliere uno dei percorsi escursionistici italiani sottoposti alle attività di manutenzione del [CAI](http://www.cai.it)!
 Perché la vita, di per sé, è già abbastanza complicata, e se possiamo risparmiarci frane e alberi caduti, tanto meglio. O no?
 
-![Paolo Proli](./paolo-proli.jpg)
-
 Questa settimana intervisto Paolo Proli, presidente della [sezione forlivese](http://www.caiforli.it) del CAI, che mi ha parlato di un'attività fondamentale per l'escursionismo: la manutenzione dei sentieri.
+
+![Paolo Proli](./paolo-proli.jpg)
 
 ### Salve, Dott. Proli. In effetti, non ho mai riflettutto troppo sul discorso della manutenzione dei percorsi escursionistici italiani. Le andrebbe di parlarmene?
 
