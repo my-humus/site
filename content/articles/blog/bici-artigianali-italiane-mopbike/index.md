@@ -24,10 +24,9 @@ Alcuni componenti portanti del telaio sono realizzati attraverso la **tecnologia
 
 Tutto inizia da un disegno CAD 3D di proprietà Mopbike che, successivamente, viene inviato alla stampante. Dopodiché c'è un laser che fissa la polvere metallica di alluminio realizzando il componente. È la stessa tecnologia usata in campo aerospaziale.
 Il telaio di queste bici artigianali italiane viene successivamente saldato e verniciato rigorosamente a mano. Come? Attraverso cinque strati di vernice a liquido senza alcun processo industriale.
+**Massimo Ottavio Pavan** è uno dei soci fondatori di Mopbike. Parli con lui e capisci subito quanto ami il suo lavoro.
 
 ![Massimo Ottavio Pavan](./bici-artigianali-italiane.jpg)
-
-**Massimo Ottavio Pavan** è uno dei soci fondatori di Mopbike. Parli con lui e capisci subito quanto ami il suo lavoro.
 
 ### Ciao, Massimo! Cominciamo dalle origini del tuo brand?
 
