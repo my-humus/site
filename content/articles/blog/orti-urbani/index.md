@@ -15,7 +15,7 @@ tags:
 ---
 
 Gli orti urbani a Ravenna per realizzare aree coltivabili, per trasformare la coltivazione in un momento di condivisione sociale e per recuperare quartieri cittadini in cerca di riscatto.
-Gli orti urbani sono il cruccio di [Ra-dici](http://www.ra-dici.it), un gruppo ravennate che promuove la partecipazione della cittadinanza nella **gestione delle aree urbane per la rigenerazione dei contesti marginali**. Tutto in un'ottica di sostenibilità ambientale.
+Gli orti urbani sono il cruccio di [Ra-dici](http://www.ra-dici.it), un gruppo ravennate che promuove la partecipazione della cittadinanza nella gestione delle aree urbane per la **rigenerazione dei contesti marginali**. Tutto in un'ottica di sostenibilità ambientale.
 
 Qualche giorno fa ho incontrato **Riccardo Ricci Petitoni**, membro attivo di Ra-dici.
 È a loro che ho chiesto un po' di informazioni su questo bel progetto di e per Ravenna.
