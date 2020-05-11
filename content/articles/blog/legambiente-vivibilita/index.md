@@ -11,10 +11,10 @@ tags:
 
 Poco tempo fa ho consultato [Ecosistema Urbano](http://www.legambiente.it/contenuti/comunicati/ecosistema-urbano-xxii-edizione), il rapporto annuale di Legambiente sulla vivibilità in Italia. Checché se ne dica, il Bel Paese fatica a migliorarsi sul fronte ambientale.
 
-![Mirko Laurenti](./legambiente-mirko-laurenti.jpg)
-
 Alla sua [XXII edizione](http://www.legambiente.it/sites/default/files/docs/ecosistemaurbano_2015_xxiiedizione.pdf), il dossier è appena stato pubblicato e, purtroppo, non offre una grande immagine del nostro Paese. _Stanche_, _ingessate_ e _pigre_ sono gli aggettivi che meglio sembrano delineare le nostre città.
 Qualche giorno ne ho parlato insieme a Mirko Laurenti, direttamente coinvolto nella stesura del documento.
+
+![Mirko Laurenti](./legambiente-mirko-laurenti.jpg)
 
 ### Ciao, Mirko! Come primissima cosa, presentati...
 
