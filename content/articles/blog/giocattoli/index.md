@@ -12,10 +12,10 @@ tags:
   - Educazione ambientale
 ---
 
-![Renzo Laporta](./renzo-laporta.jpg)
-
 Era da un po' di tempo che cercavo qualcuno che sapesse costruire giocattoli di legno, o giocattoli in generale. La scorsa settimana, un amico mi ha suggerito un mio concittadino ravennate: **Renzo Laporta**.
 Renzo, in effetti, è un _toy maker_ che vive a Ravenna e che costruisce giocattoli utilizzando materiali riciclati. È una persona molto gentile che parla a bassa voce e che, si nota chiaramente, ha una passione sfrenata per questo tipo di hobby.
+
+![Renzo Laporta](./renzo-laporta.jpg)
 
 ### Ciao, Renzo! Dimmi, qual è la tua concezione dell'infanzia? E perché costruire giocattoli?
 
@@ -67,6 +67,6 @@ Renzo, in effetti, è un _toy maker_ che vive a Ravenna e che costruisce giocatt
 
 ![Componibile](./componibile-car-1.jpg)
 
-Foto di copertina: [Wolfgang Lonien](http://www.flickr.com/photos/99713555@N00/5967155061) via [Photopin](http://photopin.com).
-
 ![Componibile](./componibile-car-2.jpg)
+
+Foto di copertina: [Wolfgang Lonien](http://www.flickr.com/photos/99713555@N00/5967155061) via [Photopin](http://photopin.com).
