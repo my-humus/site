@@ -21,12 +21,11 @@ La realtà che racconto questa settimana racchiude in sé la stessa poesia e lo 
 Si tratta di un'associazione che si occupa di conservazione della biodiversità contadina: [Civiltà Contadina](http://www.civiltacontadina.it).
 
 Civiltà Contadina è una Onlus nata nel 1996 da Rosa Maria Bertino, Achille Mingozzi e Gino Girolomoni, promotori dell'agricoltura biologica e impegnati in diversi progetti finalizzati alla salvaguardia delle campagne italiane.
-
-Con l'entrata di Alberto Olivucci, arriva il coordinamento dei primi _seed savers_ italiani.
-
-![Alberto Olivucci](./olivucci.jpg)
+Con l'entrata di Alberto Olivucci, arriva il coordinamento dei primi _seed savers_ italiani. 
 
 Nel 2002, Olivucci diventa presidente dell'associazione. Nel 2009 nascono i primi gruppi locali costituiti da soci operanti nelle diverse attività.
+
+![Alberto Olivucci](./olivucci.jpg)
 
 ### Salve, Dott. Olivucci. Quando avete sentito l'urgenza di occuparvi di conservazione della biodiversità contadina?
 
@@ -86,11 +85,11 @@ Nel 2002, Olivucci diventa presidente dell'associazione. Nel 2009 nascono i prim
 
 ### All'interno di _Civiltà Contadina_ siete tutti volontari?
 
-![5x1000](./5x1000.jpg)
-
 > Sì, siamo in tutto 500 soci e tutti volontari.
 >
 > Non abbiamo mai ricevuto finanziamenti statali. Tuttavia, abbiamo acquisito lo status di associazione di volontariato Onlus. Questo significa che chiunque può donarci il 5%.
+
+![5x1000](./5x1000.jpg)
 
 ### Collaborate con qualche polo universitario?
 
