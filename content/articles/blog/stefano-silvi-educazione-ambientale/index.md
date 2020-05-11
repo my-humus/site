@@ -48,11 +48,7 @@ Stefano Silvi, con l'architetto Elisabetta Socci e il tecnico ambientale Giusepp
 
 ### Quanto successo ha riscosso il vostro modo di fare educazione ambientale a scuola?
 
-> Tantissimo. A tutti gli studenti abbiamo fatto capire il **legame tra cibo, energia e inquinamento**.
->
-> Le attività nell'orto ci hanno permesso di dimostrare l'importanza dell'attesa e del rispetto dei cicli e dei tempi della natura.
->
-> I laboratori del nostro progetto di educazione ambientale a scuola cementavano, negli studenti, le idee e i concetti-chiave affrontati a lezione.
+> Tantissimo. A tutti gli studenti abbiamo fatto capire il **legame tra cibo, energia e inquinamento**. Le attività nell'orto ci hanno permesso di dimostrare l'importanza dell'attesa e del rispetto dei cicli e dei tempi della natura. I laboratori del nostro progetto di educazione ambientale a scuola cementavano, negli studenti, le idee e i concetti-chiave affrontati a lezione.
 >
 > Abbiamo anche effettuato una dimostrazione con un piccolo **digestore anaerobico** in plexiglass, mostrando come dagli scarti si potesse generare energia. A questo proposito, abbiamo realizzato una **dimostrazione di pirolisi**.
 >
@@ -64,9 +60,7 @@ Stefano Silvi, con l'architetto Elisabetta Socci e il tecnico ambientale Giusepp
 
 ### Pensi che il progetto verrà riproposto nell'a.s 2014/2015?
 
-> **Il nostro progetto di educazione ambientale a scuola ha avuto molto successo** e ci sono arrivate tantissime dimostrazioni di apprezzamento dai bambini, dai genitori e dalle istituzioni.
->
-> Per questo motivo verrà riproposto nel piano di offerta formativa per l'anno scolastico 2014/2015 del Comune di Ravenna.
+> **Il nostro progetto di educazione ambientale a scuola ha avuto molto successo** e ci sono arrivate tantissime dimostrazioni di apprezzamento dai bambini, dai genitori e dalle istituzioni. Per questo motivo verrà riproposto nel piano di offerta formativa per l'anno scolastico 2014/2015 del Comune di Ravenna.
 >
 > Ci piacerebbe proporre _Dall'orto in barattolo all'orto energetico_ anche al di là del territorio comunale, e non solo in ambito scolastico.
 >
