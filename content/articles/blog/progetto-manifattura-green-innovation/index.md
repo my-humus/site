@@ -16,10 +16,9 @@ Si tratta di uno spazio ispirato a un modello di sviluppo orientato alla realizz
 Il nome deriva dal precedente utilizzo dello stabilimento, un tempo Manifattura Tabacchi, entrato in funzione a metà Ottocento per produrre prodotti a base di tabacco.
 
 Progetto Manifattura offre servizi, competenze e conoscenze per l'ideazione di imprese che vedono nell'economia sostenibile un principio indissolubile. Lo spazio rientra nella strategia adottata dalla provincia autonoma di Trento, basata su tre tipi di sostenibilità: ambientale, economica e sociale.
+Con mio grande piacere, ho intervistato il presidente di Progetto Manifattura, il Dott. Gianluca Salvatori, che mi ha parlato di questa struttura con grande slancio e passione.
 
 ![Progetto Manifattura](./ragazzi-al-pc.jpg)
-
-Con mio grande piacere, ho intervistato il presidente di Progetto Manifattura, il Dott. Gianluca Salvatori, che mi ha parlato di questa struttura con grande slancio e passione.
 
 ### Dott. Salvatori, grazie di aver accettato l'intervista per MyHumus. Mi parlerebbe delle origini di questo progetto di innovazione ecosostenibile?
 
