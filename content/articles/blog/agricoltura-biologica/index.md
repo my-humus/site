@@ -92,21 +92,15 @@ Laura e Marco hanno deciso di mettersi in gioco senza temere di essere felici.
 
 ### Cosa e come producete? Dove possiamo acquistare i vostri prodotti?
 
-> **La nostra attività principale è l'orto**, produciamo ortaggi e un po' di frutta, abbiamo un po' di ulivi e di vigne. E poi abbiamo alcune attività integrative.
->
-> Eventuali rimanenze di frutta e ortaggi le trasformiamo in marmellate e in conserve per evitare lo spreco.
->
-> Abbiamo alcuni animali: galline, polli, anatre e oche che ci danno uova e carne.
-> 
-> ![Anatre e Oche](./anatre-e-oche-1.jpg)
-> 
-> ![Anatre e Oche](./anatre-e-oche-2.jpg)
-> 
-> ![Pulcini](./pulcini.jpg)
-> 
-> In queste settimane abbiamo affittato ulteriore terra su cui ci sono altrae vigne, alberi da frutto e ulivi, per cui estenderemo la produzione di queste cose.
->
-> **I nostri prodotti possono essere acquistati direttamente in azienda** oppure al mercato settimanale di produttori a cui partecipiamo a Cattolica.
+> **La nostra attività principale è l'orto**, produciamo ortaggi e un po' di frutta, abbiamo un po' di ulivi e di vigne. E poi abbiamo alcune attività integrative. Eventuali rimanenze di frutta e ortaggi le trasformiamo in marmellate e in conserve per evitare lo spreco. Abbiamo alcuni animali: galline, polli, anatre e oche che ci danno uova e carne.
+
+![Anatre e Oche](./anatre-e-oche-1.jpg)
+
+![Anatre e Oche](./anatre-e-oche-2.jpg)
+
+> In queste settimane abbiamo affittato ulteriore terra su cui ci sono altrae vigne, alberi da frutto e ulivi, per cui estenderemo la produzione di queste cose. **I nostri prodotti possono essere acquistati direttamente in azienda**, oppure al mercato settimanale di produttori a cui partecipiamo a Cattolica.
+
+![Pulcini](./pulcini.jpg)
 
 ![Verdura](./verdura.jpg)
 
