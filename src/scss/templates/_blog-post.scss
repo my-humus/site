@@ -35,7 +35,7 @@
                 position: relative;
                 top: -$size-6;
                 &:before {
-                    content: "\e977";
+                    content: "\275d";
                     font-size: $size-3;
                     font-family: "myhumus";
                     position: relative;
@@ -43,7 +43,7 @@
                     left: -$size-2;
                 }
                 &:after {
-                    content: "\e978";
+                    content: "\275e";
                     display: block;
                     font-size: $size-4;
                     font-family: "myhumus";
@@ -56,7 +56,7 @@
                 li {
                     margin: $size-7 0 $size-7 $size-2;
                     &::before {
-                        content: "\e900";
+                        content: "\25cf";
                         font-family: "myhumus";
                         position: relative;
                         left: -$size-7;

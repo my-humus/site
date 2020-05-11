@@ -4,6 +4,7 @@ import classNames from "classnames"
 
 import Burger from "./burger"
 import CategoryLink from "../link/category-link"
+import Search from "../../../utils/search"
 
 import "../../../scss/ui/navigation/_main-navigation.scss"
 
@@ -35,17 +36,18 @@ export default class MainNavigation extends Component {
             </Link>
             <Burger active={this.state.isActive} onClick={this.handleClick} />
           </div>
-          <div id="navbar-top-menu" className={classNames({
+          <div className={classNames({
             "navbar-menu": true,
             "is-active": this.state.isActive
           })}>
-            <div className="navbar-start">
+            <div className="navbar-end">
               <CategoryLink category="Ecoprogetti" plain={true} />
               <CategoryLink category="Cucina" plain={true} />
               <CategoryLink category="Mobilità Sostenibile" plain={true} />
               <CategoryLink category="Green Mix" plain={true} />
               <span className="divider">|</span>
               <Link to={`/about`} className="main-navigation-link">Chi Sono</Link>
+              <Search className="navbar-item field" />
             </div>
           </div>
         </div>

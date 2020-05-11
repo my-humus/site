@@ -5,20 +5,20 @@
 .navbar {
     .navbar-logo {
         text-align: center;
-        margin-right: $size-2;
+        margin-right: $size-6;
+        @include touch {
+            margin-left: $size-3;
+        }
         i {
             font-size: $size-1;
             color: $grey-darker;
-            padding: $size-6;
         }
     }
-    .navbar-item {
-        text-transform: uppercase;
-    }
-    a {
-        &.main-navigation-link, &.category-link {
+    .navbar-menu {
+        a {
             color: $grey-darker;
-            padding: $size-7 $size-7;
+            padding: $size-7 ($size-7 / 2);
+            line-height: $size-2;
             &:hover {
                 color: $primary;
             }
@@ -27,11 +27,12 @@
                 display: block;
             }
         }
-    }
-    .divider {
-        padding: $size-7 $size-7;
-        @include touch {
-            display: none;
+        .divider {
+            padding: $size-7;
+            line-height: $size-2;
+            @include touch {
+                display: none;
+            }
         }
     }
 }

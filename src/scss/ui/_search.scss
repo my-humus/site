@@ -1,0 +1,35 @@
+@import "../variables";
+
+.search-control {
+    &.is-active {
+        position: fixed;
+        z-index: 41;
+        top: 5%;
+        left: 5%;
+        width: 70%;
+    }
+}
+.search-results {
+    .modal-content {
+        background-color: $primary-invert;
+        max-height: 90%;
+        width: 90%;
+        height: 70%;
+        padding: $size-6;
+        .item-search {
+            margin: $size-7 0;
+            h4 {
+                font-size: $size-6;
+                a {
+                    color: $primary;
+                }
+            }
+            a {
+                line-height: $size-5;
+            }
+        }
+        .search-description {
+            font-size: $size-7;
+        }
+    }
+}

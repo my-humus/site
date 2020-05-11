@@ -225,12 +225,6 @@ module.exports = {
     },
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-styled-components`,
-  /*  {
-      resolve: "gatsby-plugin-categories",
-      options: {
-        templatePath: `${__dirname}/src/templates/category.js`
-      }
-    },*/
     {
       resolve: "gatsby-plugin-tags",
       options: {
@@ -254,6 +248,44 @@ module.exports = {
         domains: [
           { domain: 'https://hits-i.iubenda.com', crossOrigin: true },
           { domain: 'https://www.google-analytics.com', crossOrigin: true }
+        ]
+      }
+    },
+    {
+      resolve: 'gatsby-plugin-flexsearch',
+      options: {
+        type: 'MarkdownRemark',
+        fields: [
+          {
+            name: 'title',
+            indexed: true,
+            resolver: 'frontmatter.title',
+            attributes: {
+              encode: 'balance',
+              tokenize: 'strict',
+              threshold: 6,
+              depth: 3,
+            },
+            store: true,
+          },
+          {
+            name: 'description',
+            indexed: true,
+            resolver: 'frontmatter.description',
+            attributes: {
+              encode: 'balance',
+              tokenize: 'strict',
+              threshold: 6,
+              depth: 3,
+            },
+            store: true,
+          },
+          {
+            name: 'url',
+            indexed: false,
+            resolver: 'fields.slug',
+            store: true,
+          }
         ]
       }
     }
