@@ -93,11 +93,9 @@ Curiosi di saperne di più? E allora non aspettiamo nemmeno un minuto, scopriamo
 >
 > Abbiamo lanciato **#smartbulbo** su una nuova piattaforma crowdfunding aperta da [TIM #WCAP](http://www.wcap.tim.it), dove idee, progetti e imprese possono ricevere finanziamenti dalla community.
 >
-> Le campagne di raccolta fondi sono un ottimo sistema per avviare processi di coinvolgimento e di scambio attorno a nuovi progetti. Il nostro obiettivo è di raccogliere 20.000€ in 3 mesi.
+> Le campagne di raccolta fondi sono un ottimo sistema per avviare processi di coinvolgimento e di scambio attorno a nuovi progetti. Il nostro obiettivo è di raccogliere 20.000€ in 3 mesi. I sostenitori riceveranno in anteprima i prototipi del nuovo dispositivo elettronico. E saranno i primi a poter testare l'App in primavera 2015 per aiutarci a migliorarla prima di andare sul mercato.
 >
 > ![(Courtesy Bulbo)](./peperoncino.jpg)
->
-> I sostenitori riceveranno in anteprima i prototipi del nuovo dispositivo elettronico. E saranno i primi a poter testare l'App in primavera 2015 per aiutarci a migliorarla prima di andare sul mercato.
 
 ### Programmi per il futuro?
 
