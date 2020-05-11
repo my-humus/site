@@ -11,24 +11,18 @@ tags:
 ---
 
 Un servizio di parcheggio e noleggio di bici a Bologna: in quanti lo stanno cercando?
-
 Quanti concepiscono la propria biciletta come un figlio, anziché un semplice mezzo di trasporto?
 
 A nome dei miei amici ciclisti, voglio chiarire un concetto: il ciclista vive il furto della propria bici come un lutto.
 
-Anch'io possiedo due bici, una da corsa e una da turismo. Entrambe hanno un nome e tanti chilometri impressi sul telaio, e con entrambe ho condiviso una serie infinita di emozioni su strada.
-
-Se un giorno dovessero rubarmele, credo che mi ritirerei su un eremo chissà dove a piangere e a meditare vendetta.
-
-Sì perché io odio i ladri di biciclette.
+Anch'io possiedo due bici, una da corsa e una da turismo. Entrambe hanno un nome e tanti chilometri impressi sul telaio, e con entrambe ho condiviso una serie infinita di emozioni su strada. Se un giorno dovessero rubarmele, credo che mi ritirerei su un eremo chissà dove a piangere e a meditare vendetta. Sì perché io odio i ladri di biciclette.
 
 Detto ciò, MyHumus torna a parlare di bici, e lo fa presentandovi un progetto molto particolare: [Dynamo](http://www.dynamo.bo.it), la prima velostazione d'Italia per il parcheggio e noleggio di bici a Bologna.
-
 Questo nuovo spazio urbano sorgerà di fronte alla Stazione Centrale e inaugurerà il 25 settembre 2015.
 
-![Simona Larghetti (ph. Francesca Cervellati)](./simona.jpg)
-
 Ho scambiato due chiacchiere con Simona Larghetti, presidente dell'[Associazione Salvaiciclisti](http://salvaiciclisti.bologna.it) di Bologna, il gruppo ideatore del progetto.
+
+![Simona Larghetti (ph. Francesca Cervellati)](./simona.jpg)
 
 ### Ciao, Simona. Prima di presentare Dynamo, facciamo un piccolo passo indietro: quali sono alcuni degli aspetti legati alla mobilità sostenibile con cui il cittadino di Bologna deve fare i conti?
 
@@ -69,7 +63,5 @@ Ho scambiato due chiacchiere con Simona Larghetti, presidente dell'[Associazione
 > Sì, ci commuove ogni giorno. **Le persone sono entusiaste di questo progetto**, ci stanno offrendo moltissima generosità e sostegno.
 >
 > Qualche tempo fa, in occasione delle giornate di pulizia degli spazi di Dynamo, abbiamo creato l'evento su Facebook invitando i bolognesi a partecipare: si sono presentati in 40!
-
-Tutto questo è a dir poco fantastico!
 
 ![Lo spazio in cui sorgerà Dynamo (ph. Stefano Scheda)](./21-dom-06.jpg)
