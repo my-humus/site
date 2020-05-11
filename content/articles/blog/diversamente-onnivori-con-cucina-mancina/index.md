@@ -25,11 +25,10 @@ Nessuno dovrebbe sentirsi diverso a tavola. Sono pure e semplici scelte di vita.
 
 Ma torniamo al presente. Qualche tempo fa mi sono imbattuta in un coloratissimo volantino con sopra il nome di un sito accattivante: [CucinaMancina](http://www.cucinamancina.com). Un sito per chi è diversamente onnivoro!
 
-![Lorenza Dadduzio e Flavia Giordano](./dadduzio-giordano.jpg)
-
 Le co-founder di CucinaMancina sono **Lorenza Dadduzio**, direttore creativo e marketing, e **Flavia Giordano**, direttore editoriale e social. Sono entrambe pugliesi innamorate del buon cibo e delle sue infinite declinazioni.
+Lorenza (in foto, a sinistra) mi ha raccontato meglio il progetto CucinaMancina...
 
-Lorenza mi ha raccontato meglio il progetto CucinaMancina...
+![Lorenza Dadduzio e Flavia Giordano](./dadduzio-giordano.jpg)
 
 ### Ciao, Lorenza. Perché avete dato il via a CucinaMancina?
 
