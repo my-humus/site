@@ -28,10 +28,9 @@ Quali accordi verranno raggiunti?
 `youtube: 0n6hleA7M6o`
 
 Fra i presenti alla conferenza ci sarà anche un movimento italiano per i clima: [Italian Climate Network](http://www.italiaclima.org).
+Qualche giorno fa ho intervistato **Veronica Caciagli**, esperta di politiche riguardanti i cambiamenti climatici e l'energia nonché co-founder e presidente dell'associazione.
 
 ![Veronica Caciagli](./veronica.jpg)
-
-Qualche giorno fa ho intervistato Veronica Caciagli, esperta di politiche riguardanti i cambiamenti climatici e l'energia, nonché co-founder e presidente dell'associazione.
 
 ### Gentile Dott.ssa Caciagli, innanzitutto grazie della Sua preziosa disponibilità. Diamo inizio a questa intervista cercando di conoscere meglio Italian Climate Network: quando nè nato questo movimento italiano per il clima, e perché?
 
