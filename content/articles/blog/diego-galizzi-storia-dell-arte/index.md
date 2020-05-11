@@ -17,10 +17,9 @@ Siccome non sono ancora riuscita a dare una risposta sensata a questa domanda, m
 
 Storico dell'arte e museologo, Diego è laureato in Conservazione dei Beni Culturali e, da anni, si occupa di catalogazione, gestione, cura e valorizzazione di collezioni artistiche museali.
 Membro dell'[ICOM](http://www.icom-italia.org), ha conseguito una specializzazione in "Management dei Musei e delle Attività Culturali".
+Nel 2008 è stato funzionario alla cultura del [Comune di Gubbio](http://www.comune.gubbio.pg.it) e, dal 2009, è conservatore del [Museo Civico delle Cappuccine ](http://www.museocivicobagnacavallo.it) di Bagnacavallo.
 
 ![Diego in visita alla Biennale di Disegno di Rimini](./diego.jpg)
-
-Nel 2008 è stato funzionario alla cultura del [Comune di Gubbio](http://www.comune.gubbio.pg.it) e, dal 2009, è conservatore del [Museo Civico delle Cappuccine ](http://www.museocivicobagnacavallo.it) di Bagnacavallo.
 
 ### Ciao, Diego. Sei membro del FAI ravennate e curatore museale di Bagnacavallo: cos'è che ami del tuo lavoro?
 
