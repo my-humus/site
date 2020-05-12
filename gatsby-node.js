@@ -1,6 +1,5 @@
 const path = require(`path`)
 const slugify = require(`slug`)
-const { pathify } = require(`./src/utils/pathify`)
 const { createFilePath } = require(`gatsby-source-filesystem`)
 
 exports.createPages = async ({ graphql, actions }) => {
@@ -94,13 +93,21 @@ exports.createPages = async ({ graphql, actions }) => {
   const categories = []
 
   posts.data.allMarkdownRemark.edges.forEach((post) => {
-    post.node.frontmatter.category.forEach((category) => {
-      if (!(category in categories)) {
-        categories[category] = []
+    if (post.node.frontmatter.category instanceof Array) {
+      post.node.frontmatter.category.forEach((category) => {
+        if (!(category in categories)) {
+          categories[category] = []
+        }
+
+        categories[category].push(post)
+      })
+    } else {
+      if (!(post.node.frontmatter.category in categories)) {
+        categories[post.node.frontmatter.category] = []
       }
 
-      categories[category].push(post)
-    })
+      categories[post.node.frontmatter.category].push(post)
+    }
   })
 
   Object.keys(categories).forEach((category) => {
@@ -215,21 +222,29 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
 
   if (node.internal.type === `MarkdownRemark`) {
     const value = createFilePath({ node, getNode })
+
+    createNodeField({
+      name: `slug`,
+      node,
+      value
+    })
+
     const categories = []
 
-    node.frontmatter.category.forEach((category) => {
-      categories.push(slugify(category, { lower: true }))
-    })
+    if (node.frontmatter.category) {
+      if (node.frontmatter.category instanceof Array) {
+        node.frontmatter.category.forEach((category) => {
+          categories.push(slugify(category, { lower: true }))
+        })
+      } else {
+        categories.push(node.frontmatter.category)
+      }
+    }
 
     createNodeField({
       name: `category`,
       node,
       value: categories
-    })
-    createNodeField({
-      name: `slug`,
-      node,
-      value
     })
   }
 }
