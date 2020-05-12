@@ -31,7 +31,7 @@ Ecco perché ho scelto di laurearmi in Scienze Naturali e in Ecologia Applicata.
 Come l'humus del terreno sprigiona tutta la sua essenzialità alla sopravvivenza dell'ecosistema, le persone che intervisto rappresentano una componente indispensabile del nostro territorio: ci sono, stanno compiendo qualcosa di singolare e di importante, ma non tutti lo sanno.
 </p>
           <p>MyHumus racconta di passioni e di creatività, d'innovazione e di visioni lungimiranti. Ed è la dimostrazione di quanti cuori pulsanti ci siano in Italia, uniti da un sottile filo di colore verde: l'ambiente.</p>
-          <p>Nel 2014, MyHumus è stato incluso fra i progetti innovativi di <a href="https://progettomanifattura.it">Progetto Maniffattura</a>, hub italiano dedicato unicamente alla green innovation.</p>
+          <p>Nel 2014, MyHumus è stato incluso fra i progetti innovativi di <a href="https://progettomanifattura.it">Progetto Manifattura</a>, hub italiano dedicato unicamente alla green innovation.</p>
         </Section>
       </IndexLayout>
     )
