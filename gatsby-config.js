@@ -32,7 +32,7 @@ module.exports = {
       theme: `#1d1d1d`
     },
     seo: {
-      image: `/assets/icons/myhumus-512x512.jpg`
+      image: `/myhumus.jpg`
     }
   },
   plugins: [
