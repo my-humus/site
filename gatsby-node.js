@@ -234,7 +234,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
     if (node.frontmatter.category) {
       if (node.frontmatter.category instanceof Array) {
         node.frontmatter.category.forEach((category) => {
-          categories.push(slugify(category, { lower: true }))
+          categories.push(category)
         })
       } else {
         categories.push(node.frontmatter.category)
