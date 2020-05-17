@@ -23,12 +23,12 @@ exports.createPages = async ({ graphql, actions }) => {
               fields {
                 slug
                 tags
-                category
+                categories
               }
               frontmatter {
                 title
                 tags
-                category
+                categories
               }
             }
           }
@@ -84,49 +84,10 @@ exports.createPages = async ({ graphql, actions }) => {
       context: {
         limit: postsPerPage,
         skip: i * postsPerPage,
-        numPages,
-        currentPage: i + 1
+        pages: numPages,
+        current: i + 1,
+        slug: "blog"
       }
-    })
-  })
-
-  const categories = []
-
-  posts.data.allMarkdownRemark.edges.forEach((post) => {
-    if (post.node.frontmatter.category instanceof Array) {
-      post.node.frontmatter.category.forEach((category) => {
-        if (!(category in categories)) {
-          categories[category] = []
-        }
-
-        categories[category].push(post)
-      })
-    } else {
-      if (!(post.node.frontmatter.category in categories)) {
-        categories[post.node.frontmatter.category] = []
-      }
-
-      categories[post.node.frontmatter.category].push(post)
-    }
-  })
-
-  Object.keys(categories).forEach((category) => {
-    const c = slugify(category, { lower: true })
-    const length = Math.ceil(categories[category].length / postsPerPage)
-
-    Array.from({ length: length }).forEach((_, i) => {
-      createPage({
-        path: i === 0 ? `/category/${c}` : `/category/${c}/${i + 1}`,
-        component: path.resolve("./src/templates/category.js"),
-        context: {
-          limit: postsPerPage,
-          skip: i * postsPerPage,
-          numPages: length,
-          currentPage: i + 1,
-          slug: c,
-          category: category
-        }
-      })
     })
   })
 
@@ -139,7 +100,7 @@ exports.createPages = async ({ graphql, actions }) => {
     while (i !== 0 && related.length < 5) {
       let node = posts.data.allMarkdownRemark.edges[Math.floor(Math.random() * i)].node;
 
-      if (node.fields.category === post.node.fields.category && node.fields.slug !== post.node.fields.slug) {
+      if (node.fields.categories === post.node.fields.categories && node.fields.slug !== post.node.fields.slug) {
         let duplicate = false
 
         related.forEach((r) => {
@@ -197,8 +158,8 @@ exports.createPages = async ({ graphql, actions }) => {
         context: {
           limit: postsPerPage,
           skip: i * postsPerPage,
-          numPages: total,
-          currentPage: i + 1,
+          pages: total,
+          current: i + 1,
           slug: slug,
           regex: "^/(" + slug + ")/"
         }
@@ -227,24 +188,6 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
       name: `slug`,
       node,
       value
-    })
-
-    const categories = []
-
-    if (node.frontmatter.category) {
-      if (node.frontmatter.category instanceof Array) {
-        node.frontmatter.category.forEach((category) => {
-          categories.push(category)
-        })
-      } else {
-        categories.push(node.frontmatter.category)
-      }
-    }
-
-    createNodeField({
-      name: `category`,
-      node,
-      value: categories
     })
   }
 }

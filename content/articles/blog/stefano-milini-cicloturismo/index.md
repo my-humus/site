@@ -3,7 +3,7 @@ title: 'Viva il cicloturismo nel mondo!'
 date: '2014-02-15T00:00:19+00:00'
 description: "Quattro amici di Cesena, appassionati di cicloturismo nel mondo, hanno visitato tutta l'Islanda in sella alla bici. Il racconto di uno di loro, Stefano Milini."
 featuredImage: ./stefano-milini.jpg
-category:
+categories:
     - Mobilità sostenibile
 tags:
     - Ecoturismo

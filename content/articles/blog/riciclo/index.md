@@ -3,7 +3,7 @@ title: "AleDima disegna il fashion sostenibile"
 date: "2015-02-11T14:31:37+00:00"
 description: "Il fashion sostenibile di Alessandro Dimauro basa il proprio lavoro su tre punti cardine: riciclo, personalizzazione e sostenibilità sociale."
 featuredImage: ./riciclo-moda.jpg
-category:
+categories:
   - Ecoprogetti
 tags:
   - Moda ecosostenibile

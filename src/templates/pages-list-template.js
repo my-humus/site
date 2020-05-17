@@ -1,33 +1,37 @@
 import React from "react"
 import { graphql } from "gatsby"
 
+import GroupNavigator from "../utils/group-navigator"
 import DefaultLayout from "../components/layouts/default-layout"
 import Section from "../components/ui/section"
 import PageGrid from "../components/ui/article/page-grid"
-import { navigator } from "../utils/paginator"
 
 export default class PagesList extends React.Component {
   render() {
     const { data, pageContext } = this.props
 
-    return (
-      <DefaultLayout
-        location={this.props.location}
-      >
-        <Section>
-          <div className="columns is-multiline">
-            {data.allMarkdownRemark.edges.map(({ node }) => {
-              return (
-                <div className="column is-half" key={node.fields.slug}>
-                  <PageGrid node={node} />
-                </div>
-              )
-            })}
-          </div>
-        </Section>
-        {navigator(pageContext)}
-      </DefaultLayout>
-    )
+    if (data.allMarkdownRemark.edges.length > 0) {
+      return (
+        <DefaultLayout
+          location={this.props.location}
+        >
+          <Section>
+            <div className="columns is-multiline">
+              {data.allMarkdownRemark.edges.map(({ node }) => {
+                return (
+                  <div className="column is-half" key={node.fields.slug}>
+                    <PageGrid node={node} />
+                  </div>
+                )
+              })}
+            </div>
+          </Section>
+          <GroupNavigator context={pageContext} />
+        </DefaultLayout>
+      )
+    } else {
+      return null
+    }
   }
 }
 

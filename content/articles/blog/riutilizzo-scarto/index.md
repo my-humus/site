@@ -3,7 +3,7 @@ title: 'Come riutilizzare gli scarti industriali?'
 date: '2015-01-22T00:00:05+00:00'
 description: "Riutilizzare gli scarti industriali e trasformarli in oggetti di design componibile: questo è l'obiettivo di RIUp, una nuovissima start-up faentina."
 featuredImage: ./riup-come-riutilizzo-lo-scarto.jpg
-category:
+categories:
     - Ecoprogetti
 tags:
     - Green design

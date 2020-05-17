@@ -225,12 +225,6 @@ module.exports = {
     },
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-styled-components`,
-    {
-      resolve: "gatsby-plugin-tags",
-      options: {
-        templatePath: `${__dirname}/src/templates/tag.js`
-      }
-    },
     `gatsby-plugin-offline`,
     `gatsby-plugin-catch-links`,
     {
@@ -287,6 +281,15 @@ module.exports = {
             store: true,
           }
         ]
+      }
+    },
+    {
+      resolve: `@pittica/gatsby-plugin-blog`,
+      options: {
+        postsPerPage: 15,
+        templateCategory: "./src/templates/category.js",
+        templateTag: "./src/templates/tag.js",
+        regex: "/^\/(blog)\//s"
       }
     }
   ]

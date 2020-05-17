@@ -3,7 +3,7 @@ title: "Convivio e l'umanizzazione delle cure oncologiche"
 date: '2017-03-09T11:05:53+00:00'
 description: "Convivio è un progetto di umanizzazione delle cure proposto dall'Oncologia di Verona diretta dal Prof. Giampaolo Tortora."
 featuredImage: ./toa-heftiba.jpg
-category:
+categories:
     - Ecoprogetti
 tags:
     - Cucina

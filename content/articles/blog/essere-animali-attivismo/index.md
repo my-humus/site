@@ -3,7 +3,7 @@ title: "Essere Animali, la Onlus per i diritti animali"
 date: "2015-11-05T12:56:39+00:00"
 description: "Essere Animali è una Onlus per i diritti animali che promuove un cambiamento culturale, sociale e politico attraverso un attivismo condotto col cuore."
 featuredImage: ./essere-animali.jpg
-category:
+categories:
   - Ecoprogetti
 tags:
   - Vegan

@@ -3,7 +3,7 @@ title: 'Anna Zacchi, pasionaria del deserto'
 date: '2014-05-06T00:00:11+00:00'
 description: "A Ravenna abbiamo un'appassionata di podismo che, nel corso della sua vita, ha affrontato gare durissime in tante zone del mondo. Vi presento Anna Zacchi!"
 featuredImage: ./anna.jpg
-category:
+categories:
     - Green Mix
 tags:
     - Ecocoraggiosi

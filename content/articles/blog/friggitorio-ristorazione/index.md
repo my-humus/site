@@ -3,7 +3,7 @@ title: 'Le soluzioni green di Friggitorio'
 date: '2014-07-22T00:00:02+00:00'
 description: "Friggitorio ha adottato diverse soluzioni green per rispondere a una clientela giovane e sempre più sensibile all'aspetto ambientale."
 featuredImage: ./daniele-belleffi.jpg
-category:
+categories:
     - Green Mix
 tags:
     - Cucina

@@ -3,7 +3,7 @@ title: 'La vendita di abbigliamento usato online è verde!'
 date: '2015-04-02T10:23:16+00:00'
 description: "L'Armadio Verde è una nuovissima start up che promuove le attività di swapping per andare incontro alle esigenze dei genitori di tutta Italia."
 featuredImage: ./armadio-verde.jpg
-category:
+categories:
     - Ecoprogetti
 tags:
     - No spreco

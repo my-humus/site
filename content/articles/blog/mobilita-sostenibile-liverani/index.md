@@ -3,7 +3,7 @@ title: 'Mobilità sostenibile a Ravenna: missione possibile?'
 date: '2015-09-10T11:03:18+00:00'
 description: "Esisterà mai un'armonia universale fra automobilisti e ciclisti? Io spero proprio di sì, e mi auguro che la mobilità sostenibile a Ravenna abbia un ruolo concreto."
 featuredImage: ./mobilita-sostenibile.jpg
-category:
+categories:
     - Mobilità sostenibile
 tags:
     - Mobilità sostenibile

@@ -3,7 +3,7 @@ title: "Vallescuria e lo zafferano della Brianza"
 date: "2016-02-18T11:12:19+00:00"
 description: "Oggi parliamo di agricoltura solidale insieme a Matteo Cereda, uno dei fondatori di Vallescuria, uno zafferaneto che coniuga sociale e lavoro agricolo."
 featuredImage: ./vallescuria-brianza.jpg
-category:
+categories:
   - Ecoprogetti
 tags:
   - Educazione ambientale

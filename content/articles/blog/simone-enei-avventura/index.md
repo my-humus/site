@@ -3,7 +3,7 @@ title: "Il trekking introspettivo di Simone Enei"
 date: "2014-04-09T00:00:29+00:00"
 description: "Simone Enei è un giovane forlivese molto speciale che, agli aperitivi e alle serate in disco, preferisce il trekking introspettivo."
 featuredImage: ./enei.jpg
-category:
+categories:
   - Green Mix
 tags:
   - Ecocoraggiosi

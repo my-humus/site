@@ -3,7 +3,7 @@ title: 'Vuoi adottare una mucca?'
 date: '2015-07-09T10:51:33+00:00'
 description: "C'è un progetto che permette di adottare una mucca per promuovere un approccio educativo alla montagna e alla tradizione casearia d'alta quota."
 featuredImage: ./adotta-mucca.jpg
-category:
+categories:
     - Ecoprogetti
 tags:
     - Ecoturismo

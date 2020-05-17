@@ -3,7 +3,7 @@ title: "Quanto piace il cibo di strada in Italia?"
 date: "2017-04-27T15:21:23+00:00"
 description: "Si parla di cibo di strada in Italia insieme a Maurizio Cimmino, direttore di To Business Agency."
 featuredImage: ./street-food.jpg
-category:
+categories:
   - Cucina
 tags:
   - Cucina

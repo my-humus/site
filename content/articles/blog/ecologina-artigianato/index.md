@@ -3,7 +3,7 @@ title: 'I vestiti con materiali riciclati di Ecologina'
 date: '2015-04-09T12:13:09+00:00'
 description: "Giada Gaia Cicala ha fondato Ecologina, un brand di moda che realizza vestiti con materiali riciclati in  un'ottica di recupero e di sostenibilità ambientale."
 featuredImage: ./ecologina.jpg
-category:
+categories:
     - Ecoprogetti
 tags:
     - Moda ecosostenibile

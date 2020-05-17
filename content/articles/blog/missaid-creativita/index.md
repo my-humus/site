@@ -3,7 +3,7 @@ title: 'Missaid è abbigliamento bicycle e skate... detto male!'
 date: '2014-03-05T00:00:47+00:00'
 description: "Nella mia amata Romagna vive l'ideatore di una linea di abbigliamento bicycle e skate che spacca. Le sue grafiche sono tutte in anglo-romagnolo!"
 featuredImage: ./andrea-sansavini.jpg
-category:
+categories:
     - Ecoprogetti
 tags:
     - Moda ecosostenibile

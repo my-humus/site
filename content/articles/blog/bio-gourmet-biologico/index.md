@@ -3,7 +3,7 @@ title: "Promuovere il biologico in Emilia-Romagna: Bio Gourmet!"
 date: "2015-03-19T09:49:40+00:00"
 description: "Una rete di locali punta a promuovere il biologico in Emilia-Romagna proponendo un menu certificato. Ne ho parlato con Marco Pasi, responsabile di Bio Gourmet."
 featuredImage: ./bio-gourmet.jpg
-category:
+categories:
   - Cucina
 tags:
   - Cucina

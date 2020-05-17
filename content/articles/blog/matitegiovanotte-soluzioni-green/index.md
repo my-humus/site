@@ -3,7 +3,7 @@ title: "Il lato green di un'agenzia di comunicazione a Ravenna"
 date: '2014-02-25T00:00:31+00:00'
 description: "Matitegiovanotte è un'agenzia di comunicazione a Ravenna che, all'interno dell'ufficio e verso i propri clienti, ha iniziato a promuovere uno spirito green."
 featuredImage: ./anto.jpg
-category:
+categories:
     - Green Mix
 tags:
     - Green design

@@ -3,7 +3,7 @@ title: 'Un centro di educazione ambientale a Brindisi'
 date: '2014-12-12T00:00:26+00:00'
 description: "C'è un centro di educazione ambientale a Brindisi che proprone attività che spaziano dall'educazione ambientale alle attività escursionistiche, dal teatro all'ecoturismo."
 featuredImage: ./mano.jpg
-category:
+categories:
     - Ecoprogetti
 tags:
     - Conservazione della natura

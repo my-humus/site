@@ -1,17 +1,19 @@
 import React from "react"
 import { graphql } from "gatsby"
 
+import GroupNavigator from "../utils/group-navigator"
 import DefaultLayout from "../components/layouts/default-layout"
 import Section from "../components/ui/section"
 import ArticleGrid from "../components/ui/article/article-grid"
 
-import { navigator } from "../utils/paginator"
 
 const CategoryTemplate = ({ location, pageContext, data }) => {
+  const { name } = pageContext
+
   if (data.allMarkdownRemark.edges.length > 0) {
     return (
-      <DefaultLayout location={location} title={`Categoria "${pageContext.category}"`}>
-        <Section title="Categoria" subtitle={pageContext.category}>
+      <DefaultLayout location={location} title={`Categoria "${name}"`}>
+        <Section title="Categoria" subtitle={name}>
           <div className="container">
             <div className="columns is-multiline">
               {data.allMarkdownRemark.edges.map(({ node }) => {
@@ -24,7 +26,7 @@ const CategoryTemplate = ({ location, pageContext, data }) => {
             </div>
           </div>
         </Section>
-        {navigator(pageContext, "category")}
+        <GroupNavigator context={pageContext} />
       </DefaultLayout>
     )
   } else {
@@ -33,14 +35,14 @@ const CategoryTemplate = ({ location, pageContext, data }) => {
 }
 
 export const pageQuery = graphql`
-  query CategoryTemplate($slug: String, $skip: Int!, $limit: Int!) {
+  query CategoryTemplate($name: String, $limit: Int!, $skip: Int!) {
     allMarkdownRemark(
       limit: $limit
       skip: $skip
-      filter: { fields: { category: { eq: $slug } } }
       sort: { fields: [frontmatter___date], order: DESC }
+      filter: { fields: { categories: { in: [$name] } } }
     ) {
-      group(field: frontmatter___category) {
+      group(field: frontmatter___categories) {
         fieldValue
       }
       totalCount
@@ -48,7 +50,7 @@ export const pageQuery = graphql`
         node {
           fields {
             slug
-            tags
+            categories
           }
           excerpt
           timeToRead
@@ -56,7 +58,7 @@ export const pageQuery = graphql`
             title
             date(formatString: "DD/MM/YYYY")
             description
-            category
+            categories
             featuredImage {
               childImageSharp {
                 fixed(width: 320, height: 220, quality: 60) {

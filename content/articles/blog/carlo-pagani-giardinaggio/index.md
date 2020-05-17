@@ -3,7 +3,7 @@ title: 'Il vivaismo ornamentale del maestro Carlo Pagani'
 date: '2014-07-04T00:00:11+00:00'
 description: "Scopriamo insieme la passione di Carlo Pagani per l'architettura del paesaggio e il vivaismo ornamentale."
 featuredImage: ./carlo-pagani.jpg
-category:
+categories:
     - Green Mix
 tags:
     - Vivaismo ornamentale

@@ -3,7 +3,7 @@ title: "La tutela dei delfini dell'Alto Adriatico"
 date: '2015-06-04T09:19:06+00:00'
 description: 'A Ravenna è appena nata "Delfini bizantini", un''associazione che tutela i delfini dell''Adriatico e analizza la salute del mare.'
 featuredImage: ./team-delfini.jpg
-category:
+categories:
     - Ecoprogetti
 tags:
     - Conservazione della natura

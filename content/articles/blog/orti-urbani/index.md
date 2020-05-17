@@ -3,7 +3,7 @@ title: "Che gli orti urbani a Ravenna siano per tutti!"
 date: "2017-08-10T12:14:29+00:00"
 description: "Ra-dici è un progetto incentrato sulla pratica degli orti urbani a Ravenna e sui concetti di sostenibilità ambientale e partecipazione attiva."
 featuredImage: ./ra-dici-orti-urbani.jpg
-category:
+categories:
   - Ecoprogetti
 tags:
   - Agricoltura urbana

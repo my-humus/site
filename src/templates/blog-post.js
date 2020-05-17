@@ -59,7 +59,7 @@ export default class BlogPostTemplate extends React.Component {
                       </div>
                     </div>
                     <div className="column">
-                      <CategoryLinks categories={post.frontmatter.category} />
+                      <CategoryLinks categories={post.frontmatter.categories} />
                     </div>
                   </div>
                 </Section>
@@ -108,7 +108,7 @@ export const pageQuery = graphql`
         title
         date(formatString: "DD/MM/YYYY")
         description
-        category
+        categories
         tags
         featuredImage {
           childImageSharp {

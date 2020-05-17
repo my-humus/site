@@ -3,7 +3,7 @@ title: "La sicurezza dei percorsi escursionistici italiani"
 date: "2015-05-14T12:10:36+00:00"
 description: "Paolo Proli, Presidente del CAI di Forlì, parla dei percorsi escursionistici italiani in termini di sicurezza e di manutenzione dei sentieri."
 featuredImage: ./cai.jpg
-category:
+categories:
   - Green Mix
 tags:
   - Ecoturismo

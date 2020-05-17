@@ -3,7 +3,7 @@ title: "L'agrinido a Ravenna che insegna la natura"
 date: '2014-09-22T00:00:17+00:00'
 description: 'Patrizia Fanara è la titolare di un bellissimo agrinido a Ravenna che coniuga natura e innovazione.'
 featuredImage: ./patrizia-fanara.jpg
-category:
+categories:
     - Ecoprogetti
 tags:
     - Educazione ambientale

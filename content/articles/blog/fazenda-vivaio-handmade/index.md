@@ -3,7 +3,7 @@ title: "Fazenda, un nuovo vivaio a Rimini"
 date: "2017-02-22T09:59:08+00:00"
 description: "Chiara e Valerio sono i titolari di un vivaio a Rimini in cui tutto è amorevolmente handmade. Insieme si occupano di arredamento di spazi interni."
 featuredImage: ./fazenda.jpg
-category:
+categories:
   - Ecoprogetti
 tags:
   - Vivaismo ornamentale

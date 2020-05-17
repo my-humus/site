@@ -3,7 +3,7 @@ title: "Green Pepper, il cibo di strada bio in Romagna"
 date: "2017-03-22T10:14:23+00:00"
 description: "Green Pepper è il food truck della cesenate Federica Zammarchi che, con tutta la sua passione, porta il cibo di strada bio in Romagna."
 featuredImage: ./green-pepper.jpg
-category:
+categories:
   - Cucina
 tags:
   - Cucina

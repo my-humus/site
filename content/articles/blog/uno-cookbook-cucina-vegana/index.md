@@ -3,7 +3,7 @@ title: "La cucina vegana UNO cookbook"
 date: "2015-03-05T11:26:01+00:00"
 description: "Manuel Marcuccio è l'autore di UNO cookbook, un ricettario che propone piatti di cucina vegana gustosi, colorati e divertenti da preparare."
 featuredImage: ./uno-cookbook-cucina-vegana.jpg
-category:
+categories:
   - Cucina
 tags:
   - Cucina

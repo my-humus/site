@@ -3,7 +3,7 @@ title: "Aldo Mandato e la mobilità alternativa"
 date: "2014-11-11T00:00:06+00:00"
 description: "Aldo mandato è un telaista e si occupa di biciclette. Ogni giorno, col suo lavoro, contribuisce alla mobilità alternativa."
 featuredImage: ./aldo-mandato-scattofisso.jpg
-category:
+categories:
   - Mobilità sostenibile
 tags:
   - Bici artigianali

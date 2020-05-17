@@ -3,7 +3,7 @@ title: 'Pop Hub per la riqualificazione degli spazi abbandonati'
 date: '2014-05-30T00:00:08+00:00'
 description: "Pop Hub è uno strumento tecnico che focalizza l'attenzione sulla riqualificazione degli spazi abbandonati e sottoutilizzati per favorire il loro recupero."
 featuredImage: ./davide-carluccio.jpg
-category:
+categories:
     - Ecoprogetti
 tags:
     - Riqualificazione urbana

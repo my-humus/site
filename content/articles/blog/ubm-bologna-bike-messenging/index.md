@@ -3,7 +3,7 @@ title: 'Il servizio di corrieri in bici a Bologna'
 date: '2014-01-29T14:29:13+00:00'
 description: "C'è un servizio di corrieri in bici a Bologna che trasporta moltissimi tipi di prodotti. Scegliere UBM Bologna significa avere il minimo impatto sull'ambiente."
 featuredImage: ./pierpaolo-sartori.jpg
-category:
+categories:
     - Mobilità sostenibile
 tags:
     - Mobilità sostenibile

@@ -1,32 +1,35 @@
 import React from "react"
 import { graphql } from "gatsby"
 
+import GroupNavigator from "../utils/group-navigator"
 import DefaultLayout from "../components/layouts/default-layout"
 import Section from "../components/ui/section"
 import ArticleGrid from "../components/ui/article/article-grid"
-
-import { navigator } from "../utils/paginator"
 
 export default class BlogList extends React.Component {
   render() {
     const { data, pageContext } = this.props
 
-    return (
-      <DefaultLayout location={this.props.location} title="Blog">
-        <Section title="Blog" subtitle="Il Blog di MyHumus">
-          <div className="columns is-multiline">
-            {data.allMarkdownRemark.edges.map(({ node }) => {
-              return (
-                <div className="column is-one-third" key={node.fields.slug}>
-                  <ArticleGrid node={node} />
-                </div>
-              )
-            })}
-          </div>
-        </Section>
-        {navigator(pageContext)}
-      </DefaultLayout>
-    )
+    if (data.allMarkdownRemark.edges.length > 0) {
+      return (
+        <DefaultLayout location={this.props.location} title="Blog">
+          <Section title="Blog" subtitle="Il Blog di MyHumus">
+            <div className="columns is-multiline">
+              {data.allMarkdownRemark.edges.map(({ node }) => {
+                return (
+                  <div className="column is-one-third" key={node.fields.slug}>
+                    <ArticleGrid node={node} />
+                  </div>
+                )
+              })}
+            </div>
+          </Section>
+          <GroupNavigator context={pageContext} />
+        </DefaultLayout>
+      )
+    } else {
+      return null
+    }
   }
 }
 
@@ -48,6 +51,8 @@ export const pageQuery = graphql`
           excerpt
           fields {
             slug
+            categories
+            tags
           }
           frontmatter {
             date(formatString: "DD/MM/YYYY")

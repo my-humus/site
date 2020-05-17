@@ -3,7 +3,7 @@ title: "LoveThePlanet: la rete per la sostenibilità"
 date: "2015-02-19T13:30:26+00:00"
 description: "LoveThePlanet è la prima rete di imprese italiana per l'implementazione e lo sviluppo di nuovi modelli decisionali a sostegno dell'ambiente."
 featuredImage: ./love-the-planet-rete.jpg
-category:
+categories:
   - Ecoprogetti
 tags:
   - Innovazione ecosostenibile

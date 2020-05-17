@@ -3,7 +3,7 @@ title: "Sukko, una nuova frutteria a Ravenna"
 date: "2015-03-26T11:11:35+00:00"
 description: "Sukko è una nuovissima frutteria a Ravenna. È un locale in cui le protagoniste sono frutta e verdura in tutta la loro fresca genuinità."
 featuredImage: ./sukko.jpg
-category:
+categories:
   - Cucina
 tags:
   - Cucina

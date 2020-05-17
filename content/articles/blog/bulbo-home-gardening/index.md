@@ -3,7 +3,7 @@ title: 'Mai pensato di coltivare in casa?'
 date: '2014-12-04T00:00:25+00:00'
 description: "Grazie alle lampade LED di Bulbo, concepite per l'indoor gardening, coltivare in casa diventa un'operazione semplicissima!"
 featuredImage: ./bulbo-lampade-ecologiche-home-gardening.jpg
-category:
+categories:
     - Ecoprogetti
 tags:
     - Autoproduzione

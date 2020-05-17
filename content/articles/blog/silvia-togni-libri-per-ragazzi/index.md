@@ -3,7 +3,7 @@ title: 'Le guide illustrate di Ravenna... con le pigne'
 date: '2014-03-18T00:00:46+00:00'
 description: "Silvia Togni è l'autrice di due guide illustrate di Ravenna che, in modo divertente, raccontano il patrimonio naturale e culturale della città."
 featuredImage: ./silvia.jpg
-category:
+categories:
     - Green Mix
 tags:
     - Arte e natura

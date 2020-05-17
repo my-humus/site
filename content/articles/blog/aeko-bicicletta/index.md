@@ -3,7 +3,7 @@ title: "Le biciclette Made in Italy di Paolo Azzolini"
 date: "2014-06-12T00:00:08+00:00"
 description: "Paolo Azzolini è un appassionato di bici che ha fondato Aeko, un marchio di biciclette Made in Italy."
 featuredImage: ./paolo-azzolini.jpg
-category:
+categories:
   - Mobilità sostenibile
 tags:
   - Bici artigianali

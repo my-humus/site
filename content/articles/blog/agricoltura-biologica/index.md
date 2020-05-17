@@ -3,7 +3,7 @@ title: "Basta: voglio avviare un'azienda agricola biologica!"
 date: '2015-10-22T11:06:05+00:00'
 description: "Laura e Marco sono due giovani contadini che hanno deciso di licenziarsi e di avviare un'azienda agricola biologica."
 featuredImage: ./laura-e-marco.jpg
-category:
+categories:
     - Green Mix
 tags:
     - Filiera corta

@@ -3,7 +3,7 @@ title: "Renzo adora costruire giocattoli"
 date: "2015-04-30T10:00:51+00:00"
 description: "Renzo Laporta vive a Ravenna e utilizza materiali riciclati per ideare e costruire giocattoli all'interno dei centri educativi."
 featuredImage: ./grande-banner.jpg
-category:
+categories:
   - Green Mix
 tags:
   - Autoproduzione

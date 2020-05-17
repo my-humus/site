@@ -3,7 +3,7 @@ title: "A Roma si fa architettura sostenibile!"
 date: "2015-02-05T00:00:22+00:00"
 description: "RhOME for denCity è il progetto vincitore del Solar Decathlon Europe 2014. Si tratta di un ambizioso lavoro di squadra in architettura sostenibile."
 featuredImage: ./casa-rhome-12.jpg
-category:
+categories:
   - Ecoprogetti
 tags:
   - Architettura ecosostenibile

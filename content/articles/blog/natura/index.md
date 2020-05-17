@@ -3,7 +3,7 @@ title: "Un centro di educazione ambientale alle Maldive"
 date: "2015-04-23T00:00:32+00:00"
 description: "C'è un centro di educazione ambientale alle Maldive che conduce anche attività di conservazione e di monitoraggio di flora e fauna."
 featuredImage: ./flavio-barefoot.jpg
-category:
+categories:
   - Ecoprogetti
 tags:
   - Educazione ambientale

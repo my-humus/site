@@ -3,7 +3,7 @@ title: "Scopri il turismo responsabile in Italia"
 date: "2015-01-15T16:57:10+00:00"
 description: "Il viaggio come strumento per conoscere meglio sé stessi e gli altri, ma sempre in armonia con la natura. Scegli un turismo responsabile in Italia!"
 featuredImage: ./in-viaggio-verso-gli-altri.jpg
-category:
+categories:
   - Ecoprogetti
 tags:
   - Ecoturismo

@@ -3,7 +3,7 @@ title: "L'architettura olistica di Gabriele Poggiali"
 date: '2016-04-15T15:59:48+00:00'
 description: "Gabriele Poggiali, l'architetto ravennate appassionato di Feng Shui, di arti marziali e di architettura olistica."
 featuredImage: ./alvin-engler.jpg
-category:
+categories:
     - Ecoprogetti
 tags:
     - Architettura ecosostenibile

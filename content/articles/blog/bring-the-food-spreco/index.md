@@ -3,7 +3,7 @@ title: 'Nuovi modi di combattere lo spreco alimentare'
 date: '2015-04-16T00:00:14+00:00'
 description: "BringTheFood è un'app gratuita per combattere lo spreco alimentare facilitando la donazione di cibo e mettendo in contatto donatore e ricevente."
 featuredImage: ./bring-food.jpg
-category:
+categories:
     - Ecoprogetti
 tags:
     - No spreco

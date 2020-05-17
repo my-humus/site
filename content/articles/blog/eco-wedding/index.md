@@ -3,7 +3,7 @@ title: 'Mai pensato a un matrimonio sostenibile?'
 date: '2015-10-29T09:49:01+00:00'
 description: "Stefania e Fabrizio hanno optato per un matrimonio sostenibile: hanno contenuto l'impatto sull'ambiente, hanno speso meno e si sono divertiti il doppio!"
 featuredImage: ./ecowedding.jpg
-category:
+categories:
     - Green Mix
 tags:
     - No spreco

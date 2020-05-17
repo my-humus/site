@@ -3,7 +3,7 @@ title: "Cerchi una bici pieghevole leggera?"
 date: "2014-11-26T00:00:42+00:00"
 description: "La bici pieghevole leggera Sada Bike è un inno alla mobilità sostenibile e intelligente, così come alla riduzione del peso e degli ingombri."
 featuredImage: ./la-bici-che-si-piega-sadabike.jpg
-category:
+categories:
   - Mobilità sostenibile
 tags:
   - Bici artigianali

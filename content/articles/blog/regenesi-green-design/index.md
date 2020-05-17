@@ -3,7 +3,7 @@ title: 'La moda ecosostenibile di Regenesi'
 date: '2014-10-02T00:00:58+00:00'
 description: "Regenesi è un brand di moda ecosostenibile che produce accessori per la casa, per l'ufficio e per la persona. Riutilizza materiali senza escludere il gusto."
 featuredImage: ./maria-silvia-pazzi.jpg
-category:
+categories:
     - Ecoprogetti
 tags:
     - Green design

@@ -3,7 +3,7 @@ title: "A Rovereto si fa innovazione ecosostenibile"
 date: "2014-08-18T00:00:47+00:00"
 description: "Progetto Manifattura è l'unico incubatore di start-up d'Italia improntato esclusivamente all'innovazione ecosostenibile."
 featuredImage: ./salvatori.jpg
-category:
+categories:
   - Ecoprogetti
 tags:
   - Innovazione ecosostenibile

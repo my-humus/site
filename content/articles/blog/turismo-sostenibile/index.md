@@ -3,7 +3,7 @@ title: "Viaggi e alloggi ecosostenibili: scoprili tutti!"
 date: "2015-01-29T15:42:37+00:00"
 description: "Se cerchi viaggi e alloggi ecosostenibili, scopri ViaggiVerdi e consulta tutte le opportunità offerte dal suo sito!"
 featuredImage: ./turismo-sostenibile.jpg
-category:
+categories:
   - Ecoprogetti
 tags:
   - Ecoturismo

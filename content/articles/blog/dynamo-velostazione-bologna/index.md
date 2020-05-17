@@ -3,7 +3,7 @@ title: 'Il parcheggio e noleggio di bici a Bologna secondo Dynamo'
 date: '2015-09-03T09:15:40+00:00'
 description: "Sta per essere inaugurata Dynamo, la prima velostazione d'Italia per il parcheggio e il noleggio di bici a Bologna."
 featuredImage: ./dynamo-bologna.jpg
-category:
+categories:
     - Mobilità sostenibile
 tags:
     - Mobilità sostenibile

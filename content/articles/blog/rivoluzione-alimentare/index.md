@@ -3,7 +3,7 @@ title: "Un documentario sulla cultura della carne"
 date: "2015-11-19T12:54:25+00:00"
 description: 'Thomas Torelli sta ultimando le riprese di "Food ReLOVution", un documentario sulla cultura della carne che ne esamina le diverse conseguenze.'
 featuredImage: ./serge-esteve-restaurant.jpg
-category:
+categories:
   - Ecoprogetti
 tags:
   - Salute e cibo

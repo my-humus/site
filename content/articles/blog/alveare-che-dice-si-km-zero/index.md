@@ -3,7 +3,7 @@ title: "Scegli una rete di vendita a filiera corta!"
 date: "2015-12-03T10:46:35+00:00"
 description: "Alveare che dice sì è un interessante progetto che promuove il km zero conciliando filiera corta, internet e sharing economy."
 featuredImage: ./maja-petric.jpg
-category:
+categories:
   - Ecoprogetti
 tags:
   - Consumo responsabile

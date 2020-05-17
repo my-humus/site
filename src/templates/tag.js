@@ -1,25 +1,18 @@
 import React from "react"
 import { graphql } from "gatsby"
+
+import GroupNavigator from "../utils/group-navigator"
 import DefaultLayout from "../components/layouts/default-layout"
 import Hero from "../components/ui/hero"
 import Article from "../components/ui/article/article-grid"
-import slugify from "slug"
 
 const TagTemplate = ({ location, pageContext, data }) => {
+  const { name } = pageContext
+
   if (data.allMarkdownRemark.edges.length > 0) {
-    let tag = '';
-
-    data.allMarkdownRemark.edges[0].node.frontmatter.tags.map((value) => {
-      if (slugify(value, { lower: true }) === pageContext.tag) {
-        tag = value
-      }
-
-      return null
-    })
-
     return (
-      <DefaultLayout location={location} title={`Tag "${tag}"`}>
-        <Hero title="Tag" subtitle={tag} />
+      <DefaultLayout location={location} title={`Tag "${name}"`}>
+        <Hero title="Tag" subtitle={name} />
         <section className="section">
           <div className="container">
             <div className="columns is-multiline">
@@ -33,6 +26,7 @@ const TagTemplate = ({ location, pageContext, data }) => {
             </div>
           </div>
         </section>
+        <GroupNavigator context={pageContext} />
       </DefaultLayout>
     )
   } else {
@@ -41,11 +35,12 @@ const TagTemplate = ({ location, pageContext, data }) => {
 }
 
 export const pageQuery = graphql`
-  query TagTemplate($tag: String) {
+  query TagTemplate($name: String, $limit: Int!, $skip: Int!) {
     allMarkdownRemark(
-      limit: 2000
-      filter: { fields: { tags: { in: [$tag] } } }
+      limit: $limit
+      skip: $skip
       sort: { fields: [frontmatter___date], order: DESC }
+      filter: { fields: { tags: { in: [$name] } } }
     ) {
       group(field: frontmatter___tags) {
         fieldValue
@@ -55,7 +50,6 @@ export const pageQuery = graphql`
         node {
           fields {
             slug
-            category
             tags
           }
           excerpt
@@ -71,7 +65,7 @@ export const pageQuery = graphql`
                 }
               }
             }
-            category
+            categories
             tags
           }
         }

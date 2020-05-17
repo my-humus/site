@@ -3,7 +3,7 @@ title: "Veve, l'orto verticale aeroponico"
 date: '2015-05-21T10:36:06+00:00'
 description: "Matteo Sansoni è l'ideatore di Veve, l'orto verticale aeroponico che permette di coltivare un'infinità di ortaggi nello spazio di un metro."
 featuredImage: ./veve.jpg
-category:
+categories:
     - Ecoprogetti
 tags:
     - Coltivare in casa

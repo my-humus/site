@@ -3,7 +3,7 @@ title: "Promuovere il turismo in Italia con BikeWoman"
 date: "2014-09-11T00:00:01+00:00"
 description: "Ci sono tanti modi per promuovere il turismo in Italia. Uno di questi è BikeWoman, un format la cui puntata-pilota è stata realizzata a Ravenna."
 featuredImage: ./nicoletta-mongardi.jpg
-category:
+categories:
   - Mobilità sostenibile
 tags:
   - Ecoturismo

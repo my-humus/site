@@ -3,7 +3,7 @@ title: "Diversamente onnivori con Cucina Mancina"
 date: "2015-02-26T00:00:40+00:00"
 description: "Cucina Mancina è una food community che soddisfa le richieste e le esigenze di tutti coloro che mangiano differente, per scelta o per necessità."
 featuredImage: ./cucina-mancina.jpg
-category:
+categories:
   - Cucina
 tags:
   - Vegan

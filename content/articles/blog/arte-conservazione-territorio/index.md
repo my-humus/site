@@ -3,7 +3,7 @@ title: "Uomo e paesaggio: l'arte di Giorgia Severi"
 date: '2017-02-09T12:55:18+00:00'
 description: "Con le sue opere, Giorgia Severi mira alla cura e alla conservazione della natura, indagando Uomo e paesaggio."
 featuredImage: ./joshua-hibbert.jpg
-category:
+categories:
     - Ecoprogetti
 tags:
     - Conservazione della natura

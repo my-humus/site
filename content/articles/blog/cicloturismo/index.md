@@ -3,7 +3,7 @@ title: 'Il cicloturismo in Sicilia, quello bello!'
 date: '2015-07-23T10:39:28+00:00'
 description: "Movimento Centrale è il bike café di Chiara e Alfonso, due ragazzi che promuovono il cicloturismo in Sicilia, la loro terra d'origine."
 featuredImage: ./chiara-e-alfonso.jpg
-category:
+categories:
     - Mobilità sostenibile
 tags:
     - Ecoturismo

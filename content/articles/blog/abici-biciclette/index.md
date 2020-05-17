@@ -3,7 +3,7 @@ title: "Abici per la mobilità sostenibile"
 date: "2014-10-20T00:00:12+00:00"
 description: "Con il brand Abici, la mobilità sostenibile diventa artigianale ed essenziale."
 featuredImage: ./abici.jpg
-category:
+categories:
   - Mobilità sostenibile
 tags:
   - Bici artigianali

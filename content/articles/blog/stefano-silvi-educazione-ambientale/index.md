@@ -3,7 +3,7 @@ title: 'Nuovi modi di fare educazione ambientale a scuola'
 date: '2014-07-31T00:00:38+00:00'
 description: "Imparare attraverso laboratori e visite guidate che incentivino la creatività dei bambini: c'è un nuovo modo di fare educazione ambientale a scuola."
 featuredImage: ./stefano-silvi.jpg
-category:
+categories:
     - Ecoprogetti
 tags:
     - Agricoltura urbana

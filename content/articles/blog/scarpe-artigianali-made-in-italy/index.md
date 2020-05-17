@@ -3,7 +3,7 @@ title: "Scegli scarpe artigianali in vera pelle"
 date: "2016-03-25T11:34:50+00:00"
 description: "Ragioniamo con i piedi è un progetto ribelle che propone scarpe artigianali in vera pelle, sane, durevoli nel tempo e amiche dell'ambiente."
 featuredImage: ./gigi-perinello.jpg
-category:
+categories:
   - Ecoprogetti
 tags:
   - Ecoartigianato

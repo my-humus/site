@@ -3,7 +3,7 @@ title: "Le bici artigianali italiane di Mopbike"
 date: "2016-10-07T13:09:02+00:00"
 description: "Intervista a Massimo Ottavio Pavan del marchio Mopbike, un brand di bici artigianali italiane nato due anni fa in quel di Pordenone."
 featuredImage: ./bici-artigianali-italiane-6.jpg
-category:
+categories:
   - Mobilità sostenibile
 tags:
   - Bici artigianali
