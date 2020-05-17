@@ -90,46 +90,6 @@ exports.createPages = async ({ graphql, actions }) => {
     })
   })
 
-  posts.data.allMarkdownRemark.edges.forEach((post, index) => {
-    const next = index === posts.data.allMarkdownRemark.edges.length - 1 ? null : posts.data.allMarkdownRemark.edges[index + 1].node
-    const previous = index === 0 ? null : posts.data.allMarkdownRemark.edges[index - 1].node
-    const related = []
-    let i = posts.data.allMarkdownRemark.edges.length;
-
-    while (i !== 0 && related.length < 5) {
-      let node = posts.data.allMarkdownRemark.edges[Math.floor(Math.random() * i)].node;
-
-      if (node.fields.categories === post.node.fields.categories && node.fields.slug !== post.node.fields.slug) {
-        let duplicate = false
-
-        related.forEach((r) => {
-          if (r.fields.slug === node.fields.slug) {
-            duplicate = true
-          }
-        })
-
-        if (duplicate) {
-          continue
-        }
-
-        related.push(node)
-      }
-
-      i -= 1;
-    }
-
-    createPage({
-      path: post.node.fields.slug,
-      component: path.resolve(`./src/templates/blog-post.js`),
-      context: {
-        slug: post.node.fields.slug,
-        previous,
-        next,
-        related: related
-      }
-    })
-  })
-
   const pages = []
 
   remarks.data.allMarkdownRemark.edges.forEach((edge) => {

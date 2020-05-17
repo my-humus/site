@@ -287,8 +287,10 @@ module.exports = {
       resolve: `@pittica/gatsby-plugin-blog`,
       options: {
         postsPerPage: 15,
+        relatedPerPage: 5,
         templateCategory: "./src/templates/category.js",
         templateTag: "./src/templates/tag.js",
+        templateArticle: "./src/templates/blog-post.js",
         regex: "/^\/(blog)\//s"
       }
     }
