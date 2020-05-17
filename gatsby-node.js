@@ -1,5 +1,4 @@
 const path = require(`path`)
-const slugify = require(`slug`)
 const { createFilePath } = require(`gatsby-source-filesystem`)
 
 exports.createPages = async ({ graphql, actions }) => {
