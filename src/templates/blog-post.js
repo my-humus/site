@@ -40,14 +40,16 @@ export default class BlogPostTemplate extends React.Component {
         <main>
           <article className="blog-post">
             <header>
-              {image && (
-                <Img
-                  fixed={image}
-                  style={{ width: "100%" }}
-                  className="blog-post-image"
-                />
-              )}
-              <Hero title={post.frontmatter.title} subtitle={post.frontmatter.description} />
+              <div className="blog-post-title">
+                {image && (
+                  <Img
+                    fixed={image}
+                    style={{ width: "100%", height: "100vh" }}
+                    className="blog-post-image"
+                  />
+                )}
+                <Hero title={post.frontmatter.title} subtitle={post.frontmatter.description} />
+              </div>
               <div className="post-meta">
                 <Section>
                   <div className="container">

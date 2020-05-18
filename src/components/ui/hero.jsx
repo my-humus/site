@@ -1,6 +1,8 @@
 import React, { Component } from "react"
 import classNames from "classnames"
 
+import "../../scss/ui/_hero.scss"
+
 export default class Hero extends Component {
   render() {
     return (
@@ -11,7 +13,6 @@ export default class Hero extends Component {
               <h1
                 className={classNames({
                   title: true,
-                  "is-size-1": true,
                   "has-text-centered": this.props.centered
                 })}
               >
@@ -22,7 +23,6 @@ export default class Hero extends Component {
               <h2
                 className={classNames({
                   subtitle: true,
-                  "is-size-3": true,
                   "has-text-centered": this.props.centered
                 })}
               >
