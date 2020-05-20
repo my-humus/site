@@ -8,7 +8,7 @@
     "url": "https://github.com/my-humus/site/issues"
   },
   "dependencies": {
-    "@pittica/gatsby-plugin-blog": "^1.1.3",
+    "@pittica/gatsby-plugin-blog": "^1.1.4",
     "@pittica/gatsby-plugin-seo": "^1.1.0",
     "@pittica/scss-functions": "^1.1.0",
     "babel-plugin-styled-components": "^1.10.7",

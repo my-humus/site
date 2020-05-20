@@ -276,7 +276,8 @@ module.exports = {
         templateCategory: "./src/templates/category.js",
         templateTag: "./src/templates/tag.js",
         templateArticle: "./src/templates/blog-post.js",
-        regex: "/^\/(blog)\//s"
+        templateList: "./src/templates/blog-list.js",
+        slug: "blog"
       }
     },
     {

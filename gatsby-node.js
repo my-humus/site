@@ -1,45 +1,8 @@
 const path = require(`path`)
-const { createFilePath } = require(`gatsby-source-filesystem`)
 
 exports.createPages = async ({ graphql, actions }) => {
   const { createPage } = actions
-  const posts = await graphql(
-    `
-      {
-        allMarkdownRemark(
-          sort: { fields: [frontmatter___date], order: DESC }
-          limit: 2000
-          filter: {
-            fields: {
-              slug: {
-                regex: "/^\/(blog)\//s"
-              }
-            }
-          }
-        ) {
-          edges {
-            node {
-              fields {
-                slug
-                tags
-                categories
-              }
-              frontmatter {
-                title
-                tags
-                categories
-              }
-            }
-          }
-        }
-      }
-    `
-  )
-
-  if (posts.errors) {
-    throw posts.errors
-  }
-
+  const postsPerPage = 15
   const remarks = await graphql(
     `
       {
@@ -73,23 +36,6 @@ exports.createPages = async ({ graphql, actions }) => {
     throw remarks.errors
   }
 
-  const postsPerPage = 15
-  const numPages = Math.ceil(posts.data.allMarkdownRemark.edges.length / postsPerPage)
-
-  Array.from({ length: numPages }).forEach((_, i) => {
-    createPage({
-      path: i === 0 ? `/blog` : `/blog/${i + 1}`,
-      component: path.resolve("./src/templates/blog-list-template.js"),
-      context: {
-        limit: postsPerPage,
-        skip: i * postsPerPage,
-        pages: numPages,
-        current: i + 1,
-        slug: "blog"
-      }
-    })
-  })
-
   const pages = []
 
   remarks.data.allMarkdownRemark.edges.forEach((edge) => {
@@ -113,7 +59,7 @@ exports.createPages = async ({ graphql, actions }) => {
     Array.from({ length: total }).forEach((_, i) => {
       createPage({
         path: i === 0 ? `/${slug}` : `/${slug}/${i + 1}`,
-        component: path.resolve("./src/templates/pages-list-template.js"),
+        component: path.resolve(`./src/templates/page/${slug}-list.jsx`),
         context: {
           limit: postsPerPage,
           skip: i * postsPerPage,
@@ -128,7 +74,7 @@ exports.createPages = async ({ graphql, actions }) => {
     contents.forEach(page => {
       createPage({
         path: page.node.fields.slug,
-        component: path.resolve(`./src/templates/pages-post.js`),
+        component: path.resolve(`./src/templates/page/${slug}-post.jsx`),
         context: {
           slug: page.node.fields.slug
         }
