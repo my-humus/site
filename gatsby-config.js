@@ -8,18 +8,6 @@ module.exports = {
       culture: `IT`
     },
     siteUrl: `https://myhumus.com/`,
-    social: {
-      github: {
-        username: `my-humus`
-      },
-      facebook: {
-        page: `myhumus`,
-        app: ``
-      },
-      instagram: {
-        username: `myhumus`
-      }
-    },
     organization: {
       company: `Anna Zattoni`,
       url: `https://myhumus.com/`,
@@ -30,9 +18,6 @@ module.exports = {
       accent: `#2fac66`,
       background: `#ffffff`,
       theme: `#1d1d1d`
-    },
-    seo: {
-      image: `/myhumus.jpg`
     }
   },
   plugins: [
@@ -292,6 +277,23 @@ module.exports = {
         templateTag: "./src/templates/tag.js",
         templateArticle: "./src/templates/blog-post.js",
         regex: "/^\/(blog)\//s"
+      }
+    },
+    {
+      resolve: `@pittica/gatsby-plugin-seo`,
+      options: {
+        image: `/myhumus.jpg`,
+        socials: {
+          instagram: {
+            username: `myhumus`
+          },
+          github: {
+            username: `my-humus`
+          },
+          facebook: {
+            page: `myhumus`
+          }
+        }
       }
     }
   ]

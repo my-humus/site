@@ -1,7 +1,7 @@
 import React from "react"
 import MainNavigation from "../ui/navigation/main-navigation"
 import Footer from "../ui/footer"
-import SEO from "../seo/seo"
+import { SEO } from "@pittica/gatsby-plugin-seo"
 
 import "../../scss/layouts/_default-layout.scss"
 

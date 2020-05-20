@@ -2,7 +2,7 @@ import React from "react"
 import { Helmet } from "react-helmet"
 import MainNavigation from "../ui/navigation/main-navigation"
 import Footer from "../ui/footer"
-import SEO from "../seo/seo"
+import { SEO } from "@pittica/gatsby-plugin-seo"
 
 export default class IndexLayout extends React.Component {
   render() {

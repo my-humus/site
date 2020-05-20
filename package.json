@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@pittica/gatsby-plugin-blog": "^1.1.1",
+    "@pittica/gatsby-plugin-seo": "^1.0.1",
     "@pittica/scss-functions": "^1.1.0",
     "babel-plugin-styled-components": "^1.10.7",
     "classnames": "^2.2.6",
