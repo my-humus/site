@@ -137,20 +137,6 @@ exports.createPages = async ({ graphql, actions }) => {
   })
 }
 
-exports.onCreateNode = ({ node, actions, getNode }) => {
-  const { createNodeField } = actions
-
-  if (node.internal.type === `MarkdownRemark`) {
-    const value = createFilePath({ node, getNode })
-
-    createNodeField({
-      name: `slug`,
-      node,
-      value
-    })
-  }
-}
-
 exports.onCreateWebpackConfig = ({ stage, actions, getConfig }) => {
   if (stage === "build-javascript") {
     const config = getConfig()
